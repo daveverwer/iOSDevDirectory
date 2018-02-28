@@ -761,6 +761,13 @@
         "twitter_url": "https://twitter.com/kharrison"
       },
       {
+        "title": "Virtual Sanity",
+        "author": "John Brayton",
+        "site_url": "https://www.virtualsanity.com/",
+        "feed_url": "https://www.virtualsanity.com/feed/",
+        "twitter_url": "https://twitter.com/johnbrayton"
+      },
+      {
         "title": "We ❤ Swift",
         "author": "Andrei Puni, Catalin Perticas and Cazoni Robert",
         "site_url": "https://www.weheartswift.com",
