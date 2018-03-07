@@ -471,6 +471,12 @@
         "twitter_url": "https://twitter.com/lewismakesapps"
       },
       {
+        "title": "Lickability Blog",
+        "site_url": "https://blog.lickability.com/",
+        "feed_url": "https://blog.lickability.com/feed",
+        "twitter_url": "https://twitter.com/lickability"
+      },
+      {
         "title": "Little Bites of Cocoa",
         "author": "Jake Marsh",
         "site_url": "https://littlebitesofcocoa.com",
