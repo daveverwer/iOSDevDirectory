@@ -875,6 +875,13 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
+      },
+      {
+        "title": "Wayne Bishop's Blog",
+        "author": "Wayne Bishop",
+        "site_url": "https://extras.waynewbishop.com/swift",
+        "feed_url": "https://extras.waynewbishop.com/swift?format=rss",
+        "twitter_url": "https://twitter.com/waynewbishop"
       }
     ]
   },
