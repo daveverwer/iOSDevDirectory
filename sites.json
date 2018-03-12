@@ -1,7 +1,8 @@
 [
   {
     "title": "iOS Development",
-    "slug": "development",
+    "slug": "ios-development",
+    "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
     "sites": [
       {
         "title": "Aaron Vegh's Blog",
@@ -887,7 +888,8 @@
   },
   {
     "title": "Official Apple Blogs",
-    "slug": "apple",
+    "slug": "official",
+    "description": "All of the iOS development related blogs from our dear friends at the small fruit company in Cupertino.",
     "sites": [
       {
         "title": "Apple Developer News",
@@ -908,7 +910,8 @@
   },
   {
     "title": "iOS Development Company Blogs",
-    "slug": "ios-development-companies",
+    "slug": "ios-companies",
+    "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you'll find it!",
     "sites": [
       {
         "title": "App Launch Map",
@@ -1078,6 +1081,7 @@
   {
     "title": "iOS Design",
     "slug": "ios-design",
+    "description": "Anything related to iOS design.",
     "sites": [
       {
         "title": "Bjango Articles",
@@ -1159,8 +1163,9 @@
     ]
   },
   {
-    "title": "Abandoned or out of date",
-    "slug": "abandoned",
+    "title": "Inactive blogs",
+    "slug": "inactive",
+    "description": "If a site is related to iOS development, design, or anything related, but hasn't been updated in more than a year it'll be moved here.",
     "sites": [
       {
         "title": "Airspeed Velocity",
