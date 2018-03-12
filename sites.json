@@ -1,5 +1,27 @@
 [
   {
+    "title": "Official Apple Blogs",
+    "slug": "official",
+    "description": "All of the iOS development related blogs from our dear friends at the small fruit company in Cupertino.",
+    "sites": [
+      {
+        "title": "Apple Developer News",
+        "site_url": "https://developer.apple.com/news/",
+        "feed_url": "https://developer.apple.com/news/rss/news.rss"
+      },
+      {
+        "title": "Apple Machine Learning Journal",
+        "site_url": "https://machinelearning.apple.com/",
+        "feed_url": "https://machinelearning.apple.com/feed.xml"
+      },
+      {
+        "title": "Official Swift Blog",
+        "site_url": "https://developer.apple.com/swift/blog/",
+        "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+      }
+    ]
+  },
+  {
     "title": "iOS Development Blogs",
     "slug": "ios-development",
     "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
@@ -887,24 +909,86 @@
     ]
   },
   {
-    "title": "Official Apple Blogs",
-    "slug": "official",
-    "description": "All of the iOS development related blogs from our dear friends at the small fruit company in Cupertino.",
+    "title": "iOS Design Blogs",
+    "slug": "ios-design",
+    "description": "Anything related to iOS design.",
     "sites": [
       {
-        "title": "Apple Developer News",
-        "site_url": "https://developer.apple.com/news/",
-        "feed_url": "https://developer.apple.com/news/rss/news.rss"
+        "title": "Bjango Articles",
+        "author": "Marc Edwards",
+        "site_url": "http://bjango.com/",
+        "feed_url": "http://bjango.com/rss/articles.xml",
+        "twitter_url": "https://twitter.com/marcedwards"
       },
       {
-        "title": "Apple Machine Learning Journal",
-        "site_url": "https://machinelearning.apple.com/",
-        "feed_url": "https://machinelearning.apple.com/feed.xml"
+        "title": "Eli Schiff's Blog",
+        "author": "Eli Schiff",
+        "site_url": "http://www.elischiff.com/",
+        "feed_url": "http://www.elischiff.com/blog?format=RSS",
+        "twitter_url": "https://twitter.com/eli_schiff"
       },
       {
-        "title": "Official Swift Blog",
-        "site_url": "https://developer.apple.com/swift/blog/",
-        "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+        "title": "Louie Abreu's Blog",
+        "author": "Louie Abreu",
+        "site_url": "https://lmjabreu.com/posts/",
+        "feed_url": "https://lmjabreu.com/feed.xml",
+        "twitter_url": "https://twitter.com/lmjabreu"
+      },
+      {
+        "title": "Luke Wroblewski's Blog",
+        "author": "Luke Wroblewski",
+        "site_url": "http://www.lukew.com",
+        "feed_url": "http://feeds.feedburner.com/FunctioningForm",
+        "twitter_url": "https://twitter.com/lukew"
+      },
+      {
+        "title": "Mathew Sanders' Blog",
+        "author": "Mathew Sanders",
+        "site_url": "http://mathewsanders.com",
+        "feed_url": "http://mathewsanders.com/feed.xml",
+        "twitter_url": "https://twitter.com/permakittens"
+      },
+      {
+        "title": "Max Rudberg's Blog",
+        "author": "Max Rudberg",
+        "site_url": "http://blog.maxrudberg.com/",
+        "feed_url": "http://blog.maxrudberg.com/rss",
+        "twitter_url": "https://twitter.com/maxrudberg"
+      },
+      {
+        "title": "Nathan Gitter on Medium",
+        "author": "Nathan Gitter",
+        "site_url": "https://medium.com/@nathangitter",
+        "feed_url": "https://medium.com/feed/@nathangitter",
+        "twitter_url": "https://twitter.com/nathangitter"
+      },
+      {
+        "title": "Nick Babich's Blog",
+        "author": "Nick Babich",
+        "site_url": "http://babich.biz/",
+        "feed_url": "http://babich.biz/rss/",
+        "twitter_url": "https://twitter.com/101babich"
+      },
+      {
+        "title": "Scott Hurff's Blog",
+        "author": "Scott Hurff",
+        "site_url": "http://scotthurff.com",
+        "feed_url": "http://scotthurff.com/feeds/rss",
+        "twitter_url": "https://twitter.com/scotthurff"
+      },
+      {
+        "title": "Sebastiaan de With's Blog",
+        "author": "Sebastiaan de With",
+        "site_url": "http://dewith.com",
+        "feed_url": "http://dewith.com/feed/",
+        "twitter_url": "https://twitter.com/sdw"
+      },
+      {
+        "title": "User Onboarding",
+        "author": "Samuel Hulick",
+        "site_url": "http://www.useronboard.com/",
+        "feed_url": "http://www.useronboard.com/rss/",
+        "twitter_url": "https://twitter.com/samuelhulick"
       }
     ]
   },
@@ -1075,90 +1159,6 @@
         "site_url": "http://leaks.wanari.com",
         "feed_url": "http://leaks.wanari.com/tag/ios/feed/",
         "twitter_url": "https://twitter.com/teamwanari"
-      }
-    ]
-  },
-  {
-    "title": "iOS Design Blogs",
-    "slug": "ios-design",
-    "description": "Anything related to iOS design.",
-    "sites": [
-      {
-        "title": "Bjango Articles",
-        "author": "Marc Edwards",
-        "site_url": "http://bjango.com/",
-        "feed_url": "http://bjango.com/rss/articles.xml",
-        "twitter_url": "https://twitter.com/marcedwards"
-      },
-      {
-        "title": "Eli Schiff's Blog",
-        "author": "Eli Schiff",
-        "site_url": "http://www.elischiff.com/",
-        "feed_url": "http://www.elischiff.com/blog?format=RSS",
-        "twitter_url": "https://twitter.com/eli_schiff"
-      },
-      {
-        "title": "Louie Abreu's Blog",
-        "author": "Louie Abreu",
-        "site_url": "https://lmjabreu.com/posts/",
-        "feed_url": "https://lmjabreu.com/feed.xml",
-        "twitter_url": "https://twitter.com/lmjabreu"
-      },
-      {
-        "title": "Luke Wroblewski's Blog",
-        "author": "Luke Wroblewski",
-        "site_url": "http://www.lukew.com",
-        "feed_url": "http://feeds.feedburner.com/FunctioningForm",
-        "twitter_url": "https://twitter.com/lukew"
-      },
-      {
-        "title": "Mathew Sanders' Blog",
-        "author": "Mathew Sanders",
-        "site_url": "http://mathewsanders.com",
-        "feed_url": "http://mathewsanders.com/feed.xml",
-        "twitter_url": "https://twitter.com/permakittens"
-      },
-      {
-        "title": "Max Rudberg's Blog",
-        "author": "Max Rudberg",
-        "site_url": "http://blog.maxrudberg.com/",
-        "feed_url": "http://blog.maxrudberg.com/rss",
-        "twitter_url": "https://twitter.com/maxrudberg"
-      },
-      {
-        "title": "Nathan Gitter on Medium",
-        "author": "Nathan Gitter",
-        "site_url": "https://medium.com/@nathangitter",
-        "feed_url": "https://medium.com/feed/@nathangitter",
-        "twitter_url": "https://twitter.com/nathangitter"
-      },
-      {
-        "title": "Nick Babich's Blog",
-        "author": "Nick Babich",
-        "site_url": "http://babich.biz/",
-        "feed_url": "http://babich.biz/rss/",
-        "twitter_url": "https://twitter.com/101babich"
-      },
-      {
-        "title": "Scott Hurff's Blog",
-        "author": "Scott Hurff",
-        "site_url": "http://scotthurff.com",
-        "feed_url": "http://scotthurff.com/feeds/rss",
-        "twitter_url": "https://twitter.com/scotthurff"
-      },
-      {
-        "title": "Sebastiaan de With's Blog",
-        "author": "Sebastiaan de With",
-        "site_url": "http://dewith.com",
-        "feed_url": "http://dewith.com/feed/",
-        "twitter_url": "https://twitter.com/sdw"
-      },
-      {
-        "title": "User Onboarding",
-        "author": "Samuel Hulick",
-        "site_url": "http://www.useronboard.com/",
-        "feed_url": "http://www.useronboard.com/rss/",
-        "twitter_url": "https://twitter.com/samuelhulick"
       }
     ]
   },
