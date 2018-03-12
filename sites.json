@@ -1,6 +1,6 @@
 [
   {
-    "title": "iOS Development",
+    "title": "iOS Development Blogs",
     "slug": "ios-development",
     "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
     "sites": [
@@ -1079,7 +1079,7 @@
     ]
   },
   {
-    "title": "iOS Design",
+    "title": "iOS Design Blogs",
     "slug": "ios-design",
     "description": "Anything related to iOS design.",
     "sites": [
@@ -1163,7 +1163,7 @@
     ]
   },
   {
-    "title": "Inactive blogs",
+    "title": "Inactive Blogs",
     "slug": "inactive",
     "description": "If a site is related to iOS development, design, or anything related, but hasn't been updated in more than a year it'll be moved here.",
     "sites": [
