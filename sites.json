@@ -5,17 +5,20 @@
     "description": "All of the iOS development related blogs from our dear friends at the small fruit company in Cupertino.",
     "sites": [
       {
-        "title": "Apple Developer News",
+        "title": "Developer News",
+        "author": "Apple",
         "site_url": "https://developer.apple.com/news/",
         "feed_url": "https://developer.apple.com/news/rss/news.rss"
       },
       {
-        "title": "Apple Machine Learning Journal",
+        "title": "Machine Learning Journal",
+        "author": "Apple",
         "site_url": "https://machinelearning.apple.com/",
         "feed_url": "https://machinelearning.apple.com/feed.xml"
       },
       {
         "title": "Official Swift Blog",
+        "author": "Apple",
         "site_url": "https://developer.apple.com/swift/blog/",
         "feed_url": "https://developer.apple.com/swift/blog/news.rss"
       }
@@ -557,6 +560,7 @@
       },
       {
         "title": "Maniac Dev",
+        "author": "Johann Dowa",
         "site_url": "https://maniacdev.com",
         "feed_url": "http://feeds.feedburner.com/maniacdev",
         "twitter_url": "https://twitter.com/maniacdev"
@@ -667,6 +671,7 @@
       },
       {
         "title": "Pragmatic Swift",
+        "author": "Swiss Mobile Developers Association",
         "site_url": "http://pragmaticswift.com/",
         "feed_url": "http://pragmaticswift.com/feed.xml",
         "twitter_url": "https://twitter.com/pragmaswift"
@@ -1006,30 +1011,35 @@
       },
       {
         "title": "Big Nerd Ranch",
+        "author": "Big Nerd Ranch Team",
         "site_url": "https://www.bignerdranch.com/blog/categories/ios/",
         "feed_url": "https://www.bignerdranch.com/feed.xml",
         "twitter_url": "https://twitter.com/bignerdranch"
       },
       {
         "title": "Black Pixel",
+        "author": "Black Pixel Team",
         "site_url": "https://blackpixel.com/writing/",
         "feed_url": "https://blackpixel.com/writing/atom.xml",
         "twitter_url": "https://twitter.com/blackpixel"
       },
       {
         "title": "Bohemian Coders",
+        "author": "Bohemian Coders Team",
         "site_url": "http://bohemiancoders.tumblr.com/",
         "feed_url": "http://bohemiancoders.tumblr.com/rss",
         "twitter_url": "https://twitter.com/sketchapp"
       },
       {
         "title": "BPXL Craft",
+        "author": "Black Pixel Team",
         "site_url": "https://medium.com/bpxl-craft",
         "feed_url": "https://medium.com/feed/bpxl-craft",
         "twitter_url": "https://twitter.com/blackpixel"
       },
       {
         "title": "Flawless App Stories",
+        "author": "Lisa Dziuba and friends",
         "site_url": "https://medium.com/flawless-app-stories",
         "feed_url": "https://medium.com/feed/flawless-app-stories",
         "twitter_url": "https://twitter.com/flawlessappio"
@@ -1043,119 +1053,139 @@
       },
       {
         "title": "Inside PSPDFKit",
+        "author": "PSPDFKit Team",
         "site_url": "https://pspdfkit.com/blog",
         "feed_url": "https://pspdfkit.com/blog/feed.atom",
         "twitter_url": "https://twitter.com/pspdfkit"
       },
       {
         "title": "Lickability Blog",
+        "author": "Lickability Team",
         "site_url": "https://blog.lickability.com/",
         "feed_url": "https://blog.lickability.com/feed",
         "twitter_url": "https://twitter.com/lickability"
       },
       {
         "title": "MartianCraft: The Syndicate",
+        "author": "MartianCraft Team",
         "site_url": "http://martiancraft.com/blog.html",
         "feed_url": "http://martiancraft.com/feed.xml",
         "twitter_url": "https://twitter.com/martiancraft"
       },
       {
         "title": "Netguru iOS Codestories",
+        "author": "Netguru Team",
         "site_url": "https://www.netguru.co/codestories/topic/ios",
         "feed_url": "https://www.netguru.co/codestories/topic/ios/rss.xml",
         "twitter_url": "https://twitter.com/netguru"
       },
       {
         "title": "Prolific Interactive Ideas",
+        "author": "Prolific Interactive Team",
         "site_url": "https://www.prolificinteractive.com/ideas/",
         "feed_url": "https://www.prolificinteractive.com/feed/podcast",
         "twitter_url": "https://twitter.com/weareprolific"
       },
       {
         "title": "Quicktype Blog",
+        "author": "Quicktype Team",
         "site_url": "https://blog.quicktype.io/",
         "feed_url": "https://blog.quicktype.io/rss/",
         "twitter_url": "https://twitter.com/quicktypeio"
       },
       {
         "title": "Raizlabs Developer Blog",
+        "author": "Raizlabs Team",
         "site_url": "https://www.raizlabs.com/dev",
         "feed_url": "https://www.raizlabs.com/dev/feed/",
         "twitter_url": "https://twitter.com/raizlabs"
       },
       {
         "title": "Realm Academy Videos",
+        "author": "Realm Team",
         "site_url": "https://academy.realm.io/",
         "feed_url": "https://academy.realm.io/feed.xml",
         "twitter_url": "https://twitter.com/realm"
       },
       {
         "title": "Realm News",
+        "author": "Realm Team",
         "site_url": "https://realm.io/blog/",
         "feed_url": "http://feeds.feedburner.com/realmio",
         "twitter_url": "https://twitter.com/realm"
       },
       {
         "title": "Reveal Blog",
+        "author": "Reveal Team",
         "site_url": "https://revealapp.com",
         "feed_url": "https://revealapp.com/atom.xml",
         "twitter_url": "https://twitter.com/reveal_app"
       },
       {
         "title": "SHAPE Code Blog",
+        "author": "SHAPE Team",
         "site_url": "http://codeblog.shape.dk/",
         "feed_url": "http://codeblog.shape.dk/atom.xml",
         "twitter_url": "https://twitter.com/shapedk"
       },
       {
         "title": "Soundcloud Backstage Blog",
+        "author": "Soundcloud Team",
         "site_url": "https://developer.soundcloud.com/blog/",
         "feed_url": "https://developer.soundcloud.com/blog.rss"
       },
       {
         "title": "sudo ISL",
+        "author": "ISL Engineering Team",
         "site_url": "https://sudo.isl.co/",
         "feed_url": "https://sudo.isl.co/atom.xml",
         "twitter_url": "https://twitter.com/istrategylabs"
       },
       {
         "title": "Super Easy Apps",
+        "author": "Super Easy Apps Team",
         "site_url": "http://blog.supereasyapps.com/",
         "feed_url": "http://blog.supereasyapps.com/rss/",
         "twitter_url": "https://twitter.com/supereasyapps"
       },
       {
         "title": "Supertop Blog",
+        "author": "Pádraig Ó Cinnéide and Oisín Prendiville",
         "site_url": "http://blog.supertop.co/",
         "feed_url": "http://blog.supertop.co/rss",
         "twitter_url": "https://twitter.com/supertopsquid"
       },
       {
         "title": "theScore Tech Blog",
+        "author": "theScore Team",
         "site_url": "http://techblog.thescore.com",
         "feed_url": "http://techblog.thescore.com/feed.xml",
         "twitter_url": "https://twitter.com/theScore"
       },
       {
         "title": "thoughtbot: iOS posts",
+        "author": "thoughtbot Team",
         "site_url": "https://robots.thoughtbot.com/tags/ios",
         "feed_url": "https://robots.thoughtbot.com/ios/feed",
         "twitter_url": "https://twitter.com/thoughtbot"
       },
       {
         "title": "thoughtbot: Swift posts",
+        "author": "thoughtbot Team",
         "site_url": "https://robots.thoughtbot.com/tags/swift",
         "feed_url": "https://robots.thoughtbot.com/swift/feed",
         "twitter_url": "https://twitter.com/thoughtbot"
       },
       {
         "title": "Two Ring Software",
+        "author": "Two Ring Software Team",
         "site_url": "http://tworingsoft.com/blog/",
         "feed_url": "http://tworingsoft.com/feed.xml",
         "twitter_url": "https://twitter.com/tworingsoft"
       },
       {
         "title": "Wanari Leaks: iOS posts",
+        "author": "Wanari Team",
         "site_url": "http://leaks.wanari.com",
         "feed_url": "http://leaks.wanari.com/tag/ios/feed/",
         "twitter_url": "https://twitter.com/teamwanari"
@@ -1295,6 +1325,7 @@
       },
       {
         "title": "NSHint",
+        "author": "NSHint Team",
         "site_url": "http://nshint.io/",
         "feed_url": "http://nshint.io/atom.xml",
         "twitter_url": "https://twitter.com/nshintio"
