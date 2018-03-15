@@ -580,6 +580,13 @@
         "twitter_url": "https://twitter.com/manton2"
       },
       {
+        "title": "Marc Palmer's Blog",
+        "author": "Marc Palmer",
+        "site_url": "https://marcpalmer.net/category/ios/",
+        "feed_url": "https://marcpalmer.net/category/ios/feed/",
+        "twitter_url": "https://twitter.com/marcpalmerdev"
+      },
+      {
         "title": "Marcin Krzyżanowski's Blog",
         "author": "Marcin Krzyżanowski",
         "site_url": "http://blog.krzyzanowskim.com/",
@@ -592,13 +599,6 @@
         "site_url": "https://marco.org/",
         "feed_url": "https://marco.org/rss",
         "twitter_url": "https://twitter.com/marcoarment"
-      },
-      {
-        "title": "Marc Palmer's Blog",
-        "author": "Marc Palmer",
-        "site_url": "https://marcpalmer.net/category/ios/",
-        "feed_url": "https://marcpalmer.net/category/ios/feed/",
-        "twitter_url": "https://twitter.com/marcpalmerdev"
       },
       {
         "title": "Marisi Brothers",
