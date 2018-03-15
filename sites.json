@@ -1088,6 +1088,7 @@
       },
       {
         "title": "Montana Floss Co. Blog",
+        "author": "Montana Floss Team",
         "site_url": "https://www.montanafloss.co/blog/?category=Technical",
         "feed_url": "https://www.montanafloss.co/blog/?format=RSS&category=Technical",
         "twitter_url": "https://twitter.com/montanafloss"
