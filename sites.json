@@ -573,6 +573,13 @@
         "twitter_url": "https://twitter.com/maniacdev"
       },
       {
+        "title": "Manton Reece's Blog",
+        "author": "Manton Reece",
+        "site_url": "https://manton.org/",
+        "feed_url": "https://manton.org/feed/",
+        "twitter_url": "https://twitter.com/manton2"
+      },
+      {
         "title": "Marcin Krzyżanowski's Blog",
         "author": "Marcin Krzyżanowski",
         "site_url": "http://blog.krzyzanowskim.com/",
