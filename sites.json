@@ -371,6 +371,13 @@
         "twitter_url": "https://twitter.com/krausefx"
       },
       {
+        "title": "Figure Ink",
+        "author": "Joshua Emmons",
+        "site_url": "http://www.figure.ink/",
+        "feed_url": "http://www.figure.ink/blog?format=RSS",
+        "twitter_url": "https://twitter.com/jemmons"
+      },
+      {
         "title": "finestructure",
         "author": "Sven A. Schmidt",
         "site_url": "https://finestructure.co/",
