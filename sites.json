@@ -580,6 +580,13 @@
         "twitter_url": "https://twitter.com/marcoarment"
       },
       {
+        "title": "Marc Palmer's Blog",
+        "author": "Marc Palmer",
+        "site_url": "https://marcpalmer.net/category/ios/",
+        "feed_url": "https://marcpalmer.net/category/ios/feed/",
+        "twitter_url": "https://twitter.com/marcpalmerdev"
+      },
+      {
         "title": "Marisi Brothers",
         "author": "Luciano Marisi and Nahuel Marisi",
         "site_url": "http://www.marisibrothers.com/",
@@ -1078,6 +1085,12 @@
         "site_url": "http://martiancraft.com/blog.html",
         "feed_url": "http://martiancraft.com/feed.xml",
         "twitter_url": "https://twitter.com/martiancraft"
+      },
+      {
+        "title": "Montana Floss Co. Blog",
+        "site_url": "https://www.montanafloss.co/blog/?category=Technical",
+        "feed_url": "https://www.montanafloss.co/blog/?format=RSS&category=Technical",
+        "twitter_url": "https://twitter.com/montanafloss"
       },
       {
         "title": "Netguru iOS Codestories",
