@@ -118,6 +118,7 @@
         "site_url": "https://ashfurrow.com/",
         "feed_url": "https://feed.ashfurrow.com/feed.xml",
         "twitter_url": "https://twitter.com/ashfurrow"
+      },
       {
         "title": "AusiOS",
         "author": "Moe Burney",
@@ -1279,6 +1280,20 @@
         "site_url": "http://leaks.wanari.com",
         "feed_url": "http://leaks.wanari.com/tag/ios/feed/",
         "twitter_url": "https://twitter.com/teamwanari"
+      }
+    ]
+  },
+  {
+    "title": "Turkish Language Blogs",
+    "slug": "turkish",
+    "description": "iOS development related blogs in the Turkish language. 🇹🇷",
+    "sites": [
+      {
+        "title": "Batuhan Saka on Medium",
+        "author": "Batuhan Saka",
+        "site_url": "https://medium.com/@strawb3rryx7",
+        "feed_url": "https://medium.com/feed/@strawb3rryx7",
+        "twitter_url": "https://twitter.com/strawb3rryx7"
       }
     ]
   },
