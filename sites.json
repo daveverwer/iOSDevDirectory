@@ -1094,6 +1094,13 @@
         "twitter_url": "https://twitter.com/pspdfkit"
       },
       {
+        "title": "Kitefaser's iOS Development Blog",
+        "author": "Kitefaster",
+        "site_url": "https://kitefaster.com/category/ios-development/",
+        "feed_url": "https://kitefaster.com/category/ios-development/feed/",
+        "twitter_url": "https://twitter.com/kitefasterapps"
+      },
+      {
         "title": "Lickability Blog",
         "author": "Lickability Team",
         "site_url": "https://blog.lickability.com/",
