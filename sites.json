@@ -1385,6 +1385,13 @@
         "site_url": "https://thatthinginswift.com/",
         "feed_url": "https://thatthinginswift.com/index.xml",
         "twitter_url": "https://twitter.com/nickoneill"
+      },
+      {
+        "title": "Paulo Andrade's Blog",
+        "author": "Paulo Andrade",
+        "site_url": "https://pfandrade.me/tags/ios/",
+        "feed_url": "https://pfandrade.me/tags/ios/index.xml",
+        "twitter_url": "https://twitter.com/pfandrade_"
       }
     ]
   }
