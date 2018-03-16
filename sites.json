@@ -767,6 +767,13 @@
         "feed_url": "http://sealedabstract.com/feed/"
       },
       {
+        "title": "One Fifty Two",
+        "author": "Shaps Benkau",
+        "site_url": "https://152percent.com/blog",
+        "feed_url": "https://152percent.com/blog/rss.xml",
+        "twitter_url": "https://twitter.com/shaps"
+      },
+      {
         "title": "SICPERS",
         "author": "Graham Lee",
         "site_url": "http://www.sicpers.info",
