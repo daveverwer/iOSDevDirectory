@@ -30,6 +30,13 @@
     "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
     "sites": [
       {
+        "title": "Matteo Manferdini's Blog",
+        "author": "Matteo Manferdini",
+        "site_url": "https://matteomanferdini.com/blog/",
+        "feed_url": "https://matteomanferdini.com/feed/",
+        "twitter_url": "https://twitter.com/MatManferdini"
+      },
+      {
         "title": "Aaron Vegh's Blog",
         "author": "Aaron Vegh",
         "site_url": "http://aaron.vegh.ca/",
