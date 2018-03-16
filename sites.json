@@ -726,6 +726,13 @@
         "twitter_url": "https://twitter.com/paulio87"
       },
       {
+        "title": "Paulo Andrade's Blog",
+        "author": "Paulo Andrade",
+        "site_url": "https://pfandrade.me/tags/ios/",
+        "feed_url": "https://pfandrade.me/tags/ios/index.xml",
+        "twitter_url": "https://twitter.com/pfandrade_"
+      },
+      {
         "title": "Pedro Piñera's Blog",
         "author": "Pedro Piñera",
         "site_url": "http://ppinera.es",
