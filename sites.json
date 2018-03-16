@@ -940,6 +940,13 @@
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
       }
+      {
+        "title": "Machine Think",
+        "author": "Matthijs Hollemans",
+        "site_url": "http://machinethink.net/blog/",
+        "feed_url": "http://machinethink.net/blog/index.xml",
+        "twitter_url": "https://twitter.com/mhollemans"
+      },
     ]
   },
   {
