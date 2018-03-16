@@ -614,6 +614,13 @@
         "feed_url": "http://www.marisibrothers.com/feeds/posts/default"
       },
       {
+        "title": "Martin Mitrevski's Blog",
+        "author": "Martin Mitrevski",
+        "site_url": "https://martinmitrevski.com/",
+        "feed_url": "https://martinmitrevski.com/feed/",
+        "twitter_url": "https://twitter.com/mitrevski"
+      },
+      {
         "title": "Michael Tsai's Blog",
         "author": "Michael Tsai",
         "site_url": "https://mjtsai.com/blog",
