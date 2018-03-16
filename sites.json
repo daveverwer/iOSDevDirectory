@@ -113,6 +113,12 @@
         "feed_url": "http://www.akpdev.com/feed.xml"
       },
       {
+        "title": "Ash Furrow's Blog",
+        "author": "Ash Furrow",
+        "site_url": "https://ashfurrow.com/",
+        "feed_url": "https://feed.ashfurrow.com/feed.xml",
+        "twitter_url": "https://twitter.com/ashfurrow"
+      {
         "title": "AusiOS",
         "author": "Moe Burney",
         "site_url": "http://ausios.com",
