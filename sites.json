@@ -726,6 +726,13 @@
         "twitter_url": "https://twitter.com/paulio87"
       },
       {
+        "title": "Paulo Andrade's Blog",
+        "author": "Paulo Andrade",
+        "site_url": "https://pfandrade.me/tags/ios/",
+        "feed_url": "https://pfandrade.me/tags/ios/index.xml",
+        "twitter_url": "https://twitter.com/pfandrade_"
+      },
+      {
         "title": "Pedro Piñera's Blog",
         "author": "Pedro Piñera",
         "site_url": "http://ppinera.es",
@@ -759,6 +766,13 @@
         "site_url": "http://rentzsch.tumblr.com/",
         "feed_url": "http://rentzsch.tumblr.com/rss",
         "twitter_url": "https://twitter.com/rentzsch"
+      },
+      {
+        "title": "Roadfire Software",
+        "author": "Josh Brown",
+        "site_url": "https://roadfiresoftware.com/blog/",
+        "feed_url": "https://roadfiresoftware.com/feed/",
+        "twitter_url": "https://twitter.com/jtbrown"
       },
       {
         "title": "Roland Leth's Blog",
@@ -800,6 +814,13 @@
         "author": "Drew Crawford",
         "site_url": "http://sealedabstract.com",
         "feed_url": "http://sealedabstract.com/feed/"
+      },
+      {
+        "title": "One Fifty Two",
+        "author": "Shaps Benkau",
+        "site_url": "https://152percent.com/blog",
+        "feed_url": "https://152percent.com/blog/rss.xml",
+        "twitter_url": "https://twitter.com/shaps"
       },
       {
         "title": "SICPERS",
@@ -988,6 +1009,13 @@
         "site_url": "http://machinethink.net/blog/",
         "feed_url": "http://machinethink.net/blog/index.xml",
         "twitter_url": "https://twitter.com/mhollemans"
+      },
+      {
+        "title": "William Boles's Blog",
+        "author": "William Boles",
+        "site_url": "https://williamboles.me/",
+        "feed_url": "https://williamboles.me/rss/",
+        "twitter_url": "https://twitter.com/wibosco"
       }
     ]
   },
