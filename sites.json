@@ -981,6 +981,13 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
+      },
+      {
+        "title": "William Boles's Blog",
+        "author": "William Boles",
+        "site_url": "https://williamboles.me/",
+        "feed_url": "https://williamboles.me/rss/",
+        "twitter_url": "https://twitter.com/wibosco"
       }
     ]
   },
