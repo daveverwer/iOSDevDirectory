@@ -939,6 +939,13 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
+      },
+      {
+        "title": "Roadfire Software",
+        "author": "Josh Brown",
+        "site_url": "https://roadfiresoftware.com/blog/",
+        "feed_url": "https://roadfiresoftware.com/feed/",
+        "twitter_url": "https://twitter.com/jtbrown"
       }
     ]
   },
