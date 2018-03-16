@@ -72,6 +72,13 @@
         "twitter_url": "https://twitter.com/andrewcbancroft"
       },
       {
+        "title": "Andy Obusek's Blog",
+        "author": "Andy Obusek",
+        "site_url": "http://www.cleanswifter.com",
+        "feed_url": "http://cleanswifter.com/feed/",
+        "twitter_url": "https://twitter.com/obusek"
+      },
+      {
         "title": "Appventure",
         "author": "Benedikt Terhechte",
         "site_url": "http://appventure.me",
