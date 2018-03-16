@@ -44,6 +44,13 @@
         "twitter_url": "https://twitter.com/albertodebo"
       },
       {
+        "title": "Aleksander Popko's Blog",
+        "author": "Aleksander Popko",
+        "site_url": "https://aleksanderpopko.tech/blog/",
+        "feed_url": "https://aleksanderpopko.tech/feed.xml",
+        "twitter_url": "https://twitter.com/aleksanderpopko"
+      },
+      {
         "title": "Alexander Grebenyuk's Blog",
         "author": "Alexander Grebenyuk",
         "site_url": "http://kean.github.io/",
