@@ -30,13 +30,6 @@
     "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
     "sites": [
       {
-        "title": "Matteo Manferdini's Blog",
-        "author": "Matteo Manferdini",
-        "site_url": "https://matteomanferdini.com/blog/",
-        "feed_url": "https://matteomanferdini.com/feed/",
-        "twitter_url": "https://twitter.com/MatManferdini"
-      },
-      {
         "title": "Aaron Vegh's Blog",
         "author": "Aaron Vegh",
         "site_url": "http://aaron.vegh.ca/",
@@ -587,6 +580,13 @@
         "twitter_url": "https://twitter.com/ryanipete"
       },
       {
+        "title": "Machine Think",
+        "author": "Matthijs Hollemans",
+        "site_url": "http://machinethink.net/blog/",
+        "feed_url": "http://machinethink.net/blog/index.xml",
+        "twitter_url": "https://twitter.com/mhollemans"
+      },
+      {
         "title": "MacKuba",
         "author": "Kuba Suder",
         "site_url": "https://mackuba.eu",
@@ -622,18 +622,18 @@
         "twitter_url": "https://twitter.com/krzyzanowskim"
       },
       {
-        "title": "Marco.org",
-        "author": "Marco Arment",
-        "site_url": "https://marco.org/",
-        "feed_url": "https://marco.org/rss",
-        "twitter_url": "https://twitter.com/marcoarment"
-      },
-      {
         "title": "Marco Santa Dev",
         "author": "Marco Santarossa",
         "site_url": "https://marcosantadev.com/tag/ios/",
         "feed_url": "https://marcosantadev.com/rss",
         "twitter_url": "https://twitter.com/marcosantadev"
+      },
+      {
+        "title": "Marco.org",
+        "author": "Marco Arment",
+        "site_url": "https://marco.org/",
+        "feed_url": "https://marco.org/rss",
+        "twitter_url": "https://twitter.com/marcoarment"
       },
       {
         "title": "Marisi Brothers",
@@ -647,6 +647,13 @@
         "site_url": "https://martinmitrevski.com/",
         "feed_url": "https://martinmitrevski.com/feed/",
         "twitter_url": "https://twitter.com/mitrevski"
+      },
+      {
+        "title": "Matteo Manferdini's Blog",
+        "author": "Matteo Manferdini",
+        "site_url": "https://matteomanferdini.com/blog/",
+        "feed_url": "https://matteomanferdini.com/feed/",
+        "twitter_url": "https://twitter.com/MatManferdini"
       },
       {
         "title": "Michael Tsai's Blog",
@@ -703,6 +710,13 @@
         "site_url": "https://oleb.net/blog/",
         "feed_url": "http://oleb.net/blog/atom.xml",
         "twitter_url": "https://twitter.com/olebegemann"
+      },
+      {
+        "title": "One Fifty Two",
+        "author": "Shaps Benkau",
+        "site_url": "https://152percent.com/blog",
+        "feed_url": "https://152percent.com/blog/rss.xml",
+        "twitter_url": "https://twitter.com/shaps"
       },
       {
         "title": "Oops",
@@ -816,13 +830,6 @@
         "feed_url": "http://sealedabstract.com/feed/"
       },
       {
-        "title": "One Fifty Two",
-        "author": "Shaps Benkau",
-        "site_url": "https://152percent.com/blog",
-        "feed_url": "https://152percent.com/blog/rss.xml",
-        "twitter_url": "https://twitter.com/shaps"
-      },
-      {
         "title": "SICPERS",
         "author": "Graham Lee",
         "site_url": "http://www.sicpers.info",
@@ -893,18 +900,18 @@
         "twitter_url": "https://twitter.com/swiftingio"
       },
       {
-        "title": "The Always Right Institute",
-        "author": "Helge Heß",
-        "site_url": "https://www.alwaysrightinstitute.com/",
-        "feed_url": "https://www.alwaysrightinstitute.com/feed",
-        "twitter_url": "https://twitter.com/ar_institute"
-      },
-      {
         "title": "swiftyjimmy.com",
         "author": "Jussi Suojanen",
         "site_url": "http://swiftyjimmy.com",
         "feed_url": "http://swiftyjimmy.com/feed/",
         "twitter_url": "https://twitter.com/jussisuojanen"
+      },
+      {
+        "title": "The Always Right Institute",
+        "author": "Helge Heß",
+        "site_url": "https://www.alwaysrightinstitute.com/",
+        "feed_url": "https://www.alwaysrightinstitute.com/feed",
+        "twitter_url": "https://twitter.com/ar_institute"
       },
       {
         "title": "The Atomic Birdhouse",
@@ -997,6 +1004,13 @@
         "twitter_url": "https://twitter.com/apontious"
       },
       {
+        "title": "William Boles's Blog",
+        "author": "William Boles",
+        "site_url": "https://williamboles.me/",
+        "feed_url": "https://williamboles.me/rss/",
+        "twitter_url": "https://twitter.com/wibosco"
+      },
+      {
         "title": "Writing on Tablets",
         "author": "John Pollard",
         "site_url": "https://www.writingontablets.com",
@@ -1009,20 +1023,6 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
-      },
-      {
-        "title": "Machine Think",
-        "author": "Matthijs Hollemans",
-        "site_url": "http://machinethink.net/blog/",
-        "feed_url": "http://machinethink.net/blog/index.xml",
-        "twitter_url": "https://twitter.com/mhollemans"
-      },
-      {
-        "title": "William Boles's Blog",
-        "author": "William Boles",
-        "site_url": "https://williamboles.me/",
-        "feed_url": "https://williamboles.me/rss/",
-        "twitter_url": "https://twitter.com/wibosco"
       }
     ]
   },
@@ -1213,6 +1213,13 @@
         "twitter_url": "https://twitter.com/netguru"
       },
       {
+        "title": "POSSIBLE Mobile Blog",
+        "author": "POSSIBLE Mobile",
+        "site_url": "https://possiblemobile.com/tag/ios/",
+        "feed_url": "https://possiblemobile.com/tag/ios/feed/",
+        "twitter_url": "https://twitter.com/POSSIBLEmobile"
+      },
+      {
         "title": "Prolific Interactive Ideas",
         "author": "Prolific Interactive Team",
         "site_url": "https://www.prolificinteractive.com/ideas/",
@@ -1282,13 +1289,6 @@
         "twitter_url": "https://twitter.com/supereasyapps"
       },
       {
-        "title": "POSSIBLE Mobile Blog",
-        "author": "POSSIBLE Mobile",
-        "site_url": "https://possiblemobile.com/tag/ios/",
-        "feed_url": "https://possiblemobile.com/tag/ios/feed/",
-        "twitter_url": "https://twitter.com/POSSIBLEmobile"
-      },
-            {
         "title": "Supertop Blog",
         "author": "Pádraig Ó Cinnéide and Oisín Prendiville",
         "site_url": "http://blog.supertop.co/",
