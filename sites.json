@@ -1199,6 +1199,13 @@
         "twitter_url": "https://twitter.com/martiancraft"
       },
       {
+        "title": "Mobile Jazz Blog",
+        "author": "Mobile Jazz Team",
+        "site_url": "https://mobilejazz.com/blog/",
+        "feed_url": "https://mobilejazz.com/blog/feed/",
+        "twitter_url": "https://twitter.com/mobilejazzcom"
+      },
+      {
         "title": "Montana Floss Co. Blog",
         "author": "Montana Floss Team",
         "site_url": "https://www.montanafloss.co/blog/?category=Technical",
