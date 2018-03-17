@@ -1023,6 +1023,13 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
+      },
+      {
+        "title": "Rob Fahrni",
+        "author": "Rob Fahrni",
+        "site_url": "https://iam.fahrni.me/category/ios/",
+        "feed_url": "https://iam.fahrni.me/category/ios/feed",
+        "twitter_url": "https://twitter.com/fahrni"
       }
     ]
   },
