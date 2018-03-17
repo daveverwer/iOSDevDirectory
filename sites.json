@@ -754,6 +754,13 @@
         "twitter_url": "https://twitter.com/pepibumur"
       },
       {
+        "title": "pilgwon's blog",
+        "author": "pilgwon",
+        "site_url": "https://pilgwon.github.io/blog/",
+        "feed_url": "https://pilgwon.github.io/blog/feed.xml",
+        "twitter_url": "https://twitter.com/pilgwon"
+      },
+      {
         "title": "Pragmatic Swift",
         "author": "Swiss Mobile Developers Association",
         "site_url": "http://pragmaticswift.com/",
