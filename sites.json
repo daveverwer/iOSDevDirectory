@@ -761,6 +761,13 @@
         "twitter_url": "https://twitter.com/pragmaswift"
       },
       {
+        "title": "Quality Coding",
+        "author": "Jon Reid",
+        "site_url": "https://qualitycoding.org/",
+        "feed_url": "http://feeds.feedburner.com/qualitycoding",
+        "twitter_url": "https://twitter.com/qcoding"
+      },
+      {
         "title": "radex.io",
         "author": "Radek Pietruszewski",
         "site_url": "http://radex.io",
