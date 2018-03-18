@@ -1490,14 +1490,14 @@
     "sites": [
       {
         "title": "Core Intuition",
-        "author": "Daniel Jalkut, Manton Reece",
+        "author": "Daniel Jalkut and Manton Reece",
         "site_url": "https://coreint.org",
         "feed_url": "https://coreint.org/podcast.xml",
         "twitter_url": "https://twitter.com/coreint"
       },
       {
         "title": "Under the Radar",
-        "author": "Marco Arment, David Smith",
+        "author": "Marco Arment and David Smith",
         "site_url": "https://www.relay.fm/radar",
         "feed_url": "https://www.relay.fm/radar/feed"
       }
