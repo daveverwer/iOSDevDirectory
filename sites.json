@@ -677,6 +677,13 @@
         "twitter_url": "https://twitter.com/micheletitolo"
       },
       {
+        "title": "Miguel Quinones' Blog",
+        "author": "Miguel Quinones",
+        "site_url": "https://miqu.me",
+        "feed_url": "https://miqu.me/atom.xml",
+        "twitter_url": "https://twitter.com/miguelquinon"
+      },
+      {
         "title": "Mike Swanson's Blog",
         "author": "Mike Swanson",
         "site_url": "http://blog.mikeswanson.com/",
