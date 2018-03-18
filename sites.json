@@ -1297,6 +1297,11 @@
         "twitter_url": "https://twitter.com/reveal_app"
       },
       {
+        "title": "Roundwall Software",
+        "author": "Samuel Goodwin",
+        "site_url": "https://roundwallsoftware.com",
+        "feed_url": "https://roundwallsoftware.com/rss"
+      {
         "title": "SHAPE Code Blog",
         "author": "SHAPE Team",
         "site_url": "http://codeblog.shape.dk/",
