@@ -30,6 +30,13 @@
     "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
     "sites": [
       {
+        "title": "a-coding",
+        "author": "Alejandro Isaza",
+        "site_url": "https://a-coding.com",
+        "feed_url": "https://a-coding.com/feed",
+        "twitter_url": "https://twitter.com/aleph7"
+      },
+      {
         "title": "Aaron Vegh's Blog",
         "author": "Aaron Vegh",
         "site_url": "http://aaron.vegh.ca/",
@@ -789,6 +796,13 @@
         "twitter_url": "https://twitter.com/pragmaswift"
       },
       {
+        "title": "Quality Coding",
+        "author": "Jon Reid",
+        "site_url": "https://qualitycoding.org/",
+        "feed_url": "http://feeds.feedburner.com/qualitycoding",
+        "twitter_url": "https://twitter.com/qcoding"
+      },
+      {
         "title": "radex.io",
         "author": "Radek Pietruszewski",
         "site_url": "http://radex.io",
@@ -1169,6 +1183,20 @@
         "site_url": "http://www.useronboard.com/",
         "feed_url": "http://www.useronboard.com/rss/",
         "twitter_url": "https://twitter.com/samuelhulick"
+      }
+    ]
+  },
+  {
+    "title": "iOS Marketing Blogs",
+    "slug": "ios-marketing",
+    "description": "All of the iOS marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
+    "sites": [
+      {
+        "title": "Appbot",
+        "author": "Stuart Hall, Claire McGregor, Christie Hunter",
+        "site_url": "https://stories.appbot.co/",
+        "feed_url": "https://stories.appbot.co/feed",
+        "twitter_url": "https://twitter.com/appbotx"
       }
     ]
   },
