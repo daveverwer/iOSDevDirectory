@@ -1453,6 +1453,13 @@
         "site_url": "http://leaks.wanari.com",
         "feed_url": "http://leaks.wanari.com/tag/ios/feed/",
         "twitter_url": "https://twitter.com/teamwanari"
+      },
+      {
+        "title": "Codeido",
+        "author": "Paolo Musolino",
+        "site_url": "http://codeido.com",
+        "feed_url": "http://codeido.com/feed",
+        "twitter_url": "https://twitter.com/pmusolino"
       }
     ]
   },
