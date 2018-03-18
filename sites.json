@@ -475,6 +475,13 @@
         "feed_url": "http://ignorethecode.net/blog/rss/"
       },
       {
+        "title": "Igor Kulman's Blog",
+        "author": "Igor Kulman",
+        "site_url": "https://blog.kulman.sk",
+        "feed_url": "https://blog.kulman.sk/index.xml",
+        "twitter_url": "https://twitter.com/igorkulman"
+      },
+      {
         "title": "iJoshSmith",
         "author": "Josh Smith",
         "site_url": "https://ijoshsmith.com",
@@ -501,13 +508,6 @@
         "site_url": "http://inessential.com/",
         "feed_url": "http://inessential.com/xml/rss.xml",
         "twitter_url": "https://twitter.com/brentsimmons"
-      },
-      {
-        "title": "Igor Kulman's Blog",
-        "author": "Igor Kulman",
-        "site_url": "https://blog.kulman.sk",
-        "feed_url": "https://blog.kulman.sk/index.xml",
-        "twitter_url": "https://twitter.com/igorkulman"
       },
       {
         "title": "iOS Dev Tools",
@@ -845,6 +845,13 @@
         "twitter_url": "https://twitter.com/jtbrown"
       },
       {
+        "title": "Rob Fahrni",
+        "author": "Rob Fahrni",
+        "site_url": "https://iam.fahrni.me/category/ios/",
+        "feed_url": "https://iam.fahrni.me/category/ios/feed",
+        "twitter_url": "https://twitter.com/fahrni"
+      },
+      {
         "title": "Roland Leth's Blog",
         "author": "Roland Leth",
         "site_url": "https://rolandleth.com",
@@ -1099,13 +1106,6 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
-      },
-      {
-        "title": "Rob Fahrni",
-        "author": "Rob Fahrni",
-        "site_url": "https://iam.fahrni.me/category/ios/",
-        "feed_url": "https://iam.fahrni.me/category/ios/feed",
-        "twitter_url": "https://twitter.com/fahrni"
       }
     ]
   },
@@ -1377,7 +1377,8 @@
         "author": "Samuel Goodwin",
         "site_url": "https://roundwallsoftware.com",
         "feed_url": "https://roundwallsoftware.com/rss"
-      },{
+      },
+      {
         "title": "Savvy Apps Blog",
         "author": "Savvy Apps Team",
         "site_url": "https://savvyapps.com/blog",
@@ -1480,6 +1481,13 @@
         "site_url": "https://medium.com/@strawb3rryx7",
         "feed_url": "https://medium.com/feed/@strawb3rryx7",
         "twitter_url": "https://twitter.com/strawb3rryx7"
+      },
+      {
+        "title": "Mehmet Koca on Medium",
+        "author": "Mehmet KOCA",
+        "site_url": "https://medium.com/@mhmtkc",
+        "feed_url": "https://medium.com/feed/@mhmtkc",
+        "twitter_url": "https://twitter.com/mehmetkcaa"
       }
     ]
   },
@@ -1509,19 +1517,6 @@
         "twitter_url": "https://twitter.com/iphreaks"
       },
       {
-        "title": "Stacktrace Podcast",
-        "author": "John Sundell and Gui Rambo",
-        "site_url": "https://stacktracepodcast.fm/",
-        "feed_url": "https://stacktracepodcast.fm/podcast?format=RSS",
-        "twitter_url": "https://twitter.com/stacktracepod"
-      },
-      {
-        "title": "Swift by Sundell Podcast",
-        "author": "John Sundell",
-        "site_url": "https://www.swiftbysundell.com/podcast/",
-        "feed_url": "https://www.swiftbysundell.com/podcast?format=RSS"
-      },
-      {
         "title": "Ray Wenderlich Podcast",
         "author": "Dru Freeman and Janie Clayton",
         "site_url": "https://www.raywenderlich.com/rwpodcast/",
@@ -1533,6 +1528,19 @@
         "site_url": "https://releasenotes.tv/",
         "feed_url": "https://releasenotes.tv/feed/",
         "twitter_url": "https://twitter.com/release_notes"
+      },
+      {
+        "title": "Stacktrace Podcast",
+        "author": "John Sundell and Gui Rambo",
+        "site_url": "https://stacktracepodcast.fm/",
+        "feed_url": "https://stacktracepodcast.fm/podcast?format=RSS",
+        "twitter_url": "https://twitter.com/stacktracepod"
+      },
+      {
+        "title": "Swift by Sundell Podcast",
+        "author": "John Sundell",
+        "site_url": "https://www.swiftbysundell.com/podcast/",
+        "feed_url": "https://www.swiftbysundell.com/podcast?format=RSS"
       },
       {
         "title": "Under the Radar",
