@@ -482,6 +482,13 @@
         "twitter_url": "https://twitter.com/bach4life"
       },
       {
+        "title": "Ilya Puchka's Blog",
+        "author": "Ilya Puchka",
+        "site_url": "http://ilya.puchka.me",
+        "feed_url": "http://ilya.puchka.me/rss/",
+        "twitter_url": "https://twitter.com/ilyapuchka"
+      },
+      {
         "title": "Indie Stack",
         "author": "Daniel Jalkut",
         "site_url": "http://indiestack.com",
