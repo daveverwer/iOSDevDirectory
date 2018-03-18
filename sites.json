@@ -977,6 +977,12 @@
         "twitter_url": "https://twitter.com/ccgus"
       },
       {
+        "title": "The.Swift.Dev.",
+        "author": "Tibor Bödecs",
+        "site_url": "https://theswiftdev.com/",
+        "feed_url": "https://theswiftdev.com/rss/"
+      },
+      {
         "title": "Think & Build",
         "author": "Yari D'areglia",
         "site_url": "http://www.thinkandbuild.it",
