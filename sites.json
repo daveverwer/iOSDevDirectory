@@ -489,6 +489,13 @@
         "twitter_url": "https://twitter.com/brentsimmons"
       },
       {
+        "title": "Igor Kulman's Blog",
+        "author": "Igor Kulman",
+        "site_url": "https://blog.kulman.sk",
+        "feed_url": "https://blog.kulman.sk/index.xml",
+        "twitter_url": "https://twitter.com/igorkulman"
+      },
+      {
         "title": "iOS Dev Tools",
         "author": "Adam Swinden",
         "site_url": "https://iosdev.tools/",
