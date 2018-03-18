@@ -1502,6 +1502,13 @@
         "feed_url": "https://itunes.apple.com/gb/podcast/the-ideveloper-podcast/id400664935?mt=2"
       },
       {
+        "title": "iPhreaks",
+        "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
+        "site_url": "https://devchat.tv/iphreaks",
+        "feed_url": "https://devchat.tv/iphreaks/feed/",
+        "twitter_url": "https://twitter.com/iphreaks"
+      },
+      {
         "title": "Under the Radar",
         "author": "Marco Arment and David Smith",
         "site_url": "https://www.relay.fm/radar",
