@@ -754,13 +754,6 @@
         "twitter_url": "https://twitter.com/pepibumur"
       },
       {
-        "title": "pilgwon's blog",
-        "author": "pilgwon",
-        "site_url": "https://pilgwon.github.io/blog/",
-        "feed_url": "https://pilgwon.github.io/blog/feed.xml",
-        "twitter_url": "https://twitter.com/pilgwon"
-      },
-      {
         "title": "Pragmatic Swift",
         "author": "Swiss Mobile Developers Association",
         "site_url": "http://pragmaticswift.com/",
@@ -1340,9 +1333,23 @@
     ]
   },
   {
+    "title": "Korean Language Blogs",
+    "slug": "korean",
+    "description": "iOS development related blogs in the Korean language.",
+    "sites": [
+      {
+        "title": "pilgwon's blog",
+        "author": "pilgwon",
+        "site_url": "https://pilgwon.github.io/blog/",
+        "feed_url": "https://pilgwon.github.io/blog/feed.xml",
+        "twitter_url": "https://twitter.com/pilgwon"
+      }
+    ]
+  },
+  {
     "title": "Turkish Language Blogs",
     "slug": "turkish",
-    "description": "iOS development related blogs in the Turkish language. 🇹🇷",
+    "description": "iOS development related blogs in the Turkish language.",
     "sites": [
       {
         "title": "Batuhan Saka on Medium",
