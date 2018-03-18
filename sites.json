@@ -865,6 +865,13 @@
         "twitter_url": "https://twitter.com/stephencelis"
       },
       {
+        "title": "Steve Moser's Blog",
+        "author": "Steve Moser",
+        "site_url": "https://www.stevemoser.org/category/apple-dev/index.html",
+        "feed_url": "https://www.stevemoser.org/feed.apple-dev.xml",
+        "twitter_url": "https://twitter.com/stevemoser"
+      },
+      {
         "title": "Stuart Hall's Blog",
         "author": "Stuart Hall",
         "site_url": "http://stuartkhall.com/",
