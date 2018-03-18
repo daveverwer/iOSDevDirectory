@@ -1509,6 +1509,13 @@
         "twitter_url": "https://twitter.com/iphreaks"
       },
       {
+        "title": "Release Notes Podcast",
+        "author": "Charles Perry and Joe Cieplinski",
+        "site_url": "https://releasenotes.tv/",
+        "feed_url": "https://releasenotes.tv/feed/",
+        "twitter_url": "https://twitter.com/release_notes"
+      },
+      {
         "title": "Under the Radar",
         "author": "Marco Arment and David Smith",
         "site_url": "https://www.relay.fm/radar",
