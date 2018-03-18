@@ -1509,6 +1509,12 @@
         "twitter_url": "https://twitter.com/iphreaks"
       },
       {
+        "title": "Ray Wenderlich Podcast",
+        "author": "Dru Freeman and Janie Clayton",
+        "site_url": "https://www.raywenderlich.com/rwpodcast/",
+        "feed_url": "https://www.raywenderlich.com/rwpodcast/feed"
+      },
+      {
         "title": "Release Notes Podcast",
         "author": "Charles Perry and Joe Cieplinski",
         "site_url": "https://releasenotes.tv/",
