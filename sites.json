@@ -1516,6 +1516,12 @@
         "twitter_url": "https://twitter.com/stacktracepod"
       },
       {
+        "title": "Swift by Sundell Podcast",
+        "author": "John Sundell",
+        "site_url": "https://www.swiftbysundell.com/podcast/",
+        "feed_url": "https://www.swiftbysundell.com/podcast?format=RSS"
+      },
+      {
         "title": "Ray Wenderlich Podcast",
         "author": "Dru Freeman and Janie Clayton",
         "site_url": "https://www.raywenderlich.com/rwpodcast/",
