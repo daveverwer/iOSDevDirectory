@@ -1496,6 +1496,12 @@
         "twitter_url": "https://twitter.com/coreint"
       },
       {
+        "title": "iDeveloper Podcast",
+        "author": "Steve Scott and John Fox",
+        "site_url": "http://ideveloper.co/",
+        "feed_url": "https://itunes.apple.com/gb/podcast/the-ideveloper-podcast/id400664935?mt=2"
+      },
+      {
         "title": "Under the Radar",
         "author": "Marco Arment and David Smith",
         "site_url": "https://www.relay.fm/radar",
