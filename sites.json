@@ -1206,6 +1206,13 @@
         "twitter_url": "https://twitter.com/blackpixel"
       },
       {
+        "title": "Bugfender Blog",
+        "author": "Bugfender Team",
+        "site_url": "https://bugfender.com/blog/",
+        "feed_url": "https://bugfender.com/blog/feed/",
+        "twitter_url": "https://twitter.com/bugfenderapp"
+      },
+      {
         "title": "Flawless App Stories",
         "author": "Lisa Dziuba and friends",
         "site_url": "https://medium.com/flawless-app-stories",
