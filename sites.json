@@ -385,6 +385,13 @@
         "twitter_url": "https://twitter.com/_eliperkins"
       },
       {
+        "title": "ennioma",
+        "author": "Ennio Masi",
+        "site_url": "http://ennioma.com/",
+        "feed_url": "http://ennioma.com/rss",
+        "twitter_url": "https://twitter.com/ennioma"
+      },
+      {
         "title": "Erica Sadun's Blog",
         "author": "Erica Sadun",
         "site_url": "http://ericasadun.com",
@@ -480,6 +487,13 @@
         "site_url": "http://inessential.com/",
         "feed_url": "http://inessential.com/xml/rss.xml",
         "twitter_url": "https://twitter.com/brentsimmons"
+      },
+      {
+        "title": "Igor Kulman's Blog",
+        "author": "Igor Kulman",
+        "site_url": "https://blog.kulman.sk",
+        "feed_url": "https://blog.kulman.sk/index.xml",
+        "twitter_url": "https://twitter.com/igorkulman"
       },
       {
         "title": "iOS Dev Tools",
@@ -675,6 +689,13 @@
         "site_url": "https://michele.io/",
         "feed_url": "https://michele.io/index.xml",
         "twitter_url": "https://twitter.com/micheletitolo"
+      },
+      {
+        "title": "Miguel Quinones' Blog",
+        "author": "Miguel Quinones",
+        "site_url": "https://miqu.me",
+        "feed_url": "https://miqu.me/atom.xml",
+        "twitter_url": "https://twitter.com/miguelquinon"
       },
       {
         "title": "Mike Swanson's Blog",
@@ -956,6 +977,12 @@
         "twitter_url": "https://twitter.com/ccgus"
       },
       {
+        "title": "The.Swift.Dev.",
+        "author": "Tibor Bödecs",
+        "site_url": "https://theswiftdev.com/",
+        "feed_url": "https://theswiftdev.com/rss/"
+      },
+      {
         "title": "Think & Build",
         "author": "Yari D'areglia",
         "site_url": "http://www.thinkandbuild.it",
@@ -989,6 +1016,13 @@
         "site_url": "http://tonyarnold.com",
         "feed_url": "http://tonyarnold.com/atom.xml",
         "twitter_url": "https://twitter.com/tonyarnold"
+      },
+      {
+        "title": "Umberto Raimondi's Blog",
+        "author": "Umberto Raimondi",
+        "site_url": "https://www.uraimo.com",
+        "feed_url": "https://www.uraimo.com/feed/atom-swift.xml",
+        "twitter_url": "https://twitter.com/uraimo"
       },
       {
         "title": "Use Your Loaf",
@@ -1183,6 +1217,13 @@
         "site_url": "https://medium.com/bpxl-craft",
         "feed_url": "https://medium.com/feed/bpxl-craft",
         "twitter_url": "https://twitter.com/blackpixel"
+      },
+      {
+        "title": "Bugfender Blog",
+        "author": "Bugfender Team",
+        "site_url": "https://bugfender.com/blog/",
+        "feed_url": "https://bugfender.com/blog/feed/",
+        "twitter_url": "https://twitter.com/bugfenderapp"
       },
       {
         "title": "Flawless App Stories",
