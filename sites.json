@@ -1173,6 +1173,20 @@
     ]
   },
   {
+    "title": "iOS Marketing Blogs",
+    "slug": "ios-marketing",
+    "description": "All of the iOS marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
+    "sites": [
+      {
+        "title": "Appbot",
+        "author": "Stuart Hall, Claire McGregor, Christie Hunter",
+        "site_url": "https://stories.appbot.co/",
+        "feed_url": "https://stories.appbot.co/feed",
+        "twitter_url": "https://twitter.com/appbotx"
+      }
+    ]
+  },
+  {
     "title": "iOS Development Company Blogs",
     "slug": "ios-companies",
     "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you'll find it!",
