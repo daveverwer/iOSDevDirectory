@@ -1342,6 +1342,12 @@
         "author": "Samuel Goodwin",
         "site_url": "https://roundwallsoftware.com",
         "feed_url": "https://roundwallsoftware.com/rss"
+      },{
+        "title": "Savvy Apps Blog",
+        "author": "Savvy Apps Team",
+        "site_url": "https://savvyapps.com/blog",
+        "feed_url": "https://savvyapps.com/blog/feed.rss",
+        "twitter_url": "https://twitter.com/savvyapps"
       },
       {
         "title": "SHAPE Code Blog",
