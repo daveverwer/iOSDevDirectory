@@ -775,6 +775,13 @@
         "twitter_url": "https://twitter.com/rwenderlich"
       },
       {
+        "title": "Recoursive",
+        "author": "Robin Kunde",
+        "site_url": "https://recoursive.com/tag/ios/",
+        "feed_url": "https://recoursive.com/tag/ios/index.xml",
+        "twitter_url": "https://twitter.com/robinkunde"
+      },
+      {
         "title": "Rentzsch",
         "author": "Jonathan Rentzsch",
         "site_url": "http://rentzsch.tumblr.com/",
