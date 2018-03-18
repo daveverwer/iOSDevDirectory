@@ -1484,6 +1484,26 @@
     ]
   },
   {
+    "title": "iOS Podcasts",
+    "slug": "ios-podcasts",
+    "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
+    "sites": [
+      {
+        "title": "Core Intuition",
+        "author": "Daniel Jalkut, Manton Reece",
+        "site_url": "https://coreint.org",
+        "feed_url": "https://coreint.org/podcast.xml",
+        "twitter_url": "https://twitter.com/coreint"
+      },
+      {
+        "title": "Under the Radar",
+        "author": "Marco Arment, David Smith",
+        "site_url": "https://www.relay.fm/radar",
+        "feed_url": "https://www.relay.fm/radar/feed"
+      }
+    ]
+  },
+  {
     "title": "Inactive Blogs",
     "slug": "inactive",
     "description": "If a site is related to iOS development, design, or anything related, but hasn't been updated in more than a year it'll be moved here.",
