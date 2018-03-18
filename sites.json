@@ -1213,6 +1213,13 @@
         "twitter_url": "https://twitter.com/netguru"
       },
       {
+        "title": "objc.io",
+        "author": "objc.io",
+        "site_url": "https://www.objc.io/blog",
+        "feed_url": "https://www.objc.io/feed.xml",
+        "twitter_url": "https://twitter.com/objcio"
+      },
+      {
         "title": "POSSIBLE Mobile Blog",
         "author": "POSSIBLE Mobile",
         "site_url": "https://possiblemobile.com/tag/ios/",
