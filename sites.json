@@ -1509,6 +1509,13 @@
         "twitter_url": "https://twitter.com/iphreaks"
       },
       {
+        "title": "Stacktrace Podcast",
+        "author": "John Sundell and Gui Rambo",
+        "site_url": "https://stacktracepodcast.fm/",
+        "feed_url": "https://stacktracepodcast.fm/podcast?format=RSS",
+        "twitter_url": "https://twitter.com/stacktracepod"
+      },
+      {
         "title": "Ray Wenderlich Podcast",
         "author": "Dru Freeman and Janie Clayton",
         "site_url": "https://www.raywenderlich.com/rwpodcast/",
