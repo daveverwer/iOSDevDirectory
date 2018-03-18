@@ -1018,6 +1018,13 @@
         "twitter_url": "https://twitter.com/tonyarnold"
       },
       {
+        "title": "Umberto Raimondi's Blog",
+        "author": "Umberto Raimondi",
+        "site_url": "https://www.uraimo.com",
+        "feed_url": "https://www.uraimo.com/feed/atom-swift.xml",
+        "twitter_url": "https://twitter.com/uraimo"
+      },
+      {
         "title": "Use Your Loaf",
         "author": "Keith Harrison",
         "site_url": "https://useyourloaf.com/blog/",
