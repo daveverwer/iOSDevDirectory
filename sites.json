@@ -86,6 +86,13 @@
         "twitter_url": "https://twitter.com/obusek"
       },
       {
+        "title": "AnySuggestion",
+        "author": "Oleg Dreyman",
+        "site_url": "https://medium.com/anysuggestion",
+        "feed_url": "https://medium.com/feed/anysuggestion",
+        "twitter_url": "https://twitter.com/olegdreyman"
+      },
+      {
         "title": "Appventure",
         "author": "Benedikt Terhechte",
         "site_url": "http://appventure.me",
@@ -775,6 +782,13 @@
         "twitter_url": "https://twitter.com/rwenderlich"
       },
       {
+        "title": "Recoursive",
+        "author": "Robin Kunde",
+        "site_url": "https://recoursive.com/tag/ios/",
+        "feed_url": "https://recoursive.com/tag/ios/index.xml",
+        "twitter_url": "https://twitter.com/robinkunde"
+      },
+      {
         "title": "Rentzsch",
         "author": "Jonathan Rentzsch",
         "site_url": "http://rentzsch.tumblr.com/",
@@ -863,6 +877,13 @@
         "site_url": "http://www.stephencelis.com",
         "feed_url": "http://www.stephencelis.com/atom.xml",
         "twitter_url": "https://twitter.com/stephencelis"
+      },
+      {
+        "title": "Steve Moser's Blog",
+        "author": "Steve Moser",
+        "site_url": "https://www.stevemoser.org/category/apple-dev/index.html",
+        "feed_url": "https://www.stevemoser.org/feed.apple-dev.xml",
+        "twitter_url": "https://twitter.com/stevemoser"
       },
       {
         "title": "Stuart Hall's Blog",
@@ -1023,6 +1044,13 @@
         "site_url": "https://medium.com/@sunshinejr",
         "feed_url": "https://medium.com/feed/@sunshinejr",
         "twitter_url": "https://twitter.com/thesunshinejr"
+      },
+      {
+        "title": "Rob Fahrni",
+        "author": "Rob Fahrni",
+        "site_url": "https://iam.fahrni.me/category/ios/",
+        "feed_url": "https://iam.fahrni.me/category/ios/feed",
+        "twitter_url": "https://twitter.com/fahrni"
       }
     ]
   },
@@ -1211,6 +1239,13 @@
         "site_url": "https://www.netguru.co/codestories/topic/ios",
         "feed_url": "https://www.netguru.co/codestories/topic/ios/rss.xml",
         "twitter_url": "https://twitter.com/netguru"
+      },
+      {
+        "title": "objc.io",
+        "author": "objc.io",
+        "site_url": "https://www.objc.io/blog",
+        "feed_url": "https://www.objc.io/feed.xml",
+        "twitter_url": "https://twitter.com/objcio"
       },
       {
         "title": "POSSIBLE Mobile Blog",
