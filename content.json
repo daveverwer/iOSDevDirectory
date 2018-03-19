@@ -30,7 +30,7 @@
       },
       {
         "title": "iOS Development Blogs",
-        "slug": "ios-development",
+        "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
@@ -1115,7 +1115,7 @@
       },
       {
         "title": "iOS Design Blogs",
-        "slug": "ios-design",
+        "slug": "design",
         "description": "Anything related to iOS design.",
         "sites": [
           {
@@ -1199,7 +1199,7 @@
       },
       {
         "title": "iOS Marketing Blogs",
-        "slug": "ios-marketing",
+        "slug": "marketing",
         "description": "All of the iOS marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
         "sites": [
           {
@@ -1213,7 +1213,7 @@
       },
       {
         "title": "iOS Development Company Blogs",
-        "slug": "ios-companies",
+        "slug": "companies",
         "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you'll find it!",
         "sites": [
           {
@@ -1461,8 +1461,8 @@
         ]
       },
       {
-        "title": "iOS Podcasts",
-        "slug": "ios-podcasts",
+        "title": "iOS Development Podcasts",
+        "slug": "podcasts",
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
           {
@@ -1681,7 +1681,7 @@
     "categories": [
       {
         "title": "iOS Development Blogs",
-        "slug": "ios-development",
+        "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
@@ -1701,7 +1701,7 @@
     "categories": [
       {
         "title": "iOS Development Blogs",
-        "slug": "ios-development",
+        "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
