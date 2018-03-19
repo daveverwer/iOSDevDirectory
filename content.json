@@ -431,6 +431,13 @@
             "twitter_url": "https://twitter.com/_sa_s"
           },
           {
+            "title": "Fresh Swift",
+            "author": "Pete Smith",
+            "site_url": "http://freshswift.net",
+            "feed_url": "http://freshswift.net/index.xml",
+            "twitter_url": "https://twitter.com/fresh_swift"
+          },
+          {
             "title": "Furbo",
             "author": "Craig Hockenberry",
             "site_url": "https://furbo.org",
@@ -1547,7 +1554,7 @@
           },
           {
             "title": "Antitypical",
-            "author": "Rob Rix‎",
+            "author": "Rob Rix\u200e",
             "site_url": "http://antitypical.com/",
             "feed_url": "http://antitypical.com/feed.xml",
             "twitter_url": "https://twitter.com/rob_rix"
