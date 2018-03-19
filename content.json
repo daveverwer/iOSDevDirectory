@@ -1377,6 +1377,13 @@
             "twitter_url": "https://twitter.com/reveal_app"
           },
           {
+            "title": "RevenueCat Blog",
+            "author": "Jacob Eiting",
+            "site_url": "https://medium.com/revenuecat-blog",
+            "feed_url": "https://medium.com/feed/revenuecat-blog",
+            "twitter_url": "https://twitter.com/jeiting"
+          },
+          {
             "title": "Roundwall Software",
             "author": "Samuel Goodwin",
             "site_url": "https://roundwallsoftware.com",
