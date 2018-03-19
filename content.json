@@ -1561,7 +1561,7 @@
           },
           {
             "title": "Antitypical",
-            "author": "Rob Rix\u200e",
+            "author": "Rob Rix‎",
             "site_url": "http://antitypical.com/",
             "feed_url": "http://antitypical.com/feed.xml",
             "twitter_url": "https://twitter.com/rob_rix"
@@ -1726,18 +1726,18 @@
             "twitter_url": "https://twitter.com/strawb3rryx7"
           },
           {
-            "title": "Mehmet Koca on Medium",
-            "author": "Mehmet KOCA",
-            "site_url": "https://medium.com/@mhmtkc",
-            "feed_url": "https://medium.com/feed/@mhmtkc",
-            "twitter_url": "https://twitter.com/mehmetkcaa"
-          },
-          {
             "title": "Durul Dalkanat on Medium",
             "author": "Durul Dalkanat",
             "site_url": "https://medium.com/@duruldalkanat",
             "feed_url": "https://medium.com/feed/@duruldalkanat",
             "twitter_url": "https://twitter.com/duruldalkanat"
+          },
+          {
+            "title": "Mehmet Koca on Medium",
+            "author": "Mehmet KOCA",
+            "site_url": "https://medium.com/@mhmtkc",
+            "feed_url": "https://medium.com/feed/@mhmtkc",
+            "twitter_url": "https://twitter.com/mehmetkcaa"
           }
         ]
       }
