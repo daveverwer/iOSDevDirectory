@@ -1,7 +1,7 @@
 [
   {
     "language": "en",
-    "title": "English Language Content",
+    "title": "English Language",
     "categories": [
       {
         "title": "Official Apple Blogs",
@@ -1677,7 +1677,7 @@
   },
   {
     "language": "ko",
-    "title": "Korean Language Content",
+    "title": "Korean Language",
     "categories": [
       {
         "title": "iOS Development Blogs",
@@ -1697,7 +1697,7 @@
   },
   {
     "language": "tr",
-    "title": "Turkish Language Content",
+    "title": "Turkish Language",
     "categories": [
       {
         "title": "iOS Development Blogs",
