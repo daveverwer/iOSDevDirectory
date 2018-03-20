@@ -1761,7 +1761,7 @@
       {
         "title": "iOS Geliştirici Blogları",
         "slug": "development",
-        "description": "Uygulama mimarisi ve UI geliştirmeye odaklı bloglardır, Swift veya Objective-C dillerini ayırmaksızın doğrudan iOS geliştirme ile alakalı olanlar burada listenecektir.",
+        "description": "Uygulama mimarisi ve kullanıcı arayüzü geliştirmeye odaklı bloglardır, Swift veya Objective-C dillerini ayırmaksızın doğrudan iOS geliştirme ile alakalı olanlar burada listenecektir.",
         "sites": [
           {
             "title": "Ahmet Yalcinkaya on Medium",
