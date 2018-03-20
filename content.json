@@ -1487,6 +1487,13 @@
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
           {
+            "title": "Constant Variables",
+            "author": "Tim Bornholdt and Robert Bentley",
+            "site_url": "https://constantvariables.co",
+            "feed_url": "https://constantvariables.co/feed.rss",
+            "twitter_url": "https://twitter.com/cv_podcast"
+          },
+          {
             "title": "Core Intuition",
             "author": "Daniel Jalkut and Manton Reece",
             "site_url": "https://coreint.org",
@@ -1703,7 +1710,7 @@
       {
         "title": "iOS Development Blogs",
         "slug": "development",
-        "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
+        "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
         "sites": [
           {
             "title": "pilgwon's blog",
@@ -1726,6 +1733,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Ahmet Yalcinkaya on Medium",
+            "author": "Ahmet Yalcinkaya",
+            "site_url": "https://medium.com/@theswiftist",
+            "feed_url": "https://medium.com/feed/@theswiftist",
+            "twitter_url": "https://twitter.com/theswiftist"
+          },
+          {
             "title": "Batuhan Saka on Medium",
             "author": "Batuhan Saka",
             "site_url": "https://medium.com/@strawb3rryx7",
@@ -1745,7 +1759,14 @@
             "site_url": "https://medium.com/@mhmtkc",
             "feed_url": "https://medium.com/feed/@mhmtkc",
             "twitter_url": "https://twitter.com/mehmetkcaa"
-          }
+          },
+          {
+            "title": "NSIstanbul Blog",
+            "author": "NSIstanbul Community",
+            "site_url": "https://medium.com/nsistanbul",
+            "feed_url": "https://medium.com/feed/nsistanbul",
+            "twitter_url": "https://twitter.com/NS_Istanbul"
+          },
         ]
       }
     ]
