@@ -640,6 +640,13 @@
             "twitter_url": "https://twitter.com/kuba_suder"
           },
           {
+            "title": "Making App Pie",
+            "author": "Steve Lipton",
+            "site_url": "https://makeapppie.com/",
+            "feed_url": "https://makeapppie.com/feed/",
+            "twitter_url": "https://twitter.com/steve_lipton"
+          },
+          {
             "title": "Maniac Dev",
             "author": "Johann Dowa",
             "site_url": "https://maniacdev.com",
