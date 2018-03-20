@@ -48,6 +48,13 @@
             "twitter_url": "https://twitter.com/aaronvegh"
           },
           {
+            "title": "Agostini.Tech",
+            "author": "Dejan Agostini",
+            "site_url": "https://agostini.tech",
+            "feed_url": "https://agostini.tech/feed/",
+            "twitter_url": "https://twitter.com/dagostin"
+          },
+          {
             "title": "Alberto De Bortoli's Blog",
             "author": "Alberto De Bortoli",
             "site_url": "http://albertodebortoli.com/",
