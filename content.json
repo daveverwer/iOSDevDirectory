@@ -1480,6 +1480,13 @@
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
           {
+            "title": "Constant Variables",
+            "author": "Tim Bornholdt and Robert Bentley",
+            "site_url": "https://constantvariables.co",
+            "feed_url": "https://constantvariables.co/feed.rss",
+            "twitter_url": "https://twitter.com/cv_podcast"
+          },
+          {
             "title": "Core Intuition",
             "author": "Daniel Jalkut and Manton Reece",
             "site_url": "https://coreint.org",
