@@ -1743,51 +1743,5 @@
             }
         ]
     },
-    {
-        "language": "zh",
-        "title": "Chinese Language",
-        "categories": [
-            {
-                "title": "iOS Development Blogs",
-                "slug": "development",
-                "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
-                "sites": [
-                    {
-                        "title": "ibireme's blog",
-                        "author": "ibireme",
-                        "site_url": "https://blog.ibireme.com/",
-                        "feed_url": "https://blog.ibireme.com/feed/",
-                        "twitter_url": "https://twitter.com/ibireme"
-                    },
-                    {
-                        "title": "bang's blog",
-                        "author": "bang",
-                        "site_url": "http://blog.cnbang.net/",
-                        "feed_url": "http://blog.cnbang.net/feed/",
-                        "twitter_url": "https://twitter.com/bang590"
-                    },
-                    {
-                        "title": "OneV's Den",
-                        "author": "王巍 (@onevcat)",
-                        "site_url": "https://onevcat.com",
-                        "feed_url": "https://onevcat.com/feed",
-                        "twitter_url": "https://twitter.com/onevcat"
-                    },
-                    {
-                        "title": "MrPeak杂货铺",
-                        "author": "MrPeak",
-                        "site_url": "http://mrpeak.cn/",
-                        "feed_url": "http://mrpeak.cn/feed",
-                        "twitter_url": "https://twitter.com/MrPeak_"
-                    },
-                    {
-                        "title": "Casa Taloyum's blog",
-                        "author": "Tian Wei Yu(Casa Taloyum)",
-                        "site_url": "https://casatwy.com/",
-                        "feed_url": "https://casatwy.com/feeds/all.atom.xml"
-                    }
-                ]
-            }
-        ]
-    }
+    
 ]
