@@ -1575,7 +1575,7 @@
           },
           {
             "title": "Antitypical",
-            "author": "Rob Rix‎",
+            "author": "Rob Rix\u200e",
             "site_url": "http://antitypical.com/",
             "feed_url": "http://antitypical.com/feed.xml",
             "twitter_url": "https://twitter.com/rob_rix"
@@ -1704,20 +1704,51 @@
     ]
   },
   {
-    "language": "ko",
-    "title": "Korean Language",
+    "language": "zh",
+    "title": "Chinese Language",
     "categories": [
       {
-        "title": "iOS Development Blogs",
-        "slug": "development",
-        "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
+        "title": "中文 iOS 开发博客列表",
+        "slug": "开发",
+        "description": "来自中国的优秀 iOS 开发博客，内容包含不仅限于 Objective-C、Swift、架构、UI、网络等方向。",
         "sites": [
           {
-            "title": "pilgwon's blog",
-            "author": "pilgwon",
-            "site_url": "https://pilgwon.github.io/blog/",
-            "feed_url": "https://pilgwon.github.io/blog/feed.xml",
-            "twitter_url": "https://twitter.com/pilgwon"
+            "title": "ibireme's blog",
+            "author": "ibireme",
+            "site_url": "https://blog.ibireme.com/",
+            "feed_url": "https://blog.ibireme.com/feed/",
+            "twitter_url": "https://twitter.com/ibireme",
+            "weibo_url": "http://weibo.com/ibireme"
+          },
+          {
+            "title": "bang's blog",
+            "author": "bang",
+            "site_url": "http://blog.cnbang.net/",
+            "feed_url": "http://blog.cnbang.net/feed/",
+            "twitter_url": "https://twitter.com/bang590",
+            "weibo_url": "http://weibo.com/bang"
+          },
+          {
+            "title": "OneV's Den",
+            "author": "王巍 (@onevcat)",
+            "site_url": "https://onevcat.com",
+            "feed_url": "https://onevcat.com/feed",
+            "twitter_url": "https://twitter.com/onevcat",
+            "weibo_url": "http://weibo.com/onevcat"
+          },
+          {
+            "title": "MrPeak杂货铺",
+            "author": "MrPeak",
+            "site_url": "http://mrpeak.cn/",
+            "feed_url": "http://mrpeak.cn/feed",
+            "twitter_url": "https://twitter.com/MrPeak_"
+          },
+          {
+            "title": "Casa Taloyum's blog",
+            "author": "Tian Wei Yu(Casa Taloyum)",
+            "site_url": "https://casatwy.com/",
+            "feed_url": "https://casatwy.com/feeds/all.atom.xml",
+            "weibo_url": "http://weibo.com/casatwy"
           }
         ]
       }
@@ -1766,6 +1797,26 @@
             "site_url": "https://medium.com/nsistanbul",
             "feed_url": "https://medium.com/feed/nsistanbul",
             "twitter_url": "https://twitter.com/NS_Istanbul"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "language": "ko",
+    "title": "Korean Language",
+    "categories": [
+      {
+        "title": "iOS Development Blogs",
+        "slug": "development",
+        "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
+        "sites": [
+          {
+            "title": "pilgwon's blog",
+            "author": "pilgwon",
+            "site_url": "https://pilgwon.github.io/blog/",
+            "feed_url": "https://pilgwon.github.io/blog/feed.xml",
+            "twitter_url": "https://twitter.com/pilgwon"
           }
         ]
       }
