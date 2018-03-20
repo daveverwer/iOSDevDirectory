@@ -1703,7 +1703,7 @@
       {
         "title": "iOS Development Blogs",
         "slug": "development",
-        "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
+        "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
         "sites": [
           {
             "title": "pilgwon's blog",
