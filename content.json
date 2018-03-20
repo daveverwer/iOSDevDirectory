@@ -1719,6 +1719,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Ahmet Yalcinkaya on Medium",
+            "author": "Ahmet Yalcinkaya",
+            "site_url": "https://medium.com/@theswiftist",
+            "feed_url": "https://medium.com/feed/@theswiftist",
+            "twitter_url": "https://twitter.com/theswiftist"
+          },
+          {
             "title": "Batuhan Saka on Medium",
             "author": "Batuhan Saka",
             "site_url": "https://medium.com/@strawb3rryx7",
@@ -1738,7 +1745,14 @@
             "site_url": "https://medium.com/@mhmtkc",
             "feed_url": "https://medium.com/feed/@mhmtkc",
             "twitter_url": "https://twitter.com/mehmetkcaa"
-          }
+          },
+          {
+            "title": "NSIstanbul Blog",
+            "author": "NSIstanbul Community",
+            "site_url": "https://medium.com/nsistanbul",
+            "feed_url": "https://medium.com/feed/nsistanbul",
+            "twitter_url": "https://twitter.com/NS_Istanbul"
+          },
         ]
       }
     ]
