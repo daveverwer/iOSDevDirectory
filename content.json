@@ -598,6 +598,13 @@
             "twitter_url": "https://twitter.com/allonsykraken"
           },
           {
+            "title": "Kristof Kocsis's Blog",
+            "author": "Kristof Kocsis",
+            "site_url": "http://kristofk.com/",
+            "feed_url": "http://kristofk.com/category/ios-development/feed",
+            "twitter_url": "https://twitter.com/kristofkocsis"
+          },
+          {
             "title": "Kyle Fuller's Blog",
             "author": "Kyle Fuller",
             "site_url": "https://fuller.li/",
