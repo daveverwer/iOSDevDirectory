@@ -1562,6 +1562,75 @@
         ]
       },
       {
+        "title": "iOS Development YouTube Channels",
+        "slug": "youtube",
+        "description": "YouTube channels cover a wide variety of topics like tutorials, investigations, contracting and soft skills just to mention a few. Here you'll find all the channels that cover such topics.",
+        "sites": [
+          {
+            "title": "Brian Advent",
+            "author": "Brian Advent",
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCysEngjfeIYapEER9K8aikw"
+          },
+          {
+            "title": "ForrestKnight",
+            "author": "Forrest Knight",
+            "site_url": "https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+            "twitter_url": "https://twitter.com/forrestpknight"
+          },
+          {
+            "title": "Jared Davidson",
+            "author": "Jared Davidson",
+            "site_url": "https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDIBBmkZIB2hjBsk1hUImdA",
+            "twitter_url": "https://twitter.com/Archetapp"
+          },
+          {
+            "title": "Kilo Loco",
+            "author": "Kilo Loco",
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCv75sKQFFIenWHrprnrR9aA",
+            "twitter_url": "https://twitter.com/kilo_loco"
+          },
+          {
+            "title": "Kristof Kocsis",
+            "author": "Kristof Kocsis",
+            "site_url": "https://www.youtube.com/channel/UC60VWleORVQ5rBEt85oqErQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC60VWleORVQ5rBEt85oqErQ",
+            "twitter_url": "https://twitter.com/kristofkocsis"
+          },
+          {
+            "title": "Lets Build That App",
+            "author": "Brian Voong",
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuP2vJ6kRutQBfRmdcI92mA",
+            "twitter_url": "https://twitter.com/buildthatapp"
+          },
+          {
+            "title": "Mark Moeykens",
+            "author": "Mark Moeykens",
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChH6WbyYeX0INJjrK2-6WSg",
+            "twitter_url": "https://twitter.com/bigmtnstudio"
+          },
+          {
+            "title": "Sean Allen",
+            "author": "Sean Allen",
+            "site_url": "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbTw29mcP12YlTt1EpUaVJw",
+            "twitter_url": "https://twitter.com/SeanA0400"
+          },
+          {
+            "title": "The Swift Guy",
+            "author": "Sebastian Henry",
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-d1NWv5IWtIkfH47ux4dWA",
+            "twitter_url": "https://twitter.com/1TheSwiftGuy"
+          }
+        ]
+      },
+      {
         "title": "Inactive Blogs",
         "slug": "inactive",
         "description": "If a site is related to iOS development, design, or anything related, but hasn't been updated in more than a year it'll be moved here.",
