@@ -298,13 +298,6 @@
             "twitter_url": "https://twitter.com/aligatr"
           },
           {
-            "title": "Curtis Herbert's Blog",
-            "author": "Curtis Herbert",
-            "site_url": "https://blog.curtisherbert.com/",
-            "feed_url": "http://blog.curtisherbert.com/rss/",
-            "twitter_url": "https://twitter.com/parrots"
-          },
-          {
             "title": "Dan Thorpe's Blog",
             "author": "Daniel Thorpe",
             "site_url": "http://danthorpe.me",
@@ -1236,6 +1229,13 @@
             "site_url": "https://stories.appbot.co/",
             "feed_url": "https://stories.appbot.co/feed",
             "twitter_url": "https://twitter.com/appbotx"
+          },
+          {
+            "title": "Curtis Herbert's Blog",
+            "author": "Curtis Herbert",
+            "site_url": "https://blog.curtisherbert.com/",
+            "feed_url": "http://blog.curtisherbert.com/rss/",
+            "twitter_url": "https://twitter.com/parrots"
           },
           {
             "title": "Dan Counsell's Blog",
