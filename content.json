@@ -584,13 +584,6 @@
             "twitter_url": "https://twitter.com/KenBoreham"
           },
           {
-            "title": "Soroush Khanlou's Blog",
-            "author": "Soroush Khanlou",
-            "site_url": "http://khanlou.com/",
-            "feed_url": "http://khanlou.com/feed/",
-            "twitter_url": "https://twitter.com/khanlou"
-          },
-          {
             "title": "Khawer Khaliq's Blog",
             "author": "Khawer Khaliq",
             "site_url": "https://khawerkhaliq.com",
@@ -944,6 +937,13 @@
             "site_url": "http://www.swwritings.com",
             "feed_url": "http://www.swwritings.com/feed.xml",
             "twitter_url": "https://twitter.com/sgaw"
+          },
+          {
+            "title": "Soroush Khanlou's Blog",
+            "author": "Soroush Khanlou",
+            "site_url": "http://khanlou.com/",
+            "feed_url": "http://khanlou.com/feed/",
+            "twitter_url": "https://twitter.com/khanlou"
           },
           {
             "title": "Sound of Silence",
