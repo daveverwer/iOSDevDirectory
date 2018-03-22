@@ -856,13 +856,6 @@
             "twitter_url": "https://twitter.com/rentzsch"
           },
           {
-            "title": "Roadfire Software",
-            "author": "Josh Brown",
-            "site_url": "https://roadfiresoftware.com/blog/",
-            "feed_url": "https://roadfiresoftware.com/feed/",
-            "twitter_url": "https://twitter.com/jtbrown"
-          },
-          {
             "title": "Rob Fahrni",
             "author": "Rob Fahrni",
             "site_url": "https://iam.fahrni.me/category/ios/",
@@ -1417,6 +1410,13 @@
             "site_url": "https://medium.com/revenuecat-blog",
             "feed_url": "https://medium.com/feed/revenuecat-blog",
             "twitter_url": "https://twitter.com/jeiting"
+          },
+          {
+            "title": "Roadfire Software",
+            "author": "Josh Brown",
+            "site_url": "https://roadfiresoftware.com/blog/",
+            "feed_url": "https://roadfiresoftware.com/feed/",
+            "twitter_url": "https://twitter.com/jtbrown"
           },
           {
             "title": "Roundwall Software",
