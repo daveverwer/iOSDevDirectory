@@ -960,6 +960,13 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
+            "title": "Super Easy Apps",
+            "author": "Paul Solt",
+            "site_url": "http://blog.supereasyapps.com/",
+            "feed_url": "http://blog.supereasyapps.com/rss",
+            "twitter_url": "https://twitter.com/paulsolt"
+          },
+          {
             "title": "Swift And Painless",
             "author": "Dominik Hauser",
             "site_url": "http://swiftandpainless.com/",
@@ -1620,6 +1627,13 @@
             "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChH6WbyYeX0INJjrK2-6WSg",
             "twitter_url": "https://twitter.com/bigmtnstudio"
+          },
+          {
+            "title": "Paul Solt on YouTube",
+            "author": "Paul Solt",
+            "site_url": "http://www.youtube.com/user/PaulSolt",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?user=paulsolt",
+            "twitter_url": "https://twitter.com/paulsolt"
           },
           {
             "title": "Sean Allen on YouTube",
