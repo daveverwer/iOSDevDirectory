@@ -1840,11 +1840,25 @@
             "weibo_url": "http://weibo.com/ibireme"
           },
           {
+            "title": "Limboy.me",
+            "author": "Limboy无网不剩",
+            "site_url": "http://limboy.me",
+            "feed_url": "http://feeds.feedburner.com/lzyy",
+            "twitter_url": "http://twitter.com/lzyy"
+          },
+          {
             "title": "MrPeak杂货铺",
             "author": "MrPeak",
             "site_url": "http://mrpeak.cn/",
             "feed_url": "http://mrpeak.cn/feed",
             "twitter_url": "https://twitter.com/MrPeak_"
+          },
+          {
+            "title": "NSHipster中国",
+            "author": "NSHipster中国",
+            "site_url": "http://nshipster.cn",
+            "feed_url": "http://nshipster.cn/feed.xml",
+            "weibo_url": "https://weibo.com/nshipster"
           },
           {
             "title": "OneV's Den",
@@ -1862,25 +1876,11 @@
             "weibo_url": "http://weibo.com/1364395395/"
           },
           {
-            "title": "Limboy.me",
-            "author": "Limboy无网不剩",
-            "site_url": "http://limboy.me",
-            "feed_url": "http://feeds.feedburner.com/lzyy",
-            "twitter_url": "http://twitter.com/lzyy"
-          },
-          {
             "title": "SwiftGG",
             "author": "SwiftGG翻译组",
             "site_url": "http://swift.gg",
             "feed_url": "http://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
-          },
-          {
-            "title": "NSHipster中国",
-            "author": "NSHipster中国",
-            "site_url": "http://nshipster.cn",
-            "feed_url": "http://nshipster.cn/feed.xml",
-            "weibo_url": "https://weibo.com/nshipster"
           }
         ]
       }
