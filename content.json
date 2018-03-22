@@ -1833,6 +1833,34 @@
             "twitter_url": "https://twitter.com/onevcat",
             "weibo_url": "http://weibo.com/onevcat"
           }
+          {
+            "title": "Sunnyxx",
+            "author": "我就叫Sunny怎么了",
+            "site_url": "http://blog.sunnyxx.com",
+            "feed_url": "http://blog.sunnyxx.com/atom.xml",
+            "weibo_url": "http://weibo.com/1364395395/"
+          }
+          {
+            "title": "Limboy.me",
+            "author": "Limboy无网不剩",
+            "site_url": "http://limboy.me",
+            "feed_url": "http://feeds.feedburner.com/lzyy",
+            "twitter_url": "http://twitter.com/lzyy"
+          }
+          {
+            "title": "SwiftGG",
+            "author": "SwiftGG翻译组",
+            "site_url": "http://swift.gg",
+            "feed_url": "http://swift.gg/atom.xml",
+            "weibo_url": "https://weibo.com/swiftguide"
+          }
+          {
+            "title": "NSHipster中国",
+            "author": "NSHipster中国",
+            "site_url": "http://nshipster.cn",
+            "feed_url": "http://nshipster.cn/feed.xml",
+            "weibo_url": "https://weibo.com/nshipster"
+          }
         ]
       }
     ]
