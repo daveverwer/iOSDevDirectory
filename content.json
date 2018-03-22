@@ -932,6 +932,13 @@
             "twitter_url": "https://twitter.com/sgaw"
           },
           {
+            "title": "Soroush Khanlou's Blog",
+            "author": "Soroush Khanlou",
+            "site_url": "http://khanlou.com/",
+            "feed_url": "http://khanlou.com/feed/",
+            "twitter_url": "https://twitter.com/khanlou"
+          },
+          {
             "title": "Sound of Silence",
             "author": "Matt Reagan",
             "site_url": "http://sound-of-silence.com",
