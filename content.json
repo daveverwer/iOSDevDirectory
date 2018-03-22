@@ -57,8 +57,8 @@
           {
             "title": "Alberto De Bortoli's Blog",
             "author": "Alberto De Bortoli",
-            "site_url": "http://albertodebortoli.com/",
-            "feed_url": "http://albertodebortoli.com/atom.xml",
+            "site_url": "https://albertodebortoli.com/",
+            "feed_url": "https://albertodebortoli.com/rss/",
             "twitter_url": "https://twitter.com/albertodebo"
           },
           {
