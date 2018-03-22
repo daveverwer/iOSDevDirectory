@@ -305,13 +305,6 @@
             "twitter_url": "https://twitter.com/parrots"
           },
           {
-            "title": "Dan Counsell's Blog",
-            "author": "Dan Counsell",
-            "site_url": "https://dancounsell.com",
-            "feed_url": "https://dancounsell.com/feed/",
-            "twitter_url": "https://twitter.com/dancounsell"
-          },
-          {
             "title": "Dan Thorpe's Blog",
             "author": "Daniel Thorpe",
             "site_url": "http://danthorpe.me",
@@ -1236,6 +1229,13 @@
             "site_url": "https://stories.appbot.co/",
             "feed_url": "https://stories.appbot.co/feed",
             "twitter_url": "https://twitter.com/appbotx"
+          },
+          {
+            "title": "Dan Counsell's Blog",
+            "author": "Dan Counsell",
+            "site_url": "https://dancounsell.com",
+            "feed_url": "https://dancounsell.com/blog/feed/",
+            "twitter_url": "https://twitter.com/dancounsell"
           }
         ]
       },
