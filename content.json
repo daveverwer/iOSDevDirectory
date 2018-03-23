@@ -1535,6 +1535,13 @@
             "feed_url": "https://itunes.apple.com/gb/podcast/the-ideveloper-podcast/id400664935?mt=2"
           },
           {
+            "title": "Inside iOS Dev",
+            "author": "Andrew Rohn, Alex Bush",
+            "site_url": "http://insideiosdev.com",
+            "feed_url": "https://rss.simplecast.com/podcasts/2720/rss",
+            "twitter_url": "https://twitter.com/insideiosdev"
+          },
+          {
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://devchat.tv/iphreaks",
