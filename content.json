@@ -1265,6 +1265,13 @@
             "twitter_url": "https://twitter.com/appcode"
           },
           {
+            "title": "Appracatappra Blog",
+            "author": "Kevin Mullins",
+            "site_url": "https://appracatappra.com/category/blog/",
+            "feed_url": "https://appracatappra.com/feed/rss2/",
+            "twitter_url": "https://twitter.com/KevinAtAppra"
+          },
+          {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
             "site_url": "https://www.bignerdranch.com/blog/categories/ios/",
