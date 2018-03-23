@@ -173,13 +173,6 @@
             "twitter_url": "https://twitter.com/danielpunkass"
           },
           {
-            "title": "Born Sleepy",
-            "author": "Sam Deane",
-            "site_url": "http://bornsleepy.com",
-            "feed_url": "http://bornsleepy.com/rss.xml",
-            "twitter_url": "https://twitter.com/samdeane"
-          },
-          {
             "title": "Bret Victor's Blog",
             "author": "Bret Victor",
             "site_url": "http://worrydream.com/",
@@ -380,6 +373,13 @@
             "site_url": "https://holtwick.de/blog/",
             "feed_url": "https://holtwick.de/atom.xml",
             "twitter_url": "https://twitter.com/holtwick"
+          },
+          {
+            "title": "Elegant Chaos",
+            "author": "Sam Deane",
+            "site_url": "http://elegantchaos.com/news/",
+            "feed_url": "http://elegantchaos.com/rss.xml",
+            "twitter_url": "https://twitter.com/samdeane"
           },
           {
             "title": "Eli Perkins' Blog",
