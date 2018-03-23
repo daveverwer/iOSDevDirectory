@@ -1139,7 +1139,7 @@
             "feed_url": "https://medium.com/feed/@sunshinejr",
             "twitter_url": "https://twitter.com/thesunshinejr"
           },
-           {
+          {
             "title": "The Swift Teacher",
             "author": "Brian Foutty",
             "site_url": "https://www.swiftteacher.org",
@@ -1607,7 +1607,7 @@
             "author": "Brian Foutty",
             "site_url": "https://www.swiftteacher.org/podcast/",
             "feed_url": "http://cast.rocks/hosting/7212/feeds/72WBK.xml",
-             "twitter_url": "https://twitter.com/_SwiftTeacher"
+            "twitter_url": "https://twitter.com/_SwiftTeacher"
           },
           {
             "title": "Under the Radar",
@@ -1714,7 +1714,7 @@
           },
           {
             "title": "Antitypical",
-            "author": "Rob Rix‎",
+            "author": "Rob Rix\u200e",
             "site_url": "http://antitypical.com/",
             "feed_url": "http://antitypical.com/feed.xml",
             "twitter_url": "https://twitter.com/rob_rix"
