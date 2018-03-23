@@ -1138,6 +1138,13 @@
             "site_url": "https://medium.com/@sunshinejr",
             "feed_url": "https://medium.com/feed/@sunshinejr",
             "twitter_url": "https://twitter.com/thesunshinejr"
+          },
+           {
+            "title": "The Swift Teacher",
+            "author": "Brian Foutty",
+            "site_url": "https://www.swiftteacher.org",
+            "feed_url": "https://www.swiftteacher.org/swift-teacher/?format=rss",
+            "twitter_url": "https://twitter.com/bfoutty"
           }
         ]
       },
@@ -1580,6 +1587,13 @@
             "author": "John Sundell",
             "site_url": "https://www.swiftbysundell.com/podcast/",
             "feed_url": "https://www.swiftbysundell.com/podcast?format=RSS"
+          },
+          {
+            "title": "The Swift Teacher Podcast",
+            "author": "Brian Foutty",
+            "site_url": "https://www.swiftteacher.org/podcast/",
+            "feed_url": "http://cast.rocks/hosting/7212/feeds/72WBK.xml"
+             "twitter_url": "https://twitter.com/_SwiftTeacher"
           },
           {
             "title": "Under the Radar",
