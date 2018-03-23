@@ -382,6 +382,13 @@
             "twitter_url": "https://twitter.com/holtwick"
           },
           {
+            "title": "Elegant Chaos Blog",
+            "author": "Sam Deane",
+            "site_url": "http://elegantchaos.com/news/",
+            "feed_url": "http://elegantchaos.com/rss.xml",
+            "twitter_url": "https://twitter.com/samdeane"
+          },
+          {
             "title": "Eli Perkins' Blog",
             "author": "Eli Perkins",
             "site_url": "https://blog.eliperkins.me/",
