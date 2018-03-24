@@ -62,6 +62,13 @@
             "twitter_url": "https://twitter.com/albertodebo"
           },
           {
+            "title": "Aleksandar Vacić's iosdev blog",
+            "author": "Aleksandar Vacić",
+            "site_url": "http://aplus.rs/categories/iosdev/",
+            "feed_url": "http://aplus.rs/index.xml",
+            "twitter_url": "https://twitter.com/radiantav"
+          },
+          {
             "title": "Aleksander Popko's Blog",
             "author": "Aleksander Popko",
             "site_url": "https://aleksanderpopko.tech/blog/",
