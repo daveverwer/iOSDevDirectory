@@ -97,6 +97,13 @@
             "twitter_url": "https://twitter.com/apike"
           },
           {
+            "title": "Anaara Blog",
+            "author": "Fuad Kamal",
+            "site_url": "https://anaara.com/",
+            "feed_url": "https://anaara.com/category/ios/",
+            "twitter_url": "https://twitter.com/anaarallc"
+          },
+          {
             "title": "Andrew Bancroft's Blog",
             "author": "Andrew Bancroft",
             "site_url": "https://www.andrewcbancroft.com",
@@ -1167,6 +1174,13 @@
         "slug": "design",
         "description": "Anything related to iOS design.",
         "sites": [
+          {
+            "title": "Anaara Blog",
+            "author": "Fuad Kamal",
+            "site_url": "https://anaara.com/",
+            "feed_url": "https://anaara.com/category/design/",
+            "twitter_url": "https://twitter.com/anaarallc"
+          },
           {
             "title": "Bjango Articles",
             "author": "Marc Edwards",
