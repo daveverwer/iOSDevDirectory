@@ -1342,6 +1342,13 @@
             "twitter_url": "https://twitter.com/bugfenderapp"
           },
           {
+            "title": "Fabric Blog",
+            "author": "Fabric Team",
+            "site_url": "https://fabric.io/blog",
+            "feed_url": "https://fabric.io/blog/blog?format=RSS",
+            "twitter_url": "https://twitter.com/fabric"
+          },
+          {
             "title": "Flawless App Stories",
             "author": "Lisa Dziuba and friends",
             "site_url": "https://medium.com/flawless-app-stories",
