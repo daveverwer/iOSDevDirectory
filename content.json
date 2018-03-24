@@ -1044,6 +1044,13 @@
             "twitter_url": "https://twitter.com/ccgus"
           },
           {
+            "title": "The Swift Teacher",
+            "author": "Brian Foutty",
+            "site_url": "https://www.swiftteacher.org",
+            "feed_url": "https://www.swiftteacher.org/swift-teacher/?format=rss",
+            "twitter_url": "https://twitter.com/bfoutty"
+          },
+          {
             "title": "The.Swift.Dev.",
             "author": "Tibor Bödecs",
             "site_url": "https://theswiftdev.com/",
@@ -1152,13 +1159,6 @@
             "site_url": "https://medium.com/@sunshinejr",
             "feed_url": "https://medium.com/feed/@sunshinejr",
             "twitter_url": "https://twitter.com/thesunshinejr"
-          },
-          {
-            "title": "The Swift Teacher",
-            "author": "Brian Foutty",
-            "site_url": "https://www.swiftteacher.org",
-            "feed_url": "https://www.swiftteacher.org/swift-teacher/?format=rss",
-            "twitter_url": "https://twitter.com/bfoutty"
           }
         ]
       },
@@ -1728,7 +1728,7 @@
           },
           {
             "title": "Antitypical",
-            "author": "Rob Rix\u200e",
+            "author": "Rob Rix‎",
             "site_url": "http://antitypical.com/",
             "feed_url": "http://antitypical.com/feed.xml",
             "twitter_url": "https://twitter.com/rob_rix"
