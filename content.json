@@ -48,6 +48,13 @@
             "twitter_url": "https://twitter.com/aaronvegh"
           },
           {
+            "title": "Accidentally in Code",
+            "author": "Cate Huston",
+            "site_url": "https://cate.blog/tag/ios/",
+            "feed_url": "https://cate.blog/feed/",
+            "twitter_url": "https://twitter.com/catehstn/"
+          }
+          {
             "title": "Agostini.Tech",
             "author": "Dejan Agostini",
             "site_url": "https://agostini.tech",
@@ -88,6 +95,13 @@
             "site_url": "https://nomothetis.svbtle.com",
             "feed_url": "https://nomothetis.svbtle.com/feed",
             "twitter_url": "https://twitter.com/nomothetis"
+          },
+          {
+            "title": "All The Flow",
+            "author": "Agnes Vasarhelyi",
+            "site_url": "https://blog.alltheflow.com",
+            "feed_url": "https://blog.alltheflow.com/rss/",
+            "twitter_url": "https://twitter.com/alltheflowblog"
           },
           {
             "title": "Allen Pike's Blog",
