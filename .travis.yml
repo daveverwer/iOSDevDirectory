@@ -1,0 +1,5 @@
+language: ruby
+rvm: 2.2.2
+install:
+  - bundle install --path vendor/bundle
+script: bundle exec ruby validation.rb
