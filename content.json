@@ -1605,13 +1605,6 @@
             "feed_url": "https://itunes.apple.com/gb/podcast/the-ideveloper-podcast/id400664935?mt=2"
           },
           {
-            "title": "iOhYes",
-            "author": "John Sextro and Darryl Thomas",
-            "site_url": "http://5by5.tv/iohyes",
-            "feed_url": "http://feeds.5by5.tv/iohyes",
-            "twitter_url": "https://twitter.com/iOhYesPodcast"
-          },
-          {
             "title": "Inside iOS Dev",
             "author": "Andrew Rohn, Alex Bush",
             "site_url": "http://insideiosdev.com",
