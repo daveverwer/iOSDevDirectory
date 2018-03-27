@@ -1292,6 +1292,13 @@
             "site_url": "https://dancounsell.com",
             "feed_url": "https://dancounsell.com/blog/feed/",
             "twitter_url": "https://twitter.com/dancounsell"
+          },
+          {
+            "title": "Warp your mobile development",
+            "author": "Thibault Wittemberg",
+            "site_url": "http://blog.warpfactor.io",
+            "feed_url": "http://blog.warpfactor.io/feed.xml",
+            "twitter_url": "https://twitter.com/thwittem"
           }
         ]
       },
