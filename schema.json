@@ -1,0 +1,81 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "language",
+      "title",
+      "categories"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "language": {
+        "type": "string"
+      },
+      "title": {
+        "type": "string"
+      },
+      "categories": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "title",
+            "slug",
+            "description",
+            "sites"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "title": {
+              "type": "string"
+            },
+            "slug": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "sites": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "title",
+                  "author",
+                  "site_url",
+                  "feed_url"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "title": {
+                    "type": "string"
+                  },
+                  "author": {
+                    "type": "string"
+                  },
+                  "site_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "feed_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "twitter_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "weibo_url": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
