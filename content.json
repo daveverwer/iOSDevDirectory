@@ -793,13 +793,6 @@
             "twitter_url": "https://twitter.com/mikeash"
           },
           {
-            "title": "NSProgrammer",
-            "author": "Nolan O'Brien",
-            "site_url": "http://nsprogrammer.com",
-            "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
-            "twitter_url": "https://twitter.com/NSProgrammer"
-          },
-          {
             "title": "Objective-See's Blog",
             "author": "Patrick Wardle",
             "site_url": "https://www.objective-see.com/blog.html",
@@ -1893,6 +1886,13 @@
             "site_url": "http://nshipster.com",
             "feed_url": "http://nshipster.com/feed.xml",
             "twitter_url": "https://twitter.com/nshipster"
+          },
+          {
+            "title": "NSProgrammer",
+            "author": "Nolan O'Brien",
+            "site_url": "http://nsprogrammer.com",
+            "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
+            "twitter_url": "https://twitter.com/NSProgrammer"
           },
           {
             "title": "that thing in swift",
