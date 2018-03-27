@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/daveverwer/iOSDevDirectory.svg?branch=master)](https://travis-ci.org/daveverwer/iOSDevDirectory)
+
 # iOS Dev Directory
 
 This repository contains the source JSON data for the iOS Dev Directory which is located at https://iosdevdirectory.com.
