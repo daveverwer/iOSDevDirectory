@@ -2044,5 +2044,25 @@
         ]
       }
     ]
+  },
+  {
+    "language": "fr",
+    "title": "French Language",
+    "categories": [
+      {
+        "title": "Blogs sur le développement iOS",
+        "slug": "development",
+        "description": "Pour Swift comme pour Objective-C, qu’il s’agisse d’architecture d’appli ou de programmation d’UI. À partir du moment où il s’agit de développement iOS, c’est le bon endroit.",
+        "sites": [
+          {
+            "title": "Blog de Vincent Tourraine",
+            "author": "Vincent Tourraine",
+            "site_url": "https://www.vtourraine.net/blog/tags/dev",
+            "feed_url": "https://www.vtourraine.net/blog/feed.xml",
+            "twitter_url": "https://twitter.com/vtourraine"
+          }
+        ]
+      }
+    ]
   }
 ]
