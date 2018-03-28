@@ -1881,6 +1881,13 @@
             "twitter_url": "https://twitter.com/nshipster"
           },
           {
+            "title": "NSProgrammer",
+            "author": "Nolan O'Brien",
+            "site_url": "http://nsprogrammer.com",
+            "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
+            "twitter_url": "https://twitter.com/NSProgrammer"
+          },
+          {
             "title": "that thing in swift",
             "author": "Nick O'Neill",
             "site_url": "https://thatthinginswift.com/",
