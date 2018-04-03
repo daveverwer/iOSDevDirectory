@@ -1328,6 +1328,13 @@
             "twitter_url": "https://twitter.com/KevinAtAppra"
           },
           {
+            "title": "Augmented Code Blog",
+            "author": "Toomas Vahter",
+            "site_url": "https://augmentedcode.io/blog/",
+            "feed_url": "https://augmentedcode.io/blog/feed/",
+            "twitter_url": "https://twitter.com/toomasvahter"
+          },
+          {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
             "site_url": "https://www.bignerdranch.com/blog/categories/ios/",
