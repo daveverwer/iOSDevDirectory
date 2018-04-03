@@ -1674,6 +1674,20 @@
         ]
       },
       {
+        "title": "iOS Development Newsletters",
+        "slug": "newsletters",
+        "description": "Newsletters or round up blogs covering iOS Development.",
+        "sites": [
+          {
+            "title": "iOS Dev Weekly",
+            "author": "Dave Verwer",
+            "site_url": "https://iosdevweekly.com/",
+            "feed_url": "https://iosdevweekly.com/issues.rss",
+            "twitter_url": "https://twitter.com/iosdevweekly"
+          }
+        ]
+      },
+      {
         "title": "iOS Development YouTube Channels",
         "slug": "youtube",
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
