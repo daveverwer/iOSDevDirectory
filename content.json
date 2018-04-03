@@ -1141,6 +1141,13 @@
             "twitter_url": "https://twitter.com/johnbrayton"
           },
           {
+            "title": "Warp your mobile development",
+            "author": "Thibault Wittemberg",
+            "site_url": "http://blog.warpfactor.io",
+            "feed_url": "http://blog.warpfactor.io/feed.xml",
+            "twitter_url": "https://twitter.com/thwittem"
+          },
+          {
             "title": "Wayne Bishop's Blog",
             "author": "Wayne Bishop",
             "site_url": "https://extras.waynewbishop.com/swift",
@@ -1180,13 +1187,6 @@
             "site_url": "https://medium.com/@sunshinejr",
             "feed_url": "https://medium.com/feed/@sunshinejr",
             "twitter_url": "https://twitter.com/thesunshinejr"
-          },
-          {
-            "title": "Warp your mobile development",
-            "author": "Thibault Wittemberg",
-            "site_url": "http://blog.warpfactor.io",
-            "feed_url": "http://blog.warpfactor.io/feed.xml",
-            "twitter_url": "https://twitter.com/thwittem"
           }
         ]
       },
