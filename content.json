@@ -1030,6 +1030,13 @@
             "twitter_url": "https://twitter.com/swiftingio"
           },
           {
+            "title": "Swift World",
+            "author": "Peng Guo",
+            "site_url": "https://medium.com/@NilStack/",
+            "feed_url": "https://medium.com/feed/@NilStack",
+            "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
             "title": "swiftyjimmy.com",
             "author": "Jussi Suojanen",
             "site_url": "http://swiftyjimmy.com",
