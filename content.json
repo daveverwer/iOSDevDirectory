@@ -159,6 +159,13 @@
             "twitter_url": "https://twitter.com/ashfurrow"
           },
           {
+            "title": "AudioKit Blog",
+            "author": "AudioKit",
+            "site_url": "https://audiokitpro.com/blog/",
+            "feed_url": "https://audiokitpro.com/feed/",
+            "twitter_url": "https://twitter.com/audiokitpro"
+          },
+          {
             "title": "AusiOS",
             "author": "Moe Burney",
             "site_url": "http://ausios.com",
