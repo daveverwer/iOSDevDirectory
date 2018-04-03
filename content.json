@@ -1189,10 +1189,10 @@
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
-            "title": "Łukasz Mróz on Medium",
+            "title": "Sunshinejr's Blog",
             "author": "Łukasz Mróz",
-            "site_url": "https://medium.com/@sunshinejr",
-            "feed_url": "https://medium.com/feed/@sunshinejr",
+            "site_url": "http://sunshinejr.com",
+            "feed_url": "http://sunshinejr.com/index.xml",
             "twitter_url": "https://twitter.com/thesunshinejr"
           }
         ]
