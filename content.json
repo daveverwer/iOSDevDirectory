@@ -1440,6 +1440,13 @@
             "twitter_url": "https://twitter.com/netguru"
           },
           {
+            "title": "Novoda Blog",
+            "author": "Novoda Team",
+            "site_url": "https://blog.novoda.com/",
+            "feed_url": "https://blog.novoda.com/rss/",
+            "twitter_url": "https://twitter.com/novoda"
+          },
+          {
             "title": "objc.io",
             "author": "objc.io",
             "site_url": "https://www.objc.io/blog",
