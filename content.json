@@ -1380,7 +1380,7 @@
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
-            "feed_url": "https://fabric.io/blog/blog?format=RSS",
+            "feed_url": "https://fabric.io/blog?format=RSS",
             "twitter_url": "https://twitter.com/fabric"
           },
           {
