@@ -250,6 +250,13 @@
             "twitter_url": "https://twitter.com/chriseidhof"
           },
           {
+            "title": "Coach Frank",
+            "author": "Frank Courville",
+            "site_url": "http://www.ioscoachfrank.com",
+            "feed_url": "http://www.ioscoachfrank.com/feed/atom.xml",
+            "twitter_url": "https://twitter.com/frankacy"
+          },
+          {
             "title": "Cocoa Controls",
             "author": "Aaron Brethorst and Rob Chipperfield",
             "site_url": "http://www.cocoacontrols.com",
