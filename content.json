@@ -159,6 +159,13 @@
             "twitter_url": "https://twitter.com/ashfurrow"
           },
           {
+            "title": "AudioKit Blog",
+            "author": "AudioKit",
+            "site_url": "https://audiokitpro.com/blog/",
+            "feed_url": "https://audiokitpro.com/feed/",
+            "twitter_url": "https://twitter.com/audiokitpro"
+          },
+          {
             "title": "AusiOS",
             "author": "Moe Burney",
             "site_url": "http://ausios.com",
@@ -856,13 +863,6 @@
             "twitter_url": "https://twitter.com/pepibumur"
           },
           {
-            "title": "Pragmatic Swift",
-            "author": "Swiss Mobile Developers Association",
-            "site_url": "http://pragmaticswift.com/",
-            "feed_url": "http://pragmaticswift.com/feed.xml",
-            "twitter_url": "https://twitter.com/pragmaswift"
-          },
-          {
             "title": "Quality Coding",
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
@@ -1002,6 +1002,13 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
+            "title": "Sunshinejr's Blog",
+            "author": "Łukasz Mróz",
+            "site_url": "http://sunshinejr.com",
+            "feed_url": "http://sunshinejr.com/index.xml",
+            "twitter_url": "https://twitter.com/thesunshinejr"
+          },
+          {
             "title": "Super Easy Apps",
             "author": "Paul Solt",
             "site_url": "http://blog.supereasyapps.com/",
@@ -1120,6 +1127,13 @@
             "twitter_url": "https://twitter.com/tonyarnold"
           },
           {
+            "title": "Two Minute iOS",
+            "author": "Damien Laughton",
+            "site_url": "https://medium.com/@dfplaughton",
+            "feed_url": "https://medium.com/feed/@dfplaughton",
+            "twitter_url": "https://twitter.com/dfplaughton"
+          },
+          {
             "title": "Umberto Raimondi's Blog",
             "author": "Umberto Raimondi",
             "site_url": "https://www.uraimo.com",
@@ -1146,6 +1160,13 @@
             "site_url": "https://www.virtualsanity.com/",
             "feed_url": "https://www.virtualsanity.com/feed/",
             "twitter_url": "https://twitter.com/johnbrayton"
+          },
+          {
+            "title": "Warp your mobile development",
+            "author": "Thibault Wittemberg",
+            "site_url": "http://blog.warpfactor.io",
+            "feed_url": "http://blog.warpfactor.io/feed.xml",
+            "twitter_url": "https://twitter.com/thwittem"
           },
           {
             "title": "Wayne Bishop's Blog",
@@ -1180,20 +1201,6 @@
             "site_url": "https://www.writingontablets.com",
             "feed_url": "https://writingontablets.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
-          },
-          {
-            "title": "Łukasz Mróz on Medium",
-            "author": "Łukasz Mróz",
-            "site_url": "https://medium.com/@sunshinejr",
-            "feed_url": "https://medium.com/feed/@sunshinejr",
-            "twitter_url": "https://twitter.com/thesunshinejr"
-          },
-          {
-            "title": "Warp your mobile development",
-            "author": "Thibault Wittemberg",
-            "site_url": "http://blog.warpfactor.io",
-            "feed_url": "http://blog.warpfactor.io/feed.xml",
-            "twitter_url": "https://twitter.com/thwittem"
           }
         ]
       },
@@ -1335,6 +1342,13 @@
             "twitter_url": "https://twitter.com/KevinAtAppra"
           },
           {
+            "title": "Augmented Code Blog",
+            "author": "Toomas Vahter",
+            "site_url": "https://augmentedcode.io/blog/",
+            "feed_url": "https://augmentedcode.io/blog/feed/",
+            "twitter_url": "https://twitter.com/toomasvahter"
+          },
+          {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
             "site_url": "https://www.bignerdranch.com/blog/categories/ios/",
@@ -1373,7 +1387,7 @@
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
-            "feed_url": "https://fabric.io/blog/blog?format=RSS",
+            "feed_url": "https://fabric.io/blog?format=RSS",
             "twitter_url": "https://twitter.com/fabric"
           },
           {
@@ -1431,6 +1445,13 @@
             "site_url": "https://www.netguru.co/codestories/topic/ios",
             "feed_url": "https://www.netguru.co/codestories/topic/ios/rss.xml",
             "twitter_url": "https://twitter.com/netguru"
+          },
+          {
+            "title": "Novoda Blog",
+            "author": "Novoda Team",
+            "site_url": "https://blog.novoda.com/",
+            "feed_url": "https://blog.novoda.com/rss/",
+            "twitter_url": "https://twitter.com/novoda"
           },
           {
             "title": "objc.io",
@@ -1670,6 +1691,27 @@
             "author": "Marco Arment and David Smith",
             "site_url": "https://www.relay.fm/radar",
             "feed_url": "https://www.relay.fm/radar/feed"
+          }
+        ]
+      },
+      {
+        "title": "iOS Development Newsletters",
+        "slug": "newsletters",
+        "description": "Newsletters or round up blogs covering iOS Development.",
+        "sites": [
+          {
+            "title": "iOS Dev Weekly",
+            "author": "Dave Verwer",
+            "site_url": "https://iosdevweekly.com/",
+            "feed_url": "https://iosdevweekly.com/issues.rss",
+            "twitter_url": "https://twitter.com/iosdevweekly"
+          },
+          {
+            "title": "Swift World",
+            "author": "Peng Guo",
+            "site_url": "https://medium.com/@NilStack/",
+            "feed_url": "https://medium.com/feed/@NilStack",
+            "twitter_url": "https://twitter.com/NilStack"
           }
         ]
       },
@@ -2047,6 +2089,26 @@
             "site_url": "https://pilgwon.github.io/blog/",
             "feed_url": "https://pilgwon.github.io/blog/feed.xml",
             "twitter_url": "https://twitter.com/pilgwon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "title": "French Language",
+    "categories": [
+      {
+        "title": "Blogs sur le développement iOS",
+        "slug": "development",
+        "description": "Pour Swift comme pour Objective-C, qu’il s’agisse d’architecture d’appli ou de programmation d’UI. À partir du moment où il s’agit de développement iOS, c’est le bon endroit.",
+        "sites": [
+          {
+            "title": "Blog de Vincent Tourraine",
+            "author": "Vincent Tourraine",
+            "site_url": "https://www.vtourraine.net/blog/tags/dev",
+            "feed_url": "https://www.vtourraine.net/blog/feed.xml",
+            "twitter_url": "https://twitter.com/vtourraine"
           }
         ]
       }
