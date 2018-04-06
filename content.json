@@ -1187,6 +1187,13 @@
             "site_url": "http://sunshinejr.com",
             "feed_url": "http://sunshinejr.com/index.xml",
             "twitter_url": "https://twitter.com/thesunshinejr"
+          },
+          {
+            "title": "Two Minute iOS",
+            "author": "Damien Laughton",
+            "site_url": "https://medium.com/@dfplaughton",
+            "feed_url": "https://medium.com/feed/@dfplaughton",
+            "twitter_url": "https://twitter.com/dfplaughton"
           }
         ]
       },
