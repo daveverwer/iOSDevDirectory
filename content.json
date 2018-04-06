@@ -995,6 +995,13 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
+            "title": "Sunshinejr's Blog",
+            "author": "Łukasz Mróz",
+            "site_url": "http://sunshinejr.com",
+            "feed_url": "http://sunshinejr.com/index.xml",
+            "twitter_url": "https://twitter.com/thesunshinejr"
+          },
+          {
             "title": "Super Easy Apps",
             "author": "Paul Solt",
             "site_url": "http://blog.supereasyapps.com/",
@@ -1113,6 +1120,13 @@
             "twitter_url": "https://twitter.com/tonyarnold"
           },
           {
+            "title": "Two Minute iOS",
+            "author": "Damien Laughton",
+            "site_url": "https://medium.com/@dfplaughton",
+            "feed_url": "https://medium.com/feed/@dfplaughton",
+            "twitter_url": "https://twitter.com/dfplaughton"
+          },
+          {
             "title": "Umberto Raimondi's Blog",
             "author": "Umberto Raimondi",
             "site_url": "https://www.uraimo.com",
@@ -1180,20 +1194,6 @@
             "site_url": "https://www.writingontablets.com",
             "feed_url": "https://writingontablets.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
-          },
-          {
-            "title": "Sunshinejr's Blog",
-            "author": "Łukasz Mróz",
-            "site_url": "http://sunshinejr.com",
-            "feed_url": "http://sunshinejr.com/index.xml",
-            "twitter_url": "https://twitter.com/thesunshinejr"
-          },
-          {
-            "title": "Two Minute iOS",
-            "author": "Damien Laughton",
-            "site_url": "https://medium.com/@dfplaughton",
-            "feed_url": "https://medium.com/feed/@dfplaughton",
-            "twitter_url": "https://twitter.com/dfplaughton"
           }
         ]
       },
