@@ -1148,6 +1148,13 @@
             "twitter_url": "https://twitter.com/kharrison"
           },
           {
+            "title": "Vapor on Medium",
+            "author": "Vapor Team",
+            "site_url": "https://medium.com/@codevapor",
+            "feed_url": "https://medium.com/feed/@codevapor",
+            "twitter_url": "https://twitter.com/codevapor"
+          },
+          {
             "title": "Virtual Sanity",
             "author": "John Brayton",
             "site_url": "https://www.virtualsanity.com/",
