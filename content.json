@@ -1342,6 +1342,13 @@
             "twitter_url": "https://twitter.com/appcode"
           },
           {
+            "title": "Appfigures Blog",
+            "author": "Appfigures Team",
+            "site_url": "https://blog.appfigures.com/",
+            "feed_url": "https://blog.appfigures.com/feed/",
+            "twitter_url": "https://twitter.com/appfigures"
+          },
+          {
             "title": "Appracatappra Blog",
             "author": "Kevin Mullins",
             "site_url": "https://appracatappra.com/category/blog/",
