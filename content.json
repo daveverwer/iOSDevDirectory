@@ -884,6 +884,13 @@
             "twitter_url": "https://twitter.com/qcoding"
           },
           {
+            "title": "Race Condition",
+            "author": "Josh Adams",
+            "site_url": "http://racecondition.software/",
+            "feed_url": "http://racecondition.software/feed.xml",
+            "twitter_url": "https://twitter.com/vermont42"
+          },
+          {
             "title": "radex.io",
             "author": "Radek Pietruszewski",
             "site_url": "http://radex.io",
