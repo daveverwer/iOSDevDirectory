@@ -396,6 +396,13 @@
             "twitter_url": "https://twitter.com/dazeend"
           },
           {
+            "title": "dealloc",
+            "author": "Jordan Rose",
+            "site_url": "https://belkadan.com/blog/",
+            "feed_url": "https://belkadan.com/blog/atom",
+            "twitter_url": "https://twitter.com/UINT_MIN"
+          },
+          {
             "title": "Denys Zhadanov on Medium",
             "author": "Denys Zhadanov",
             "site_url": "https://denzhadanov.com/",
