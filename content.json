@@ -1538,6 +1538,13 @@
             "twitter_url": "https://twitter.com/jtbrown"
           },
           {
+            "title": "Rosberry Blog",
+            "author": "Rosberry Team",
+            "site_url": "https://medium.com/rosberryapps/tagged/ios",
+            "feed_url": "https://medium.com/feed/rosberryapps/tagged/ios",
+            "twitter_url": "https://twitter.com/RosberryApps"
+          },
+          {
             "title": "Roundwall Software",
             "author": "Samuel Goodwin",
             "site_url": "https://roundwallsoftware.com",
