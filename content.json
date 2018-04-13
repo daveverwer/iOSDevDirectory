@@ -696,6 +696,13 @@
             "twitter_url": "https://twitter.com/jakemarsh"
           },
           {
+            "title": "Loic Land",
+            "author": "Loïc Lecrenier",
+            "site_url": "https://loic.land/",
+            "feed_url": "https://loic.land/feed.xml",
+            "twitter_url": "https://twitter.com/loiclec"
+          },
+          {
             "title": "Low Level",
             "author": "Ryan Peterson",
             "site_url": "http://ryanipete.com/blog/",
