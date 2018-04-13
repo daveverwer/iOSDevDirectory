@@ -1009,6 +1009,13 @@
             "twitter_url": "https://twitter.com/sgaw"
           },
           {
+            "title": "Slava Pestov on Medium",
+            "author": "Slava Pestov",
+            "site_url": "https://medium.com/@slavapestov",
+            "feed_url": "https://medium.com/feed/@slavapestov",
+            "twitter_url": "https://twitter.com/slava_pestov"
+          },
+          {
             "title": "Soroush Khanlou's Blog",
             "author": "Soroush Khanlou",
             "site_url": "http://khanlou.com/",
