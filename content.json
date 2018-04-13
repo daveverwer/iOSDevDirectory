@@ -919,6 +919,13 @@
             "twitter_url": "https://twitter.com/radexp"
           },
           {
+            "title": "Raul Riera on Medium",
+            "author": "Raul Riera",
+            "site_url": "https://medium.com/@raulriera/",
+            "feed_url": "https://medium.com/feed/@raulriera",
+            "twitter_url": "https://twitter.com/raulriera"
+          },
+          {
             "title": "Ray Wenderlich",
             "author": "Ray Wenderlich and friends",
             "site_url": "https://www.raywenderlich.com",
