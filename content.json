@@ -354,6 +354,13 @@
             "twitter_url": "https://twitter.com/ikenndac"
           },
           {
+            "title": "Daniel Tull's Blog",
+            "author": "Daniel Tull",
+            "site_url": "http://danieltull.co.uk/blog/",
+            "feed_url": "http://feeds.feedburner.com/DanielTull",
+            "twitter_url": "https://twitter.com/danielctull"
+          },
+          {
             "title": "Daniele Margutti's Blog",
             "author": "Daniele Margutti",
             "site_url": "http://danielemargutti.com",
@@ -1893,13 +1900,6 @@
             "site_url": "http://blog.wilshipley.com/",
             "feed_url": "http://blog.wilshipley.com/rss.xml",
             "twitter_url": "https://twitter.com/wilshipley"
-          },
-          {
-            "title": "Daniel Tull's Blog",
-            "author": "Daniel Tull",
-            "site_url": "http://danieltull.co.uk/blog/",
-            "feed_url": "http://feeds.feedburner.com/DanielTull",
-            "twitter_url": "https://twitter.com/danielctull"
           },
           {
             "title": "Egor Tolstoy's Blog",
