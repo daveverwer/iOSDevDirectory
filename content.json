@@ -1986,6 +1986,19 @@
             "twitter_url": "https://twitter.com/mengto"
           },
           {
+            "title": "The Mental Blog",
+            "author": "Drew McCormack",
+            "site_url": "http://mentalfaculty.tumblr.com",
+            "feed_url": "http://mentalfaculty.tumblr.com/rss",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
+            "title": "Theocacao",
+            "author": "Scott Stevenson",
+            "site_url": "http://theocacao.com",
+            "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
             "title": "Nevyn Bengtsson's blog",
             "author": "Nevyn Bengtsson",
             "site_url": "http://overooped.com/",
