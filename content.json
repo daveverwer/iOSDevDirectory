@@ -1752,6 +1752,13 @@
             "twitter_url": "https://twitter.com/insideiosdev"
           },
           {
+            "title": "iOS Dev Break",
+            "author": "Evan K. Stone",
+            "site_url": "http://iosdevbreak.com",
+            "feed_url": "http://iosdevbreak.libsyn.com/rss",
+            "twitter_url": "https://twitter.com/iosdevbreak"
+          },
+          {
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://devchat.tv/iphreaks",
