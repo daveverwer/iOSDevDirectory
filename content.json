@@ -118,6 +118,13 @@
             "twitter_url": "https://twitter.com/apike"
           },
           {
+            "title": "Alloc-Init",
+            "author": "Weston Hanners",
+            "site_url": "https://www.alloc-init.com"
+            "feed_url": "https://www.alloc-init.com/feed",
+            "twitter_url": "https://twitter.com/westonhanners"
+          },
+          {
             "title": "Andrew Bancroft's Blog",
             "author": "Andrew Bancroft",
             "site_url": "https://www.andrewcbancroft.com",
