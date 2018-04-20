@@ -55,6 +55,13 @@
             "twitter_url": "https://twitter.com/catehstn/"
           },
           {
+            "title": "ackermann.io",
+            "author": "Ryan Ackermann",
+            "site_url": "https://ackermann.io",
+            "feed_url": "https://ackermann.io/feed",
+            "twitter_url": "https://twitter.com/naturaln0va"
+          },
+          {
             "title": "Agostini.Tech",
             "author": "Dejan Agostini",
             "site_url": "https://agostini.tech",
@@ -109,6 +116,13 @@
             "site_url": "http://www.allenpike.com/",
             "feed_url": "http://www.allenpike.com/feed/",
             "twitter_url": "https://twitter.com/apike"
+          },
+          {
+            "title": "Alloc-Init",
+            "author": "Weston Hanners",
+            "site_url": "https://www.alloc-init.com",
+            "feed_url": "https://www.alloc-init.com/feed",
+            "twitter_url": "https://twitter.com/westonhanners"
           },
           {
             "title": "Andrew Bancroft's Blog",
@@ -640,6 +654,13 @@
             "twitter_url": "https://twitter.com/joemasilotti"
           },
           {
+            "title": "johnyorke",
+            "author": "John Yorke",
+            "site_url": "https://johnyorke.me/tagged/swift",
+            "feed_url": "https://medium.com/feed/johnyorke/tagged/swift",
+            "twitter_url": "https://twitter.com/johnyorke"
+          },
+          {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
             "site_url": "https://kenb.us/",
@@ -1093,6 +1114,13 @@
             "twitter_url": "https://twitter.com/johnsundell"
           },
           {
+            "title": "Swift Post",
+            "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
+            "site_url": "https://theswiftpost.co",
+            "feed_url": "https://theswiftpost.co/feed/",
+            "twitter_url": "https://twitter.com/theswiftpostco"
+          },
+          {
             "title": "Swift Unboxed",
             "author": "Greg Heo",
             "site_url": "https://swiftunboxed.com/",
@@ -1105,13 +1133,6 @@
             "site_url": "https://swifting.io",
             "feed_url": "https://swifting.io/feed/",
             "twitter_url": "https://twitter.com/swiftingio"
-          },
-          {
-            "title": "Swift Post",
-            "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
-            "site_url": "https://theswiftpost.co",
-            "feed_url": "https://theswiftpost.co/feed/",
-            "twitter_url": "https://twitter.com/theswiftpostco"
           },
           {
             "title": "swiftyjimmy.com",
@@ -2014,11 +2035,32 @@
             "twitter_url": "https://twitter.com/NSProgrammer"
           },
           {
+            "title": "Sunset Lake Software",
+            "author": "Brad Larson",
+            "site_url": "http://www.sunsetlakesoftware.com/blog",
+            "feed_url": "http://www.sunsetlakesoftware.com/blog/rss.xml/rss",
+            "twitter_url": "https://twitter.com/bradlarson"
+          },
+          {
             "title": "that thing in swift",
             "author": "Nick O'Neill",
             "site_url": "https://thatthinginswift.com/",
             "feed_url": "https://thatthinginswift.com/index.xml",
             "twitter_url": "https://twitter.com/nickoneill"
+          },
+          {
+            "title": "The Mental Blog",
+            "author": "Drew McCormack",
+            "site_url": "http://mentalfaculty.tumblr.com",
+            "feed_url": "http://mentalfaculty.tumblr.com/rss",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
+            "title": "Theocacao",
+            "author": "Scott Stevenson",
+            "site_url": "http://theocacao.com",
+            "feed_url": "http://theocacao.com/index.rss",
+            "twitter_url": "https://twitter.com/scottstevenson"
           }
         ]
       }
@@ -2217,5 +2259,5 @@
             ]
         }
     ]
-},
+  },
 ]
