@@ -1107,6 +1107,13 @@
             "twitter_url": "https://twitter.com/swiftingio"
           },
           {
+            "title": "Swift Post",
+            "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
+            "site_url": "https://theswiftpost.co",
+            "feed_url": "https://theswiftpost.co/feed/",
+            "twitter_url": "https://twitter.com/theswiftpostco"
+          },
+          {
             "title": "swiftyjimmy.com",
             "author": "Jussi Suojanen",
             "site_url": "http://swiftyjimmy.com",
