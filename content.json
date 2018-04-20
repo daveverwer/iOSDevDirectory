@@ -640,6 +640,13 @@
             "twitter_url": "https://twitter.com/joemasilotti"
           },
           {
+            "title": "johnyorke",
+            "author": "John Yorke",
+            "site_url": "https://johnyorke.me/tagged/swift",
+            "feed_url": "https://johnyorke.me/tagged/swift",
+            "twitter_url": "https://twitter.com/johnyorke"
+          },
+          {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
             "site_url": "https://kenb.us/",
