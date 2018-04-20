@@ -55,6 +55,13 @@
             "twitter_url": "https://twitter.com/catehstn/"
           },
           {
+            "title": "ackermann.io",
+            "author": "Ryan Ackermann",
+            "site_url": "https://ackermann.io",
+            "feed_url": "https://ackermann.io/feed",
+            "twitter_url": "https://twitter.com/naturaln0va"
+          },
+          {
             "title": "Agostini.Tech",
             "author": "Dejan Agostini",
             "site_url": "https://agostini.tech",
