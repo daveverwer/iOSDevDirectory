@@ -1197,6 +1197,13 @@
             "twitter_url": "https://twitter.com/benjaminencz"
           },
           {
+            "title": "Timac",
+            "author": "Alexandre Colucci",
+            "site_url": "https://blog.timac.org",
+            "feed_url": "https://blog.timac.org/index.xml",
+            "twitter_url": "https://twitter.com/timacfr"
+          },
+          {
             "title": "Time.code()",
             "author": "Chris Adamson",
             "site_url": "http://subfurther.com/blog/",
