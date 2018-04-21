@@ -1746,6 +1746,13 @@
             "twitter_url": "https://twitter.com/coreint"
           },
           {
+            "title": "Fatal Error",
+            "author": "Soroush Khanlou and Chris Dzombak",
+            "site_url": "https://fatalerror.fm",
+            "feed_url": "https://fatalerror.fm/episodes?format=RSS",
+            "twitter_url": "https://twitter.com/fatalerrorfm"
+          },
+          {
             "title": "iDeveloper Podcast",
             "author": "Steve Scott and John Fox",
             "site_url": "http://ideveloper.co/",
