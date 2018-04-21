@@ -2260,5 +2260,25 @@
         ]
       }
     ]
+  },
+  {
+    "language": "zh-tw",
+    "title": "Traditional Chinese Language",
+    "categories": [
+        {
+            "title": "正體中文iOS部落格",
+            "slug": "開發",
+            "description": "來自台灣的Swift、Objective-C開發者，我們討論架構、語法、應用、與任何跟iOS開發相關的主題",
+            "sites": [
+                {
+                    "title": "鍵盤藍綠藻Neo",
+                    "author": "ShihTing Huang",
+                    "site_url": "https://koromiko1104.wordpress.com/",
+                    "feed_url": "https://koromiko1104.wordpress.com/comments/feed/",
+                    "twitter_url": "https://twitter.com/KoromikoNeo"
+                }
+            ]
+        }
+    ]
   }
 ]
