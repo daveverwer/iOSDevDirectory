@@ -1197,6 +1197,13 @@
             "twitter_url": "https://twitter.com/benjaminencz"
           },
           {
+            "title": "Timac",
+            "author": "Alexandre Colucci",
+            "site_url": "https://blog.timac.org",
+            "feed_url": "https://blog.timac.org/index.xml",
+            "twitter_url": "https://twitter.com/timacfr"
+          },
+          {
             "title": "Time.code()",
             "author": "Chris Adamson",
             "site_url": "http://subfurther.com/blog/",
@@ -1739,6 +1746,13 @@
             "twitter_url": "https://twitter.com/coreint"
           },
           {
+            "title": "Fatal Error",
+            "author": "Soroush Khanlou and Chris Dzombak",
+            "site_url": "https://fatalerror.fm",
+            "feed_url": "https://fatalerror.fm/episodes?format=RSS",
+            "twitter_url": "https://twitter.com/fatalerrorfm"
+          },
+          {
             "title": "iDeveloper Podcast",
             "author": "Steve Scott and John Fox",
             "site_url": "http://ideveloper.co/",
@@ -1750,6 +1764,13 @@
             "site_url": "http://insideiosdev.com",
             "feed_url": "https://rss.simplecast.com/podcasts/2720/rss",
             "twitter_url": "https://twitter.com/insideiosdev"
+          },
+          {
+            "title": "iOS Dev Break",
+            "author": "Evan K. Stone",
+            "site_url": "http://iosdevbreak.com",
+            "feed_url": "http://iosdevbreak.libsyn.com/rss",
+            "twitter_url": "https://twitter.com/iosdevbreak"
           },
           {
             "title": "iPhreaks",
