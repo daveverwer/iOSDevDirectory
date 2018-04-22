@@ -1852,6 +1852,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "iOS Goodies",
+            "author": "Marius Constantinescu",
+            "site_url": "http://ios-goodies.com/",
+            "feed_url": "http://ios-goodies.com/rss",
+            "twitter_url": "https://twitter.com/iOSGoodies"
           }
         ]
       },
