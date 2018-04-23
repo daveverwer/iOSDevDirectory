@@ -34,13 +34,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-	          "title": "Technology Makes A Wonderful World",
-	          "author": "Ashish Kakkad",
-	          "site_url": "http://ashishkakkad.com",
-	          "feed_url": "http://ashishkakkad.com/feed/",
-	          "twitter_url": "https://twitter.com/ashishkakkad8"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -305,18 +298,18 @@
             "twitter_url": "https://twitter.com/cocoawithlove"
           },
           {
-            "title": "Cocoacasts",
-            "author": "Bart Jacobs",
-            "site_url": "https://cocoacasts.com/blog",
-            "feed_url": "https://cocoacasts.com/feed",
-            "twitter_url": "https://twitter.com/_bartjacobs"
-          },
-          {
             "title": "Cocoa, Coffee and Life",
             "author": "Anindya Sengupta",
             "site_url": "https://cocoacaffeine.wordpress.com",
             "feed_url": "https://cocoacaffeine.wordpress.com/feed/",
             "twitter_url": "https://twitter.com/anindyas"
+          },
+          {
+            "title": "Cocoacasts",
+            "author": "Bart Jacobs",
+            "site_url": "https://cocoacasts.com/blog",
+            "feed_url": "https://cocoacasts.com/feed",
+            "twitter_url": "https://twitter.com/_bartjacobs"
           },
           {
             "title": "Cocoanetics",
@@ -1156,6 +1149,13 @@
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
           {
+            "title": "Technology Makes A Wonderful World",
+            "author": "Ashish Kakkad",
+            "site_url": "http://ashishkakkad.com",
+            "feed_url": "http://ashishkakkad.com/feed/",
+            "twitter_url": "https://twitter.com/ashishkakkad8"
+          },
+          {
             "title": "The Always Right Institute",
             "author": "Helge Heß",
             "site_url": "https://www.alwaysrightinstitute.com/",
@@ -1854,18 +1854,18 @@
             "twitter_url": "https://twitter.com/iosdevweekly"
           },
           {
-            "title": "Swift World",
-            "author": "Peng Guo",
-            "site_url": "https://medium.com/@NilStack/",
-            "feed_url": "https://medium.com/feed/@NilStack",
-            "twitter_url": "https://twitter.com/NilStack"
-          },
-          {
             "title": "iOS Goodies",
             "author": "Marius Constantinescu",
             "site_url": "http://ios-goodies.com/",
             "feed_url": "http://ios-goodies.com/rss",
             "twitter_url": "https://twitter.com/iOSGoodies"
+          },
+          {
+            "title": "Swift World",
+            "author": "Peng Guo",
+            "site_url": "https://medium.com/@NilStack/",
+            "feed_url": "https://medium.com/feed/@NilStack",
+            "twitter_url": "https://twitter.com/NilStack"
           }
         ]
       },
@@ -2286,20 +2286,20 @@
     "language": "zh-tw",
     "title": "Traditional Chinese Language",
     "categories": [
-        {
-            "title": "正體中文iOS部落格",
-            "slug": "開發",
-            "description": "來自台灣的Swift、Objective-C開發者，我們討論架構、語法、應用、與任何跟iOS開發相關的主題",
-            "sites": [
-                {
-                    "title": "鍵盤藍綠藻Neo",
-                    "author": "ShihTing Huang",
-                    "site_url": "https://koromiko1104.wordpress.com/",
-                    "feed_url": "https://koromiko1104.wordpress.com/comments/feed/",
-                    "twitter_url": "https://twitter.com/KoromikoNeo"
-                }
-            ]
-        }
+      {
+        "title": "正體中文iOS部落格",
+        "slug": "開發",
+        "description": "來自台灣的Swift、Objective-C開發者，我們討論架構、語法、應用、與任何跟iOS開發相關的主題",
+        "sites": [
+          {
+            "title": "鍵盤藍綠藻Neo",
+            "author": "ShihTing Huang",
+            "site_url": "https://koromiko1104.wordpress.com/",
+            "feed_url": "https://koromiko1104.wordpress.com/comments/feed/",
+            "twitter_url": "https://twitter.com/KoromikoNeo"
+          }
+        ]
+      }
     ]
   }
 ]
