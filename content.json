@@ -1432,6 +1432,13 @@
             "site_url": "https://dancounsell.com",
             "feed_url": "https://dancounsell.com/blog/feed/",
             "twitter_url": "https://twitter.com/dancounsell"
+          },
+          {
+            "title": "Tenniskeeper - Tennis & Technology",
+            "author": "Christina Lau",
+            "site_url": "https://medium.com/tenniskeeper",
+            "feed_url": "https://medium.com/feed/tenniskeeper",
+            "twitter_url": "https://twitter.com/tennis_keeper"
           }
         ]
       },
