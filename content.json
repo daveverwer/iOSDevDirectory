@@ -2272,18 +2272,18 @@
         "description": "Pour Swift comme pour Objective-C, qu’il s’agisse d’architecture d’appli ou de programmation d’UI. À partir du moment où il s’agit de développement iOS, c’est le bon endroit.",
         "sites": [
           {
-            "title": "Blog de Vincent Tourraine",
-            "author": "Vincent Tourraine",
-            "site_url": "https://www.vtourraine.net/blog/tags/dev",
-            "feed_url": "https://www.vtourraine.net/blog/feed.xml",
-            "twitter_url": "https://twitter.com/vtourraine"
-          },
-          {
             "title": "Blog de l'équipe iOS de PagesJaunes",
             "author": "Equipe tech iOS",
             "site_url": "https://developers.pagesjaunes.fr/tag/ios/",
             "feed_url": "https://developers.pagesjaunes.fr/tag/ios/rss/",
             "twitter_url": "https://twitter.com/YellowTeam_iOS"
+          },
+          {
+            "title": "Blog de Vincent Tourraine",
+            "author": "Vincent Tourraine",
+            "site_url": "https://www.vtourraine.net/blog/tags/dev",
+            "feed_url": "https://www.vtourraine.net/blog/feed.xml",
+            "twitter_url": "https://twitter.com/vtourraine"
           }
         ]
       }
