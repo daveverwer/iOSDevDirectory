@@ -2277,6 +2277,13 @@
             "site_url": "https://www.vtourraine.net/blog/tags/dev",
             "feed_url": "https://www.vtourraine.net/blog/feed.xml",
             "twitter_url": "https://twitter.com/vtourraine"
+          },
+          {
+            "title": "Blog de l'équipe iOS de PagesJaunes",
+            "author": "Equipe tech iOS",
+            "site_url": "https://developers.pagesjaunes.fr/tag/ios/",
+            "feed_url": "https://developers.pagesjaunes.fr/tag/ios/rss/",
+            "twitter_url": "https://twitter.com/YellowTeam_iOS"
           }
         ]
       }
