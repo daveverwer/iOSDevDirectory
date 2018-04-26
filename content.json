@@ -1993,6 +1993,13 @@
             "twitter_url": "https://twitter.com/scotteg"
           },
           {
+            "title": "Bartosz Ciechanowski's Blog",
+            "author": "Bartosz Ciechanowski",
+            "site_url": "http://ciechanowski.me/",
+            "feed_url": "http://ciechanowski.me/atom.xml",
+            "twitter_url": "https://twitter.com/bciechanowski"
+          },
+          {
             "title": "Cabel.me",
             "author": "Cabel Sasser",
             "site_url": "https://cabel.me",
