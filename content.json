@@ -940,6 +940,13 @@
             "twitter_url": "https://twitter.com/pepibumur"
           },
           {
+            "title": "Point-Free Pointers",
+            "author": "Brandon Williams and Stephen Celis",
+            "site_url": "https://www.pointfree.co/blog",
+            "feed_url": "https://www.pointfree.co/blog/feed/atom.xml",
+            "twitter_url": "https://twitter.com/pointfreeco"
+          },
+          {
             "title": "Quality Coding",
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
