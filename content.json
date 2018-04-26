@@ -1031,6 +1031,13 @@
             "twitter_url": "https://twitter.com/queersorceress"
           },
           {
+            "title": "samwize's Blog",
+            "author": "Junda Ong",
+            "site_url": "https://samwize.com",
+            "feed_url": "https://samwize.com/feed.xml",
+            "twitter_url": "https://twitter.com/samwize"
+          },
+          {
             "title": "Sealed Abstract",
             "author": "Drew Crawford",
             "site_url": "http://sealedabstract.com",
