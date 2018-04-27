@@ -1163,6 +1163,13 @@
             "twitter_url": "https://twitter.com/theswiftpostco"
           },
           {
+            "title": "Swift Rocks",
+            "author": "Bruno Rocha",
+            "site_url": "https://swiftrocks.com/",
+            "feed_url": "https://swiftrocks.com/rss.xml",
+            "twitter_url": "https://twitter.com/rockthebruno"
+          },
+          {
             "title": "Swift Unboxed",
             "author": "Greg Heo",
             "site_url": "https://swiftunboxed.com/",
