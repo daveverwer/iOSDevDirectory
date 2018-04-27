@@ -257,6 +257,13 @@
             "twitter_url": "https://twitter.com/lucastizma"
           },
           {
+            "title": "cdf1982 Blog",
+            "author": "Cesare Forelli",
+            "site_url": "https://www.cdf1982.com/blog/",
+            "feed_url": "http://www.cdf1982.com/blog/?format=rss",
+            "twitter_url": "https://twitter.com/cdf1982"
+          },
+          {
             "title": "carpeaqua",
             "author": "Justin Williams",
             "site_url": "https://carpeaqua.com/",
