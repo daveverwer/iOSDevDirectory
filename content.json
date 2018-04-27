@@ -1856,6 +1856,12 @@
             "twitter_url": "https://twitter.com/release_notes"
           },
           {
+            "title": "SharedInstance",
+            "author": "Alex Argo, Alex Robinson, Sam Corder",
+            "site_url": "http://sharedinstance.com",
+            "feed_url": "https://rss.simplecast.com/podcasts/1008/rss"
+          },
+          {
             "title": "Stacktrace Podcast",
             "author": "John Sundell and Gui Rambo",
             "site_url": "https://stacktracepodcast.fm/",
