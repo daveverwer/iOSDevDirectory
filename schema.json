@@ -69,6 +69,10 @@
                   "weibo_url": {
                     "type": "string",
                     "format": "uri"
+                  },
+                  "microblog_url": {
+                    "type": "string",
+                    "format": "uri"
                   }
                 }
               }
