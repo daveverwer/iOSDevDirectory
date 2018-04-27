@@ -226,7 +226,8 @@
             "author": "Daniel Jalkut",
             "site_url": "http://bitsplitting.org",
             "feed_url": "http://bitsplitting.org/feed/",
-            "twitter_url": "https://twitter.com/danielpunkass"
+            "twitter_url": "https://twitter.com/danielpunkass",
+            "microblog_url": "https://micro.blog/danielpunkass"
           },
           {
             "title": "Bret Victor's Blog",
@@ -616,14 +617,16 @@
             "author": "Daniel Jalkut",
             "site_url": "http://indiestack.com",
             "feed_url": "http://indiestack.com/feed/",
-            "twitter_url": "https://twitter.com/danielpunkass"
+            "twitter_url": "https://twitter.com/danielpunkass",
+            "microblog_url": "https://micro.blog/danielpunkass"
           },
           {
             "title": "Inessential",
             "author": "Brent Simmons",
             "site_url": "http://inessential.com/",
             "feed_url": "http://inessential.com/xml/rss.xml",
-            "twitter_url": "https://twitter.com/brentsimmons"
+            "twitter_url": "https://twitter.com/brentsimmons",
+            "microblog_url": "https://micro.blog/brentsimmons"
           },
           {
             "title": "iOS Dev Tools",
@@ -791,7 +794,8 @@
             "author": "Manton Reece",
             "site_url": "https://manton.org/",
             "feed_url": "https://manton.org/essays.xml",
-            "twitter_url": "https://twitter.com/manton2"
+            "twitter_url": "https://twitter.com/manton2",
+            "microblog_url": "https://micro.blog/manton"
           },
           {
             "title": "Marc Palmer's Blog",
@@ -1799,7 +1803,8 @@
             "author": "Daniel Jalkut and Manton Reece",
             "site_url": "https://coreint.org",
             "feed_url": "https://coreint.org/podcast.xml",
-            "twitter_url": "https://twitter.com/coreint"
+            "twitter_url": "https://twitter.com/coreint",
+            "microblog_url": "https://micro.blog/coreint"
           },
           {
             "title": "Fatal Error",
