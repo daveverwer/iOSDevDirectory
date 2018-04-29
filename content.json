@@ -1948,6 +1948,13 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCysEngjfeIYapEER9K8aikw"
           },
           {
+            "title": "CocoaHeadsNL",
+            "author": "Stichting CocoaHeadsNL",
+            "site_url": "https://www.youtube.com/stichtingcocoaheadsnl",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2JMZ0-IKnqRCvjBHpBApzA",
+            "twitter_url": "https://twitter.com/CocoaHeadsNL"
+          },
+          {
             "title": "Jared Davidson on YouTube",
             "author": "Jared Davidson",
             "site_url": "https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA",
@@ -2002,13 +2009,6 @@
             "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-d1NWv5IWtIkfH47ux4dWA",
             "twitter_url": "https://twitter.com/1TheSwiftGuy"
-          },
-          {
-          "title": "CocoaHeadsNL",
-          "author": "Stichting CocoaHeadsNL",
-          "site_url": "https://www.youtube.com/stichtingcocoaheadsnl",
-          "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2JMZ0-IKnqRCvjBHpBApzA",
-          "twitter_url": "https://twitter.com/CocoaHeadsNL"
           }
         ]
       },
