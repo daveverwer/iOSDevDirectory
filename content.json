@@ -1881,6 +1881,13 @@
             "twitter_url": "https://twitter.com/stacktracepod"
           },
           {
+            "title": "Supertop Podcast",
+            "author": "Pádraig Ó Cinnéide and Oisín Prendiville",
+            "site_url": "http://blog.supertop.co/",
+            "feed_url": "http://blog.supertop.co/rss",
+            "twitter_url": "https://twitter.com/supertopsquid"
+          },
+          {
             "title": "Swift by Sundell Podcast",
             "author": "John Sundell",
             "site_url": "https://www.swiftbysundell.com/podcast/",
