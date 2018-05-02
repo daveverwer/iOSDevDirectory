@@ -1612,6 +1612,13 @@
             "twitter_url": "https://twitter.com/montanafloss"
           },
           {
+            "title": "Motiv Engineering Blog",
+            "author": "Motiv Engineering Team",
+            "site_url": "https://medium.com/motiv-engineering-blog",
+            "feed_url": "https://medium.com/feed/motiv-engineering-blog",
+            "twitter_url": "https://twitter.com/motiv"
+          },
+          {
             "title": "Netguru iOS Codestories",
             "author": "Netguru Team",
             "site_url": "https://www.netguru.co/codestories/topic/ios",
