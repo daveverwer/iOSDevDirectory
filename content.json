@@ -1591,6 +1591,13 @@
             "twitter_url": "https://twitter.com/kitefasterapps"
           },
           {
+            "title": "LearnAppMaking",
+            "author": "Reinder de Vries",
+            "site_url": "https://learnappmaking.com",
+            "feed_url": "https://learnappmaking.com/feed",
+            "twitter_url": "https://twitter.com/reinder42"
+          },
+          {
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://blog.lickability.com/",
