@@ -881,6 +881,13 @@
             "twitter_url": "https://twitter.com/mokagio"
           },
           {
+            "title": "Motiv Engineering Blog",
+            "author": "Motiv Engineering Team",
+            "site_url": "https://medium.com/motiv-engineering-blog",
+            "feed_url": "https://medium.com/feed/motiv-engineering-blog",
+            "twitter_url": "https://twitter.com/motiv"
+          },
+          {
             "title": "Natasha The Robot",
             "author": "Natasha Murashev",
             "site_url": "https://www.natashatherobot.com",
