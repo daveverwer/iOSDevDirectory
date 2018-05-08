@@ -734,6 +734,13 @@
             "twitter_url": "https://twitter.com/landonfuller"
           },
           {
+            "title": "Late Night Swift",
+            "author": "Michael Waterfall",
+            "site_url": "https://www.latenightswift.com/",
+            "feed_url": "https://www.latenightswift.com/feed.xml",
+            "twitter_url": "https://twitter.com/latenightswift_"
+          },
+          {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
             "site_url": "http://lewismakesapps.com",
