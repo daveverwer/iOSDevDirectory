@@ -1380,6 +1380,13 @@
             "site_url": "https://www.writingontablets.com",
             "feed_url": "https://writingontablets.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
+          },
+          {
+            "title": "YASB - Yet Another Swift Blog",
+            "author": "Vadim Bulavin",
+            "site_url": "https://www.vadimbulavin.com",
+            "feed_url": "https://www.vadimbulavin.com/feed",
+            "twitter_url": "https://twitter.com/V8tr"
           }
         ]
       },
