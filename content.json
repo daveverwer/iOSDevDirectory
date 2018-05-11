@@ -741,6 +741,13 @@
             "twitter_url": "https://twitter.com/landonfuller"
           },
           {
+            "title": "Late Night Swift",
+            "author": "Michael Waterfall",
+            "site_url": "https://www.latenightswift.com/",
+            "feed_url": "https://www.latenightswift.com/feed.xml",
+            "twitter_url": "https://twitter.com/latenightswift_"
+          },
+          {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
             "site_url": "http://lewismakesapps.com",
@@ -1598,6 +1605,13 @@
             "twitter_url": "https://twitter.com/kitefasterapps"
           },
           {
+            "title": "LearnAppMaking",
+            "author": "Reinder de Vries",
+            "site_url": "https://learnappmaking.com",
+            "feed_url": "https://learnappmaking.com/feed",
+            "twitter_url": "https://twitter.com/reinder42"
+          },
+          {
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://blog.lickability.com/",
@@ -1617,6 +1631,13 @@
             "site_url": "https://www.montanafloss.co/blog/?category=Technical",
             "feed_url": "https://www.montanafloss.co/blog/?format=RSS&category=Technical",
             "twitter_url": "https://twitter.com/montanafloss"
+          },
+          {
+            "title": "Motiv Engineering Blog",
+            "author": "Motiv Engineering Team",
+            "site_url": "https://medium.com/motiv-engineering-blog",
+            "feed_url": "https://medium.com/feed/motiv-engineering-blog",
+            "twitter_url": "https://twitter.com/motiv"
           },
           {
             "title": "Netguru iOS Codestories",
