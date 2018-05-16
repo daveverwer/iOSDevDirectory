@@ -734,6 +734,13 @@
             "twitter_url": "https://twitter.com/kylefuller"
           },
           {
+            "title": "Learn iOS Dev Blog",
+            "author": "Peter Molnar",
+            "site_url": "https://learniosdevblog.com",
+            "feed_url": "https://learniosdevblog.com/feed/",
+            "twitter_url": "https://twitter.com/petermolnar_hu"
+          },
+          {
             "title": "Landon Fuller's Blog",
             "author": "Landon Fuller",
             "site_url": "http://landonf.org",
