@@ -2382,6 +2382,12 @@
             "twitter_url": "https://twitter.com/pilgwon"
           }
         ]
+      },
+      {
+        "title": "tucan's blog",
+        "author": "tucan.dev",
+        "site_url": "http://blog.canapio.com/",
+        "feed_url": "http://blog.canapio.com/rss"
       }
     ]
   },
