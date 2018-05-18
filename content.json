@@ -1584,6 +1584,13 @@
             "twitter_url": "https://twitter.com/flawlessappio"
           },
           {
+            "title": "Flight School",
+            "author": "Mattt Thompson amd Lauren Mendez",
+            "site_url": "https://flight.school/articles/",
+            "feed_url": "https://flight.school/feed.xml",
+            "twitter_url": "https://twitter.com/flightdotschool"
+          },
+          {
             "title": "Helftone Blog",
             "author": "Milen Dzhumerov",
             "site_url": "https://blog.helftone.com",
