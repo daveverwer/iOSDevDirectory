@@ -1389,6 +1389,13 @@
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
+            "title": "XCBLOG",
+            "author": "Shashikant Jagtap",
+            "site_url": "http://shashikantjagtap.net/",
+            "feed_url": "http://shashikantjagtap.net/feed/",
+            "twitter_url": "https://twitter.com/Shashikant86"
+          },
+          {
             "title": "YASB - Yet Another Swift Blog",
             "author": "Vadim Bulavin",
             "site_url": "https://www.vadimbulavin.com",
