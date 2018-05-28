@@ -2408,6 +2408,12 @@
             "site_url": "https://pilgwon.github.io/blog/",
             "feed_url": "https://pilgwon.github.io/blog/feed.xml",
             "twitter_url": "https://twitter.com/pilgwon"
+          },
+          {
+            "title": "tucan's blog",
+            "author": "tucan.dev",
+            "site_url": "http://blog.canapio.com/",
+            "feed_url": "http://blog.canapio.com/rss"
           }
         ]
       }
