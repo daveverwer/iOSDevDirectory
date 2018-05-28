@@ -2254,6 +2254,13 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
+            "title" : "Cocoa Samurai",
+            "author" : "Colin Wheeler",
+            "site_url" : "https://cocoasamurai.blogspot.com/",
+            "feed_url" : "https://cocoasamurai.blogspot.com/feeds/posts/default",
+            "twitter_url" : "https://twitter.com/cocoasamurai"
           }
         ]
       }
