@@ -1209,6 +1209,13 @@
             "twitter_url": "https://twitter.com/gregheo"
           },
           {
+            "title": "Swiftlee",
+            "author": "Antoine van der Lee",
+            "site_url": "https://www.avanderlee.com",
+            "feed_url": "https://www.avanderlee.com/feed/",
+            "twitter_url": "https://twitter.com/twannl"
+          },
+          {
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
             "site_url": "https://swifting.io",
