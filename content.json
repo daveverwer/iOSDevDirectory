@@ -1209,6 +1209,13 @@
             "twitter_url": "https://twitter.com/gregheo"
           },
           {
+            "title": "Swiftlee",
+            "author": "Antoine van der Lee",
+            "site_url": "https://www.avanderlee.com",
+            "feed_url": "https://www.avanderlee.com/feed/",
+            "twitter_url": "https://twitter.com/twannl"
+          },
+          {
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
             "site_url": "https://swifting.io",
@@ -1561,6 +1568,12 @@
             "site_url": "https://appracatappra.com/category/blog/",
             "feed_url": "https://appracatappra.com/feed/rss2/",
             "twitter_url": "https://twitter.com/KevinAtAppra"
+          },
+          {
+            "title": "The ASOS Tech Blog",
+            "author": "ASOS",
+            "site_url": "https://medium.com/asos-techblog/tagged/ios",
+            "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
             "title": "Augmented Code Blog",
@@ -2254,6 +2267,13 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
+            "title" : "Cocoa Samurai",
+            "author" : "Colin Wheeler",
+            "site_url" : "https://cocoasamurai.blogspot.com/",
+            "feed_url" : "https://cocoasamurai.blogspot.com/feeds/posts/default",
+            "twitter_url" : "https://twitter.com/cocoasamurai"
           }
         ]
       }
@@ -2408,6 +2428,12 @@
             "site_url": "https://pilgwon.github.io/blog/",
             "feed_url": "https://pilgwon.github.io/blog/feed.xml",
             "twitter_url": "https://twitter.com/pilgwon"
+          },
+          {
+            "title": "tucan's blog",
+            "author": "tucan.dev",
+            "site_url": "http://blog.canapio.com/",
+            "feed_url": "http://blog.canapio.com/rss"
           }
         ]
       }
