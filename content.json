@@ -418,6 +418,13 @@
             "twitter_url": "https://twitter.com/ddribin"
           },
           {
+            "title": "Dave Verwer’s Blog",
+            "author": "Dave Verwer",
+            "site_url": "https://daveverwer.com/",
+            "feed_url": "https://daveverwer.com/feed.xml",
+            "twitter_url": "https://twitter.com/daveverwer"
+          },
+          {
             "title": "David Reed's Blog",
             "author": "David Reed",
             "site_url": "https://microblog.dave256apps.com/",
