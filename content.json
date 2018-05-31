@@ -558,6 +558,13 @@
             "twitter_url": "https://twitter.com/chockenberry"
           },
           {
+            "title": "Gokhan Topcu on Medium",
+            "author": "Gokhan Topcu",
+            "site_url": "https://medium.com/@ifndefgt",
+            "feed_url": "https://medium.com/feed/@ifndefgt",
+            "twitter_url": "https://twitter.com/ifndefgt"
+          },
+          {
             "title": "Hacking with Swift",
             "author": "Paul Hudson",
             "site_url": "https://www.hackingwithswift.com/articles",
