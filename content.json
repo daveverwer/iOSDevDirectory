@@ -208,6 +208,13 @@
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
+            "title": "Ben Dodson's Weblog",
+            "author": "Ben Dodson",
+            "site_url": "https://bendodson.com/weblog/",
+            "feed_url": "https://bendodson.com/rss.xml",
+            "twitter_url": "https://twitter.com/bendodson"
+          },
+          {
             "title": "Ben Scheirman's Blog",
             "author": "Ben Scheirman",
             "site_url": "https://benscheirman.com/",
