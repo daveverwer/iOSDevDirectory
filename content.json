@@ -1882,6 +1882,13 @@
             "twitter_url": "https://twitter.com/thoughtbot"
           },
           {
+            "title": "Topology Engineering Blog",
+            "author": "alexisgallagher, gregheo, vasarhelyia",
+            "site_url": "https://topologyeyewear.github.io/engineering-blog",
+            "feed_url": "https://topologyeyewear.github.io/engineering-blog/atom",
+            "twitter_url": "https://twitter.com/TopologyEng"
+          },
+          {
             "title": "Two Ring Software",
             "author": "Two Ring Software Team",
             "site_url": "http://tworingsoft.com/blog/",
