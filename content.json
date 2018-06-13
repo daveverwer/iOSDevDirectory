@@ -348,6 +348,13 @@
             "twitter_url": "https://twitter.com/cocoaphony"
           },
           {
+            "title": "Code Workshop",
+            "author": "Matt Stevens",
+            "site_url": "http://codeworkshop.net/",
+            "feed_url": "http://codeworkshop.net/feed",
+            "twitter_url": "https://twitter.com/mattstevens"
+          },
+          {
             "title": "Coding Explorer Blog",
             "author": "Nick Hanan",
             "site_url": "http://www.codingexplorer.com",
