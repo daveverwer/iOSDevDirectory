@@ -895,6 +895,13 @@
             "twitter_url": "https://twitter.com/mitrevski"
           },
           {
+            "title": "Matt Diephouse's Blog",
+            "author": "Matt Diephouse",
+            "site_url": "http://matt.diephouse.com/swift/",
+            "feed_url": "http://matt.diephouse.com/swift/index.xml",
+            "twitter_url": "https://twitter.com/mdiep"
+          },
+          {
             "title": "Matteo Manferdini's Blog",
             "author": "Matteo Manferdini",
             "site_url": "https://matteomanferdini.com/blog/",
