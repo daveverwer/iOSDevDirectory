@@ -2065,6 +2065,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "Swift Sparks ⚡",
+            "author": "Alvin Varghese",
+            "site_url": "https://swiftsparks.com/",
+            "feed_url": "https://swiftsparks.com/feed.xml",
+            "twitter_url": "https://twitter.com/speaktoalvin"
           }
         ]
       },
