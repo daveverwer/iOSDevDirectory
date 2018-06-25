@@ -2037,6 +2037,12 @@
             "author": "Marco Arment and David Smith",
             "site_url": "https://www.relay.fm/radar",
             "feed_url": "https://www.relay.fm/radar/feed"
+          },
+          {
+            "title": "Waiting for Review",
+            "author": "Dave Nott and Dave Wood",
+            "site_url": "https://waitingforreview.com",
+            "feed_url": "https://waitingforreview.com/feed/podcast/"
           }
         ]
       },
