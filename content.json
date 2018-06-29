@@ -1548,6 +1548,13 @@
             "site_url": "http://www.useronboard.com/",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
+          },
+          {
+            "title": "Adam Wiggins' Blog",
+            "author": "Adam Wiggins",
+            "site_url": "https://medium.com/@hirodusk",
+            "feed_url": "https://medium.com/feed/@hirodusk",
+            "twitter_url": "https://twitter.com/hirodusk"
           }
         ]
       },
