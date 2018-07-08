@@ -972,6 +972,13 @@
             "twitter_url": "https://twitter.com/mikeash"
           },
           {
+            "title": "NSHipster",
+            "author": "NSHipster",
+            "site_url": "https://nshipster.com",
+            "feed_url": "https://nshipster.com/feed.xml",
+            "twitter_url": "https://twitter.com/nshipster"
+          },
+          {
             "title": "Objective-See's Blog",
             "author": "Patrick Wardle",
             "site_url": "https://www.objective-see.com/blog.html",
@@ -2308,13 +2315,6 @@
             "site_url": "http://nshint.io/",
             "feed_url": "http://nshint.io/atom.xml",
             "twitter_url": "https://twitter.com/nshintio"
-          },
-          {
-            "title": "NSHipster",
-            "author": "Nate Cook, Mattt Thompson and friends",
-            "site_url": "http://nshipster.com",
-            "feed_url": "http://nshipster.com/feed.xml",
-            "twitter_url": "https://twitter.com/nshipster"
           },
           {
             "title": "NSProgrammer",
