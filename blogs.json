@@ -1098,6 +1098,13 @@
             "twitter_url": "https://twitter.com/rolandleth"
           },
           {
+            "title": "Roger Molas's Blog",
+            "author": "Roger Molas",
+            "site_url": "http://blog.rogermolas.com/",
+            "feed_url": "http://blog.rogermolas.com/index.xml",
+            "twitter_url": "https://twitter.com/roger_molas"
+          },
+          {
             "title": "Roy Marmelstein on Medium",
             "author": "Roy Marmelstein",
             "site_url": "https://medium.com/@marmelroy",
