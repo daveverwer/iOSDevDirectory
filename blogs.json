@@ -972,6 +972,13 @@
             "twitter_url": "https://twitter.com/mikeash"
           },
           {
+            "title": "NSHipster",
+            "author": "NSHipster",
+            "site_url": "https://nshipster.com",
+            "feed_url": "https://nshipster.com/feed.xml",
+            "twitter_url": "https://twitter.com/nshipster"
+          },
+          {
             "title": "Objective-See's Blog",
             "author": "Patrick Wardle",
             "site_url": "https://www.objective-see.com/blog.html",
@@ -1703,8 +1710,8 @@
           },
           {
             "title": "Flight School",
-            "author": "Mattt Thompson amd Lauren Mendez",
-            "site_url": "https://flight.school/articles/",
+            "author": "Mattt",
+            "site_url": "https://flight.school",
             "feed_url": "https://flight.school/feed.xml",
             "twitter_url": "https://twitter.com/flightdotschool"
           },
@@ -2317,13 +2324,6 @@
             "twitter_url": "https://twitter.com/nshintio"
           },
           {
-            "title": "NSHipster",
-            "author": "Nate Cook, Mattt Thompson and friends",
-            "site_url": "http://nshipster.com",
-            "feed_url": "http://nshipster.com/feed.xml",
-            "twitter_url": "https://twitter.com/nshipster"
-          },
-          {
             "title": "NSProgrammer",
             "author": "Nolan O'Brien",
             "site_url": "http://nsprogrammer.com",
@@ -2418,8 +2418,8 @@
           {
             "title": "NSHipster中国",
             "author": "NSHipster中国",
-            "site_url": "http://nshipster.cn",
-            "feed_url": "http://nshipster.cn/feed.xml",
+            "site_url": "https://nshipster.cn",
+            "feed_url": "https://nshipster.cn/feed.xml",
             "weibo_url": "https://weibo.com/nshipster"
           },
           {
