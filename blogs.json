@@ -657,6 +657,13 @@
             "microblog_url": "https://micro.blog/brentsimmons"
           },
           {
+            "title": "iOS Dev Recipes",
+            "author": "Dave Lyon",
+            "site_url": "https://iosdev.recipes/",
+            "feed_url": "https://iosdev.recipes/rss.xml",
+            "twitter_url": "https://twitter.com/iosdevrecipes"
+          },
+          {
             "title": "iOS Dev Tools",
             "author": "Adam Swinden",
             "site_url": "https://iosdev.tools/",
