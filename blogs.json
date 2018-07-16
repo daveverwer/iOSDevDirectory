@@ -463,7 +463,7 @@
             "title": "DazeEnd",
             "author": "Charles Perry",
             "site_url": "https://dazeend.org/",
-            "feed_url": "https://dazeend.org/feed/",
+            "feed_url": "https://dazeend.org/feed/?cat=-12",
             "twitter_url": "https://twitter.com/dazeend"
           },
           {
