@@ -993,6 +993,13 @@
             "twitter_url": "https://twitter.com/objective_see"
           },
           {
+            "title": "Objective Tidbits",
+            "author": "Ilter Cengiz",
+            "site_url": "https://objectivetidbits.com",
+            "feed_url": "https://objectivetidbits.com/feed/",
+            "twitter_url": "https://twitter.com/objtidbits"
+          },
+          {
             "title": "Ole Begemann's Blog",
             "author": "Ole Begemann",
             "site_url": "https://oleb.net/blog/",
