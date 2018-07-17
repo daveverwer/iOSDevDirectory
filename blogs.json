@@ -859,14 +859,6 @@
             "twitter_url": "https://twitter.com/maniacdev"
           },
           {
-            "title": "Manton Reece's Blog",
-            "author": "Manton Reece",
-            "site_url": "https://manton.org/",
-            "feed_url": "https://manton.org/essays.xml",
-            "twitter_url": "https://twitter.com/manton2",
-            "microblog_url": "https://micro.blog/manton"
-          },
-          {
             "title": "Marc Palmer's Blog",
             "author": "Marc Palmer",
             "site_url": "https://marcpalmer.net/category/ios/",
