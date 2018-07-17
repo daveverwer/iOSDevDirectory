@@ -21,16 +21,16 @@
             "feed_url": "feed://developer.apple.com/design/whats-new/rss/whats-new.rss"
           },
           {
-            "title": "Machine Learning Journal",
-            "author": "Apple",
-            "site_url": "https://machinelearning.apple.com/",
-            "feed_url": "https://machinelearning.apple.com/feed.xml"
-          },
-          {
             "title": "Official Swift Blog",
             "author": "Apple",
             "site_url": "https://developer.apple.com/swift/blog/",
             "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+          },
+          {
+            "title": "Machine Learning Journal",
+            "author": "Apple",
+            "site_url": "https://machinelearning.apple.com/",
+            "feed_url": "https://machinelearning.apple.com/feed.xml"
           }
         ]
       },
