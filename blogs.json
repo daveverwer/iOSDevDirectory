@@ -15,6 +15,12 @@
             "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
+            "title": "Design News",
+            "author": "Apple",
+            "site_url": "https://developer.apple.com/design/whats-new/",
+            "feed_url": "feed://developer.apple.com/design/whats-new/rss/whats-new.rss"
+          },
+          {
             "title": "Machine Learning Journal",
             "author": "Apple",
             "site_url": "https://machinelearning.apple.com/",
