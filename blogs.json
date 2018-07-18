@@ -2510,6 +2510,13 @@
             "site_url": "https://medium.com/nsistanbul",
             "feed_url": "https://medium.com/feed/nsistanbul",
             "twitter_url": "https://twitter.com/NS_Istanbul"
+          },
+          {
+             "title": "WHOKNOWS Blog",
+             "author": "WHOKNOWS Community",
+             "site_url": "https://medium.com/whoknows-swift",
+             "feed_url": "https://medium.com/feed/whoknows-swift",
+             "twitter_url": "https://twitter.com/whoknowsswift"
           }
         ]
       }
