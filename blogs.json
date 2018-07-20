@@ -438,6 +438,13 @@
             "twitter_url": "https://twitter.com/ddribin"
           },
           {
+            "title": "Dave Nott's Blog",
+            "author": "Dave Nott",
+            "site_url": "https://www.davenott.co.uk/",
+            "feed_url": "https://www.davenott.co.uk/feed/",
+            "twitter_url": "https://twitter.com/_davenott"
+          },
+          {
             "title": "Dave Verwer’s Blog",
             "author": "Dave Verwer",
             "site_url": "https://daveverwer.com/",
