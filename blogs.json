@@ -1756,6 +1756,13 @@
             "twitter_url": "https://twitter.com/pspdfkit"
           },
           {
+            "title": "Instabug Blog",
+            "author": "Instabug Team",
+            "site_url": "https://blog.instabug.com",
+            "feed_url": "https://blog.instabug.com/feed/",
+            "twitter_url": "https://twitter.com/instabug"
+          },
+          {
             "title": "Kitefaster's iOS Development Blog",
             "author": "Kitefaster",
             "site_url": "https://kitefaster.com/category/ios-development/",
