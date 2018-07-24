@@ -2146,6 +2146,13 @@
             "site_url": "https://swiftsparks.com/",
             "feed_url": "https://swiftsparks.com/feed.xml",
             "twitter_url": "https://twitter.com/speaktoalvin"
+          },
+          {
+            "title": "Indie iOS Focus Weekly",
+            "author": "Chris Beshore",
+            "site_url": "https://indieiosfocus.com/",
+            "feed_url": "https://indieiosfocus.com/issues.rss",
+            "twitter_url": "https://twitter.com/indieiosfocus"
           }
         ]
       },
