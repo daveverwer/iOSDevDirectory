@@ -705,6 +705,13 @@
             "twitter_url": "https://twitter.com/jaredsinclair"
           },
           {
+            "title": "Jared Sorge's Blog",
+            "author": "Jared Sorge",
+            "site_url": "https://jsorge.net/",
+            "feed_url": "https://jsorge.net/rss",
+            "twitter_url": "https://twitter.com/jsorge"
+          },
+          {
             "title": "Javier Soto's Blog",
             "author": "Javier Soto",
             "site_url": "http://javisoto.tumblr.com/",
