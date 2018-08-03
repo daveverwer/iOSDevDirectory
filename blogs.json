@@ -1381,6 +1381,13 @@
             "twitter_url": "https://twitter.com/benjaminencz"
           },
           {
+            "title": "Tim Oliver's Blog",
+            "author": "Tim Oliver",
+            "site_url": "http://timoliver.blog",
+            "feed_url": "https://timoliver.blog/feed/",
+            "twitter_url": "https://twitter.com/TimOliverAU"
+          },
+          {
             "title": "Timac",
             "author": "Alexandre Colucci",
             "site_url": "https://blog.timac.org",
