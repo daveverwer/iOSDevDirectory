@@ -1104,9 +1104,9 @@
           },
           {
             "title": "Ray Wenderlich",
-            "author": "Ray Wenderlich and friends",
+            "author": "Ray Wenderlich and Team",
             "site_url": "https://www.raywenderlich.com",
-            "feed_url": "https://www.raywenderlich.com/feed",
+            "feed_url": "https://www.raywenderlich.com/ios/feed.rss",
             "twitter_url": "https://twitter.com/rwenderlich"
           },
           {
