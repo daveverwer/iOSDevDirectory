@@ -1840,6 +1840,13 @@
             "twitter_url": "https://twitter.com/objcio"
           },
           {
+            "title": "Periphery Blog",
+            "author": "Periphery Team",
+            "site_url": "https://peripheryapp.com/blog/",
+            "feed_url": "https://www.peripheryapp.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/peripheryappcom"
+          },
+          {
             "title": "POSSIBLE Mobile Blog",
             "author": "POSSIBLE Mobile",
             "site_url": "https://possiblemobile.com/tag/ios/",
