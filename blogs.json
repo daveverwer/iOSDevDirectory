@@ -1518,6 +1518,13 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
+          },
+          {
+            "title": "Morten Bek Ditlevsen on Medium",
+            "author": "Morten Bek Ditlevsen",
+            "site_url": "https://medium.com/@bek_29339/",
+            "feed_url": "https://medium.com/feed/@bek_29339",
+            "twitter_url": "https://twitter.com/mortenditlevsen"
           }
         ]
       },
