@@ -1047,6 +1047,13 @@
             "twitter_url": "https://twitter.com/owensd"
           },
           {
+            "title": "Patrick Balestra's Blog",
+            "author": "Patrick Balestra",
+            "site_url": "http://patrickbalestra.com/blog/",
+            "feed_url": "http://patrickbalestra.com/feed.xml",
+            "twitter_url": "https://twitter.com/BalestraPatrick"
+          },
+          {
             "title": "Paul Samuels' Blog",
             "author": "Paul Samuels",
             "site_url": "http://paul-samuels.com/",
