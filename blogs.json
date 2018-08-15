@@ -1207,6 +1207,13 @@
             "twitter_url": "https://twitter.com/sgaw"
           },
           {
+            "title": "skagedal's oboy",
+            "author": "Simon Kågedal Reimer",
+            "site_url": "https://skagedal.github.io",
+            "feed_url": "http://skagedal.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/skagedal"
+          },
+          {
             "title": "Slava Pestov on Medium",
             "author": "Slava Pestov",
             "site_url": "https://medium.com/@slavapestov",
