@@ -9,28 +9,28 @@
         "description": "All of the iOS development related blogs from our dear friends at the small fruit company in Cupertino.",
         "sites": [
           {
-            "title": "Developer News",
-            "author": "Apple",
-            "site_url": "https://developer.apple.com/news/",
-            "feed_url": "https://developer.apple.com/news/rss/news.rss"
-          },
-          {
             "title": "Design News",
             "author": "Apple",
             "site_url": "https://developer.apple.com/design/whats-new/",
             "feed_url": "feed://developer.apple.com/design/whats-new/rss/whats-new.rss"
           },
           {
-            "title": "Official Swift Blog",
+            "title": "Developer News",
             "author": "Apple",
-            "site_url": "https://developer.apple.com/swift/blog/",
-            "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+            "site_url": "https://developer.apple.com/news/",
+            "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
             "title": "Machine Learning Journal",
             "author": "Apple",
             "site_url": "https://machinelearning.apple.com/",
             "feed_url": "https://machinelearning.apple.com/feed.xml"
+          },
+          {
+            "title": "Official Swift Blog",
+            "author": "Apple",
+            "site_url": "https://developer.apple.com/swift/blog/",
+            "feed_url": "https://developer.apple.com/swift/blog/news.rss"
           }
         ]
       },
@@ -796,20 +796,6 @@
             "twitter_url": "https://twitter.com/kylefuller"
           },
           {
-            "title": "Learn iOS Dev Blog",
-            "author": "Peter Molnar",
-            "site_url": "https://learniosdevblog.com",
-            "feed_url": "https://learniosdevblog.com/feed/",
-            "twitter_url": "https://twitter.com/petermolnar_hu"
-          },
-          {
-            "title": "Learning Swift",
-            "author": "Leo Dion",
-            "site_url": "https://learningswift.brightdigit.com",
-            "feed_url": "https://learningswift.brightdigit.com/feed/",
-            "twitter_url": "https://twitter.com/leogdion"
-          },
-          {
             "title": "Landon Fuller's Blog",
             "author": "Landon Fuller",
             "site_url": "http://landonf.org",
@@ -822,6 +808,20 @@
             "site_url": "https://www.latenightswift.com/",
             "feed_url": "https://www.latenightswift.com/feed.xml",
             "twitter_url": "https://twitter.com/latenightswift_"
+          },
+          {
+            "title": "Learn iOS Dev Blog",
+            "author": "Peter Molnar",
+            "site_url": "https://learniosdevblog.com",
+            "feed_url": "https://learniosdevblog.com/feed/",
+            "twitter_url": "https://twitter.com/petermolnar_hu"
+          },
+          {
+            "title": "Learning Swift",
+            "author": "Leo Dion",
+            "site_url": "https://learningswift.brightdigit.com",
+            "feed_url": "https://learningswift.brightdigit.com/feed/",
+            "twitter_url": "https://twitter.com/leogdion"
           },
           {
             "title": "Lewis Makes Apps",
@@ -977,6 +977,13 @@
             "twitter_url": "https://twitter.com/mokagio"
           },
           {
+            "title": "Morten Bek Ditlevsen on Medium",
+            "author": "Morten Bek Ditlevsen",
+            "site_url": "https://medium.com/@bek_29339/",
+            "feed_url": "https://medium.com/feed/@bek_29339",
+            "twitter_url": "https://twitter.com/mortenditlevsen"
+          },
+          {
             "title": "MultiColourPixel",
             "author": "Eddy Gammon",
             "site_url": "https://multicolourpixel.com/",
@@ -1012,18 +1019,18 @@
             "twitter_url": "https://twitter.com/nshipster"
           },
           {
-            "title": "Objective-See's Blog",
-            "author": "Patrick Wardle",
-            "site_url": "https://www.objective-see.com/blog.html",
-            "feed_url": "https://objective-see.com/rss.xml",
-            "twitter_url": "https://twitter.com/objective_see"
-          },
-          {
             "title": "Objective Tidbits",
             "author": "Ilter Cengiz",
             "site_url": "https://objectivetidbits.com",
             "feed_url": "https://objectivetidbits.com/feed/",
             "twitter_url": "https://twitter.com/objtidbits"
+          },
+          {
+            "title": "Objective-See's Blog",
+            "author": "Patrick Wardle",
+            "site_url": "https://www.objective-see.com/blog.html",
+            "feed_url": "https://objective-see.com/rss.xml",
+            "twitter_url": "https://twitter.com/objective_see"
           },
           {
             "title": "Ole Begemann's Blog",
@@ -1145,18 +1152,18 @@
             "twitter_url": "https://twitter.com/fahrni"
           },
           {
-            "title": "Roland Leth's Blog",
-            "author": "Roland Leth",
-            "site_url": "https://rolandleth.com",
-            "feed_url": "https://rolandleth.com/feed",
-            "twitter_url": "https://twitter.com/rolandleth"
-          },
-          {
             "title": "Roger Molas's Blog",
             "author": "Roger Molas",
             "site_url": "http://blog.rogermolas.com/",
             "feed_url": "http://blog.rogermolas.com/index.xml",
             "twitter_url": "https://twitter.com/roger_molas"
+          },
+          {
+            "title": "Roland Leth's Blog",
+            "author": "Roland Leth",
+            "site_url": "https://rolandleth.com",
+            "feed_url": "https://rolandleth.com/feed",
+            "twitter_url": "https://twitter.com/rolandleth"
           },
           {
             "title": "Roy Marmelstein on Medium",
@@ -1319,18 +1326,18 @@
             "twitter_url": "https://twitter.com/gregheo"
           },
           {
-            "title": "Swiftlee",
-            "author": "Antoine van der Lee",
-            "site_url": "https://www.avanderlee.com",
-            "feed_url": "https://www.avanderlee.com/feed/",
-            "twitter_url": "https://twitter.com/twannl"
-          },
-          {
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
             "site_url": "https://swifting.io",
             "feed_url": "https://swifting.io/feed/",
             "twitter_url": "https://twitter.com/swiftingio"
+          },
+          {
+            "title": "Swiftlee",
+            "author": "Antoine van der Lee",
+            "site_url": "https://www.avanderlee.com",
+            "feed_url": "https://www.avanderlee.com/feed/",
+            "twitter_url": "https://twitter.com/twannl"
           },
           {
             "title": "SwiftyJimmy",
@@ -1532,13 +1539,6 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
-          },
-          {
-            "title": "Morten Bek Ditlevsen on Medium",
-            "author": "Morten Bek Ditlevsen",
-            "site_url": "https://medium.com/@bek_29339/",
-            "feed_url": "https://medium.com/feed/@bek_29339",
-            "twitter_url": "https://twitter.com/mortenditlevsen"
           }
         ]
       },
@@ -1547,6 +1547,13 @@
         "slug": "design",
         "description": "Anything related to iOS design.",
         "sites": [
+          {
+            "title": "Adam Wiggins' Blog",
+            "author": "Adam Wiggins",
+            "site_url": "https://medium.com/@hirodusk",
+            "feed_url": "https://medium.com/feed/@hirodusk",
+            "twitter_url": "https://twitter.com/hirodusk"
+          },
           {
             "title": "Bjango Articles",
             "author": "Marc Edwards",
@@ -1630,13 +1637,6 @@
             "site_url": "http://www.useronboard.com/",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
-          },
-          {
-            "title": "Adam Wiggins' Blog",
-            "author": "Adam Wiggins",
-            "site_url": "https://medium.com/@hirodusk",
-            "feed_url": "https://medium.com/feed/@hirodusk",
-            "twitter_url": "https://twitter.com/hirodusk"
           }
         ]
       },
@@ -1706,12 +1706,6 @@
             "site_url": "https://appracatappra.com/category/blog/",
             "feed_url": "https://appracatappra.com/feed/rss2/",
             "twitter_url": "https://twitter.com/KevinAtAppra"
-          },
-          {
-            "title": "The ASOS Tech Blog",
-            "author": "ASOS",
-            "site_url": "https://medium.com/asos-techblog/tagged/ios",
-            "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
             "title": "Atomic Spin",
@@ -1999,6 +1993,12 @@
             "twitter_url": "https://twitter.com/supertopsquid"
           },
           {
+            "title": "The ASOS Tech Blog",
+            "author": "ASOS",
+            "site_url": "https://medium.com/asos-techblog/tagged/ios",
+            "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
+          },
+          {
             "title": "theScore Tech Blog",
             "author": "theScore Team",
             "site_url": "http://techblog.thescore.com",
@@ -2176,6 +2176,13 @@
         "description": "Newsletters or round up blogs covering iOS Development.",
         "sites": [
           {
+            "title": "Indie iOS Focus Weekly",
+            "author": "Chris Beshore",
+            "site_url": "https://indieiosfocus.com/",
+            "feed_url": "https://indieiosfocus.com/issues.rss",
+            "twitter_url": "https://twitter.com/indieiosfocus"
+          },
+          {
             "title": "iOS Dev Weekly",
             "author": "Dave Verwer",
             "site_url": "https://iosdevweekly.com/",
@@ -2190,13 +2197,6 @@
             "twitter_url": "https://twitter.com/iOSGoodies"
           },
           {
-            "title": "Swift World",
-            "author": "Peng Guo",
-            "site_url": "https://medium.com/@NilStack/",
-            "feed_url": "https://medium.com/feed/@NilStack",
-            "twitter_url": "https://twitter.com/NilStack"
-          },
-          {
             "title": "Swift Sparks",
             "author": "Alvin Varghese",
             "site_url": "https://swiftsparks.com/",
@@ -2204,11 +2204,11 @@
             "twitter_url": "https://twitter.com/speaktoalvin"
           },
           {
-            "title": "Indie iOS Focus Weekly",
-            "author": "Chris Beshore",
-            "site_url": "https://indieiosfocus.com/",
-            "feed_url": "https://indieiosfocus.com/issues.rss",
-            "twitter_url": "https://twitter.com/indieiosfocus"
+            "title": "Swift World",
+            "author": "Peng Guo",
+            "site_url": "https://medium.com/@NilStack/",
+            "feed_url": "https://medium.com/feed/@NilStack",
+            "twitter_url": "https://twitter.com/NilStack"
           }
         ]
       },
@@ -2357,6 +2357,13 @@
             "twitter_url": "https://twitter.com/wilshipley"
           },
           {
+            "title": "Cocoa Samurai",
+            "author": "Colin Wheeler",
+            "site_url": "https://cocoasamurai.blogspot.com/",
+            "feed_url": "https://cocoasamurai.blogspot.com/feeds/posts/default",
+            "twitter_url": "https://twitter.com/cocoasamurai"
+          },
+          {
             "title": "Egor Tolstoy's Blog",
             "author": "Egor Tolstoy",
             "site_url": "http://etolstoy.com",
@@ -2453,13 +2460,6 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
-          },
-          {
-            "title" : "Cocoa Samurai",
-            "author" : "Colin Wheeler",
-            "site_url" : "https://cocoasamurai.blogspot.com/",
-            "feed_url" : "https://cocoasamurai.blogspot.com/feeds/posts/default",
-            "twitter_url" : "https://twitter.com/cocoasamurai"
           }
         ]
       }
@@ -2596,11 +2596,11 @@
             "twitter_url": "https://twitter.com/NS_Istanbul"
           },
           {
-             "title": "WHOKNOWS Blog",
-             "author": "WHOKNOWS Community",
-             "site_url": "https://medium.com/whoknows-swift",
-             "feed_url": "https://medium.com/feed/whoknows-swift",
-             "twitter_url": "https://twitter.com/whoknowsswift"
+            "title": "WHOKNOWS Blog",
+            "author": "WHOKNOWS Community",
+            "site_url": "https://medium.com/whoknows-swift",
+            "feed_url": "https://medium.com/feed/whoknows-swift",
+            "twitter_url": "https://twitter.com/whoknowsswift"
           }
         ]
       }
