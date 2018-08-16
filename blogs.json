@@ -935,6 +935,13 @@
             "twitter_url": "https://twitter.com/MatManferdini"
           },
           {
+            "title": "Max Desiatov's Blog",
+            "author": "Max Desiatov",
+            "site_url": "https://desiatov.com/",
+            "feed_url": "https://desiatov.com/rss.xml",
+            "twitter_url": "https://twitter.com/MaxDesiatov"
+          },
+          {
             "title": "Michael Tsai's Blog",
             "author": "Michael Tsai",
             "site_url": "https://mjtsai.com/blog",
