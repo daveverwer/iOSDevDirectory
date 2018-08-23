@@ -319,6 +319,13 @@
             "feed_url": "http://www.cimgf.com/feed/"
           },
           {
+            "title": "Cocoa Samurai",
+            "author": "Colin Wheeler",
+            "site_url": "https://cocoasamurai.blogspot.com/",
+            "feed_url": "https://cocoasamurai.blogspot.com/feeds/posts/default",
+            "twitter_url": "https://twitter.com/cocoasamurai"
+          },
+          {
             "title": "Cocoa with Love",
             "author": "Matt Gallagher",
             "site_url": "https://www.cocoawithlove.com/",
@@ -2355,13 +2362,6 @@
             "site_url": "http://blog.wilshipley.com/",
             "feed_url": "http://blog.wilshipley.com/rss.xml",
             "twitter_url": "https://twitter.com/wilshipley"
-          },
-          {
-            "title": "Cocoa Samurai",
-            "author": "Colin Wheeler",
-            "site_url": "https://cocoasamurai.blogspot.com/",
-            "feed_url": "https://cocoasamurai.blogspot.com/feeds/posts/default",
-            "twitter_url": "https://twitter.com/cocoasamurai"
           },
           {
             "title": "Egor Tolstoy's Blog",
