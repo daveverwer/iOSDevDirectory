@@ -494,6 +494,12 @@
             "twitter_url": "https://twitter.com/UINT_MIN"
           },
           {
+            "title": "De Programmatica Ipsum",
+            "author": "Graham Lee and Adrian Kosmaczewski",
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "feed_url": "https://deprogrammaticaipsum.com/feed/"
+          },
+          {
             "title": "Denys Zhadanov on Medium",
             "author": "Denys Zhadanov",
             "site_url": "https://denzhadanov.com/",
