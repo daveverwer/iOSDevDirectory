@@ -2466,6 +2466,13 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
+            "title": "Pedro Carrasco's Website",
+            "author": "Pedro Carrasco",
+            "site_url": "https://pedrommcarrasco.github.io/",
+            "feed_url": "https://pedrommcarrasco.github.io/atom.xml",
+            "twitter_url": "https://twitter.com/pedrommcarrasco"
           }
         ]
       }
