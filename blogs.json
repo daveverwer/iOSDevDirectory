@@ -494,17 +494,17 @@
             "twitter_url": "https://twitter.com/dazeend"
           },
           {
+            "title": "De Programmatica Ipsum",
+            "author": "Graham Lee and Adrian Kosmaczewski",
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "feed_url": "https://deprogrammaticaipsum.com/feed/"
+          },
+          {
             "title": "dealloc",
             "author": "Jordan Rose",
             "site_url": "https://belkadan.com/blog/",
             "feed_url": "https://belkadan.com/blog/atom",
             "twitter_url": "https://twitter.com/UINT_MIN"
-          },
-          {
-            "title": "De Programmatica Ipsum",
-            "author": "Graham Lee and Adrian Kosmaczewski",
-            "site_url": "https://deprogrammaticaipsum.com/",
-            "feed_url": "https://deprogrammaticaipsum.com/feed/"
           },
           {
             "title": "Denys Zhadanov on Medium",
@@ -2447,6 +2447,13 @@
             "twitter_url": "https://twitter.com/NSProgrammer"
           },
           {
+            "title": "Pedro Carrasco's Website",
+            "author": "Pedro Carrasco",
+            "site_url": "https://pedrommcarrasco.github.io/",
+            "feed_url": "https://pedrommcarrasco.github.io/atom.xml",
+            "twitter_url": "https://twitter.com/pedrommcarrasco"
+          },
+          {
             "title": "Sunset Lake Software",
             "author": "Brad Larson",
             "site_url": "http://www.sunsetlakesoftware.com/blog",
@@ -2473,13 +2480,6 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
-          },
-          {
-            "title": "Pedro Carrasco's Website",
-            "author": "Pedro Carrasco",
-            "site_url": "https://pedrommcarrasco.github.io/",
-            "feed_url": "https://pedrommcarrasco.github.io/atom.xml",
-            "twitter_url": "https://twitter.com/pedrommcarrasco"
           }
         ]
       }
