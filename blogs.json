@@ -110,6 +110,13 @@
             "twitter_url": "https://twitter.com/nomothetis"
           },
           {
+            "title": "Alexis Creuzot on Medium",
+            "author": "Alexis Creuzot",
+            "site_url": "https://medium.com/@alexiscreuzot",
+            "feed_url": "https://medium.com/feed/@alexiscreuzot",
+            "twitter_url": "https://twitter.com/alexiscreuzot"
+          },
+          {
             "title": "All The Flow",
             "author": "Agnes Vasarhelyi",
             "site_url": "https://blog.alltheflow.com",
