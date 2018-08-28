@@ -1053,6 +1053,12 @@
             "twitter_url": "https://twitter.com/objective_see"
           },
           {
+            "title": "Oliver Russell White's Blog",
+            "author": "Oliver Russell White",
+            "site_url": "https://oliverrussellwhite.github.io",
+            "feed_url": "https://github.com/oliverrussellwhite/blog/raw/master/articles.rss"
+          },
+          {
             "title": "Ole Begemann's Blog",
             "author": "Ole Begemann",
             "site_url": "https://oleb.net/blog/",
