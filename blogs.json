@@ -438,6 +438,13 @@
             "twitter_url": "https://twitter.com/danielemargutti"
           },
           {
+            "title": "Dasdom Dev Blog",
+            "author": "Dominik Hauser",
+            "site_url": "https://dasdom.github.io",
+            "feed_url": "https://dasdom.github.io//feed.xml",
+            "twitter_url": "https://twitter.com/dasdom"
+          },
+          {
             "title": "Dave DeLong's Blog",
             "author": "Dave DeLong",
             "site_url": "https://davedelong.com",
@@ -1071,13 +1078,6 @@
             "site_url": "https://152percent.com/blog",
             "feed_url": "https://152percent.com/blog/rss.xml",
             "twitter_url": "https://twitter.com/shaps"
-          },
-          {
-            "title": "Oops",
-            "author": "Derek Clarkson",
-            "site_url": "http://drekka.ghost.io/",
-            "feed_url": "http://drekka.ghost.io/rss/",
-            "twitter_url": "https://twitter.com/d4rkf1br3"
           },
           {
             "title": "owensd.io",
