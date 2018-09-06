@@ -1734,6 +1734,13 @@
             "twitter_url": "https://twitter.com/KevinAtAppra"
           },
           {
+            "title": "Apptamin Blog",
+            "author": "Sylvain Gauchet",
+            "site_url": "https://www.apptamin.com/blog/",
+            "feed_url": "https://www.apptamin.com/feed/",
+            "twitter_url": "https://twitter.com/apptamin"
+          },
+          {
             "title": "Atomic Spin",
             "author": "Atomic Object Team",
             "site_url": "https://spin.atomicobject.com/platforms-languages/ios-osx/",
