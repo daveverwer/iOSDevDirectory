@@ -2667,6 +2667,12 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
+          },
+          {
+            "title": "NSHipster 한국",
+            "author": "NSHipster 한국",
+            "site_url": "https://nshipster.co.kr",
+            "feed_url": "https://nshipster.co.kr/feed.xml"
           }
         ]
       }
