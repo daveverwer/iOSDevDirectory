@@ -619,6 +619,13 @@
             "twitter_url": "https://twitter.com/chockenberry"
           },
           {
+            "title": "Geoff Hackworth on Medium",
+            "author": "Geoff Hackworth",
+            "site_url": "https://medium.com/@hacknicity",
+            "feed_url": "https://medium.com/feed/@hacknicity",
+            "twitter_url": "https://twitter.com/geoffhackworth"
+          },
+          {
             "title": "Gokhan Topcu on Medium",
             "author": "Gokhan Topcu",
             "site_url": "https://medium.com/@ifndefgt",
