@@ -2207,6 +2207,12 @@
             "author": "Dave Nott and Dave Wood",
             "site_url": "https://waitingforreview.com",
             "feed_url": "https://waitingforreview.com/feed/podcast/"
+          },
+          {
+            "title": "Swift over Coffee",
+            "author": "Paul Hudson and Sean Allen",
+            "site_url": "https://anchor.fm/swiftovercoffee",
+            "twitter_url": "https://twitter.com/swiftovercoffee"
           }
         ]
       },
