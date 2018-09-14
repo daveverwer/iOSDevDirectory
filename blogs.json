@@ -2212,7 +2212,8 @@
             "title": "Swift over Coffee",
             "author": "Paul Hudson and Sean Allen",
             "site_url": "https://anchor.fm/swiftovercoffee",
-            "twitter_url": "https://twitter.com/swiftovercoffee"
+            "twitter_url": "https://twitter.com/swiftovercoffee",
+            "feed_url": "https://anchor.fm/s/572fc68/podcast/rss"
           }
         ]
       },
