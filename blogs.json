@@ -2087,6 +2087,13 @@
             "twitter_url": "https://twitter.com/iOSGoodies"
           },
           {
+            "title": "Swift Developments",
+            "author": "Andy Bargh",
+            "site_url": "https://andybargh.com/swiftdevelopments/",
+            "feed_url": "https://andybargh.com/feed/",
+            "twitter_url": "https://twitter.com/swiftdevmnts"
+          },
+          {
             "title": "Swift World",
             "author": "Peng Guo",
             "site_url": "https://medium.com/@NilStack/",
