@@ -893,6 +893,13 @@
             "twitter_url": "https://twitter.com/ryanipete"
           },
           {
+            "title": "Luis Recuenco on Medium",
+            "author": "Luis Recuenco",
+            "site_url": "https://medium.com/@recuenco/",
+            "feed_url": "https://medium.com/feed/@recuenco",
+            "twitter_url": "https://twitter.com/luisrecuenco"
+          },
+          {
             "title": "Machine Think",
             "author": "Matthijs Hollemans",
             "site_url": "http://machinethink.net/blog/",
