@@ -2711,6 +2711,25 @@
         ]
       }
     ]
+  },  {
+    "language": "es",
+    "title": "Spanish Language",
+    "categories": [
+      {
+        "title": "Blogs de desarrollo iOS",
+        "slug": "development",
+        "description": "Todo lo relacionado con el desarrollo iOS, desde arquitectura hasta UI, ya sea en Objective-C o Swift, pertenece a esta categoría.",
+        "sites": [
+          {
+            "title": "NSHipster",
+            "author": "Mattt",
+            "site_url": "https://nshipster.es",
+            "feed_url": "https://nshipster.es/feed.xml",
+            "twitter_url": "https://twitter.com/NSHipster"
+          }
+        ]
+      }
+    ]
   },
   {
     "language": "zh-tw",
