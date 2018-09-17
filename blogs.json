@@ -1598,6 +1598,13 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
+          },
+          {
+            "title": "Device Blogs",
+            "author": "Peter Livesey",
+            "site_url": "https://medium.com/device-blogs",
+            "feed_url": "https://medium.com/feed/device-blogs",
+            "twitter_url": "https://twitter.com/plivesey453"
           }
         ]
       },
