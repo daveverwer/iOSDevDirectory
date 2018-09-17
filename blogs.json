@@ -760,6 +760,12 @@
             "twitter_url": "https://twitter.com/javi"
           },
           {
+            "title": "Jay Cohen's Weblog",
+            "author": "Jay Cohen",
+            "site_url": "http://theswiftycoder.com/blog/",
+            "feed_url": "http://theswiftycoder.com/feed.xml"
+          },
+          {
             "title": "Jeremy W. Sherman's Blog",
             "author": "Jeremy W. Sherman",
             "site_url": "https://jeremywsherman.com/",
@@ -1427,6 +1433,12 @@
             "site_url": "http://shapeof.com/",
             "feed_url": "http://shapeof.com/rss.xml",
             "twitter_url": "https://twitter.com/ccgus"
+          },
+          {
+            "title": "The Swifty Coder on Medium",
+            "author": "Jay Cohen",
+            "site_url": "https://medium.com/@theswiftycoder",
+            "feed_url": "https://medium.com/feed/@theswiftycoder"
           },
           {
             "title": "The Swift Teacher",
