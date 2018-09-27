@@ -1605,6 +1605,13 @@
             "site_url": "https://medium.com/device-blogs",
             "feed_url": "https://medium.com/feed/device-blogs",
             "twitter_url": "https://twitter.com/plivesey453"
+          },
+          {
+            "title": "The FutureBlog – For Developers",
+            "author": "Ortwin Gentz",
+            "site_url": "https://www.futuretap.com/blog?tag=developer",
+            "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
+            "twitter_url": "https://twitter.com/ortwingentz"
           }
         ]
       },
@@ -1738,6 +1745,13 @@
             "site_url": "https://dancounsell.com",
             "feed_url": "https://dancounsell.com/blog/feed/",
             "twitter_url": "https://twitter.com/dancounsell"
+          },
+          {
+            "title": "The FutureBlog – For App Marketers",
+            "author": "Ortwin Gentz",
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
+            "feed_url": "https://www.futuretap.com/category/blog/feed?tag=app-marketing",
+            "twitter_url": "https://twitter.com/ortwingentz"
           }
         ]
       },
