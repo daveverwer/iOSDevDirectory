@@ -382,13 +382,6 @@
             "twitter_url": "https://twitter.com/mattstevens"
           },
           {
-            "title": "Codesmith Dev",
-            "author": "Joey Harris",
-            "site_url": "http://codesmithdev.com",
-            "feed_url": "http://codesmithdev.com",
-            "twitter_url": "https://twitter.com/codesmith_dev"
-          },
-          {
             "title": "Coding Explorer Blog",
             "author": "Nick Hanan",
             "site_url": "http://www.codingexplorer.com",
@@ -1856,6 +1849,13 @@
             "site_url": "https://bugfender.com/blog/",
             "feed_url": "https://bugfender.com/blog/feed/",
             "twitter_url": "https://twitter.com/bugfenderapp"
+          },
+          {
+            "title": "Codesmith Dev",
+            "author": "Joey Harris",
+            "site_url": "http://codesmithdev.com/blog/",
+            "feed_url": "http://codesmithdev.com/feed/",
+            "twitter_url": "https://twitter.com/codesmith_dev"
           },
           {
             "title": "Fabric Blog",
