@@ -1851,6 +1851,13 @@
             "twitter_url": "https://twitter.com/bugfenderapp"
           },
           {
+            "title": "Codesmith Dev",
+            "author": "Joey Harris",
+            "site_url": "http://codesmithdev.com/blog/",
+            "feed_url": "http://codesmithdev.com/feed/",
+            "twitter_url": "https://twitter.com/codesmith_dev"
+          },
+          {
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
