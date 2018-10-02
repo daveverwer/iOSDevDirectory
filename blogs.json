@@ -2268,6 +2268,46 @@
             "site_url": "https://anchor.fm/swiftovercoffee",
             "twitter_url": "https://twitter.com/swiftovercoffee",
             "feed_url": "https://anchor.fm/s/572fc68/podcast/rss"
+          },
+          {
+            "title": "Fireside Swift",
+            "author": "Zack and Steven Berard",
+            "site_url": "https://www.firesideswift.com",
+            "twitter_url": "https://twitter.com/fireside_swift?lang=en",
+            "feed_url": "https://www.firesideswift.com/episodes?format=RSS"
+          },
+          {
+            "title": "App Dev Diary",
+            "author": "Ben Scheirman and Joe Cieplinski",
+            "site_url": "http://appdevdiary.com/",
+            "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
+          },
+          {
+            "title": "Contravariance",
+            "author": "Bas Broek and Benedikt Terhechte",
+            "site_url": "https://contravariance.rocks/",
+            "twitter_url": "https://twitter.com/_contravariance",
+            "feed_url": "https://contravariance.rocks/feed.rss"
+          },
+          {
+            "title": "Swift Unwrapped",
+            "author": "JS Simard and Jesse Squires",
+            "site_url": "https://contravariance.rocks/",
+            "twitter_url": "https://twitter.com/swift_unwrapped",
+            "feed_url": "https://simplecast.com/podcasts/2693/rss"
+          },
+          {
+            "title": "SwiftCraft",
+            "author": "Emmanuoel Haroutunian",
+            "site_url": "https://emanleet.com/",
+            "feed_url": "https://emanleet.com/category/swiftcraft-podcasts/feed/"
+          },
+          {
+            "title": "Waiting for Review",
+            "author": "Dave Nott and Dave Woods",
+            "site_url": "https://waitingforreview.com/",
+            "twitter_url": "https://twitter.com/wfrpodcast",
+            "feed_url": "https://waitingforreview.com/feed/podcast/"
           }
         ]
       },
