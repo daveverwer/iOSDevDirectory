@@ -542,6 +542,13 @@
             "twitter_url": "https://twitter.com/dev_etc"
           },
           {
+            "title": "Device Blogs",
+            "author": "Peter Livesey",
+            "site_url": "https://medium.com/device-blogs",
+            "feed_url": "https://medium.com/feed/device-blogs",
+            "twitter_url": "https://twitter.com/plivesey453"
+          },
+          {
             "title": "Dirk Holtwick's Blog",
             "author": "Dirk Holtwick",
             "site_url": "https://holtwick.de/blog/",
@@ -1087,17 +1094,17 @@
             "twitter_url": "https://twitter.com/objective_see"
           },
           {
-            "title": "Oliver Russell White's Blog",
-            "author": "Oliver Russell White",
-            "site_url": "https://oliverrussellwhite.github.io",
-            "feed_url": "https://github.com/oliverrussellwhite/blog/raw/master/articles.rss"
-          },
-          {
             "title": "Ole Begemann's Blog",
             "author": "Ole Begemann",
             "site_url": "https://oleb.net/blog/",
             "feed_url": "http://oleb.net/blog/atom.xml",
             "twitter_url": "https://twitter.com/olebegemann"
+          },
+          {
+            "title": "Oliver Russell White's Blog",
+            "author": "Oliver Russell White",
+            "site_url": "https://oliverrussellwhite.github.io",
+            "feed_url": "https://github.com/oliverrussellwhite/blog/raw/master/articles.rss"
           },
           {
             "title": "One Fifty Two",
@@ -1421,6 +1428,13 @@
             "twitter_url": "https://twitter.com/atomicbird"
           },
           {
+            "title": "The FutureBlog – For Developers",
+            "author": "Ortwin Gentz",
+            "site_url": "https://www.futuretap.com/blog?tag=developer",
+            "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
+            "twitter_url": "https://twitter.com/ortwingentz"
+          },
+          {
             "title": "The Red Queen Coder",
             "author": "Janie Clayton",
             "site_url": "http://redqueencoder.com",
@@ -1435,17 +1449,17 @@
             "twitter_url": "https://twitter.com/ccgus"
           },
           {
-            "title": "The Swifty Coder on Medium",
-            "author": "Jay Cohen",
-            "site_url": "https://medium.com/@theswiftycoder",
-            "feed_url": "https://medium.com/feed/@theswiftycoder"
-          },
-          {
             "title": "The Swift Teacher",
             "author": "Brian Foutty",
             "site_url": "https://www.swiftteacher.org",
             "feed_url": "https://www.swiftteacher.org/swift-teacher/?format=rss",
             "twitter_url": "https://twitter.com/bfoutty"
+          },
+          {
+            "title": "The Swifty Coder on Medium",
+            "author": "Jay Cohen",
+            "site_url": "https://medium.com/@theswiftycoder",
+            "feed_url": "https://medium.com/feed/@theswiftycoder"
           },
           {
             "title": "The.Swift.Dev.",
@@ -1598,20 +1612,6 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
-          },
-          {
-            "title": "Device Blogs",
-            "author": "Peter Livesey",
-            "site_url": "https://medium.com/device-blogs",
-            "feed_url": "https://medium.com/feed/device-blogs",
-            "twitter_url": "https://twitter.com/plivesey453"
-          },
-          {
-            "title": "The FutureBlog – For Developers",
-            "author": "Ortwin Gentz",
-            "site_url": "https://www.futuretap.com/blog?tag=developer",
-            "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
-            "twitter_url": "https://twitter.com/ortwingentz"
           }
         ]
       },
@@ -2142,11 +2142,24 @@
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
           {
+            "title": "App Dev Diary",
+            "author": "Ben Scheirman and Joe Cieplinski",
+            "site_url": "http://appdevdiary.com/",
+            "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
+          },
+          {
             "title": "Constant Variables",
             "author": "Tim Bornholdt and Robert Bentley",
             "site_url": "https://constantvariables.co",
             "feed_url": "https://constantvariables.co/feed.rss",
             "twitter_url": "https://twitter.com/cv_podcast"
+          },
+          {
+            "title": "Contravariance",
+            "author": "Bas Broek and Benedikt Terhechte",
+            "site_url": "https://contravariance.rocks/",
+            "twitter_url": "https://twitter.com/_contravariance",
+            "feed_url": "https://contravariance.rocks/feed.rss"
           },
           {
             "title": "Core Intuition",
@@ -2162,6 +2175,13 @@
             "site_url": "https://fatalerror.fm",
             "feed_url": "https://fatalerror.fm/episodes?format=RSS",
             "twitter_url": "https://twitter.com/fatalerrorfm"
+          },
+          {
+            "title": "Fireside Swift",
+            "author": "Zack and Steven Berard",
+            "site_url": "https://www.firesideswift.com",
+            "twitter_url": "https://twitter.com/fireside_swift",
+            "feed_url": "https://www.firesideswift.com/episodes?format=RSS"
           },
           {
             "title": "iDeveloper Podcast",
@@ -2244,44 +2264,11 @@
             "feed_url": "https://www.swiftbysundell.com/podcast?format=RSS"
           },
           {
-            "title": "The Swift Teacher Podcast",
-            "author": "Brian Foutty",
-            "site_url": "https://www.swiftteacher.org/podcast/",
-            "feed_url": "http://cast.rocks/hosting/7212/feeds/72WBK.xml",
-            "twitter_url": "https://twitter.com/_SwiftTeacher"
-          },
-          {
-            "title": "Under the Radar",
-            "author": "Marco Arment and David Smith",
-            "site_url": "https://www.relay.fm/radar",
-            "feed_url": "https://www.relay.fm/radar/feed"
-          },
-          {
             "title": "Swift over Coffee",
             "author": "Paul Hudson and Sean Allen",
             "site_url": "https://anchor.fm/swiftovercoffee",
             "twitter_url": "https://twitter.com/swiftovercoffee",
             "feed_url": "https://anchor.fm/s/572fc68/podcast/rss"
-          },
-          {
-            "title": "Fireside Swift",
-            "author": "Zack and Steven Berard",
-            "site_url": "https://www.firesideswift.com",
-            "twitter_url": "https://twitter.com/fireside_swift",
-            "feed_url": "https://www.firesideswift.com/episodes?format=RSS"
-          },
-          {
-            "title": "App Dev Diary",
-            "author": "Ben Scheirman and Joe Cieplinski",
-            "site_url": "http://appdevdiary.com/",
-            "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
-          },
-          {
-            "title": "Contravariance",
-            "author": "Bas Broek and Benedikt Terhechte",
-            "site_url": "https://contravariance.rocks/",
-            "twitter_url": "https://twitter.com/_contravariance",
-            "feed_url": "https://contravariance.rocks/feed.rss"
           },
           {
             "title": "Swift Unwrapped",
@@ -2295,6 +2282,19 @@
             "author": "Emmanuoel Haroutunian",
             "site_url": "https://emanleet.com/",
             "feed_url": "https://emanleet.com/category/swiftcraft-podcasts/feed/"
+          },
+          {
+            "title": "The Swift Teacher Podcast",
+            "author": "Brian Foutty",
+            "site_url": "https://www.swiftteacher.org/podcast/",
+            "feed_url": "http://cast.rocks/hosting/7212/feeds/72WBK.xml",
+            "twitter_url": "https://twitter.com/_SwiftTeacher"
+          },
+          {
+            "title": "Under the Radar",
+            "author": "Marco Arment and David Smith",
+            "site_url": "https://www.relay.fm/radar",
+            "feed_url": "https://www.relay.fm/radar/feed"
           },
           {
             "title": "Waiting for Review",
@@ -2758,6 +2758,12 @@
         "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
         "sites": [
           {
+            "title": "NSHipster 한국",
+            "author": "NSHipster 한국",
+            "site_url": "https://nshipster.co.kr",
+            "feed_url": "https://nshipster.co.kr/feed.xml"
+          },
+          {
             "title": "pilgwon's blog",
             "author": "pilgwon",
             "site_url": "https://pilgwon.github.io/blog/",
@@ -2769,12 +2775,6 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
-          },
-          {
-            "title": "NSHipster 한국",
-            "author": "NSHipster 한국",
-            "site_url": "https://nshipster.co.kr",
-            "feed_url": "https://nshipster.co.kr/feed.xml"
           }
         ]
       }
@@ -2806,7 +2806,8 @@
         ]
       }
     ]
-  },  {
+  },
+  {
     "language": "es",
     "title": "Spanish Language",
     "categories": [
