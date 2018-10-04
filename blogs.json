@@ -313,6 +313,13 @@
             "twitter_url": "https://twitter.com/CWinstanley90"
           },
           {
+            "title": "Christian Tietze's Blog",
+            "author": "Christian Tietze",
+            "site_url": "https://christiantietze.de/",
+            "feed_url": "https://christiantietze.de/feed.atom",
+            "twitter_url": "https://twitter.com/ctietze"
+          },
+          {
             "title": "Coach Frank",
             "author": "Frank Courville",
             "site_url": "http://www.ioscoachfrank.com",
