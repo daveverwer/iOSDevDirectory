@@ -822,6 +822,12 @@
             "twitter_url": "https://twitter.com/johnyorke"
           },
           {
+            "title": "John Scott's Blog",
+            "author": "John Scott",
+            "site_url": "https://jjrscott.com/",
+            "feed_url": "https://jjrscott.com/atom.xml"
+          },
+          {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
             "site_url": "https://kenb.us/",
