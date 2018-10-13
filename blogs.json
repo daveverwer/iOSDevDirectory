@@ -1625,6 +1625,13 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
+          },
+          {
+            "title": "iOS Developer News",
+            "author": "Carlos A. King",
+            "site_url": "https://iosdevelopernews.com/",
+            "feed_url": "https://iosdevelopernews.com/feed",
+            "twitter_url": "https://twitter.com/iosdevelopernew"
           }
         ]
       },
