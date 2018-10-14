@@ -1625,13 +1625,6 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
-          },
-          {
-            "title": "iOS Developer News",
-            "author": "Carlos A. King",
-            "site_url": "https://iosdevelopernews.com/",
-            "feed_url": "https://iosdevelopernews.com/feed",
-            "twitter_url": "https://twitter.com/iosdevelopernew"
           }
         ]
       },
@@ -2371,6 +2364,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "iOS Developer News",
+            "author": "Carlos A. King",
+            "site_url": "https://iosdevelopernews.com/",
+            "feed_url": "https://iosdevelopernews.com/feed",
+            "twitter_url": "https://twitter.com/iosdevelopernew"
           }
         ]
       },
