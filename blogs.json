@@ -1878,6 +1878,13 @@
             "twitter_url": "https://twitter.com/codesmith_dev"
           },
           {
+            "title": "Crunchy Bagel",
+            "author": "Quentin Zervaas",
+            "site_url": "https://crunchybagel.com",
+            "feed_url": "https://crunchybagel.com/rss/",
+            "twitter_url": "https://twitter.com/qzervaas"
+          },
+          {
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
