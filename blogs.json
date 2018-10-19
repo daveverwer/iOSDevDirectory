@@ -647,6 +647,13 @@
             "twitter_url": "https://twitter.com/ifndefgt"
           },
           {
+            "title": "Guilherme Rambo's Blog",
+            "author": "Guilherme Rambo",
+            "site_url": "https://rambo.codes",
+            "feed_url": "https://rambo.codes/feed.xml",
+            "twitter_url": "https://twitter.com/_inside"
+          },
+          {
             "title": "Hacking with Swift",
             "author": "Paul Hudson",
             "site_url": "https://www.hackingwithswift.com/articles",
