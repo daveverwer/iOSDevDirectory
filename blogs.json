@@ -271,6 +271,13 @@
             "twitter_url": "https://twitter.com/irace"
           },
           {
+            "title": "Build and Run",
+            "author": "Thomas Zoechling",
+            "site_url": "https://thomas.zoechling.me/journal/",
+            "feed_url": "https://thomas.zoechling.me/journal/feed.xml",
+            "twitter_url": "https://twitter.com/weichsel"
+          },
+          {
             "title": "CALayer",
             "author": "Shannon Potter",
             "site_url": "https://calayer.com/",
