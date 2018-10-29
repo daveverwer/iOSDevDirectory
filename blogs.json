@@ -1737,6 +1737,13 @@
             "site_url": "http://www.useronboard.com/",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
+          },
+          {
+            "title": "Swiftjective-C",
+            "author": "Jordan Morgan",
+            "site_url": "https://www.swiftjectivec.com",
+            "feed_url": "https://www.swiftjectivec.com/feed.xml",
+            "twitter_url": "https://www.twitter.com/jordanmorgan10"
           }
         ]
       },
