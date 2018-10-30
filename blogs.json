@@ -2,14 +2,7 @@
   {
     "language": "en",
     "title": "English Language",
-    "categories": [
-       {
-            "title": "Appoly",          
-            "site_url": "https://www.appoly.co.uk/",
-            "author": "Appoly Ltd",
-            "feed_url": "https://www.appoly.co.uk/feed/"
-            "twitter_url": "https://twitter.com/appolyltd"
-          },          
+    "categories": [             
       {
         "title": "Official Apple Blogs",
         "slug": "official",
@@ -46,6 +39,13 @@
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
+           {
+            "title": "Appoly",           
+            "author": "Appoly Ltd",
+            "site_url": "https://www.appoly.co.uk/",
+            "feed_url": "https://www.appoly.co.uk/feed/"
+            "twitter_url": "https://twitter.com/appolyltd"
+          },   
           {
             "title": "a-coding",
             "author": "Alejandro Isaza",
