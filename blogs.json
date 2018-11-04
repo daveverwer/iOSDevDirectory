@@ -1639,6 +1639,13 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
+          },
+          {
+            "title": "Adrian Śliwa on Medium",
+            "author": "Adrian Śliwa",
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "feed_url": "https://medium.com/feed/@adrianmsliwa",
+            "twitter_url": "https://twitter.com/adiki91"
           }
         ]
       },
@@ -1786,13 +1793,6 @@
             "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=app-marketing",
             "twitter_url": "https://twitter.com/ortwingentz"
-          },
-          {
-            "title": "Adrian Śliwa on Medium",
-            "author": "Adrian Śliwa",
-            "site_url": "https://medium.com/@adrianmsliwa",
-            "feed_url": "https://medium.com/feed/@adrianmsliwa",
-            "twitter_url": "https://twitter.com/adiki91"
           }
         ]
       },
