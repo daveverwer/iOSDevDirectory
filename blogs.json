@@ -842,6 +842,13 @@
             "feed_url": "https://jjrscott.com/atom.xml"
           },
           {
+           "title": "Jordan Morgan's Blog",
+           "author": "Jordan Morgan",
+           "site_url": "https://swiftjectivec.com/",
+           "feed_url": "https://www.swiftjectivec.com/feed.xml",
+           "twitter_url": "https://twitter.com/jordanmorgan10"
+         },
+          {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
             "site_url": "https://kenb.us/",
