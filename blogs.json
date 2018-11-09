@@ -1551,6 +1551,13 @@
             "twitter_url": "https://twitter.com/tonyarnold"
           },
           {
+            "title": "Topolog's tech blog",
+            "author": "Dmitrii Ivanov",
+            "site_url": "https://dmtopolog.com",
+            "feed_url": "https://dmtopolog.com/feed/",
+            "twitter_url": "https://twitter.com/dmtopolog"
+          },
+          {
             "title": "Two Minute iOS",
             "author": "Damien Laughton",
             "site_url": "https://medium.com/@dfplaughton",
