@@ -277,6 +277,13 @@
             "twitter_url": "https://twitter.com/irace"
           },
           {
+            "title": "Build and Run",
+            "author": "Thomas Zoechling",
+            "site_url": "https://thomas.zoechling.me/journal/",
+            "feed_url": "https://thomas.zoechling.me/journal/feed.xml",
+            "twitter_url": "https://twitter.com/weichsel"
+          },
+          {
             "title": "CALayer",
             "author": "Shannon Potter",
             "site_url": "https://calayer.com/",
@@ -840,6 +847,13 @@
             "site_url": "https://jjrscott.com/",
             "feed_url": "https://jjrscott.com/atom.xml"
           },
+          {
+           "title": "Jordan Morgan's Blog",
+           "author": "Jordan Morgan",
+           "site_url": "https://swiftjectivec.com/",
+           "feed_url": "https://www.swiftjectivec.com/feed.xml",
+           "twitter_url": "https://twitter.com/jordanmorgan10"
+         },
           {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
@@ -1543,6 +1557,13 @@
             "twitter_url": "https://twitter.com/tonyarnold"
           },
           {
+            "title": "Topolog's tech blog",
+            "author": "Dmitrii Ivanov",
+            "site_url": "https://dmtopolog.com",
+            "feed_url": "https://dmtopolog.com/feed/",
+            "twitter_url": "https://twitter.com/dmtopolog"
+          },
+          {
             "title": "Two Minute iOS",
             "author": "Damien Laughton",
             "site_url": "https://medium.com/@dfplaughton",
@@ -1638,6 +1659,13 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
+          },
+          {
+            "title": "Adrian Śliwa on Medium",
+            "author": "Adrian Śliwa",
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "feed_url": "https://medium.com/feed/@adrianmsliwa",
+            "twitter_url": "https://twitter.com/adiki91"
           }
         ]
       },
@@ -1736,6 +1764,13 @@
             "site_url": "http://www.useronboard.com/",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
+          },
+          {
+            "title": "Swiftjective-C",
+            "author": "Jordan Morgan",
+            "site_url": "https://www.swiftjectivec.com",
+            "feed_url": "https://www.swiftjectivec.com/feed.xml",
+            "twitter_url": "https://www.twitter.com/jordanmorgan10"
           }
         ]
       },
