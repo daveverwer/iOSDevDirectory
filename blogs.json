@@ -68,6 +68,13 @@
             "twitter_url": "https://twitter.com/naturaln0va"
           },
           {
+            "title": "Adrian Śliwa on Medium",
+            "author": "Adrian Śliwa",
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "feed_url": "https://medium.com/feed/@adrianmsliwa",
+            "twitter_url": "https://twitter.com/adiki91"
+          },
+          {
             "title": "Agostini.Tech",
             "author": "Dejan Agostini",
             "site_url": "https://agostini.tech",
@@ -835,6 +842,12 @@
             "twitter_url": "https://twitter.com/joemasilotti"
           },
           {
+            "title": "John Scott's Blog",
+            "author": "John Scott",
+            "site_url": "https://jjrscott.com/",
+            "feed_url": "https://jjrscott.com/atom.xml"
+          },
+          {
             "title": "John Yorke's Blog",
             "author": "John Yorke",
             "site_url": "https://johnyorke.me/tagged/swift",
@@ -842,18 +855,12 @@
             "twitter_url": "https://twitter.com/johnyorke"
           },
           {
-            "title": "John Scott's Blog",
-            "author": "John Scott",
-            "site_url": "https://jjrscott.com/",
-            "feed_url": "https://jjrscott.com/atom.xml"
+            "title": "Jordan Morgan's Blog",
+            "author": "Jordan Morgan",
+            "site_url": "https://swiftjectivec.com/",
+            "feed_url": "https://www.swiftjectivec.com/feed.xml",
+            "twitter_url": "https://twitter.com/jordanmorgan10"
           },
-          {
-           "title": "Jordan Morgan's Blog",
-           "author": "Jordan Morgan",
-           "site_url": "https://swiftjectivec.com/",
-           "feed_url": "https://www.swiftjectivec.com/feed.xml",
-           "twitter_url": "https://twitter.com/jordanmorgan10"
-         },
           {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
@@ -1659,13 +1666,6 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
-          },
-          {
-            "title": "Adrian Śliwa on Medium",
-            "author": "Adrian Śliwa",
-            "site_url": "https://medium.com/@adrianmsliwa",
-            "feed_url": "https://medium.com/feed/@adrianmsliwa",
-            "twitter_url": "https://twitter.com/adiki91"
           }
         ]
       },
@@ -1759,18 +1759,18 @@
             "twitter_url": "https://twitter.com/sdw"
           },
           {
-            "title": "User Onboarding",
-            "author": "Samuel Hulick",
-            "site_url": "http://www.useronboard.com/",
-            "feed_url": "http://www.useronboard.com/rss/",
-            "twitter_url": "https://twitter.com/samuelhulick"
-          },
-          {
             "title": "Swiftjective-C",
             "author": "Jordan Morgan",
             "site_url": "https://www.swiftjectivec.com",
             "feed_url": "https://www.swiftjectivec.com/feed.xml",
             "twitter_url": "https://www.twitter.com/jordanmorgan10"
+          },
+          {
+            "title": "User Onboarding",
+            "author": "Samuel Hulick",
+            "site_url": "http://www.useronboard.com/",
+            "feed_url": "http://www.useronboard.com/rss/",
+            "twitter_url": "https://twitter.com/samuelhulick"
           }
         ]
       },
@@ -2393,6 +2393,13 @@
             "twitter_url": "https://twitter.com/iosdevweekly"
           },
           {
+            "title": "iOS Developer News",
+            "author": "Carlos A. King",
+            "site_url": "https://iosdevelopernews.com/",
+            "feed_url": "https://iosdevelopernews.com/feed",
+            "twitter_url": "https://twitter.com/iosdevelopernew"
+          },
+          {
             "title": "iOS Goodies",
             "author": "Marius Constantinescu",
             "site_url": "http://ios-goodies.com/",
@@ -2419,13 +2426,6 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
-          },
-          {
-            "title": "iOS Developer News",
-            "author": "Carlos A. King",
-            "site_url": "https://iosdevelopernews.com/",
-            "feed_url": "https://iosdevelopernews.com/feed",
-            "twitter_url": "https://twitter.com/iosdevelopernew"
           }
         ]
       },
