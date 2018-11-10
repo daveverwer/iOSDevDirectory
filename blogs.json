@@ -173,6 +173,12 @@
             "twitter_url": "https://twitter.com/arekholko"
           },
           {
+            "title": "Arjun Nayini's Blog",
+            "author": "Arjun Nayini",
+            "site_url": "http://arjunnayini.com/",
+            "feed_url": "http://arjunnayini.com/feed.xml"
+          },
+          {
             "title": "Arseniy Kuznetsov's Blog",
             "author": "Arseniy Kuznetsov",
             "site_url": "http://akpdev.com",
