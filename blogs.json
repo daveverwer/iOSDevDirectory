@@ -1050,6 +1050,13 @@
             "twitter_url": "https://twitter.com/MaxDesiatov"
           },
           {
+            "title": "Max Howell on Medium",
+            "author": "Max Howell",
+            "site_url": "https://medium.com/@mxcl",
+            "feed_url": "https://medium.com/feed/@mxcl",
+            "twitter_url": "https://twitter.com/mxcl"
+          },
+          {
             "title": "Michael Tsai's Blog",
             "author": "Michael Tsai",
             "site_url": "https://mjtsai.com/blog",
