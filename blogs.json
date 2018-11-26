@@ -75,6 +75,13 @@
             "twitter_url": "https://twitter.com/gabtheodor"
           },
           {
+            "title": "Bob the Developer",
+            "author": "Bob Lee",
+            "site_url": "https://blog.bobthedeveloper.io",
+            "feed_url": "https://blog.bobthedeveloper.io/feed",
+            "twitter_url": "https://twitter.com/bobleesj"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
