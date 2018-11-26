@@ -68,6 +68,13 @@
             "twitter_url": "https://twitter.com/jquave"
           },
           {
+            "title": "Gabriel Theodoropoulos' Blog",
+            "author": "Gabriel Theodoropoulos",
+            "site_url": "https://gtiapps.com",
+            "feed_url": "https://gtiapps.com/?feed=rss2",
+            "twitter_url": "https://twitter.com/gabtheodor"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
