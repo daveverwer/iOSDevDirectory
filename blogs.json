@@ -54,6 +54,13 @@
             "twitter_url": "https://twitter.com/lapcatsoftware"
           },
           {
+            "title": "miqu.me",
+            "author": "Miguel Angel Quiñones",
+            "site_url": "https://miqu.me",
+            "feed_url": "https://miqu.me/atom.xml",
+            "twitter_url": "https://twitter.com/miguelquinon"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
