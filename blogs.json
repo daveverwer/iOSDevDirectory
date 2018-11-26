@@ -40,48 +40,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Andy Matuschak's Blog",
-            "author": "Andy Matuschak",
-            "site_url": "http://blog.andymatuschak.org",
-            "feed_url": "http://blog.andymatuschak.org/rss",
-            "twitter_url": "https://twitter.com/andy_matuschak"
-          },
-          {
-            "title": "Jeff Johnson's Blog",
-            "author": "Jeff Johnson",
-            "site_url": "http://lapcatsoftware.com/articles/index.html",
-            "feed_url": "http://lapcatsoftware.com/articles/atom.xml",
-            "twitter_url": "https://twitter.com/lapcatsoftware"
-          },
-          {
-            "title": "miqu.me",
-            "author": "Miguel Angel Quiñones",
-            "site_url": "https://miqu.me",
-            "feed_url": "https://miqu.me/atom.xml",
-            "twitter_url": "https://twitter.com/miguelquinon"
-          },
-          {
-            "title": "Jameson Quave's Blog",
-            "author": "Jameson Quave",
-            "site_url": "http://jamesonquave.com/blog/",
-            "feed_url": "http://jamesonquave.com/blog/feed/",
-            "twitter_url": "https://twitter.com/jquave"
-          },
-          {
-            "title": "Gabriel Theodoropoulos' Blog",
-            "author": "Gabriel Theodoropoulos",
-            "site_url": "https://gtiapps.com",
-            "feed_url": "https://gtiapps.com/?feed=rss2",
-            "twitter_url": "https://twitter.com/gabtheodor"
-          },
-          {
-            "title": "Bob the Developer",
-            "author": "Bob Lee",
-            "site_url": "https://blog.bobthedeveloper.io",
-            "feed_url": "https://blog.bobthedeveloper.io/feed",
-            "twitter_url": "https://twitter.com/bobleesj"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -194,6 +152,13 @@
             "twitter_url": "https://twitter.com/andrewcbancroft"
           },
           {
+            "title": "Andy Matuschak's Blog",
+            "author": "Andy Matuschak",
+            "site_url": "http://blog.andymatuschak.org",
+            "feed_url": "http://blog.andymatuschak.org/rss",
+            "twitter_url": "https://twitter.com/andy_matuschak"
+          },
+          {
             "title": "Andy Obusek's Blog",
             "author": "Andy Obusek",
             "site_url": "http://www.cleanswifter.com",
@@ -303,6 +268,13 @@
             "feed_url": "http://bitsplitting.org/feed/",
             "twitter_url": "https://twitter.com/danielpunkass",
             "microblog_url": "https://micro.blog/danielpunkass"
+          },
+          {
+            "title": "Bob the Developer",
+            "author": "Bob Lee",
+            "site_url": "https://blog.bobthedeveloper.io",
+            "feed_url": "https://blog.bobthedeveloper.io/feed",
+            "twitter_url": "https://twitter.com/bobleesj"
           },
           {
             "title": "Bret Victor's Blog",
@@ -701,6 +673,13 @@
             "twitter_url": "https://twitter.com/chockenberry"
           },
           {
+            "title": "Gabriel Theodoropoulos' Blog",
+            "author": "Gabriel Theodoropoulos",
+            "site_url": "https://gtiapps.com",
+            "feed_url": "https://gtiapps.com/?feed=rss2",
+            "twitter_url": "https://twitter.com/gabtheodor"
+          },
+          {
             "title": "Geoff Hackworth on Medium",
             "author": "Geoff Hackworth",
             "site_url": "https://medium.com/@hacknicity",
@@ -828,6 +807,13 @@
             "twitter_url": "https://twitter.com/jamesdempsey"
           },
           {
+            "title": "Jameson Quave's Blog",
+            "author": "Jameson Quave",
+            "site_url": "http://jamesonquave.com/blog/",
+            "feed_url": "http://jamesonquave.com/blog/feed/",
+            "twitter_url": "https://twitter.com/jquave"
+          },
+          {
             "title": "Jared Sinclair's Blog",
             "author": "Jared Sinclair",
             "site_url": "http://blog.jaredsinclair.com/",
@@ -846,6 +832,13 @@
             "author": "Jay Cohen",
             "site_url": "http://theswiftycoder.com/blog/",
             "feed_url": "http://theswiftycoder.com/feed.xml"
+          },
+          {
+            "title": "Jeff Johnson's Blog",
+            "author": "Jeff Johnson",
+            "site_url": "http://lapcatsoftware.com/articles/index.html",
+            "feed_url": "http://lapcatsoftware.com/articles/atom.xml",
+            "twitter_url": "https://twitter.com/lapcatsoftware"
           },
           {
             "title": "Jeremy W. Sherman's Blog",
@@ -1131,6 +1124,13 @@
             "site_url": "http://blog.mikeswanson.com/",
             "feed_url": "http://blog.mikeswanson.com/rss",
             "twitter_url": "https://twitter.com/anyware"
+          },
+          {
+            "title": "miqu.me",
+            "author": "Miguel Angel Quiñones",
+            "site_url": "https://miqu.me",
+            "feed_url": "https://miqu.me/atom.xml",
+            "twitter_url": "https://twitter.com/miguelquinon"
           },
           {
             "title": "mokacoding",
