@@ -61,6 +61,13 @@
             "twitter_url": "https://twitter.com/miguelquinon"
           },
           {
+            "title": "Jameson Quave's Blog",
+            "author": "Jameson Quave",
+            "site_url": "http://jamesonquave.com/blog/",
+            "feed_url": "http://jamesonquave.com/blog/feed/",
+            "twitter_url": "https://twitter.com/jquave"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
