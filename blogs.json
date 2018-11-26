@@ -47,6 +47,13 @@
             "twitter_url": "https://twitter.com/andy_matuschak"
           },
           {
+            "title": "Jeff Johnson's Blog",
+            "author": "Jeff Johnson",
+            "site_url": "http://lapcatsoftware.com/articles/index.html",
+            "feed_url": "http://lapcatsoftware.com/articles/atom.xml",
+            "twitter_url": "https://twitter.com/lapcatsoftware"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
