@@ -931,6 +931,13 @@
             "twitter_url": "https://twitter.com/kylefuller"
           },
           {
+            "title": "This is Kyle",
+            "author": "Kyle Sherman",
+            "site_url": "http://thisiskyle.me",
+            "feed_url": "http://thisiskyle.me/feed.xml",
+            "twitter_url": "https://twitter.com/drumnkyle"
+          },
+          {
             "title": "Landon Fuller's Blog",
             "author": "Landon Fuller",
             "site_url": "http://landonf.org",
