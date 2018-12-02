@@ -834,6 +834,13 @@
             "feed_url": "http://theswiftycoder.com/feed.xml"
           },
           {
+            "title": "Jean Mainguy on Medium",
+            "author": "Jean Mainguy",
+            "site_url": "https://medium.com/@jhandguy",
+            "feed_url": "https://medium.com/feed/@jhandguy",
+            "twitter_url": "https://twitter.com/jhandguy"
+          },
+          {
             "title": "Jeff Johnson's Blog",
             "author": "Jeff Johnson",
             "site_url": "http://lapcatsoftware.com/articles/index.html",
