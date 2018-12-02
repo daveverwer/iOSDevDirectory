@@ -1001,6 +1001,13 @@
             "twitter_url": "https://twitter.com/loiclec"
           },
           {
+            "title": "Lord Codes",
+            "author": "Andrew Lord",
+            "site_url": "https://www.lordcodes.com/categories/ios-swift/",
+            "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
+            "twitter_url": "https://twitter.com/lordcodes"
+          },
+          {
             "title": "Low Level",
             "author": "Ryan Peterson",
             "site_url": "http://ryanipete.com/blog/",
@@ -2046,8 +2053,8 @@
           {
             "title": "Kitefaster's iOS Development Blog",
             "author": "Kitefaster",
-            "site_url": "https://kitefaster.com/category/ios-development/",
-            "feed_url": "https://kitefaster.com/category/ios-development/feed/",
+            "site_url": "https://kitefaster.com/posts/",
+            "feed_url": "https://kitefaster.com/posts/index.xml",
             "twitter_url": "https://twitter.com/kitefasterapps"
           },
           {
