@@ -994,6 +994,13 @@
             "twitter_url": "https://twitter.com/loiclec"
           },
           {
+            "title": "Lord Codes",
+            "author": "Andrew Lord",
+            "site_url": "https://www.lordcodes.com/categories/ios-swift/",
+            "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
+            "twitter_url": "https://twitter.com/lordcodes"
+          },
+          {
             "title": "Low Level",
             "author": "Ryan Peterson",
             "site_url": "http://ryanipete.com/blog/",
