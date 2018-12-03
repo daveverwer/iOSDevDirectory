@@ -2060,8 +2060,8 @@
           {
             "title": "Kitefaster's iOS Development Blog",
             "author": "Kitefaster",
-            "site_url": "https://kitefaster.com/posts/",
-            "feed_url": "https://kitefaster.com/posts/index.xml",
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "feed_url": "https://kitefaster.com/categories/ios-development/index.xml",
             "twitter_url": "https://twitter.com/kitefasterapps"
           },
           {
