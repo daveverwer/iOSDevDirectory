@@ -451,6 +451,13 @@
             "twitter_url": "https://twitter.com/ConsBulaquena"
           },
           {
+            "title": "Crunchy Bagel",
+            "author": "Crunchy Bagel",
+            "site_url": "https://crunchybagel.com",
+            "feed_url": "https://crunchybagel.com/rss/",
+            "twitter_url": "https://twitter.com/crunchybagel"
+          },
+          {
             "title": "Crunchy Development",
             "author": "Olivier Halligon",
             "site_url": "http://alisoftware.github.io/",
