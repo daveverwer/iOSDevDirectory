@@ -1439,6 +1439,12 @@
             "twitter_url": "https://twitter.com/hmblebee"
           },
           {
+            "title": "Spaceman Labs Blog",
+            "author": "Joel Kraut, Jerry Jones",
+            "site_url": "https://blog.spacemanlabs.com",
+            "feed_url": "https://blog.spacemanlabs.com/feed/"
+          },
+          {
             "title": "Speed of Light",
             "author": "Jason Brennan",
             "site_url": "http://nearthespeedoflight.com",
