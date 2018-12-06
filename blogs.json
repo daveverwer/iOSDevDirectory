@@ -1196,6 +1196,13 @@
             "twitter_url": "https://twitter.com/noir"
           },
           {
+            "title": "Noah Gilmore's Blog",
+            "author": "Noah Gilmore",
+            "site_url": "https://noahgilmore.com/blog/tags/ios/",
+            "feed_url": "https://noahgilmore.com/blog/ios.xml",
+            "twitter_url": "https://twitter.com/noahsark769"
+          },
+          {
             "title": "NSBlog",
             "author": "Mike Ash",
             "site_url": "http://www.mikeash.com/pyblog/",
