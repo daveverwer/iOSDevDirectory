@@ -255,6 +255,13 @@
             "twitter_url": "https://twitter.com/benscheirman"
           },
           {
+            "title": "Ben Scholtysik's Blog",
+            "author": "Ben Scholtysik",
+            "site_url": "https://benjaminscholtysik.com/",
+            "feed_url": "https://benjaminscholtysik.com/feed/",
+            "twitter_url": "https://twitter.com/elektrojunge"
+          },
+          {
             "title": "Ben Snider's Blog",
             "author": "Ben Snider",
             "site_url": "http://www.bensnider.com/",
