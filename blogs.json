@@ -2217,6 +2217,13 @@
             "feed_url": "https://roundwallsoftware.com/rss"
           },
           {
+            "title": "Runtastic Tech Blog",
+            "author": "Runtastic iOS Devs",
+            "site_url": "https://www.runtastic.com/blog/en/tag/ios/",
+            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed/",
+            "twitter_url": "https://twitter.com/Runtastic"
+          },
+          {
             "title": "Savvy Apps Blog",
             "author": "Savvy Apps Team",
             "site_url": "https://savvyapps.com/blog",
