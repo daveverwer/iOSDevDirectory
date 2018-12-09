@@ -1782,6 +1782,13 @@
             "site_url": "https://www.vadimbulavin.com",
             "feed_url": "https://www.vadimbulavin.com/feed",
             "twitter_url": "https://twitter.com/V8tr"
+          },
+          {
+            "title": "Mark Struzinski - Thoughts on Software Development and Technology",
+            "author": "Mark Struzinski",
+            "site_url": "http://markstruzinski.com",
+            "feed_url": "http://markstruzinski.com/index.xml",
+            "twitter_url": "https://twitter.com/ski081"
           }
         ]
       },
