@@ -1515,6 +1515,12 @@
             "twitter_url": "https://twitter.com/johnsundell"
           },
           {
+            "title": "Swift Dev Journal",
+            "author": "Mark Szymczyk",
+            "site_url": "https://swiftdevjournal.com/",
+            "feed_url": "https://swiftdevjournal.com/feed"
+          },
+          {
             "title": "Swift Post",
             "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
             "site_url": "https://theswiftpost.co",
