@@ -1789,6 +1789,13 @@
             "site_url": "http://markstruzinski.com",
             "feed_url": "http://markstruzinski.com/index.xml",
             "twitter_url": "https://twitter.com/ski081"
+          },
+          {
+            "title": "Mike Mikina Blog",
+            "author": "Mike Mikina",
+            "site_url": "http://mikemikina.com",
+            "feed_url": "https://mikemikina.com/feed.xml",
+            "twitter_url": "https://twitter.com/mikemikina"
           }
         ]
       },
