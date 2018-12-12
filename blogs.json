@@ -2098,6 +2098,13 @@
             "twitter_url": "https://twitter.com/instabug"
           },
           {
+            "title": "Itty Bitty Apps Blog",
+            "author": "Itty Bitty Apps Team",
+            "site_url": "https://www.ittybittyapps.com/blog/",
+            "feed_url": "https://www.ittybittyapps.com/blog/index.xml",
+            "twitter_url": "https://twitter.com/ittybittyapps"
+          },
+          {
             "title": "Kitefaster's iOS Development Blog",
             "author": "Kitefaster",
             "site_url": "https://kitefaster.com/categories/ios-development/",
