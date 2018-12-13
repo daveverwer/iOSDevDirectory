@@ -694,6 +694,13 @@
             "twitter_url": "https://twitter.com/gabtheodor"
           },
           {
+            "title": "geek-is-stupid",
+            "author": "Tai Le",
+            "site_url": "https://geek-is-stupid.github.io",
+            "feed_url": "https://geek-is-stupid.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/levantAJ"
+          },
+          {
             "title": "Geoff Hackworth on Medium",
             "author": "Geoff Hackworth",
             "site_url": "https://medium.com/@hacknicity",
