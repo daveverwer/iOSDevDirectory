@@ -618,6 +618,13 @@
             "twitter_url": "https://twitter.com/_eliperkins"
           },
           {
+            "title": "Emilio Peláez's Blog",
+            "author": "Emilio Peláez",
+            "site_url": "https://medium.com/@Pelaez",
+            "feed_url": "https://medium.com/feed/@Pelaez",
+            "twitter_url": "https://twitter.com/emiliopelaez"
+          },
+          {
             "title": "ennioma",
             "author": "Ennio Masi",
             "site_url": "http://ennioma.com/",
