@@ -1217,6 +1217,12 @@
             "twitter_url": "https://twitter.com/noir"
           },
           {
+            "title": "Nikita Rodionov on Medium",
+            "author": "Nikita Rodionov",
+            "site_url": "https://medium.com/@proudofziggy",
+            "feed_url": "https://medium.com/feed/@proudofziggy"
+          },
+          {
             "title": "Noah Gilmore's Blog",
             "author": "Noah Gilmore",
             "site_url": "https://noahgilmore.com/blog/tags/ios/",
