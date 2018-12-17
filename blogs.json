@@ -1816,6 +1816,12 @@
             "site_url": "http://mikemikina.com",
             "feed_url": "https://mikemikina.com/feed.xml",
             "twitter_url": "https://twitter.com/mikemikina"
+          },
+          {
+            "title": "Zanella Gaétan on Medium",
+            "author": "Zanella Gaétan",
+            "site_url": "https://medium.com/@gaetan.zanella",
+            "feed_url": "https://medium.com/feed/@gaetan.zanella"
           }
         ]
       },
