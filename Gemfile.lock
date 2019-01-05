@@ -6,12 +6,14 @@ GEM
     json-schema (2.8.0)
       addressable (>= 2.4)
     public_suffix (3.0.2)
+    rake (12.3.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   json-schema
+  rake
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
