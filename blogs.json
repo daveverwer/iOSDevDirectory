@@ -1320,6 +1320,13 @@
             "twitter_url": "https://twitter.com/pepibumur"
           },
           {
+            "title": "Pierre Felgines's Blog",
+            "author": "Pierre Felgines",
+            "site_url": "https://felginep.github.io",
+            "feed_url": "https://felginep.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/PierreFelgines"
+          },
+          {
             "title": "Point-Free Pointers",
             "author": "Brandon Williams and Stephen Celis",
             "site_url": "https://www.pointfree.co/blog",
