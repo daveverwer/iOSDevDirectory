@@ -987,13 +987,6 @@
             "twitter_url": "https://twitter.com/petermolnar_hu"
           },
           {
-            "title": "Learning Swift",
-            "author": "Leo Dion",
-            "site_url": "https://learningswift.brightdigit.com",
-            "feed_url": "https://learningswift.brightdigit.com/feed/",
-            "twitter_url": "https://twitter.com/leogdion"
-          },
-          {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
             "site_url": "http://lewismakesapps.com",
@@ -2502,6 +2495,13 @@
             "site_url": "https://devchat.tv/iphreaks",
             "feed_url": "https://devchat.tv/iphreaks/feed/",
             "twitter_url": "https://twitter.com/iphreaks"
+          },
+          {
+            "title": "Learning Swift",
+            "author": "Leo Dion",
+            "site_url": "https://learningswift.brightdigit.com",
+            "feed_url": "https://learningswift.brightdigit.com/feed/",
+            "twitter_url": "https://twitter.com/leogdion"
           },
           {
             "title": "More Than Just Code",
