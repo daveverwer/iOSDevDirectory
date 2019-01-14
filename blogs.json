@@ -1568,6 +1568,13 @@
             "feed_url": "https://swiftdevjournal.com/feed"
           },
           {
+            "title": "Swift in Depth",
+            "author": "Tjeerd in 't Veen",
+            "site_url": "https://swiftindepth.com/",
+            "feed_url": "https://swiftindepth.com/feed.xml",
+            "twitter_url": "https://twitter.com/tjeerdintveen"
+          },
+          {
             "title": "Swift Post",
             "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
             "site_url": "https://theswiftpost.co",
