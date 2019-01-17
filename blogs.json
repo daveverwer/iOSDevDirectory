@@ -2608,6 +2608,13 @@
             "site_url": "https://waitingforreview.com/",
             "twitter_url": "https://twitter.com/wfrpodcast",
             "feed_url": "https://waitingforreview.com/feed/podcast/"
+          },
+          {
+            "title": "The Swift Community Podcast",
+            "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
+            "site_url": "https://www.swiftcommunitypodcast.org/",
+            "twitter_url": "https://twitter.com/theswiftpodcast",
+            "feed_url": "https://swiftcommunitypodcast.org/?format=rss"
           }
         ]
       },
