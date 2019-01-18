@@ -2276,6 +2276,12 @@
             "twitter_url": "https://twitter.com/weareprolific"
           },
           {
+            "title": "QuickBird Studios Blog",
+            "author": "QuickBird Studios Team",
+            "site_url": "https://quickbirdstudios.com/blog/",
+            "feed_url": "https://quickbirdstudios.com/blog/feed/"
+          },
+          {
             "title": "Quicktype Blog",
             "author": "Quicktype Team",
             "site_url": "https://blog.quicktype.io/",
