@@ -2453,6 +2453,13 @@
             "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
           },
           {
+            "title": "CmdSwift",
+            "author": "Kristof Kocsis & Héctor Carrion",
+            "site_url": "https://cmdswift.com/",
+            "feed_url": "http://feeds.soundcloud.com/users/soundcloud%3Ausers%3A552348081/sounds.rss",
+            "twitter_url": "https://twitter.com/CmdSwift"
+          },
+          {
             "title": "Constant Variables",
             "author": "Tim Bornholdt and Robert Bentley",
             "site_url": "https://constantvariables.co",
