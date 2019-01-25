@@ -1024,7 +1024,7 @@
           {
             "title": "Lord Codes",
             "author": "Andrew Lord",
-            "site_url": "https://www.lordcodes.com/categories/ios-swift/",
+            "site_url": "https://www.lordcodes.com/ios/",
             "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
             "twitter_url": "https://twitter.com/lordcodes"
           },
@@ -2458,6 +2458,13 @@
             "author": "Ben Scheirman and Joe Cieplinski",
             "site_url": "http://appdevdiary.com/",
             "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
+          },
+          {
+            "title": "CmdSwift",
+            "author": "Kristof Kocsis & Héctor Carrion",
+            "site_url": "https://cmdswift.com/",
+            "feed_url": "http://feeds.soundcloud.com/users/soundcloud%3Ausers%3A552348081/sounds.rss",
+            "twitter_url": "https://twitter.com/CmdSwift"
           },
           {
             "title": "Constant Variables",
