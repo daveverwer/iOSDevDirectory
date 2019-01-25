@@ -2240,6 +2240,13 @@
             "feed_url": "https://medium.com/feed/motiv-engineering-blog",
             "twitter_url": "https://twitter.com/motiv"
           },
+           {
+            "title": "Droids On Roids Blog iOS Development",
+            "author": "Droids On Roids Team",
+            "site_url": "https://www.thedroidsonroids.com/category/blog/ios",
+            "feed_url": "https://www.thedroidsonroids.com/category/blog/ios/feed",
+            "twitter_url": "https://twitter.com/droidsonroids"
+          },
           {
             "title": "Netguru iOS Codestories",
             "author": "Netguru Team",
