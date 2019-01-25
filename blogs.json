@@ -40,6 +40,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Majid's Blog about Swift development",
+            "author": "Majid Jabrayilov",
+            "site_url": "https://mecid.github.io",
+            "feed_url": "https://mecid.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/mecid"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
