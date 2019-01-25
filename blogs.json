@@ -40,6 +40,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Majid's Blog about Swift development",
+            "author": "Majid Jabrayilov",
+            "site_url": "https://mecid.github.io",
+            "feed_url": "https://mecid.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/mecid"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -2239,6 +2246,13 @@
             "site_url": "https://medium.com/motiv-engineering-blog",
             "feed_url": "https://medium.com/feed/motiv-engineering-blog",
             "twitter_url": "https://twitter.com/motiv"
+          },
+           {
+            "title": "Droids On Roids Blog iOS Development",
+            "author": "Droids On Roids Team",
+            "site_url": "https://www.thedroidsonroids.com/category/blog/ios",
+            "feed_url": "https://www.thedroidsonroids.com/category/blog/ios/feed",
+            "twitter_url": "https://twitter.com/droidsonroids"
           },
           {
             "title": "Netguru iOS Codestories",
