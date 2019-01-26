@@ -1154,6 +1154,13 @@
             "twitter_url": "https://twitter.com/MatManferdini"
           },
           {
+            "title": "Matthew's Dev Blog",
+            "author": "Matthew Flint",
+            "site_url": "https://daringsnowball.net/",
+            "feed_url": "https://daringsnowball.net/atom.xml",
+            "twitter_url": "https://twitter.com/mkflint"
+          },
+          {
             "title": "Max Desiatov's Blog",
             "author": "Max Desiatov",
             "site_url": "https://desiatov.com/",
