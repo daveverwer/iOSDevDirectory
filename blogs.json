@@ -814,6 +814,13 @@
             "microblog_url": "https://micro.blog/brentsimmons"
           },
           {
+            "title": "iOS Creator",
+            "author": "Arthur Knopper",
+            "site_url": "https://www.ioscreator.com/",
+            "feed_url": "https://www.ioscreator.com/tutorials?format=RSS",
+            "twitter_url": "https://twitter.com/ioscreator"
+          },
+          {
             "title": "iOS Dev Recipes",
             "author": "Dave Lyon",
             "site_url": "https://iosdev.recipes/",
