@@ -40,13 +40,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Majid's Blog about Swift development",
-            "author": "Majid Jabrayilov",
-            "site_url": "https://mecid.github.io",
-            "feed_url": "https://mecid.github.io/feed.xml",
-            "twitter_url": "https://twitter.com/mecid"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -296,13 +289,6 @@
             "site_url": "http://worrydream.com/",
             "feed_url": "http://worrydream.com/feed.xml",
             "twitter_url": "https://twitter.com/worrydream"
-          },
-          {
-            "title": "Makin’ that Instapaper",
-            "author": "Brian Donohue",
-            "site_url": "http://bthdonohue.com",
-            "feed_url": "http://bthdonohue.com/feed.xml",
-            "twitter_url": "https://twitter.com/bthdonohue"
           },
           {
             "title": "Brian Lovin's Journal",
@@ -736,6 +722,13 @@
             "twitter_url": "https://twitter.com/_inside"
           },
           {
+            "title": "Gwenn Guihal on Medium",
+            "author": "Gwenn Guihal",
+            "site_url": "https://medium.com/@_myrddin_",
+            "feed_url": "https://medium.com/feed/@_myrddin_",
+            "twitter_url": "https://twitter.com/_myrddin_"
+          },
+          {
             "title": "Hacking with Swift",
             "author": "Paul Hudson",
             "site_url": "https://www.hackingwithswift.com/articles",
@@ -1078,11 +1071,25 @@
             "twitter_url": "https://twitter.com/kuba_suder"
           },
           {
+            "title": "Majid's Blog about Swift development",
+            "author": "Majid Jabrayilov",
+            "site_url": "https://mecid.github.io",
+            "feed_url": "https://mecid.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/mecid"
+          },
+          {
             "title": "Making App Pie",
             "author": "Steve Lipton",
             "site_url": "https://makeapppie.com/",
             "feed_url": "https://makeapppie.com/feed/",
             "twitter_url": "https://twitter.com/steve_lipton"
+          },
+          {
+            "title": "Makin’ that Instapaper",
+            "author": "Brian Donohue",
+            "site_url": "http://bthdonohue.com",
+            "feed_url": "http://bthdonohue.com/feed.xml",
+            "twitter_url": "https://twitter.com/bthdonohue"
           },
           {
             "title": "Maniac Dev",
@@ -1138,6 +1145,13 @@
             "author": "Luciano Marisi and Nahuel Marisi",
             "site_url": "http://www.marisibrothers.com/",
             "feed_url": "http://www.marisibrothers.com/feeds/posts/default"
+          },
+          {
+            "title": "Mark Struzinski's Blog",
+            "author": "Mark Struzinski",
+            "site_url": "http://markstruzinski.com",
+            "feed_url": "http://markstruzinski.com/index.xml",
+            "twitter_url": "https://twitter.com/ski081"
           },
           {
             "title": "Martin Mitrevski's Blog",
@@ -1203,6 +1217,13 @@
             "twitter_url": "https://twitter.com/miguelquinon"
           },
           {
+            "title": "Mike Mikina Blog",
+            "author": "Mike Mikina",
+            "site_url": "http://mikemikina.com",
+            "feed_url": "https://mikemikina.com/feed.xml",
+            "twitter_url": "https://twitter.com/mikemikina"
+          },
+          {
             "title": "Mike Swanson's Blog",
             "author": "Mike Swanson",
             "site_url": "http://blog.mikeswanson.com/",
@@ -1252,10 +1273,10 @@
             "twitter_url": "https://twitter.com/noir"
           },
           {
-              "title": "Niamh Power on Medium",
-              "author": "Niamh Power",
-              "site_url": "https://medium.com/@niamhpower",
-              "feed_url": "https://medium.com/feed/@niamhpower"
+            "title": "Niamh Power on Medium",
+            "author": "Niamh Power",
+            "site_url": "https://medium.com/@niamhpower",
+            "feed_url": "https://medium.com/feed/@niamhpower"
           },
           {
             "title": "Nikita Rodionov on Medium",
@@ -1326,18 +1347,18 @@
             "twitter_url": "https://twitter.com/owensd"
           },
           {
-            "title": "Patrick Balestra's Blog",
-            "author": "Patrick Balestra",
-            "site_url": "http://patrickbalestra.com/blog/",
-            "feed_url": "http://patrickbalestra.com/feed.xml",
-            "twitter_url": "https://twitter.com/BalestraPatrick"
-          },
-          {
             "title": "Pablo Villar on Medium",
             "author": "Pablo Villar",
             "site_url": "https://medium.com/@volbap",
             "feed_url": "https://medium.com/feed/@volbap",
             "twitter_url": "https://twitter.com/volbap"
+          },
+          {
+            "title": "Patrick Balestra's Blog",
+            "author": "Patrick Balestra",
+            "site_url": "http://patrickbalestra.com/blog/",
+            "feed_url": "http://patrickbalestra.com/feed.xml",
+            "twitter_url": "https://twitter.com/BalestraPatrick"
           },
           {
             "title": "Paul Samuels' Blog",
@@ -1880,31 +1901,10 @@
             "twitter_url": "https://twitter.com/V8tr"
           },
           {
-            "title": "Mark Struzinski's Blog",
-            "author": "Mark Struzinski",
-            "site_url": "http://markstruzinski.com",
-            "feed_url": "http://markstruzinski.com/index.xml",
-            "twitter_url": "https://twitter.com/ski081"
-          },
-          {
-            "title": "Mike Mikina Blog",
-            "author": "Mike Mikina",
-            "site_url": "http://mikemikina.com",
-            "feed_url": "https://mikemikina.com/feed.xml",
-            "twitter_url": "https://twitter.com/mikemikina"
-          },
-          {
             "title": "Zanella Gaétan on Medium",
             "author": "Zanella Gaétan",
             "site_url": "https://medium.com/@gaetan.zanella",
             "feed_url": "https://medium.com/feed/@gaetan.zanella"
-          },
-          {
-            "title": "Gwenn Guihal on Medium",
-            "author": "Gwenn Guihal",
-            "site_url": "https://medium.com/@_myrddin_",
-            "feed_url": "https://medium.com/feed/@_myrddin_",
-            "twitter_url": "https://twitter.com/_myrddin_"
           }
         ]
       },
@@ -2178,6 +2178,13 @@
             "twitter_url": "https://twitter.com/qzervaas"
           },
           {
+            "title": "Droids On Roids Blog iOS Development",
+            "author": "Droids On Roids Team",
+            "site_url": "https://www.thedroidsonroids.com/category/blog/ios",
+            "feed_url": "https://www.thedroidsonroids.com/category/blog/ios/feed",
+            "twitter_url": "https://twitter.com/droidsonroids"
+          },
+          {
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
@@ -2267,13 +2274,6 @@
             "site_url": "https://medium.com/motiv-engineering-blog",
             "feed_url": "https://medium.com/feed/motiv-engineering-blog",
             "twitter_url": "https://twitter.com/motiv"
-          },
-           {
-            "title": "Droids On Roids Blog iOS Development",
-            "author": "Droids On Roids Team",
-            "site_url": "https://www.thedroidsonroids.com/category/blog/ios",
-            "feed_url": "https://www.thedroidsonroids.com/category/blog/ios/feed",
-            "twitter_url": "https://twitter.com/droidsonroids"
           },
           {
             "title": "Netguru iOS Codestories",
@@ -2645,6 +2645,13 @@
             "feed_url": "https://emanleet.com/category/swiftcraft-podcasts/feed/"
           },
           {
+            "title": "The Swift Community Podcast",
+            "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
+            "site_url": "https://www.swiftcommunitypodcast.org/",
+            "twitter_url": "https://twitter.com/theswiftpodcast",
+            "feed_url": "https://swiftcommunitypodcast.org/?format=rss"
+          },
+          {
             "title": "The Swift Teacher Podcast",
             "author": "Brian Foutty",
             "site_url": "https://www.swiftteacher.org/podcast/",
@@ -2663,13 +2670,6 @@
             "site_url": "https://waitingforreview.com/",
             "twitter_url": "https://twitter.com/wfrpodcast",
             "feed_url": "https://waitingforreview.com/feed/podcast/"
-          },
-          {
-            "title": "The Swift Community Podcast",
-            "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
-            "site_url": "https://www.swiftcommunitypodcast.org/",
-            "twitter_url": "https://twitter.com/theswiftpodcast",
-            "feed_url": "https://swiftcommunitypodcast.org/?format=rss"
           }
         ]
       },
