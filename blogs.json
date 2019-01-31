@@ -3022,6 +3022,12 @@
             "weibo_url": "http://weibo.com/ibireme"
           },
           {
+            "title": "JamesDouble iOS",
+            "author": "JamesDouble (郭介騵)",
+            "site_url": "https://jamesdouble.github.io/blog/",
+            "feed_url": "https://jamesdouble.github.io/blog/atom.xml"
+          },
+          {
             "title": "Limboy.me",
             "author": "Limboy无网不剩",
             "site_url": "http://limboy.me",
@@ -3063,12 +3069,6 @@
             "site_url": "http://swift.gg",
             "feed_url": "http://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
-          },
-          {
-            "title": "JamesDouble iOS",
-            "author": "JamesDouble (郭介騵)",
-            "site_url": "https://jamesdouble.github.io/blog/",
-            "feed_url": "https://jamesdouble.github.io/blog/atom.xml"
           }
         ]
       }
