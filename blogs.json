@@ -3063,6 +3063,12 @@
             "site_url": "http://swift.gg",
             "feed_url": "http://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
+          },
+          {
+            "title": "JamesDouble iOS",
+            "author": "JamesDouble (郭介騵)",
+            "site_url": "https://jamesdouble.github.io/blog/"
+            "feed_url": "https://jamesdouble.github.io/blog/atom.xml"
           }
         ]
       }
