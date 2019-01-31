@@ -1501,6 +1501,13 @@
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
+            "title": "Samantha John's Blog",
+            "author": "Samantha John",
+            "site_url": "https://samanthajohn.com",
+            "feed_url": "https://samanthajohn.com/feed.xml",
+            "twitter_url": "https://twitter.com/samj0hn"
+          },
+          {
             "title": "Samantha Marshall's Blog",
             "author": "Samantha Marshall",
             "site_url": "http://pewpewthespells.com/",
