@@ -708,13 +708,6 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
-            "title": "Gokhan Topcu on Medium",
-            "author": "Gokhan Topcu",
-            "site_url": "https://medium.com/@ifndefgt",
-            "feed_url": "https://medium.com/feed/@ifndefgt",
-            "twitter_url": "https://twitter.com/ifndefgt"
-          },
-          {
             "title": "Guilherme Rambo's Blog",
             "author": "Guilherme Rambo",
             "site_url": "https://rambo.codes",
@@ -3110,6 +3103,13 @@
             "site_url": "https://medium.com/@duruldalkanat",
             "feed_url": "https://medium.com/feed/@duruldalkanat",
             "twitter_url": "https://twitter.com/duruldalkanat"
+          },
+          {
+            "title": "Gokhan Topcu on Medium",
+            "author": "Gokhan Topcu",
+            "site_url": "https://medium.com/@ifndefgt",
+            "feed_url": "https://medium.com/feed/@ifndefgt",
+            "twitter_url": "https://twitter.com/ifndefgt"
           },
           {
             "title": "Hüseyin Bagana on Medium",
