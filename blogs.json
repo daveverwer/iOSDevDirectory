@@ -89,7 +89,14 @@
             "twitter_url": "https://twitter.com/albertodebo"
           },
           {
-            "title": "Aleksandar Vacić's iosdev blog",
+            "title": "Alejandro Martinez",
+            "author": "Alejandro Martinez",
+            "site_url": "https://alejandromp.com",
+            "feed_url": "https://alejandromp.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/alexito4"
+          },
+          {
+            "title": "Aleksandar Vacić's blog",
             "author": "Aleksandar Vacić",
             "site_url": "http://aplus.rs/categories/iosdev/",
             "feed_url": "http://aplus.rs/index.xml",
