@@ -777,12 +777,6 @@
             "twitter_url": "https://twitter.com/igorkulman"
           },
           {
-            "title": "Ioannis Diamantidis",
-            "author": "Ioannis Diamantidis",
-            "site_url": "https://diamantidis.github.io",
-            "feed_url": "https://diamantidis.github.io/feed.xml"
-          },
-          {
             "title": "iJoshSmith",
             "author": "Josh Smith",
             "site_url": "https://ijoshsmith.com",
@@ -811,6 +805,12 @@
             "feed_url": "http://inessential.com/xml/rss.xml",
             "twitter_url": "https://twitter.com/brentsimmons",
             "microblog_url": "https://micro.blog/brentsimmons"
+          },
+          {
+            "title": "Ioannis Diamantidis",
+            "author": "Ioannis Diamantidis",
+            "site_url": "https://diamantidis.github.io",
+            "feed_url": "https://diamantidis.github.io/feed.xml"
           },
           {
             "title": "iOS Creator",
