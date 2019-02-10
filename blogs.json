@@ -993,6 +993,13 @@
             "twitter_url": "https://twitter.com/kristofkocsis"
           },
           {
+            "title": "Kyle Bashour's Blog",
+            "author": "Kyle Bashour",
+            "site_url": "https://kylebashour.com/",
+            "feed_url": "http://kylebashour.com/feed.xml",
+            "twitter_url": "https://twitter.com/kylebshr"
+          },
+          {
             "title": "Kyle Fuller's Blog",
             "author": "Kyle Fuller",
             "site_url": "https://fuller.li/",
