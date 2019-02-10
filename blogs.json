@@ -951,6 +951,13 @@
             "twitter_url": "https://twitter.com/jordanmorgan10"
           },
           {
+            "title": "Julian Schiavo's Blog",
+            "author": "Julian Schiavo",
+            "site_url": "https://schiavo.me",
+            "feed_url": "https://schiavo.me/feed.xml",
+            "twitter_url": "https://twitter.com/justjs"
+          },
+          {
             "title": "Just Sit And Grin",
             "author": "Artem Loenko",
             "site_url": "https://dive.github.io/",
