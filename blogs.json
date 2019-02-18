@@ -227,6 +227,13 @@
             "twitter_url": "https://twitter.com/moeburney"
           },
           {
+            "title": "Bartosz Ciechanowski's Blog",
+            "author": "Bartosz Ciechanowski",
+            "site_url": "http://ciechanowski.me/",
+            "feed_url": "http://ciechanowski.me/atom.xml",
+            "twitter_url": "https://twitter.com/bciechanowski"
+          },
+          {
             "title": "Bartosz Polaczyk on Medium",
             "author": "Bartosz Polaczyk",
             "site_url": "https://medium.com/@londeix/",
@@ -2906,13 +2913,6 @@
             "site_url": "http://as.ync.io",
             "feed_url": "http://as.ync.io/feed/",
             "twitter_url": "https://twitter.com/scotteg"
-          },
-          {
-            "title": "Bartosz Ciechanowski's Blog",
-            "author": "Bartosz Ciechanowski",
-            "site_url": "http://ciechanowski.me/",
-            "feed_url": "http://ciechanowski.me/atom.xml",
-            "twitter_url": "https://twitter.com/bciechanowski"
           },
           {
             "title": "Cabel.me",
