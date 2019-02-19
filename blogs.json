@@ -2122,6 +2122,12 @@
         "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you'll find it!",
         "sites": [
           {
+            "title": "all about apps",
+            "author": "all about apps Team",
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "feed_url": "https://code.allaboutapps.at/categories/ios/index.xml"
+          },
+          {
             "title": "App Launch Map",
             "author": "Aleen Simms",
             "site_url": "https://applaunchmap.com/blog/",
