@@ -180,6 +180,13 @@
             "twitter_url": "https://twitter.com/olegdreyman"
           },
           {
+            "title": "Apoorva Tyagi's Blog",
+            "author": "Apoorva Tyagi",
+            "site_url": "https://apoorvatyagi.com/",
+            "feed_url": "https://apoorvatyagi.com/feed/",
+            "twitter_url": "https://twitter.com/apoorvatyagi"
+          },
+          {
             "title": "Appventure",
             "author": "Benedikt Terhechte",
             "site_url": "http://appventure.me",
