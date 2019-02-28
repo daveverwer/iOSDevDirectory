@@ -2183,6 +2183,13 @@
             "twitter_url": "https://twitter.com/toomasvahter"
           },
           {
+            "title": "Badoo iOS",
+            "author": "Badoo iOS Team",
+            "site_url": "https://badootech.badoo.com/tagged/ios",
+            "feed_url": "https://badootech.badoo.com/feed/tagged/ios",
+            "twitter_url": "https://twitter.com/BadooTech"
+          },
+          {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
             "site_url": "https://www.bignerdranch.com/blog/categories/ios/",
