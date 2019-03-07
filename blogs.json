@@ -869,6 +869,13 @@
             "twitter_url": "https://twitter.com/jquave"
           },
           {
+            "title": "Jason Zurita's Blog",
+            "author": "Jason Zurita",
+            "site_url": "https://www.jasonzurita.com/blog/",
+            "feed_url": "https://www.jasonzurita.com/feed.xml",
+            "twitter_url": "https://twitter.com/jasonalexzurita"
+          },
+          {
             "title": "Jared Sinclair's Blog",
             "author": "Jared Sinclair",
             "site_url": "http://blog.jaredsinclair.com/",
