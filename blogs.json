@@ -12,7 +12,7 @@
             "title": "Design News",
             "author": "Apple",
             "site_url": "https://developer.apple.com/design/whats-new/",
-            "feed_url": "feed://developer.apple.com/design/whats-new/rss/whats-new.rss"
+            "feed_url": "https://developer.apple.com/design/whats-new/rss/whats-new.rss"
           },
           {
             "title": "Developer News",
