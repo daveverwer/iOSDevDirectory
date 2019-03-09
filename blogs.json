@@ -187,6 +187,13 @@
             "twitter_url": "https://twitter.com/olegdreyman"
           },
           {
+            "title": "Apoorva Tyagi's Blog",
+            "author": "Apoorva Tyagi",
+            "site_url": "https://apoorvatyagi.com/",
+            "feed_url": "https://apoorvatyagi.com/feed/",
+            "twitter_url": "https://twitter.com/apoorvatyagi"
+          },
+          {
             "title": "Appventure",
             "author": "Benedikt Terhechte",
             "site_url": "http://appventure.me",
@@ -867,6 +874,13 @@
             "site_url": "http://jamesonquave.com/blog/",
             "feed_url": "http://jamesonquave.com/blog/feed/",
             "twitter_url": "https://twitter.com/jquave"
+          },
+          {
+            "title": "Jason Zurita's Blog",
+            "author": "Jason Zurita",
+            "site_url": "https://www.jasonzurita.com/blog/",
+            "feed_url": "https://www.jasonzurita.com/feed.xml",
+            "twitter_url": "https://twitter.com/jasonalexzurita"
           },
           {
             "title": "Jared Sinclair's Blog",
@@ -2189,6 +2203,13 @@
             "site_url": "https://augmentedcode.io/blog/",
             "feed_url": "https://augmentedcode.io/blog/feed/",
             "twitter_url": "https://twitter.com/toomasvahter"
+          },
+          {
+            "title": "Badoo iOS",
+            "author": "Badoo iOS Team",
+            "site_url": "https://badootech.badoo.com/tagged/ios",
+            "feed_url": "https://badootech.badoo.com/feed/tagged/ios",
+            "twitter_url": "https://twitter.com/BadooTech"
           },
           {
             "title": "Big Nerd Ranch",
