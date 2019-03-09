@@ -47,12 +47,6 @@
             "twitter_url": "https://twitter.com/aleph7"
           },
           {
-            "title": "Serhii Kharauzov on Medium",
-            "author": "Serhii Kharauzov",
-            "site_url": "https://medium.com/@sergkharauzov",
-            "feed_url": "https://medium.com/feed/@sergkharauzov"
-          },
-          {
             "title": "Aaron Vegh's Blog",
             "author": "Aaron Vegh",
             "site_url": "http://aaron.vegh.ca/",
@@ -882,18 +876,18 @@
             "twitter_url": "https://twitter.com/jquave"
           },
           {
-            "title": "Jason Zurita's Blog",
-            "author": "Jason Zurita",
-            "site_url": "https://www.jasonzurita.com/blog/",
-            "feed_url": "https://www.jasonzurita.com/feed.xml",
-            "twitter_url": "https://twitter.com/jasonalexzurita"
-          },
-          {
             "title": "Jared Sinclair's Blog",
             "author": "Jared Sinclair",
             "site_url": "http://blog.jaredsinclair.com/",
             "feed_url": "http://blog.jaredsinclair.com/rss",
             "twitter_url": "https://twitter.com/jaredsinclair"
+          },
+          {
+            "title": "Jason Zurita's Blog",
+            "author": "Jason Zurita",
+            "site_url": "https://www.jasonzurita.com/blog/",
+            "feed_url": "https://www.jasonzurita.com/feed.xml",
+            "twitter_url": "https://twitter.com/jasonalexzurita"
           },
           {
             "title": "Javier Soto's Blog",
@@ -1602,6 +1596,12 @@
             "author": "Drew Crawford",
             "site_url": "http://sealedabstract.com",
             "feed_url": "http://sealedabstract.com/feed/"
+          },
+          {
+            "title": "Serhii Kharauzov on Medium",
+            "author": "Serhii Kharauzov",
+            "site_url": "https://medium.com/@sergkharauzov",
+            "feed_url": "https://medium.com/feed/@sergkharauzov"
           },
           {
             "title": "SICPERS",
