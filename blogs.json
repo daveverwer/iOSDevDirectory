@@ -47,6 +47,12 @@
             "twitter_url": "https://twitter.com/aleph7"
           },
           {
+            "title": "Serhii Kharauzov on Medium",
+            "author": "Serhii Kharauzov",
+            "site_url": "https://medium.com/@sergkharauzov",
+            "feed_url": "https://medium.com/feed/@sergkharauzov"
+          },
+          {
             "title": "Aaron Vegh's Blog",
             "author": "Aaron Vegh",
             "site_url": "http://aaron.vegh.ca/",
