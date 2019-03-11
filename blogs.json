@@ -632,6 +632,12 @@
             "twitter_url": "https://twitter.com/holtwick"
           },
           {
+            "title": "Dušan Tadić's Blog",
+            "author": "Dušan Tadić",
+            "site_url": "https://www.dusantadic.dev/",
+            "feed_url": "https://www.dusantadic.dev/index.xml"
+          },
+          {
             "title": "Elegant Chaos",
             "author": "Sam Deane",
             "site_url": "http://elegantchaos.com/news/",
