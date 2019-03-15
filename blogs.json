@@ -2828,6 +2828,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "Swift Weekly",
+            "author": "Sascha Schwabbauer",
+            "site_url": "https://swiftweekly.com",
+            "feed_url": "http://digest.swiftweekly.com/?format=rss",
+            "twitter_url": "https://twitter.com/swift_weekly"
           }
         ]
       },
