@@ -3312,6 +3312,13 @@
             "site_url": "https://nshipster.es",
             "feed_url": "https://nshipster.es/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
+          },
+          {
+            "title": "desappstre",
+            "author": "Adolfo",
+            "site_url": "http://desappstre.com",
+            "feed_url": "http://desappstre.com/feed/",
+            "twitter_url": "https://twitter.com/fitomad"
           }
         ]
       }
