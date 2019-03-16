@@ -1810,6 +1810,13 @@
             "twitter_url": "https://twitter.com/atomicbird"
           },
           {
+            "title": "The Distance – iOS Posts",
+            "author": "The Distance",
+            "site_url": "https://thedistance.co.uk/category/ios/",
+            "feed_url": "https://thedistance.co.uk/category/ios/feed/",
+            "twitter_url": "https://twitter.com/thedistancehq"
+          },
+          {
             "title": "The FutureBlog – For Developers",
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=developer",
