@@ -38,7 +38,13 @@
         "title": "iOS Development Blogs",
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
-        "sites": [
+        "sites": [{
+            "title": "Simon's Sanitarium",
+            "author": "Simon Fairbairn",
+            "site_url": "http://simonfairbairn.com/tag/swift/",
+            "feed_url": "http://simonfairbairn.com/tag/swift/",
+            "twitter_url": "https://twitter.com/simonfairbairn"
+          },
           {
             "title": "a-coding",
             "author": "Alejandro Isaza",
