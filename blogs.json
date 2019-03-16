@@ -38,13 +38,7 @@
         "title": "iOS Development Blogs",
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
-        "sites": [{
-            "title": "Simon Fairbairn's Blog",
-            "author": "Simon Fairbairn",
-            "site_url": "http://simonfairbairn.com/tag/swift/",
-            "feed_url": "http://simonfairbairn.com/tag/swift/feed",
-            "twitter_url": "https://twitter.com/simonfairbairn"
-          },
+        "sites": [
           {
             "title": "a-coding",
             "author": "Alejandro Isaza",
@@ -1637,6 +1631,13 @@
             "twitter_url": "https://twitter.com/iwasleeg"
           },
           {
+            "title": "Simon Fairbairn's Blog",
+            "author": "Simon Fairbairn",
+            "site_url": "http://simonfairbairn.com/tag/swift/",
+            "feed_url": "http://simonfairbairn.com/tag/swift/feed",
+            "twitter_url": "https://twitter.com/simonfairbairn"
+          },
+          {
             "title": "Simon Wolf's Writings",
             "author": "Simon Wolf",
             "site_url": "http://www.swwritings.com",
@@ -2857,18 +2858,18 @@
             "twitter_url": "https://twitter.com/speaktoalvin"
           },
           {
-            "title": "Swift World",
-            "author": "Peng Guo",
-            "site_url": "https://medium.com/@NilStack/",
-            "feed_url": "https://medium.com/feed/@NilStack",
-            "twitter_url": "https://twitter.com/NilStack"
-          },
-          {
             "title": "Swift Weekly",
             "author": "Sascha Schwabbauer",
             "site_url": "https://swiftweekly.com",
             "feed_url": "http://digest.swiftweekly.com/?format=rss",
             "twitter_url": "https://twitter.com/swift_weekly"
+          },
+          {
+            "title": "Swift World",
+            "author": "Peng Guo",
+            "site_url": "https://medium.com/@NilStack/",
+            "feed_url": "https://medium.com/feed/@NilStack",
+            "twitter_url": "https://twitter.com/NilStack"
           }
         ]
       },
@@ -3348,18 +3349,18 @@
         "description": "Todo lo relacionado con el desarrollo iOS, desde arquitectura hasta UI, ya sea en Objective-C o Swift, pertenece a esta categoría.",
         "sites": [
           {
-            "title": "NSHipster",
-            "author": "Mattt",
-            "site_url": "https://nshipster.es",
-            "feed_url": "https://nshipster.es/feed.xml",
-            "twitter_url": "https://twitter.com/NSHipster"
-          },
-          {
             "title": "desappstre",
             "author": "Adolfo",
             "site_url": "http://desappstre.com",
             "feed_url": "http://desappstre.com/feed/",
             "twitter_url": "https://twitter.com/fitomad"
+          },
+          {
+            "title": "NSHipster",
+            "author": "Mattt",
+            "site_url": "https://nshipster.es",
+            "feed_url": "https://nshipster.es/feed.xml",
+            "twitter_url": "https://twitter.com/NSHipster"
           }
         ]
       }
