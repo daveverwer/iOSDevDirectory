@@ -207,6 +207,13 @@
             "twitter_url": "https://twitter.com/apoorvatyagi"
           },
           {
+            "title": "Apps Dissected",
+            "author": "Evan Deaubl",
+            "site_url": "https://www.appsdissected.com",
+            "feed_url": "https://www.appsdissected.com/feed/",
+            "twitter_url": "https://twitter.com/AppsDissected"
+          },
+          {
             "title": "Appventure",
             "author": "Benedikt Terhechte",
             "site_url": "http://appventure.me",
