@@ -39,10 +39,10 @@
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [{
-            "title": "Simon's Sanitarium",
+            "title": "Simon Fairbairn's Blog",
             "author": "Simon Fairbairn",
             "site_url": "http://simonfairbairn.com/tag/swift/",
-            "feed_url": "http://simonfairbairn.com/tag/swift/",
+            "feed_url": "http://simonfairbairn.com/tag/swift/feed",
             "twitter_url": "https://twitter.com/simonfairbairn"
           },
           {
