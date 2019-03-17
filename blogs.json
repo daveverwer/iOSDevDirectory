@@ -3382,6 +3382,13 @@
             "site_url": "https://nshipster.es",
             "feed_url": "https://nshipster.es/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
+          },
+          {
+            "title": "alexruperez.com",
+            "author": "Alex Rupérez",
+            "site_url": "http://www.alexruperez.com/entries",
+            "feed_url": "http://feeds.alexruperez.com/alexruperez",
+            "twitter_url": "https://twitter.com/alexruperez"
           }
         ]
       }
