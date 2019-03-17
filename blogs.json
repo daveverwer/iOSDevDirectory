@@ -222,6 +222,13 @@
             "twitter_url": "https://twitter.com/arekholko"
           },
           {
+            "title": "Ariel Elkin's Blog",
+            "author": "Ariel Elkin",
+            "site_url": "https://arielelkin.github.io",
+            "feed_url": "https://arielelkin.github.io",
+            "twitter_url": "https://twitter.com/arivocals"
+          },
+          {
             "title": "Arjun Nayini's Blog",
             "author": "Arjun Nayini",
             "site_url": "http://arjunnayini.com/",
@@ -1018,6 +1025,13 @@
             "site_url": "https://dive.github.io/",
             "feed_url": "https://dive.github.io/feed.xml",
             "twitter_url": "https://twitter.com/justsitandgrin"
+          },
+          {
+            "title": "Kaira Diagne's Blog",
+            "author": "Kaira Diagne",
+            "site_url": "https://kairadiagne.com",
+            "feed_url": "https://kairadiagne.com/feed.xml",
+            "twitter_url": "https://twitter.com/KairaDiagne"
           },
           {
             "title": "Ken Boreham's Blog",
