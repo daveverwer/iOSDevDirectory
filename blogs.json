@@ -2238,6 +2238,13 @@
             "twitter_url": "https://twitter.com/apptamin"
           },
           {
+            "title": "Artsy Engineering Blog",
+            "author": "Artsy Team",
+            "site_url": "http://artsy.github.io",
+            "feed_url": "http://artsy.github.io/feed",
+            "twitter_url": "https://twitter.com/artsyopensource"
+          },
+          {
             "title": "Atomic Spin",
             "author": "Atomic Object Team",
             "site_url": "https://spin.atomicobject.com/platforms-languages/ios-osx/",
