@@ -3156,6 +3156,13 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
+            "title": "Mobile Development with Aloha",
+            "author": "Mike Nachbaur",
+            "site_url": "http://nachbaur.com/tag/apple",
+            "feed_url": "https://nachbaur.com/tag/apple/feed/",
+            "twitter_url": "https://twitter.com/NachoMan"
           }
         ]
       }
