@@ -1153,6 +1153,13 @@
             "twitter_url": "https://twitter.com/luisrecuenco"
           },
           {
+            "title": "Luke Smith's Blog",
+            "author": "Luke Smith",
+            "site_url": "https://www.lukecsmith.co.uk/",
+            "feed_url": "http://www.lukecsmith.co.uk/feed/",
+            "twitter_url": "https://twitter.com/lukesmithapps"
+          },
+          {
             "title": "Machine Think",
             "author": "Matthijs Hollemans",
             "site_url": "http://machinethink.net/blog/",
