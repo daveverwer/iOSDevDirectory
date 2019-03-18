@@ -2619,6 +2619,13 @@
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
+            "title": "The Distance – iOS Posts",
+            "author": "The Distance",
+            "site_url": "https://thedistance.co.uk/category/ios/",
+            "feed_url": "https://thedistance.co.uk/category/ios/feed/",
+            "twitter_url": "https://twitter.com/thedistancehq"
+          },
+          {
             "title": "theScore Tech Blog",
             "author": "theScore Team",
             "site_url": "http://techblog.thescore.com",
