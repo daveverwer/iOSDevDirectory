@@ -3382,6 +3382,12 @@
             "site_url": "https://nshipster.es",
             "feed_url": "https://nshipster.es/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
+          },{
+            "title": "CFE Apps",
+            "author": "Sergio Becerril",
+            "site_url": "https://cfeapps.com",
+            "feed_url": "https://cfeapps.com/feed/",
+            "twitter_url": "https://twitter.com/CFEApps"
           }
         ]
       }
