@@ -38,7 +38,8 @@
         "title": "iOS Development Blogs",
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
-        "sites": [{
+        "sites": [
+          {
             "title": "Simon Fairbairn's Blog",
             "author": "Simon Fairbairn",
             "site_url": "http://simonfairbairn.com/tag/swift/",
@@ -1810,13 +1811,6 @@
             "twitter_url": "https://twitter.com/atomicbird"
           },
           {
-            "title": "The Distance – iOS Posts",
-            "author": "The Distance",
-            "site_url": "https://thedistance.co.uk/category/ios/",
-            "feed_url": "https://thedistance.co.uk/category/ios/feed/",
-            "twitter_url": "https://twitter.com/thedistancehq"
-          },
-          {
             "title": "The FutureBlog – For Developers",
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=developer",
@@ -2581,6 +2575,13 @@
             "author": "ASOS",
             "site_url": "https://medium.com/asos-techblog/tagged/ios",
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
+          },
+          {
+            "title": "The Distance – iOS Posts",
+            "author": "The Distance",
+            "site_url": "https://thedistance.co.uk/category/ios/",
+            "feed_url": "https://thedistance.co.uk/category/ios/feed/",
+            "twitter_url": "https://twitter.com/thedistancehq"
           },
           {
             "title": "theScore Tech Blog",
