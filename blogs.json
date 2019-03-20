@@ -826,6 +826,13 @@
             "twitter_url": "https://twitter.com/hboon"
           },
           {
+            "title": "I Am Simme",
+            "author": "Simon Ljungberg",
+            "site_url": "https://www.iamsim.me/",
+            "feed_url": "https://www.iamsim.me/index.xml",
+            "twitter_url": "https://twitter.com/simmelj"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "http://ignorethecode.net",
