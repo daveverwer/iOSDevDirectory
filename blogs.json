@@ -2476,6 +2476,13 @@
             "twitter_url": "https://twitter.com/netguru"
           },
           {
+            "title": "Nodes Engineering Blog",
+            "author": "Nodes",
+            "site_url": "https://engineering.nodesagency.com/categories/ios/",
+            "feed_url": "https://engineering.nodesagency.com/feed.xml",
+            "twitter_url": "https://twitter.com/Nodes_Apps"
+          },
+          {
             "title": "Novoda Blog",
             "author": "Novoda Team",
             "site_url": "https://blog.novoda.com/",
