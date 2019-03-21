@@ -777,13 +777,6 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
-            "title": "Göksel Köksal on Medium",
-            "author": "Göksel Köksal",
-            "site_url": "https://medium.com/@gokselkoksal",
-            "feed_url": "https://medium.com/feed/@gokselkoksal",
-            "twitter_url": "https://twitter.com/gokselkk"
-          },
-          {
             "title": "Guilherme Rambo's Blog",
             "author": "Guilherme Rambo",
             "site_url": "https://rambo.codes",
@@ -796,6 +789,13 @@
             "site_url": "https://medium.com/@_myrddin_",
             "feed_url": "https://medium.com/feed/@_myrddin_",
             "twitter_url": "https://twitter.com/_myrddin_"
+          },
+          {
+            "title": "Göksel Köksal on Medium",
+            "author": "Göksel Köksal",
+            "site_url": "https://medium.com/@gokselkoksal",
+            "feed_url": "https://medium.com/feed/@gokselkoksal",
+            "twitter_url": "https://twitter.com/gokselkk"
           },
           {
             "title": "Hacking with Swift",
@@ -3144,6 +3144,13 @@
             "twitter_url": "https://twitter.com/mengto"
           },
           {
+            "title": "Mobile Development with Aloha",
+            "author": "Mike Nachbaur",
+            "site_url": "http://nachbaur.com/tag/apple",
+            "feed_url": "https://nachbaur.com/tag/apple/feed/",
+            "twitter_url": "https://twitter.com/NachoMan"
+          },
+          {
             "title": "Nevyn Bengtsson's blog",
             "author": "Nevyn Bengtsson",
             "site_url": "http://overooped.com/",
@@ -3191,13 +3198,6 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
-          },
-          {
-            "title": "Mobile Development with Aloha",
-            "author": "Mike Nachbaur",
-            "site_url": "http://nachbaur.com/tag/apple",
-            "feed_url": "https://nachbaur.com/tag/apple/feed/",
-            "twitter_url": "https://twitter.com/NachoMan"
           }
         ]
       }
@@ -3426,6 +3426,20 @@
         "description": "Todo lo relacionado con el desarrollo iOS, desde arquitectura hasta UI, ya sea en Objective-C o Swift, pertenece a esta categoría.",
         "sites": [
           {
+            "title": "alexruperez.com",
+            "author": "Alex Rupérez",
+            "site_url": "http://www.alexruperez.com/entries",
+            "feed_url": "http://feeds.alexruperez.com/alexruperez",
+            "twitter_url": "https://twitter.com/alexruperez"
+          },
+          {
+            "title": "CFE Apps",
+            "author": "Sergio Becerril",
+            "site_url": "https://cfeapps.com",
+            "feed_url": "https://cfeapps.com/feed/",
+            "twitter_url": "https://twitter.com/CFEApps"
+          },
+          {
             "title": "desappstre",
             "author": "Adolfo",
             "site_url": "http://desappstre.com",
@@ -3438,20 +3452,6 @@
             "site_url": "https://nshipster.es",
             "feed_url": "https://nshipster.es/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
-          },
-          {
-            "title": "CFE Apps",
-            "author": "Sergio Becerril",
-            "site_url": "https://cfeapps.com",
-            "feed_url": "https://cfeapps.com/feed/",
-            "twitter_url": "https://twitter.com/CFEApps"
-          },
-          {
-            "title": "alexruperez.com",
-            "author": "Alex Rupérez",
-            "site_url": "http://www.alexruperez.com/entries",
-            "feed_url": "http://feeds.alexruperez.com/alexruperez",
-            "twitter_url": "https://twitter.com/alexruperez"
           }
         ]
       }
