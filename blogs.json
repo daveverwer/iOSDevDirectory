@@ -742,6 +742,13 @@
             "twitter_url": "https://twitter.com/fresh_swift"
           },
           {
+            "title": "FullyTyped",
+            "author": "Colin Reisterer",
+            "site_url": "http://fullytyped.com",
+            "feed_url": "http://fullytyped.com/index.xml",
+            "twitter_url": "https://twitter.com/akchiller"
+          },
+          {
             "title": "Furbo",
             "author": "Craig Hockenberry",
             "site_url": "https://furbo.org",
