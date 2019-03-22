@@ -318,6 +318,13 @@
             "twitter_url": "https://twitter.com/benatbensnider"
           },
           {
+            "title": "Benoit Pasquier's Blog",
+            "author": "Benoit Pasquier",
+            "site_url": "https://benoitpasquier.com/",
+            "feed_url": "https://benoitpasquier.com/index.xml",
+            "twitter_url": "https://twitter.com/BenoitPasquier_"
+          },
+          {
             "title": "Bitsplitting",
             "author": "Daniel Jalkut",
             "site_url": "http://bitsplitting.org",
