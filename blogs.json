@@ -2413,6 +2413,12 @@
             "twitter_url": "https://twitter.com/helftone"
           },
           {
+            "title": "Hobbyist Software",
+            "author": "Rob Jonson",
+            "site_url": "https://blog.hobbyistsoftware.com/category/coding/",
+            "feed_url": "https://blog.hobbyistsoftware.com/category/coding/feed"
+          },
+          {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
             "site_url": "https://pspdfkit.com/blog",
