@@ -521,6 +521,13 @@
             "twitter_url": "https://twitter.com/aligatr"
           },
           {
+            "title": "cutting.io",
+            "author": "Dan Cutting",
+            "site_url": "https://cutting.io",
+            "feed_url": "http://feed.cutting.io",
+            "twitter_url": "https://twitter.com/dcutting"
+          },
+          {
             "title": "Dan Thorpe's Blog",
             "author": "Daniel Thorpe",
             "site_url": "http://danthorpe.me",
