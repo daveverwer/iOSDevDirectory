@@ -584,6 +584,13 @@
             "twitter_url": "https://twitter.com/daveverwer"
           },
           {
+            "title": "David Cordero's Blog",
+            "author": "David Cordero",
+            "site_url": "https://www.dcordero.me/",
+            "feed_url": "https://www.dcordero.me/feed.xml",
+            "twitter_url": "https://twitter.com/dcordero"
+          },
+          {
             "title": "David Reed's Blog",
             "author": "David Reed",
             "site_url": "https://microblog.dave256apps.com/",
