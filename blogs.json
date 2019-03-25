@@ -903,6 +903,13 @@
             "twitter_url": "https://twitter.com/ioscreator"
           },
           {
+            "title": "iOS development and self-improvement",
+            "author": "Vadim Drobinin",
+            "site_url": "https://drobinin.com/",
+            "feed_url": "https://drobinin.com/feed.xml",
+            "twitter_url": "https://twitter.com/valzevul"
+          },
+          {
             "title": "iOS Dev Recipes",
             "author": "Dave Lyon",
             "site_url": "https://iosdev.recipes/",
