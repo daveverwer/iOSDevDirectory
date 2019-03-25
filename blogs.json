@@ -924,13 +924,6 @@
             "twitter_url": "https://twitter.com/ioscreator"
           },
           {
-            "title": "Vadim Drobinin's Blog",
-            "author": "Vadim Drobinin",
-            "site_url": "https://drobinin.com/",
-            "feed_url": "https://drobinin.com/feed.xml",
-            "twitter_url": "https://twitter.com/valzevul"
-          },
-          {
             "title": "iOS Dev Recipes",
             "author": "Dave Lyon",
             "site_url": "https://iosdev.recipes/",
@@ -2024,6 +2017,13 @@
             "site_url": "https://useyourloaf.com/blog/",
             "feed_url": "http://useyourloaf.com/blog/rss.xml",
             "twitter_url": "https://twitter.com/kharrison"
+          },
+          {
+            "title": "Vadim Drobinin's Blog",
+            "author": "Vadim Drobinin",
+            "site_url": "https://drobinin.com/",
+            "feed_url": "https://drobinin.com/feed.xml",
+            "twitter_url": "https://twitter.com/valzevul"
           },
           {
             "title": "Vapor on Medium",
