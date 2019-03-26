@@ -2329,13 +2329,6 @@
             "twitter_url": "https://twitter.com/artsyopensource"
           },
           {
-            "title": "Atomic Spin",
-            "author": "Atomic Object Team",
-            "site_url": "https://spin.atomicobject.com/platforms-languages/ios-osx/",
-            "feed_url": "https://spin.atomicobject.com/platforms-languages/ios-osx/feed/",
-            "twitter_url": "https://twitter.com/atomicobject"
-          },
-          {
             "title": "Augmented Code Blog",
             "author": "Toomas Vahter",
             "site_url": "https://augmentedcode.io/blog/",
