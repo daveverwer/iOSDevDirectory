@@ -1090,6 +1090,13 @@
             "twitter_url": "https://twitter.com/KairaDiagne"
           },
           {
+            "title": "Karol S. Mazur's Blog",
+            "author": "Karol S. Mazur",
+            "site_url": "https://blog.mazur.me",
+            "feed_url": "https://blog.mazur.me/feed.xml",
+            "twitter_url": "https://twitter.com/karolsmazur"
+          },
+          {
             "title": "Ken Boreham's Blog",
             "author": "Ken Boreham",
             "site_url": "https://kenb.us/",
