@@ -3452,6 +3452,13 @@
             "site_url": "https://www.vtourraine.net/blog/tags/dev",
             "feed_url": "https://www.vtourraine.net/blog/feed.xml",
             "twitter_url": "https://twitter.com/vtourraine"
+          },
+          {
+            "title": "NSHipster en français",
+            "author": "NSHipster",
+            "site_url": "https://nshipster.fr",
+            "feed_url": "https://nshipster.fr/feed.xml",
+            "twitter_url": "https://twitter.com/NSHipster"
           }
         ]
       }
