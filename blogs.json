@@ -3298,7 +3298,7 @@
           },
           {
             "title": "NSHipster中国",
-            "author": "NSHipster中国",
+            "author": "NSHipster",
             "site_url": "https://nshipster.cn",
             "feed_url": "https://nshipster.cn/feed.xml",
             "weibo_url": "https://weibo.com/nshipster"
@@ -3409,7 +3409,7 @@
         "sites": [
           {
             "title": "NSHipster 한국",
-            "author": "NSHipster 한국",
+            "author": "NSHipster",
             "site_url": "https://nshipster.co.kr",
             "feed_url": "https://nshipster.co.kr/feed.xml"
           },
@@ -3489,7 +3489,7 @@
           },
           {
             "title": "NSHipster",
-            "author": "Mattt",
+            "author": "NSHipster",
             "site_url": "https://nshipster.es",
             "feed_url": "https://nshipster.es/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
