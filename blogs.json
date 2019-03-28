@@ -3535,17 +3535,17 @@
         "description": "Не имеет значения, связан ли блог только со Swift или Objective-C, сосредоточен ли он на архитектуре приложения или вёрстке пользовательского интерфейса. Если он как-то касается iOS-разработки — его место здесь.",
         "sites": [
           {
-            "title": "SwiftBook",
-            "author": "Иван Акулов",
-            "site_url": "https://swiftbook.ru/",
-            "feed_url": "https://swiftbook.ru/feed/"
-          },
-          {
             "title": "Nikita Teslyuk on Medium",
             "author": "Nikita Teslyuk",
             "site_url": "https://medium.com/@tesnik",
             "feed_url": "https://medium.com/feed/@tesnik",
             "twitter_url": "https://twitter.com/NikitaTeslyuk"
+          },
+          {
+            "title": "SwiftBook",
+            "author": "Иван Акулов",
+            "site_url": "https://swiftbook.ru/",
+            "feed_url": "https://swiftbook.ru/feed/"
           }
         ]
       }
