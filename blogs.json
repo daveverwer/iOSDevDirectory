@@ -3052,6 +3052,13 @@
             "twitter_url": "https://twitter.com/paulsolt"
           },
           {
+            "title": "Paul Hudson on YouTube",
+            "author": "Paul Hudson",
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmJi5RdDLgzvkl3Ly0DRMlQ",
+            "twitter_url": "https://twitter.com/twostraws"
+          },
+          {
             "title": "Sean Allen on YouTube",
             "author": "Sean Allen",
             "site_url": "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw",
