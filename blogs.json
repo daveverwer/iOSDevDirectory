@@ -3003,6 +3003,13 @@
             "twitter_url": "https://twitter.com/martinho_t"
           },
           {
+            "title": "Gary Tokman on YouTube",
+            "author": "Gary Tokman",
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQWmp143iznhc_lZoM0rbXQ",
+            "twitter_url": "https://twitter.com/BestGaryEver"
+          },
+          {
             "title": "iOS Compressed",
             "author": "Scott Smith",
             "site_url": "https://www.youtube.com/ioscompressed",
@@ -3045,18 +3052,18 @@
             "twitter_url": "https://twitter.com/bigmtnstudio"
           },
           {
-            "title": "Paul Solt on YouTube",
-            "author": "Paul Solt",
-            "site_url": "http://www.youtube.com/user/PaulSolt",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?user=paulsolt",
-            "twitter_url": "https://twitter.com/paulsolt"
-          },
-          {
             "title": "Paul Hudson on YouTube",
             "author": "Paul Hudson",
             "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmJi5RdDLgzvkl3Ly0DRMlQ",
             "twitter_url": "https://twitter.com/twostraws"
+          },
+          {
+            "title": "Paul Solt on YouTube",
+            "author": "Paul Solt",
+            "site_url": "http://www.youtube.com/user/PaulSolt",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?user=paulsolt",
+            "twitter_url": "https://twitter.com/paulsolt"
           },
           {
             "title": "Sean Allen on YouTube",
@@ -3071,13 +3078,6 @@
             "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-d1NWv5IWtIkfH47ux4dWA",
             "twitter_url": "https://twitter.com/1TheSwiftGuy"
-          },
-          {
-            "title": "Gary Tokman on YouTube",
-            "author": "Gary Tokman",
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQWmp143iznhc_lZoM0rbXQ",
-            "twitter_url": "https://twitter.com/BestGaryEver"
           }
         ]
       },
