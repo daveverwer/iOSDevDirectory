@@ -1062,13 +1062,6 @@
             "twitter_url": "https://twitter.com/jonathant"
           },
           {
-            "title": "Swiftjective-C",
-            "author": "Jordan Morgan",
-            "site_url": "https://swiftjectivec.com/",
-            "feed_url": "https://www.swiftjectivec.com/feed.xml",
-            "twitter_url": "https://twitter.com/jordanmorgan10"
-          },
-          {
             "title": "Julian Schiavo's Blog",
             "author": "Julian Schiavo",
             "site_url": "https://schiavo.me",
@@ -1858,6 +1851,13 @@
             "site_url": "https://swifting.io",
             "feed_url": "https://swifting.io/feed/",
             "twitter_url": "https://twitter.com/swiftingio"
+          },
+          {
+            "title": "Swiftjective-C",
+            "author": "Jordan Morgan",
+            "site_url": "https://swiftjectivec.com/",
+            "feed_url": "https://www.swiftjectivec.com/feed.xml",
+            "twitter_url": "https://twitter.com/jordanmorgan10"
           },
           {
             "title": "Swiftlee",
