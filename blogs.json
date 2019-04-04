@@ -4,9 +4,9 @@
     "title": "English Language",
     "categories": [
       {
-        "title": "Official Apple Blogs",
-        "slug": "official",
-        "description": "All of the iOS development related blogs from our dear friends at the small fruit company in Cupertino.",
+        "title": "Platform and SDK Updates",
+        "slug": "Updates",
+        "description": "All the sites that keep track of Platform & SDK Updates",
         "sites": [
           {
             "title": "Design News",
@@ -31,6 +31,24 @@
             "author": "Apple",
             "site_url": "https://developer.apple.com/swift/blog/",
             "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+          },
+          {
+            "title": "Swift-Evolution",
+            "author": "Apple",
+            "site_url": "https://github.com/apple/swift-evolution/tree/master/proposals",
+            "feed_url": "https://github.com/apple/swift-evolution/commits/master.atom"
+          },
+          {
+            "title": "Apple Platform SDK API Differences",
+            "author": "Matt Stevens",
+            "site_url": "http://codeworkshop.net/objc-diff/sdkdiffs/",
+            "feed_url": "http://codeworkshop.net/feed"
+          },
+          {
+            "title": "App store review guidelines history",
+            "author": "Shape",
+            "site_url": "http://www.appstorereviewguidelineshistory.com/",
+            "feed_url": "http://appstorereviewguidelineshistory.com/feed.xml"
           }
         ]
       },
