@@ -33,7 +33,7 @@
             "feed_url": "https://developer.apple.com/swift/blog/news.rss"
           },
           {
-            "title": "Swift-Evolution",
+            "title": "Swift Evolution",
             "author": "Apple",
             "site_url": "https://github.com/apple/swift-evolution/tree/master/proposals",
             "feed_url": "https://github.com/apple/swift-evolution/commits/master.atom"
@@ -45,8 +45,8 @@
             "feed_url": "http://codeworkshop.net/feed"
           },
           {
-            "title": "App store review guidelines history",
-            "author": "Shape",
+            "title": "App Store Review Guidelines History",
+            "author": "The Shape Team",
             "site_url": "http://www.appstorereviewguidelineshistory.com/",
             "feed_url": "http://appstorereviewguidelineshistory.com/feed.xml"
           }
