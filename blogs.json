@@ -584,7 +584,7 @@
             "title": "Dave DeLong's Blog",
             "author": "Dave DeLong",
             "site_url": "https://davedelong.com",
-            "feed_url": "https://davedelong.com/feed/",
+            "feed_url": "https://davedelong.com/feed.xml",
             "twitter_url": "https://twitter.com/davedelong"
           },
           {
