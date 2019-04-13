@@ -2600,7 +2600,7 @@
             "title": "Reveal Blog",
             "author": "Reveal Team",
             "site_url": "https://revealapp.com",
-            "feed_url": "https://revealapp.com/atom.xml",
+            "feed_url": "https://revealapp.com/news/index.xml",
             "twitter_url": "https://twitter.com/reveal_app"
           },
           {
