@@ -16,10 +16,8 @@ namespace :validate do
     languages = JSON.parse(File.read("blogs.json"))
     languages.each do |language|
       # Inside each language is an array of categories
-      puts "# #{language["title"]}"
       language["categories"].each do |category|
         # Inside each category is a list of sites 
-        puts "## #{category["title"]}"
         category["sites"].each do |site|
           site_url = URI(site["site_url"])
           feed_url = URI(site["feed_url"])
