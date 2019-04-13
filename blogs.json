@@ -2143,7 +2143,7 @@
             "title": "NSHint",
             "author": "Rafael Machado, Mateusz Matoszko and Wojtek Lukaszuk",
             "site_url": "https://nshint.github.io/",
-            "feed_url": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "feed_url": "https://nshint.github.io/atom.xml",
             "twitter_url": "https://twitter.com/nshintio"
           }
         ]
