@@ -2907,8 +2907,8 @@
             "title": "The Swift Community Podcast",
             "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
             "site_url": "https://www.swiftcommunitypodcast.org/",
-            "twitter_url": "https://twitter.com/theswiftpodcast",
-            "feed_url": "https://swiftcommunitypodcast.org/?format=rss"
+            "feed_url": "https://swiftcommunitypodcast.org/?format=rss",
+            "twitter_url": "https://twitter.com/theswiftpodcast"
           },
           {
             "title": "The Swift Teacher Podcast",
