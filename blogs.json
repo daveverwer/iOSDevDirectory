@@ -1476,6 +1476,13 @@
             "twitter_url": "https://twitter.com/mikeash"
           },
           {
+            "title": "NSHint",
+            "author": "Rafael Machado, Mateusz Matoszko and Wojtek Lukaszuk",
+            "site_url": "https://nshint.github.io/",
+            "feed_url": "https://nshint.github.io/atom.xml",
+            "twitter_url": "https://twitter.com/nshintio"
+          },
+          {
             "title": "NSHipster",
             "author": "NSHipster",
             "site_url": "https://nshipster.com",
@@ -2138,13 +2145,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "NSHint",
-            "author": "Rafael Machado, Mateusz Matoszko and Wojtek Lukaszuk",
-            "site_url": "https://nshint.github.io/",
-            "feed_url": "https://nshint.github.io/atom.xml",
-            "twitter_url": "https://twitter.com/nshintio"
           }
         ]
       },
@@ -3385,13 +3385,6 @@
             "twitter_url": "https://twitter.com/strawb3rryx7"
           },
           {
-            "title": "NSColak Swift Blog",
-            "author": "Çağrı ÇOLAK",
-            "site_url": "https://nscolak.com",
-            "feed_url": "https://nscolak.com/feed.xml",
-            "twitter_url": "https://twitter.com/cgcolak"
-          },
-          {
             "title": "Durul Dalkanat on Medium",
             "author": "Durul Dalkanat",
             "site_url": "https://medium.com/@duruldalkanat",
@@ -3418,6 +3411,13 @@
             "site_url": "https://medium.com/@mhmtkc",
             "feed_url": "https://medium.com/feed/@mhmtkc",
             "twitter_url": "https://twitter.com/mehmetkcaa"
+          },
+          {
+            "title": "NSColak Swift Blog",
+            "author": "Çağrı ÇOLAK",
+            "site_url": "https://nscolak.com",
+            "feed_url": "https://nscolak.com/feed.xml",
+            "twitter_url": "https://twitter.com/cgcolak"
           },
           {
             "title": "NSIstanbul Blog",
