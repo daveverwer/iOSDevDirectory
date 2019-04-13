@@ -228,8 +228,8 @@
           {
             "title": "Appventure",
             "author": "Benedikt Terhechte",
-            "site_url": "http://appventure.me",
-            "feed_url": "http://appventure.me/rss-feed",
+            "site_url": "https://appventure.me/",
+            "feed_url": "https://appventure.me/feed.rss",
             "twitter_url": "https://twitter.com/terhechte"
           },
           {
