@@ -2593,7 +2593,7 @@
             "title": "Realm News",
             "author": "Realm Team",
             "site_url": "https://realm.io/blog/",
-            "feed_url": "http://feeds.feedburner.com/realmio",
+            "feed_url": "https://realm.io/feed.xml",
             "twitter_url": "https://twitter.com/realm"
           },
           {
