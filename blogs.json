@@ -431,7 +431,7 @@
             "title": "Cocoa Controls",
             "author": "Aaron Brethorst and Rob Chipperfield",
             "site_url": "http://www.cocoacontrols.com",
-            "feed_url": "http://feeds.feedburner.com/cocoacontrols",
+            "feed_url": "https://www.cocoacontrols.com/index.xml",
             "twitter_url": "https://twitter.com/cocoacontrols"
           },
           {
