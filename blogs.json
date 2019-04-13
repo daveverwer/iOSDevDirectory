@@ -1506,7 +1506,7 @@
             "title": "One Fifty Two",
             "author": "Shaps Benkau",
             "site_url": "https://152percent.com/blog",
-            "feed_url": "https://152percent.com/blog/rss.xml",
+            "feed_url": "https://152percent.com/blog?format=RSS",
             "twitter_url": "https://twitter.com/shaps"
           },
           {
