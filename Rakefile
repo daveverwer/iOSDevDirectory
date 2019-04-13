@@ -1,8 +1,10 @@
 require "json-schema"
 
-task default: "validate"
+task default: "validate:json"
 
-desc "Validate the JSON schema and the content JSON"
-task :validate do
-  JSON::Validator.validate!("schema_blogs.json", "blogs.json")
+namespace :validate do
+  desc "Validate the JSON schema and the blogs JSON content"
+  task :json do
+    JSON::Validator.validate!("schema_blogs.json", "blogs.json")
+  end
 end
