@@ -365,13 +365,6 @@
             "twitter_url": "https://twitter.com/worrydream"
           },
           {
-            "title": "Brian Lovin's Journal",
-            "author": "Brian Lovin",
-            "site_url": "http://www.brianlovin.com/journal",
-            "feed_url": "http://www.brianlovin.com/journal/feed",
-            "twitter_url": "https://twitter.com/brian_lovin"
-          },
-          {
             "title": "Bryan Irace's Blog",
             "author": "Bryan Irace",
             "site_url": "http://irace.me/",
@@ -2788,6 +2781,13 @@
             "feed_url": "https://coreint.org/podcast.xml",
             "twitter_url": "https://twitter.com/coreint",
             "microblog_url": "https://micro.blog/coreint"
+          },
+          {
+            "title": "Design Details",
+            "author": "Marshall Bock and Brian Lovin",
+            "site_url": "https://spec.fm/podcasts/design-details",
+            "feed_url": "https://simplecast.fm/podcasts/1034/rss",
+            "twitter_url": "https://twitter.com/designdetailsfm"
           },
           {
             "title": "Fatal Error",
