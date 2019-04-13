@@ -984,10 +984,10 @@
             "twitter_url": "https://twitter.com/javi"
           },
           {
-            "title": "Jay Cohen's Weblog",
+            "title": "Jay Cohen on Medium",
             "author": "Jay Cohen",
-            "site_url": "http://theswiftycoder.com/blog/",
-            "feed_url": "http://theswiftycoder.com/feed.xml"
+            "site_url": "https://medium.com/@theswiftycoder",
+            "feed_url": "https://medium.com/feed/@theswiftycoder"
           },
           {
             "title": "Jean Mainguy on Medium",
