@@ -2159,6 +2159,13 @@
             "site_url": "https://www.timekl.com",
             "feed_url": "https://www.timekl.com/atom.xml",
             "twitter_url": "https://twitter.com/timothyekl"
+          },
+          {
+            "title": "Zach Knox's Blog",
+            "author": "Zach Knox",
+            "site_url": "https://zachknox.com",
+            "feed_url": "https://zachknox.com/feed.xml",
+            "twitter_url": "https://twitter.com/zmknox"
           }
         ]
       },
