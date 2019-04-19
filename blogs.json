@@ -2173,6 +2173,13 @@
             "site_url": "https://codecookread.com/",
             "feed_url": "https://codecookread.com/feed/rss",
             "twitter_url": "http://twitter.com/macgreg"
+          },
+          {
+            "title": "Cecilia Humlelu on Medium",
+            "author": "Cecilia Humlelu",
+            "site_url": "https://medium.com/@cecilia.humlelu",
+            "feed_url": "https://medium.com/feed/@cecilia.humlelu",
+            "twitter_url": "https://twitter.com/humlelu"
           }
         ]
       },
