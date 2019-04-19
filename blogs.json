@@ -2180,6 +2180,13 @@
             "site_url": "https://medium.com/@cecilia.humlelu",
             "feed_url": "https://medium.com/feed/@cecilia.humlelu",
             "twitter_url": "https://twitter.com/humlelu"
+          },
+          {
+            "title": "BontoJR",
+            "author": "Junior Bonto",
+            "site_url": "https://www.bonto.ch/",
+            "feed_url": "https://www.bonto.ch/atom.xml",
+            "twitter_url": "https://twitter.com/bontojr"
           }
         ]
       },
