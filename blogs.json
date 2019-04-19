@@ -2815,6 +2815,13 @@
             "site_url": "https://digitalleaves.com/blog/",
             "feed_url": "https://digitalleaves.com/feed/",
             "twitter_url": "https://twitter.com/digitalleaves"
+          }, 
+          {
+            "title": "Zepelin Blog",
+            "author": "Zepelin Team",
+            "site_url": "https://blog.zeplin.io",
+            "feed_url": "https://blog.zeplin.io/feed",
+            "twitter_url": "https://twitter.com/zeplin"
           }
         ]
       },
