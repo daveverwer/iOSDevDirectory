@@ -2152,6 +2152,13 @@
             "site_url": "https://mattdelves.com",
             "feed_url": "https://mattdelves.com/feed.xml",
             "twitter_url": "https://twitter.com/mattdelves"
+          },
+          {
+            "title": "Tim Ekl's Blog",
+            "author": "Tim Ekl",
+            "site_url": "https://www.timekl.com",
+            "feed_url": "https://www.timekl.com/atom.xml",
+            "twitter_url": "https://twitter.com/timothyekl"
           }
         ]
       },
