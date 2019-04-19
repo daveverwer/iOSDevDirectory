@@ -2187,6 +2187,12 @@
             "site_url": "https://www.bonto.ch/",
             "feed_url": "https://www.bonto.ch/atom.xml",
             "twitter_url": "https://twitter.com/bontojr"
+          },
+          {
+            "title": "Floating little leaves of code",
+            "author": "Maxwell Anselm",
+            "site_url": "https://silverhammermba.github.io/blog/",
+            "feed_url": "https://silverhammermba.github.io/blog/feed.xml"
           }
         ]
       },
