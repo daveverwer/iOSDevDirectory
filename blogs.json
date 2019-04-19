@@ -2193,6 +2193,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Mobile Development with Aloha",
+            "author": "Mike Nachbaur",
+            "site_url": "http://nachbaur.com/tag/apple",
+            "feed_url": "https://nachbaur.com/tag/apple/feed/",
+            "twitter_url": "https://twitter.com/NachoMan"
           }
         ]
       },
@@ -3298,13 +3305,6 @@
             "site_url": "http://blog.mengto.com",
             "feed_url": "http://blog.mengto.com/feed/",
             "twitter_url": "https://twitter.com/mengto"
-          },
-          {
-            "title": "Mobile Development with Aloha",
-            "author": "Mike Nachbaur",
-            "site_url": "http://nachbaur.com/tag/apple",
-            "feed_url": "https://nachbaur.com/tag/apple/feed/",
-            "twitter_url": "https://twitter.com/NachoMan"
           },
           {
             "title": "Nevyn Bengtsson's blog",
