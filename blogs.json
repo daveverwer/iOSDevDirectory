@@ -1442,6 +1442,13 @@
             "twitter_url": "https://twitter.com/miguelquinon"
           },
           {
+            "title": "Mobile Development with Aloha",
+            "author": "Mike Nachbaur",
+            "site_url": "http://nachbaur.com/tag/apple",
+            "feed_url": "https://nachbaur.com/tag/apple/feed/",
+            "twitter_url": "https://twitter.com/NachoMan"
+          },
+          {
             "title": "mokacoding",
             "author": "Giovanni Lodi",
             "site_url": "http://www.mokacoding.com",
@@ -2193,13 +2200,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Mobile Development with Aloha",
-            "author": "Mike Nachbaur",
-            "site_url": "http://nachbaur.com/tag/apple",
-            "feed_url": "https://nachbaur.com/tag/apple/feed/",
-            "twitter_url": "https://twitter.com/NachoMan"
           }
         ]
       },
