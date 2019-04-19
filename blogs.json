@@ -2138,6 +2138,13 @@
             "site_url": "https://kayathomas.info",
             "feed_url": "https://kayathomas.info/feed/",
             "twitter_url": "https://twitter.com/kthomas901"
+          }, 
+          {
+            "title": "Tim Miko's Blog",
+            "author": "Tim Miko",
+            "site_url": "https://tim.engineering",
+            "feed_url": "https://tim.engineering/rss/",
+            "twitter_url": "https://twitter.com/timothymiko"
           }
         ]
       },
