@@ -2767,6 +2767,13 @@
             "site_url": "http://leaks.wanari.com",
             "feed_url": "http://leaks.wanari.com/tag/ios/feed/",
             "twitter_url": "https://twitter.com/teamwanari"
+          },
+          {
+            "title": "Rightpoint Labs Blog",
+            "author": "Rightpoint Team",
+            "site_url": "https://www.rightpoint.com/rlabs/news/",
+            "feed_url": "https://www.rightpoint.com/rlabs/feed/",
+            "twitter_url": "https://twitter.com/rightpoint"
           }
         ]
       },
