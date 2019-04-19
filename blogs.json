@@ -2131,6 +2131,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          }, 
+          {
+            "title": "Kaya Thomas' Blog",
+            "author": "Kaya Thomas",
+            "site_url": "https://kayathomas.info",
+            "feed_url": "https://kayathomas.info/feed/",
+            "twitter_url": "https://twitter.com/kthomas901"
           }
         ]
       },
