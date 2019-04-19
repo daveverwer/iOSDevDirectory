@@ -2145,6 +2145,13 @@
             "site_url": "https://tim.engineering",
             "feed_url": "https://tim.engineering/rss/",
             "twitter_url": "https://twitter.com/timothymiko"
+          },
+          {
+            "title": "Matt Delves' Blog",
+            "author": "Matt Delves",
+            "site_url": "https://mattdelves.com",
+            "feed_url": "https://mattdelves.com/feed.xml",
+            "twitter_url": "https://twitter.com/mattdelves"
           }
         ]
       },
