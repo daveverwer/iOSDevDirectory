@@ -2166,6 +2166,13 @@
             "site_url": "https://zachknox.com",
             "feed_url": "https://zachknox.com/feed.xml",
             "twitter_url": "https://twitter.com/zmknox"
+          },
+          {
+            "title": "CODE. COOK. READ.",
+            "author": "Greg Scown",
+            "site_url": "https://codecookread.com/",
+            "feed_url": "https://codecookread.com/feed/rss",
+            "twitter_url": "http://twitter.com/macgreg"
           }
         ]
       },
