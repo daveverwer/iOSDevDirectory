@@ -2802,6 +2802,13 @@
             "site_url": "https://blog.eternalstorms.at",
             "feed_url": "https://blog.eternalstorms.at/feed/",
             "twitter_url": "https://twitter.com/eternalstorms"
+          },
+          {
+            "title": "Digital Leaves Blog",
+            "author": "Ignacio Nieto",
+            "site_url": "https://digitalleaves.com/blog/",
+            "feed_url": "https://digitalleaves.com/feed/",
+            "twitter_url": "https://twitter.com/digitalleaves"
           }
         ]
       },
