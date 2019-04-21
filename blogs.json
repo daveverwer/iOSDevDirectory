@@ -2001,6 +2001,13 @@
             "feed_url": "https://theswiftdev.com/rss/"
           },
           {
+            "title": "The Swiftness",
+            "author": "CypherPoet",
+            "site_url": "https://theswiftness.com",
+            "feed_url": "https://feedly.com/i/subscription/feed/https://theswiftness.com/rss/",
+            "twitter_url": "https://twitter.com/_TheSwiftness"
+          },
+          {
             "title": "Think & Build",
             "author": "Yari D'areglia",
             "site_url": "http://www.thinkandbuild.it",
