@@ -892,6 +892,14 @@
             "twitter_url": "https://twitter.com/simmelj"
           },
           {
+            "title": "iCalvin.dev",
+            "author": "Calvin Chestnut",
+            "site_url": "https://icalvin.dev/",
+            "feed_url": "https://icalvin.dev/json",
+            "microblog_url": "https://micro.blog/icalvin",
+            "twitter_url": "https://twitter.com/icalvin"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "http://ignorethecode.net",
