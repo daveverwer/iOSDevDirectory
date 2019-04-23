@@ -892,6 +892,14 @@
             "twitter_url": "https://twitter.com/simmelj"
           },
           {
+            "title": "iCalvin.dev",
+            "author": "Calvin Chestnut",
+            "site_url": "https://icalvin.dev/",
+            "feed_url": "https://icalvin.dev/json",
+            "microblog_url": "https://micro.blog/icalvin",
+            "twitter_url": "https://twitter.com/icalvin"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "http://ignorethecode.net",
@@ -2849,6 +2857,13 @@
             "author": "Ben Scheirman and Joe Cieplinski",
             "site_url": "http://appdevdiary.com/",
             "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
+          },
+          {
+            "title": "CastKit",
+            "author": "Calvin Chestnut, Bob Solorio, Steve Ciauri",
+            "site_url": "https://CastKit.fm",
+            "feed_url": "https://pod.icalvin.dev/CastKit",
+            "twitter_url": "https://twitter.com/CastKitfm"
           },
           {
             "title": "CmdSwift",
