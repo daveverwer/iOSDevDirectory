@@ -2859,6 +2859,13 @@
             "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
           },
           {
+            "title": "CastKit",
+            "author": "Calvin Chestnut, Bob Solorio, Steve Ciauri",
+            "site_url": "https://CastKit.fm",
+            "feed_url": "https://pod.icalvin.dev/CastKit",
+            "twitter_url": "https://twitter.com/CastKitfm"
+          },
+          {
             "title": "CmdSwift",
             "author": "Kristof Kocsis & Héctor Carrion",
             "site_url": "https://cmdswift.com/",
