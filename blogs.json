@@ -2545,8 +2545,8 @@
           {
             "title": "Hobbyist Software",
             "author": "Rob Jonson",
-            "site_url": "https://blog.hobbyistsoftware.com/category/coding/",
-            "feed_url": "https://blog.hobbyistsoftware.com/category/coding/feed"
+            "site_url": "https://blog.hobbyistsoftware.com/category/coding/apple",
+            "feed_url": "https://blog.hobbyistsoftware.com/category/coding/apple/feed"
           },
           {
             "title": "Inside PSPDFKit",
