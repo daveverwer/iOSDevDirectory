@@ -1581,6 +1581,13 @@
             "twitter_url": "https://twitter.com/volbap"
           },
           {
+            "title": "Parveen Kaler's Blog",
+            "author": "Parveen Kaler",
+            "site_url": "https://parveenkaler.com/blog",
+            "feed_url": "https://parveenkaler.com/feed",
+            "twitter_url": "https://twitter.com/kaler"
+          },
+          {
             "title": "Patrick Balestra's Blog",
             "author": "Patrick Balestra",
             "site_url": "http://patrickbalestra.com/blog/",
