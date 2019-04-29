@@ -892,6 +892,14 @@
             "twitter_url": "https://twitter.com/simmelj"
           },
           {
+            "title": "iCalvin.dev",
+            "author": "Calvin Chestnut",
+            "site_url": "https://icalvin.dev/",
+            "feed_url": "https://icalvin.dev/json",
+            "microblog_url": "https://micro.blog/icalvin",
+            "twitter_url": "https://twitter.com/icalvin"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "http://ignorethecode.net",
@@ -1571,6 +1579,13 @@
             "site_url": "https://medium.com/@volbap",
             "feed_url": "https://medium.com/feed/@volbap",
             "twitter_url": "https://twitter.com/volbap"
+          },
+          {
+            "title": "Parveen Kaler's Blog",
+            "author": "Parveen Kaler",
+            "site_url": "https://parveenkaler.com/blog",
+            "feed_url": "https://parveenkaler.com/feed",
+            "twitter_url": "https://twitter.com/kaler"
           },
           {
             "title": "Patrick Balestra's Blog",
@@ -2376,6 +2391,13 @@
         "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you'll find it!",
         "sites": [
           {
+            "title": "47 Degrees Blog",
+            "author": "47 Degrees",
+            "site_url": "https://www.47deg.com/blog/",
+            "feed_url": "https://www.47deg.com/feed.xml",
+            "twitter_url": "https://twitter.com/47deg"
+          },
+          {
             "title": "all about apps",
             "author": "all about apps Team",
             "site_url": "https://code.allaboutapps.at/categories/ios/",
@@ -2537,8 +2559,8 @@
           {
             "title": "Hobbyist Software",
             "author": "Rob Jonson",
-            "site_url": "https://blog.hobbyistsoftware.com/category/coding/",
-            "feed_url": "https://blog.hobbyistsoftware.com/category/coding/feed"
+            "site_url": "https://blog.hobbyistsoftware.com/category/coding/apple",
+            "feed_url": "https://blog.hobbyistsoftware.com/category/coding/apple/feed"
           },
           {
             "title": "Inside PSPDFKit",
@@ -2849,6 +2871,13 @@
             "author": "Ben Scheirman and Joe Cieplinski",
             "site_url": "http://appdevdiary.com/",
             "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
+          },
+          {
+            "title": "CastKit",
+            "author": "Calvin Chestnut, Bob Solorio, Steve Ciauri",
+            "site_url": "https://CastKit.fm",
+            "feed_url": "https://pod.icalvin.dev/CastKit",
+            "twitter_url": "https://twitter.com/CastKitfm"
           },
           {
             "title": "CmdSwift",
