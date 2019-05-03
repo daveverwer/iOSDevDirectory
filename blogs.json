@@ -2245,6 +2245,13 @@
             "twitter_url": "https://twitter.com/eli_schiff"
           },
           {
+            "title": "Learn UI Design",
+            "author": "Erik D. Kennedy",
+            "site_url": "https://learnui.design//blog/",
+            "feed_url": "https://learnui.design//blog/feed.xml",
+            "twitter_url": "https://twitter.com/erikdkennedy"
+          },
+          {
             "title": "Louie Abreu's Blog",
             "author": "Louie Abreu",
             "site_url": "https://lmjabreu.com/posts/",
@@ -2333,13 +2340,6 @@
             "site_url": "http://www.useronboard.com/",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
-          },
-          {
-            "title": "Learn UI Design",
-            "author": "Erik D. Kennedy",
-            "site_url": "https://learnui.design//blog/",
-            "feed_url": "https://learnui.design//blog/feed.xml",
-            "twitter_url": "https://twitter.com/erikdkennedy"
           }
         ]
       },
