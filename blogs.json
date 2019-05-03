@@ -767,6 +767,13 @@
             "twitter_url": "https://twitter.com/_sa_s"
           },
           {
+            "title": "Five Stars",
+            "author": "Federico Zanetello",
+            "site_url": "https://www.fivestars.blog/",
+            "feed_url": "https://www.fivestars.blog/feed.xml",
+            "twitter_url": "https://twitter.com/zntfdr"
+          },
+          {
             "title": "Floating little leaves of code",
             "author": "Maxwell Anselm",
             "site_url": "https://silverhammermba.github.io/blog/",
