@@ -895,7 +895,7 @@
             "title": "iCalvin.dev",
             "author": "Calvin Chestnut",
             "site_url": "https://icalvin.dev/",
-            "feed_url": "https://icalvin.dev/json",
+            "feed_url": "https://icalvin.dev/posts/json",
             "microblog_url": "https://micro.blog/icalvin",
             "twitter_url": "https://twitter.com/icalvin"
           },
