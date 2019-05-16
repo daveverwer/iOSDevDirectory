@@ -2688,6 +2688,13 @@
             "twitter_url": "https://twitter.com/objcio"
           },
           {
+            "title": "ObjectBox database blog",
+            "author": "ObjectBox Limited",
+            "site_url": "https://objectbox.io/blog",
+            "feed_url": "https://objectbox.io/feed/",
+            "twitter_url": "https://twitter.com/objectbox_io"
+          },
+          {
             "title": "Periphery Blog",
             "author": "Periphery Team",
             "site_url": "https://peripheryapp.com/blog/",
