@@ -1484,6 +1484,13 @@
             "twitter_url": "https://twitter.com/multicolourpxl"
           },
           {
+            "title": "Natan Rolnik's Blog",
+            "author": "Natan Rolnik",
+            "site_url": "https://blog.natanrolnik.me",
+            "feed_url": "https://blog.natanrolnik.me/feed.xml",
+            "twitter_url": "https://twitter.com/natanrolnik"
+          },
+          {
             "title": "Natasha The Robot",
             "author": "Natasha Murashev",
             "site_url": "https://www.natashatherobot.com",
