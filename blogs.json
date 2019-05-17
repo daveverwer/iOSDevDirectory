@@ -294,11 +294,18 @@
             "twitter_url": "https://twitter.com/norapsi"
           },
           {
+            "title": "Bas' Blog",
+            "author": "Bas Broek",
+            "site_url": "https://basthomas.github.io",
+            "feed_url": "https://basthomas.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/basthomas"
+          },
+          {
             "title": "Basem Emara's Blog",
             "author": "Basem Emara",
             "site_url": "http://basememara.com",
             "feed_url": "http://basememara.com/feed/",
-            "twitter_url": "http://twitter.com/basememara"
+            "twitter_url": "https://twitter.com/basememara"
           },
           {
             "title": "Becky Hansmeyer's Blog",
@@ -514,7 +521,7 @@
             "author": "Greg Scown",
             "site_url": "https://codecookread.com/",
             "feed_url": "https://codecookread.com/feed/rss",
-            "twitter_url": "http://twitter.com/macgreg"
+            "twitter_url": "https://twitter.com/macgreg"
           },
           {
             "title": "Coding Explorer Blog",
@@ -3486,7 +3493,7 @@
             "author": "Limboy无网不剩",
             "site_url": "http://limboy.me",
             "feed_url": "http://feeds.feedburner.com/lzyy",
-            "twitter_url": "http://twitter.com/lzyy"
+            "twitter_url": "https://twitter.com/lzyy"
           },
           {
             "title": "MrPeak杂货铺",
