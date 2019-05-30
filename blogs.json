@@ -434,6 +434,12 @@
             "twitter_url": "https://twitter.com/chriseidhof"
           },
           {
+            "title": "Splinter Software",
+            "author": "Chris Hulbert",
+            "site_url": "http://www.splinter.com.au/",
+            "feed_url": "http://www.splinter.com.au/atom.xml"
+          },
+          {
             "title": "Chris Winstanley on Medium",
             "author": "Chris Winstanley",
             "site_url": "https://medium.com/@CWinstanley90",
