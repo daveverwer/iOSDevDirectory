@@ -3222,6 +3222,13 @@
             "twitter_url": "https://twitter.com/CocoaHeadsNL"
           },
           {
+            "title": "Deep Dojo",
+            "author": "Otto Schnurr",
+            "site_url": "https://www.youtube.com/channel/UCpHWi_dxxTReXW6Bxab-ikQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpHWi_dxxTReXW6Bxab-ikQ"
+            "twitter_url": "https://twitter.com/deepdojo"
+          },
+          {
             "title": "FastBike",
             "author": "Tiago Martinho & Lewis Black",
             "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
