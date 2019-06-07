@@ -2618,6 +2618,13 @@
             "twitter_url": "https://twitter.com/flightdotschool"
           },
           {
+            "title": "Gett Engineering Blog",
+            "author": "Shai Mishali",
+            "site_url": "https://medium.com/gett-engineering",
+            "feed_url": "https://medium.com/feed/gett-engineering",
+            "twitter_url": "https://twitter.com/freak4pc"
+          },
+          {
             "title": "Helftone Blog",
             "author": "Milen Dzhumerov",
             "site_url": "https://blog.helftone.com",
