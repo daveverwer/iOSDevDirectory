@@ -1490,6 +1490,13 @@
             "twitter_url": "https://twitter.com/mokagio"
           },
           {
+            "title": "Mohsen's Blog",
+            "author": "Mohsen Alijanpour",
+            "site_url": "https://mohsen.dev",
+            "feed_url": "https://mohsen.dev/feed.xml",
+            "twitter_url": "https://twitter.com/coybit"
+          },
+          {
             "title": "Morten Bek Ditlevsen on Medium",
             "author": "Morten Bek Ditlevsen",
             "site_url": "https://medium.com/@bek_29339/",
