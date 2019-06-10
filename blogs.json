@@ -219,6 +219,13 @@
             "twitter_url": "https://twitter.com/apoorvatyagi"
           },
           {
+            "title": "AppMakers.Dev",
+            "author": "Alexander Adelmaer",
+            "site_url": "https://appmakers.dev/category/ios/",
+            "feed_url": "https://appmakers.dev/category/ios/feed/",
+            "twitter_url": "https://twitter.com/appmakers_dev"
+          },
+          {
             "title": "Apps Dissected",
             "author": "Evan Deaubl",
             "site_url": "https://www.appsdissected.com",
