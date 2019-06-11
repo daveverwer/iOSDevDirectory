@@ -287,6 +287,13 @@
             "twitter_url": "https://twitter.com/moeburney"
           },
           {
+            "title": "Baking Swift",
+            "author": "Jeroen Bakker",
+            "site_url": "https://jeroenscode.com",
+            "feed_url": "https://jeroenscode.com/feed/",
+            "twitter_url": "https://twitter.com/jeroenbios"
+          },
+          {
             "title": "Bartosz Ciechanowski's Blog",
             "author": "Bartosz Ciechanowski",
             "site_url": "http://ciechanowski.me/",
