@@ -2485,6 +2485,13 @@
             "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=app-marketing",
             "twitter_url": "https://twitter.com/ortwingentz"
+          },
+          {
+            "title": "Joe Cieplinski's Blog",
+            "author": "Joe Cieplinski",
+            "site_url": "https://joecieplinski.com/blog/",
+            "feed_url": "http://www.joecieplinski.com/blog/rss/",
+            "twitter_url": "https://twitter.com/jcieplinski"
           }
         ]
       },
