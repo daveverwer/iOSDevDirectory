@@ -336,6 +336,13 @@
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
+            "title": "Belle B. Cooper's Blog",
+            "author": "Belle B. Cooper",
+            "site_url": "http://blog.bellebcooper.com",
+            "feed_url": "http://blog.bellebcooper.com/feeds/all.atom.xml",
+            "twitter_url": "https://twitter.com/bellebcooper"
+          },
+          {
             "title": "Ben Dodson's Weblog",
             "author": "Ben Dodson",
             "site_url": "https://bendodson.com/weblog/",
