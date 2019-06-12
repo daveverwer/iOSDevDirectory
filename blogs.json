@@ -9,6 +9,12 @@
         "description": "Whether it's an official Apple blog, or a community blog that keeps us up to date with what's going on with the platform it'll be here.",
         "sites": [
           {
+            "title": "Sarin Swift on Medium",
+            "author": "Sarin Swift",
+            "site_url": "https://heartbeat.fritz.ai/memory-management-in-swift-heaps-stacks-baa755abe16a",
+            "feed_url": "https://medium.com/@sarinyaswift"
+          },
+          {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
             "site_url": "http://www.appstorereviewguidelineshistory.com/",
