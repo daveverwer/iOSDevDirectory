@@ -9,12 +9,6 @@
         "description": "Whether it's an official Apple blog, or a community blog that keeps us up to date with what's going on with the platform it'll be here.",
         "sites": [
           {
-            "title": "Sarin Swift on Medium",
-            "author": "Sarin Swift",
-            "site_url": "https://heartbeat.fritz.ai/memory-management-in-swift-heaps-stacks-baa755abe16a",
-            "feed_url": "https://medium.com/@sarinyaswift"
-          },
-          {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
             "site_url": "http://www.appstorereviewguidelineshistory.com/",
@@ -63,6 +57,12 @@
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
+          {
+            "title": "Sarin Swift on Medium",
+            "author": "Sarin Swift",
+            "site_url": "https://medium.com/@sarinyaswift",
+            "feed_url": "https://medium.com/feed/@sarinyaswift"
+          },
           {
             "title": "a-coding",
             "author": "Alejandro Isaza",
