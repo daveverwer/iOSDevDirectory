@@ -64,6 +64,13 @@
             "feed_url": "https://medium.com/feed/@sarinyaswift"
           },
           {
+            "title": "Will Bishop's Blog",
+            "author": "Will Bishop",
+            "site_url": "https://blog.willbish.com/",
+            "feed_url": "https://blog.willbish.com/feed/",
+            "twitter_url": "https://twitter.com/willrbishop"
+          },
+          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
