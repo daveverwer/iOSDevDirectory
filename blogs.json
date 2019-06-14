@@ -58,19 +58,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Sarin Swift on Medium",
-            "author": "Sarin Swift",
-            "site_url": "https://medium.com/@sarinyaswift",
-            "feed_url": "https://medium.com/feed/@sarinyaswift"
-          },
-          {
-            "title": "Will Bishop's Blog",
-            "author": "Will Bishop",
-            "site_url": "https://blog.willbish.com/",
-            "feed_url": "https://blog.willbish.com/feed/",
-            "twitter_url": "https://twitter.com/willrbishop"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -1852,6 +1839,12 @@
             "twitter_url": "https://twitter.com/samwize"
           },
           {
+            "title": "Sarin Swift on Medium",
+            "author": "Sarin Swift",
+            "site_url": "https://medium.com/@sarinyaswift",
+            "feed_url": "https://medium.com/feed/@sarinyaswift"
+          },
+          {
             "title": "Sealed Abstract",
             "author": "Drew Crawford",
             "site_url": "http://sealedabstract.com",
@@ -2269,6 +2262,13 @@
             "site_url": "https://apontious.com",
             "feed_url": "https://apontious.com/feed/",
             "twitter_url": "https://twitter.com/apontious"
+          },
+          {
+            "title": "Will Bishop's Blog",
+            "author": "Will Bishop",
+            "site_url": "https://blog.willbish.com/",
+            "feed_url": "https://blog.willbish.com/feed/",
+            "twitter_url": "https://twitter.com/willrbishop"
           },
           {
             "title": "William Boles's Blog",
