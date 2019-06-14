@@ -2988,6 +2988,13 @@
             "site_url": "https://blog.zeplin.io",
             "feed_url": "https://blog.zeplin.io/feed",
             "twitter_url": "https://twitter.com/zeplin"
+          },
+          {
+            "title": "Zonneveld Dev Blog",
+            "author": "Jeroen Zonneveld",
+            "site_url": "https://zonneveld.dev",
+            "feed_url": "https://zonneveld.dev/feed/",
+            "twitter_url": "https://twitter.com/j_zonneveld"
           }
         ]
       },
