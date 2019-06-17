@@ -2983,6 +2983,13 @@
             "twitter_url": "https://twitter.com/tworingsoft"
           },
           {
+            "title": "The Waldo Blog",
+            "author": "Waldo Team",
+            "site_url": "https://blog.waldo.io/",
+            "feed_url": "https://blog.waldo.io/feed/",
+            "twitter_url": "https://twitter.com/UseWaldo"
+          },
+          {
             "title": "Wanari Leaks: iOS posts",
             "author": "Wanari Team",
             "site_url": "http://leaks.wanari.com",
