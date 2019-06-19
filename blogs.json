@@ -378,6 +378,13 @@
             "twitter_url": "https://twitter.com/BenoitPasquier_"
           },
           {
+            "title": "Besher Al Maleh's Blog",
+            "author": "Besher Al Maleh",
+            "site_url": "https://medium.com/@almalehdev",
+            "feed_url": "https://medium.com/feed/@almalehdev",
+            "twitter_url": "https://twitter.com/BesherMaleh"
+          },
+          {
             "title": "Bitsplitting",
             "author": "Daniel Jalkut",
             "site_url": "http://bitsplitting.org",
