@@ -3278,6 +3278,12 @@
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
         "sites": [
           {
+            "title": "Swift Language User Group",
+            "author": "The Bay Area Swift Community",
+            "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
+          },
+          {
             "title": "Brian Advent on YouTube",
             "author": "Brian Advent",
             "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw",
