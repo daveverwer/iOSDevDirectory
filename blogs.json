@@ -2955,6 +2955,13 @@
             "twitter_url": "https://twitter.com/thedistancehq"
           },
           {
+            "title": "The Waldo Blog",
+            "author": "Waldo Team",
+            "site_url": "https://blog.waldo.io/",
+            "feed_url": "https://blog.waldo.io/feed/",
+            "twitter_url": "https://twitter.com/UseWaldo"
+          },
+          {
             "title": "theScore Tech Blog",
             "author": "theScore Team",
             "site_url": "http://techblog.thescore.com",
@@ -2988,13 +2995,6 @@
             "site_url": "http://tworingsoft.com/blog/",
             "feed_url": "http://tworingsoft.com/feed.xml",
             "twitter_url": "https://twitter.com/tworingsoft"
-          },
-          {
-            "title": "The Waldo Blog",
-            "author": "Waldo Team",
-            "site_url": "https://blog.waldo.io/",
-            "feed_url": "https://blog.waldo.io/feed/",
-            "twitter_url": "https://twitter.com/UseWaldo"
           },
           {
             "title": "Wanari Leaks: iOS posts",
@@ -3292,12 +3292,6 @@
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
         "sites": [
           {
-            "title": "Swift Language User Group",
-            "author": "The Bay Area Swift Community",
-            "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
-          },
-          {
             "title": "Brian Advent on YouTube",
             "author": "Brian Advent",
             "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw",
@@ -3393,6 +3387,12 @@
             "site_url": "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbTw29mcP12YlTt1EpUaVJw",
             "twitter_url": "https://twitter.com/SeanA0400"
+          },
+          {
+            "title": "Swift Language User Group",
+            "author": "The Bay Area Swift Community",
+            "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
           },
           {
             "title": "The Swift Guy",
