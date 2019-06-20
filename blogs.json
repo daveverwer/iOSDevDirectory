@@ -969,6 +969,13 @@
             "twitter_url": "https://twitter.com/bach4life"
           },
           {
+            "title": "Ilian Konchev on Medium",
+            "author": "Ilian Konchev",
+            "site_url": "https://medium.com/@iliankonchev",
+            "feed_url": "https://medium.com/feed/@iliankonchev",
+            "twitter_url": "https://twitter.com/sthoughts"
+          },
+          {
             "title": "Ilya Puchka's Blog",
             "author": "Ilya Puchka",
             "site_url": "http://ilya.puchka.me",
