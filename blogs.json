@@ -58,13 +58,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "High Caffeine Content",
-            "author": "Steve Troughton-Smith",
-            "site_url": "https://www.highcaffeinecontent.com",
-            "feed_url": "https://www.highcaffeinecontent.com/rss.xml",
-            "twitter_url": "https://twitter.com/stroughtonsmith"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -925,6 +918,13 @@
             "site_url": "https://soffes.blog/",
             "feed_url": "https://soffes.blog/rss/",
             "twitter_url": "https://twitter.com/soffes"
+          },
+          {
+            "title": "High Caffeine Content",
+            "author": "Steve Troughton-Smith",
+            "site_url": "https://www.highcaffeinecontent.com",
+            "feed_url": "https://www.highcaffeinecontent.com/rss.xml",
+            "twitter_url": "https://twitter.com/stroughtonsmith"
           },
           {
             "title": "Honza Dvorsky's Blog",
