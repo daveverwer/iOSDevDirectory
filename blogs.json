@@ -713,6 +713,13 @@
             "twitter_url": "https://twitter.com/UINT_MIN"
           },
           {
+            "title": "Denis Poifol's blog",
+            "author": "Denis Poifol",
+            "site_url": "https://denispoifol.github.io//",
+            "feed_url": "https://denispoifol.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/denisPoifol"
+          },
+          {
             "title": "Denys Zhadanov on Medium",
             "author": "Denys Zhadanov",
             "site_url": "https://denzhadanov.com/",
