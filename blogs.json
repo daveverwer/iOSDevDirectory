@@ -3802,6 +3802,13 @@
             "site_url": "https://nshipster.fr",
             "feed_url": "https://nshipster.fr/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
+          },
+          {
+            "title": "Académie Ryfacto | Advanced iOS Craft",
+            "author": "Nicolas Verinaud",
+            "site_url": "https://academie.ryfacto.fr",
+            "feed_url": "https://academie.ryfacto.fr/advanced-ios-craft/feed.xml",
+            "twitter_url": "https://twitter.com/nverinaud"
           }
         ]
       }
