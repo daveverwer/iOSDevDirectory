@@ -58,13 +58,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Rob Whitaker on Medium",
-            "author": "Rob Whitaker",
-            "site_url": "https://medium.com/@r.whitaker",
-            "feed_url": "https://medium.com/feed/@r.whitaker",
-            "twitter_url": "https://twitter.com/RobRWAPP"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -1795,6 +1788,13 @@
             "site_url": "https://iam.fahrni.me/category/ios/",
             "feed_url": "https://iam.fahrni.me/category/ios/feed",
             "twitter_url": "https://twitter.com/fahrni"
+          },
+          {
+            "title": "Rob Whitaker on Medium",
+            "author": "Rob Whitaker",
+            "site_url": "https://medium.com/@r.whitaker",
+            "feed_url": "https://medium.com/feed/@r.whitaker",
+            "twitter_url": "https://twitter.com/RobRWAPP"
           },
           {
             "title": "Roger Molas's Blog",
@@ -3783,6 +3783,13 @@
         "description": "Pour Swift comme pour Objective-C, qu’il s’agisse d’architecture d’appli ou de programmation d’UI. À partir du moment où il s’agit de développement iOS, c’est le bon endroit.",
         "sites": [
           {
+            "title": "Académie Ryfacto | Advanced iOS Craft",
+            "author": "Nicolas Verinaud",
+            "site_url": "https://academie.ryfacto.fr",
+            "feed_url": "https://academie.ryfacto.fr/advanced-ios-craft/feed.xml",
+            "twitter_url": "https://twitter.com/nverinaud"
+          },
+          {
             "title": "Blog de l'équipe iOS de PagesJaunes",
             "author": "Equipe tech iOS",
             "site_url": "https://developers.pagesjaunes.fr/tag/ios/",
@@ -3802,13 +3809,6 @@
             "site_url": "https://nshipster.fr",
             "feed_url": "https://nshipster.fr/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
-          },
-          {
-            "title": "Académie Ryfacto | Advanced iOS Craft",
-            "author": "Nicolas Verinaud",
-            "site_url": "https://academie.ryfacto.fr",
-            "feed_url": "https://academie.ryfacto.fr/advanced-ios-craft/feed.xml",
-            "twitter_url": "https://twitter.com/nverinaud"
           }
         ]
       }
