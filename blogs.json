@@ -1601,6 +1601,13 @@
             "twitter_url": "https://twitter.com/mikeash"
           },
           {
+            "title": "NSBogan",
+            "author": "Maksym Grebenets",
+            "site_url": "https://mgrebenets.github.io",
+            "feed_url": "https://mgrebenets.github.io/rss.xml",
+            "twitter_url": "https://twitter.com/mgrebenets"
+          },
+          {
             "title": "NSHint",
             "author": "Rafael Machado, Mateusz Matoszko and Wojtek Lukaszuk",
             "site_url": "https://nshint.github.io/",
