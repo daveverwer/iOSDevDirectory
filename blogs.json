@@ -1934,6 +1934,13 @@
             "twitter_url": "https://twitter.com/sgaw"
           },
           {
+            "title": "SintraWorks Blog",
+            "author": "António Nunes",
+            "site_url": "https://sintraworks.github.io",
+            "feed_url": "https://sintraworks.github.io/feed",
+            "twitter_url": "https://twitter.com/sintraworks"
+          },
+          {
             "title": "skagedal's oboy",
             "author": "Simon Kågedal Reimer",
             "site_url": "https://blog.skagedal.tech",
