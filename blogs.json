@@ -2867,6 +2867,13 @@
             "twitter_url": "https://twitter.com/objectbox_io"
           },
           {
+            "title": "Over Engineering blog",
+            "author": "Over iOS Engineering team",
+            "site_url": "https://medium.com/over-engineering/tagged/ios",
+            "feed_url": "https://medium.com/feed/over-engineering/tagged/ios",
+            "twitter_url": "https://twitter.com/EngineeringOver"
+          },
+          {
             "title": "Periphery Blog",
             "author": "Periphery Team",
             "site_url": "https://peripheryapp.com/blog/",
