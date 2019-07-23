@@ -2306,6 +2306,13 @@
             "twitter_url": "https://twitter.com/johnbrayton"
           },
           {
+            "title": "Vojta Stavik's Blog",
+            "author": "Vojta Stavik",
+            "site_url": "https://vojtastavik.com/",
+            "feed_url": "https://vojtastavik.com/atom.xml",
+            "twitter_url": "https://twitter.com/vojtastavik"
+          },
+          {
             "title": "Warp your mobile development",
             "author": "Thibault Wittemberg",
             "site_url": "http://blog.warpfactor.io",
