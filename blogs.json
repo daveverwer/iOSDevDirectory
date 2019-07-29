@@ -1767,6 +1767,13 @@
             "twitter_url": "https://twitter.com/pointfreeco"
           },
           {
+            "title": "qnoid.com",
+            "author": "Markos Charatzas",
+            "site_url": "https://qnoid.com",
+            "feed_url": "https://qnoid.com/feed.xml",
+            "twitter_url": "https://twitter.com/qnoid"
+          },
+          {
             "title": "Quality Coding",
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
