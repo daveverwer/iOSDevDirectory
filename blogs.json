@@ -3194,7 +3194,7 @@
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://devchat.tv/iphreaks",
-            "feed_url": "https://devchat.tv/iphreaks/feed/",
+            "feed_url": "https://feeds.feedwrench.com/iphreaks.rss",
             "twitter_url": "https://twitter.com/iphreaks"
           },
           {
