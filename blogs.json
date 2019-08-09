@@ -2660,8 +2660,8 @@
           {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
-            "site_url": "https://www.bignerdranch.com/blog/categories/ios/",
-            "feed_url": "https://www.bignerdranch.com/feed.xml",
+            "site_url": "https://www.bignerdranch.com/blog/category/ios/",
+            "feed_url": "https://www.bignerdranch.com/blog/category/ios/feed/",
             "twitter_url": "https://twitter.com/bignerdranch"
           },
           {
