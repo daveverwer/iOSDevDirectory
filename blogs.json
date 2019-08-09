@@ -200,7 +200,7 @@
             "title": "Andrew Bancroft's Blog",
             "author": "Andrew Bancroft",
             "site_url": "https://www.andrewcbancroft.com",
-            "feed_url": "https://www.andrewcbancroft.com/feed/",
+            "feed_url": "https://www.andrewcbancroft.com/index.xml",
             "twitter_url": "https://twitter.com/andrewcbancroft"
           },
           {
@@ -263,7 +263,7 @@
             "title": "Ariel Elkin's Blog",
             "author": "Ariel Elkin",
             "site_url": "https://arielelkin.github.io",
-            "feed_url": "https://arielelkin.github.io",
+            "feed_url": "https://arielelkin.github.io/feed.xml",
             "twitter_url": "https://twitter.com/arivocals"
           },
           {
