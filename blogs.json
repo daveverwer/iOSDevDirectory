@@ -3214,8 +3214,8 @@
           {
             "title": "Ray Wenderlich Podcast",
             "author": "Dru Freeman and Janie Clayton",
-            "site_url": "https://www.raywenderlich.com/rwpodcast/",
-            "feed_url": "https://www.raywenderlich.com/rwpodcast/feed"
+            "site_url": "https://www.raywenderlich.com/podcast/",
+            "feed_url": "https://www.raywenderlich.com/feed/podcast"
           },
           {
             "title": "Release Notes Podcast",
