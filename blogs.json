@@ -3047,8 +3047,8 @@
           {
             "title": "theScore Tech Blog",
             "author": "theScore Team",
-            "site_url": "http://techblog.thescore.com",
-            "feed_url": "http://techblog.thescore.com/feed.xml",
+            "site_url": "https://techblog.thescore.com",
+            "feed_url": "https://techblog.thescore.com/feed.xml",
             "twitter_url": "https://twitter.com/theScore"
           },
           {
