@@ -3265,12 +3265,6 @@
             "feed_url": "https://simplecast.com/podcasts/2693/rss"
           },
           {
-            "title": "SwiftCraft",
-            "author": "Emmanuoel Haroutunian",
-            "site_url": "https://emanleet.com/",
-            "feed_url": "https://emanleet.com/category/swiftcraft-podcasts/feed/"
-          },
-          {
             "title": "The Swift Community Podcast",
             "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
             "site_url": "https://www.swiftcommunitypodcast.org/",
