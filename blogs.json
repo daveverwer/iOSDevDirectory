@@ -78,13 +78,6 @@
             "twitter_url": "https://twitter.com/aleph7"
           },
           {
-            "title": "Aaron Vegh's Blog",
-            "author": "Aaron Vegh",
-            "site_url": "http://aaron.vegh.ca/",
-            "feed_url": "http://aaron.vegh.ca/rss/",
-            "twitter_url": "https://twitter.com/aaronvegh"
-          },
-          {
             "title": "Accidentally in Code",
             "author": "Cate Huston",
             "site_url": "https://cate.blog/tag/ios/",
@@ -745,13 +738,6 @@
             "site_url": "https://denzhadanov.com/",
             "feed_url": "https://denzhadanov.com/feed/",
             "twitter_url": "https://twitter.com/denzhadanov"
-          },
-          {
-            "title": "Design Details",
-            "author": "Brian Lovin",
-            "site_url": "http://www.brianlovin.com/design-details",
-            "feed_url": "http://www.brianlovin.com/design-details/feed",
-            "twitter_url": "https://twitter.com/brianlovin"
           },
           {
             "title": "dev etc",
