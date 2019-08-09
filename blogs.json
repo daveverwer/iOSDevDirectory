@@ -3334,13 +3334,6 @@
             "twitter_url": "https://twitter.com/swiftdevmnts"
           },
           {
-            "title": "Swift Sparks",
-            "author": "Alvin Varghese",
-            "site_url": "https://swiftsparks.com/",
-            "feed_url": "https://swiftsparks.com/feed.xml",
-            "twitter_url": "https://twitter.com/speaktoalvin"
-          },
-          {
             "title": "Swift Weekly",
             "author": "Sascha Schwabbauer",
             "site_url": "https://swiftweekly.com",
