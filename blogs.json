@@ -2238,8 +2238,8 @@
           {
             "title": "Tomasz Szulc's Blog",
             "author": "Tomasz Szulc",
-            "site_url": "http://szulctomasz.com/",
-            "feed_url": "http://szulctomasz.com/feed/",
+            "site_url": "http://szulctomasz.com/programming-blog/",
+            "feed_url": "http://szulctomasz.com/programming-blog/index.xml",
             "twitter_url": "https://twitter.com/tomkowz"
           },
           {
