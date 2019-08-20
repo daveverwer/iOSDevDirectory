@@ -2154,6 +2154,13 @@
             "twitter_url": "https://twitter.com/ccgus"
           },
           {
+            "title": "Sven Weidauer’s Blog",
+            "author": "Sven Weidauer",
+            "site_url": "https://5sw.de/",
+            "feed_url": "https://5sw.de/feed/",
+            "twitter_url": "https://twitter.com/5sw_de"
+          },
+          {
             "title": "The Swift Teacher",
             "author": "Brian Foutty",
             "site_url": "https://www.swiftteacher.org",
