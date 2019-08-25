@@ -2329,6 +2329,13 @@
             "twitter_url": "https://twitter.com/trollwerks"
           },
           {
+	          "title": "upbeat.it",
+	          "author": "Cesare Rocchi",
+	          "site_url": "https://www.upbeat.it",
+	          "feed_url": "https://www.upbeat.it/atom.xml",
+	          "twitter_url": "https://twitter.com/_funkyboy"
+	        },
+          {
             "title": "Use Your Loaf",
             "author": "Keith Harrison",
             "site_url": "https://useyourloaf.com/blog/",
