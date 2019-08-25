@@ -79,6 +79,13 @@
             "twitter_url": "https://twitter.com/peres"
           },
           {
+            "title": "Thomas Ricouard on Medium",
+            "author": "Thomas Ricouard",
+            "site_url": "https://medium.com/@dimillian",
+            "feed_url": "https://medium.com/feed/@dimillian",
+            "twitter_url": "https://twitter.com/Dimillian"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
