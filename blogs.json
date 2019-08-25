@@ -58,48 +58,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "The SwiftUI Lab",
-            "author": "Javier",
-            "site_url": "https://swiftui-lab.com/",
-            "feed_url": "https://swiftui-lab.com/feed/",
-            "twitter_url": "https://twitter.com/SwiftUILab"
-          },
-          {
-            "title": "Morning SwiftUI",
-            "author": "Thomas Sivilay",
-            "site_url": "https://www.morningswiftui.com",
-            "feed_url": "https://www.morningswiftui.com/blog?format=RSS",
-            "twitter_url": "https://twitter.com/thomassivilay"
-          },
-          {
-            "title": "Krzysztof Zabłocki's Blog",
-            "author": "Krzysztof Zabłocki",
-            "site_url": "http://merowing.info/post/",
-            "feed_url": "http://merowing.info/index.xml",
-            "twitter_url": "https://twitter.com/merowing_"
-          },
-          {
-            "title": "ruiper.es",
-            "author": "Rui Peres",
-            "site_url": "https://ruiper.es/",
-            "feed_url": "https://ruiper.es/rss/",
-            "twitter_url": "https://twitter.com/peres"
-          },
-          {
-            "title": "Thomas Ricouard on Medium",
-            "author": "Thomas Ricouard",
-            "site_url": "https://medium.com/@dimillian",
-            "feed_url": "https://medium.com/feed/@dimillian",
-            "twitter_url": "https://twitter.com/Dimillian"
-          },
-          {
-            "title": "Scott Berrevoets' Blog",
-            "author": "Scott Berrevoets",
-            "site_url": "https://scottberrevoets.com/",
-            "feed_url": "https://scottberrevoets.com/feeds/all.rss.xml",
-            "twitter_url": "https://twitter.com/ScottBerrevoets"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -1283,6 +1241,13 @@
             "twitter_url": "https://twitter.com/kristofkocsis"
           },
           {
+            "title": "Krzysztof Zabłocki's Blog",
+            "author": "Krzysztof Zabłocki",
+            "site_url": "http://merowing.info/post/",
+            "feed_url": "http://merowing.info/index.xml",
+            "twitter_url": "https://twitter.com/merowing_"
+          },
+          {
             "title": "Kyle Bashour's Blog",
             "author": "Kyle Bashour",
             "site_url": "https://kylebashour.com/",
@@ -1588,6 +1553,13 @@
             "site_url": "http://www.mokacoding.com",
             "feed_url": "http://www.mokacoding.com/feed.xml",
             "twitter_url": "https://twitter.com/mokagio"
+          },
+          {
+            "title": "Morning SwiftUI",
+            "author": "Thomas Sivilay",
+            "site_url": "https://www.morningswiftui.com",
+            "feed_url": "https://www.morningswiftui.com/blog?format=RSS",
+            "twitter_url": "https://twitter.com/thomassivilay"
           },
           {
             "title": "Morten Bek Ditlevsen on Medium",
@@ -1903,6 +1875,13 @@
             "twitter_url": "https://twitter.com/marmelroy"
           },
           {
+            "title": "ruiper.es",
+            "author": "Rui Peres",
+            "site_url": "https://ruiper.es/",
+            "feed_url": "https://ruiper.es/rss/",
+            "twitter_url": "https://twitter.com/peres"
+          },
+          {
             "title": "Russ Bishop's Blog",
             "author": "Russ Bishop",
             "site_url": "http://www.russbishop.net",
@@ -1955,6 +1934,13 @@
             "author": "Avi Tsadok",
             "site_url": "https://scorpios.home.blog/",
             "feed_url": "https://scorpios.home.blog/feed/"
+          },
+          {
+            "title": "Scott Berrevoets' Blog",
+            "author": "Scott Berrevoets",
+            "site_url": "https://scottberrevoets.com/",
+            "feed_url": "https://scottberrevoets.com/feeds/all.rss.xml",
+            "twitter_url": "https://twitter.com/ScottBerrevoets"
           },
           {
             "title": "Sealed Abstract",
@@ -2225,6 +2211,13 @@
             "twitter_url": "https://twitter.com/_TheSwiftness"
           },
           {
+            "title": "The SwiftUI Lab",
+            "author": "Javier",
+            "site_url": "https://swiftui-lab.com/",
+            "feed_url": "https://swiftui-lab.com/feed/",
+            "twitter_url": "https://twitter.com/SwiftUILab"
+          },
+          {
             "title": "The.Swift.Dev.",
             "author": "Tibor Bödecs",
             "site_url": "https://theswiftdev.com/",
@@ -2250,6 +2243,13 @@
             "site_url": "http://thisiskyle.me",
             "feed_url": "http://thisiskyle.me/feed.xml",
             "twitter_url": "https://twitter.com/drumnkyle"
+          },
+          {
+            "title": "Thomas Ricouard on Medium",
+            "author": "Thomas Ricouard",
+            "site_url": "https://medium.com/@dimillian",
+            "feed_url": "https://medium.com/feed/@dimillian",
+            "twitter_url": "https://twitter.com/Dimillian"
           },
           {
             "title": "Tim Ekl's Blog",
