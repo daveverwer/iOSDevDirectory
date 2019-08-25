@@ -72,6 +72,13 @@
             "twitter_url": "https://twitter.com/thomassivilay"
           },
           {
+            "title": "Krzysztof Zabłocki's Blog",
+            "author": "Krzysztof Zabłocki",
+            "site_url": "http://merowing.info/post/",
+            "feed_url": "http://merowing.info/index.xml",
+            "twitter_url": "https://twitter.com/merowing_"
+          },
+          {
             "title": "ruiper.es",
             "author": "Rui Peres",
             "site_url": "https://ruiper.es/",
