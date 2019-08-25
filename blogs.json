@@ -58,6 +58,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "The SwiftUI Lab",
+            "author": "Javier",
+            "site_url": "https://swiftui-lab.com/",
+            "feed_url": "https://swiftui-lab.com/feed/",
+            "twitter_url": "https://twitter.com/SwiftUILab"
+          },
+          {
             "title": "ruiper.es",
             "author": "Rui Peres",
             "site_url": "https://ruiper.es/",
