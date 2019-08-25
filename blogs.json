@@ -58,24 +58,11 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "ritesh.hh",
-            "author": "Ritesh Gupta",
-            "site_url": "http://riteshhh.com",
-            "feed_url": "http://riteshhh.com/rss.xml",
-            "twitter_url": "https://twitter.com/_riteshhh"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
             "feed_url": "https://gaelfoppolo.com/feed.xml",
             "twitter_url": "https://twitter.com/gaelugio"
-          },
-          {
-            "title" : "Scorpios",
-            "author" : "Avi Tsadok",
-            "site_url" : "https://scorpios.home.blog/",
-            "feed_url" : "https://scorpios.home.blog/feed/"
           },
           {
             "title": "a-coding",
@@ -1824,6 +1811,13 @@
             "twitter_url": "https://twitter.com/heckj"
           },
           {
+            "title": "ritesh.hh",
+            "author": "Ritesh Gupta",
+            "site_url": "http://riteshhh.com",
+            "feed_url": "http://riteshhh.com/rss.xml",
+            "twitter_url": "https://twitter.com/_riteshhh"
+          },
+          {
             "title": "Rob Fahrni",
             "author": "Rob Fahrni",
             "site_url": "https://iam.fahrni.me/category/ios/",
@@ -1912,6 +1906,12 @@
             "site_url": "https://sarunw.com",
             "feed_url": "https://sarunw.com/feed.xml",
             "twitter_url": "https://twitter.com/sarunw"
+          },
+          {
+            "title": "Scorpios",
+            "author": "Avi Tsadok",
+            "site_url": "https://scorpios.home.blog/",
+            "feed_url": "https://scorpios.home.blog/feed/"
           },
           {
             "title": "Sealed Abstract",
@@ -2043,6 +2043,13 @@
             "twitter_url": "https://twitter.com/paulsolt"
           },
           {
+            "title": "Sven Weidauer’s Blog",
+            "author": "Sven Weidauer",
+            "site_url": "https://5sw.de/",
+            "feed_url": "https://5sw.de/feed/",
+            "twitter_url": "https://twitter.com/5sw_de"
+          },
+          {
             "title": "Swift And Painless",
             "author": "Dominik Hauser",
             "site_url": "http://swiftandpainless.com/",
@@ -2159,13 +2166,6 @@
             "site_url": "http://shapeof.com/",
             "feed_url": "http://shapeof.com/rss.xml",
             "twitter_url": "https://twitter.com/ccgus"
-          },
-          {
-            "title": "Sven Weidauer’s Blog",
-            "author": "Sven Weidauer",
-            "site_url": "https://5sw.de/",
-            "feed_url": "https://5sw.de/feed/",
-            "twitter_url": "https://twitter.com/5sw_de"
           },
           {
             "title": "The Swift Teacher",
