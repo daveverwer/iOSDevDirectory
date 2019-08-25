@@ -86,6 +86,13 @@
             "twitter_url": "https://twitter.com/Dimillian"
           },
           {
+            "title": "Scott Berrevoets' Blog",
+            "author": "Scott Berrevoets",
+            "site_url": "https://scottberrevoets.com/",
+            "feed_url": "https://scottberrevoets.com/feeds/all.rss.xml",
+            "twitter_url": "https://twitter.com/ScottBerrevoets"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
