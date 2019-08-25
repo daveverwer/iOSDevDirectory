@@ -65,6 +65,13 @@
             "twitter_url": "https://twitter.com/SwiftUILab"
           },
           {
+            "title": "Morning SwiftUI",
+            "author": "Thomas Sivilay",
+            "site_url": "https://www.morningswiftui.com",
+            "feed_url": "https://www.morningswiftui.com/blog?format=RSS",
+            "twitter_url": "https://twitter.com/thomassivilay"
+          },
+          {
             "title": "ruiper.es",
             "author": "Rui Peres",
             "site_url": "https://ruiper.es/",
