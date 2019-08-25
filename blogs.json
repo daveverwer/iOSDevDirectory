@@ -1153,7 +1153,8 @@
             "title": "John Scott's Blog",
             "author": "John Scott",
             "site_url": "https://jjrscott.com/",
-            "feed_url": "https://jjrscott.com/atom.xml"
+            "feed_url": "https://jjrscott.com/atom.xml",
+            "twitter_url": "https://twitter.com/jjrscott"
           },
           {
             "title": "John Yorke's Blog",
