@@ -58,20 +58,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Kristaps Grinbergs's Blog",
-            "author": "Kristaps Grinbergs",
-            "site_url": "https://kristaps.me",
-            "feed_url": "https://kristaps.me/feed.xml",
-            "twitter_url": "https://twitter.com/fassko"
-          },
-          {
-            "title": "Derik Ramirez's Blog",
-            "author": "Derik Ramirez",
-            "site_url": "https://rderik.com",
-            "feed_url": "https://rderik.com/feed.xml",
-            "twitter_url": "https://twitter.com/rderik"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -748,6 +734,13 @@
             "twitter_url": "https://twitter.com/denzhadanov"
           },
           {
+            "title": "Derik Ramirez's Blog",
+            "author": "Derik Ramirez",
+            "site_url": "https://rderik.com",
+            "feed_url": "https://rderik.com/feed.xml",
+            "twitter_url": "https://twitter.com/rderik"
+          },
+          {
             "title": "dev etc",
             "author": "Jonathon Mah",
             "site_url": "http://devetc.org",
@@ -1239,6 +1232,13 @@
             "site_url": "https://krakendev.io/",
             "feed_url": "https://krakendev.io/?format=rss",
             "twitter_url": "https://twitter.com/allonsykraken"
+          },
+          {
+            "title": "Kristaps Grinbergs's Blog",
+            "author": "Kristaps Grinbergs",
+            "site_url": "https://kristaps.me",
+            "feed_url": "https://kristaps.me/feed.xml",
+            "twitter_url": "https://twitter.com/fassko"
           },
           {
             "title": "Kristina.io",
