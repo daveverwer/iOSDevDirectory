@@ -65,6 +65,13 @@
             "twitter_url": "https://twitter.com/fassko"
           },
           {
+            "title": "Derik Ramirez's Blog",
+            "author": "Derik Ramirez",
+            "site_url": "https://rderik.com",
+            "feed_url": "https://rderik.com/feed.xml",
+            "twitter_url": "https://twitter.com/rderik"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
