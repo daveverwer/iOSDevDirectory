@@ -1692,6 +1692,13 @@
             "feed_url": "https://github.com/oliverrussellwhite/blog/raw/master/articles.rss"
           },
           {
+            "title": "On Swift Wings",
+            "author": "Maksym Shcheglov",
+            "site_url": "https://onswiftwings.com",
+            "feed_url": "https://onswiftwings.com/index.xml",
+            "twitter_url": "https://twitter.com/sgl0v"
+          },
+          {
             "title": "One Fifty Two",
             "author": "Shaps Benkau",
             "site_url": "https://152percent.com/blog",
@@ -2226,7 +2233,7 @@
           },
           {
             "title": "The SwiftUI Lab",
-            "author": "Javier Nigro",
+            "author": "Javier",
             "site_url": "https://swiftui-lab.com/",
             "feed_url": "https://swiftui-lab.com/feed/",
             "twitter_url": "https://twitter.com/SwiftUILab"
@@ -2343,12 +2350,12 @@
             "twitter_url": "https://twitter.com/trollwerks"
           },
           {
-	          "title": "upbeat.it",
-	          "author": "Cesare Rocchi",
-	          "site_url": "https://www.upbeat.it",
-	          "feed_url": "https://www.upbeat.it/atom.xml",
-	          "twitter_url": "https://twitter.com/_funkyboy"
-	        },
+            "title": "upbeat.it",
+            "author": "Cesare Rocchi",
+            "site_url": "https://www.upbeat.it",
+            "feed_url": "https://www.upbeat.it/atom.xml",
+            "twitter_url": "https://twitter.com/_funkyboy"
+          },
           {
             "title": "Use Your Loaf",
             "author": "Keith Harrison",
@@ -2465,13 +2472,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "On Swift Wings",
-            "author": "Maksym Shcheglov",
-            "site_url": "https://onswiftwings.com",
-            "feed_url": "https://onswiftwings.com/index.xml",
-            "twitter_url": "https://twitter.com/sgl0v"
           }
         ]
       },
