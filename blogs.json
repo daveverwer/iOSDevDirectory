@@ -2465,6 +2465,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "On Swift Wings",
+            "author": "Maksym Shcheglov",
+            "site_url": "https://onswiftwings.com",
+            "feed_url": "https://onswiftwings.com/index.xml",
+            "twitter_url": "https://twitter.com/sgl0v"
           }
         ]
       },
