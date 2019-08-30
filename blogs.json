@@ -3117,13 +3117,6 @@
             "twitter_url": "https://twitter.com/UseWaldo"
           },
           {
-            "title": "theScore Tech Blog",
-            "author": "theScore Team",
-            "site_url": "https://techblog.thescore.com",
-            "feed_url": "https://techblog.thescore.com/feed.xml",
-            "twitter_url": "https://twitter.com/theScore"
-          },
-          {
             "title": "thoughtbot: iOS posts",
             "author": "thoughtbot Team",
             "site_url": "https://robots.thoughtbot.com/tags/ios",
