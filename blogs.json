@@ -1553,6 +1553,13 @@
             "site_url": "http://nachbaur.com/tag/apple",
             "feed_url": "https://nachbaur.com/tag/apple/feed/",
             "twitter_url": "https://twitter.com/NachoMan"
+          },        
+          {
+            "title": "Mobile Invader",
+            "author": "Kristijan Kralj",
+            "site_url": "https://mobileinvader.com",
+            "feed_url": "https://mobileinvader.com/feed/",
+            "twitter_url": "https://twitter.com/mobileinvader"
           },
           {
             "title": "Mohsen's Blog",
