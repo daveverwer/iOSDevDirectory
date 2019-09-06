@@ -135,6 +135,12 @@
             "twitter_url": "https://twitter.com/aleksanderpopko"
           },
           {
+            "title": "Alex Gurin's Blog",
+            "author": "Alex Gurin",
+            "site_url": "https://medium.com/@dn070287gav",
+            "feed_url": "https://medium.com/feed/@dn070287gav"
+          },
+          {
             "title": "Alexander Grebenyuk's Blog",
             "author": "Alexander Grebenyuk",
             "site_url": "http://kean.github.io/",
