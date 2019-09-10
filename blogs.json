@@ -58,12 +58,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Netsplit",
-            "author": "Scott James Remnant",
-            "site_url": "https://netsplit.com",
-            "feed_url": "https://netsplit.com/feed/"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -1635,6 +1629,12 @@
             "site_url": "http://www.neglectedpotential.com",
             "feed_url": "http://www.neglectedpotential.com/feed/",
             "twitter_url": "https://twitter.com/noir"
+          },
+          {
+            "title": "Netsplit",
+            "author": "Scott James Remnant",
+            "site_url": "https://netsplit.com",
+            "feed_url": "https://netsplit.com/feed/"
           },
           {
             "title": "Niamh Power on Medium",
