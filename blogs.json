@@ -2044,6 +2044,12 @@
             "twitter_url": "https://twitter.com/slava_pestov"
           },
           {
+            "title": "Smash Swift",
+            "author": "Kornel Miszczak",
+            "site_url": "https://smashswift.com/",
+            "feed_url": "https://smashswift.com/feed/"
+          },
+          {
             "title": "Soroush Khanlou's Blog",
             "author": "Soroush Khanlou",
             "site_url": "http://khanlou.com/",
