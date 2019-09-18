@@ -58,6 +58,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Adam Wareing's blog",
+            "author": "Adam Wareing",
+            "site_url": "https://medium.com/@adamwareing241/",
+            "feed_url": "https://medium.com/@adamwareing241",
+            "twitter_url": "https://twitter.com/adam_wareing1"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
