@@ -33,6 +33,12 @@
             "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
+            "title": "Developer Releases",
+            "author": "Apple",
+            "site_url": "https://developer.apple.com/news/releases/",
+            "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
+          },
+          {
             "title": "Machine Learning Journal",
             "author": "Apple",
             "site_url": "https://machinelearning.apple.com/",
