@@ -3141,6 +3141,13 @@
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
+            "title": "The Capsized Eight",
+            "author": "Infinum",
+            "site_url": "https://infinum.co/the-capsized-eight",
+            "feed_url": "https://infinum.co/the-capsized-eight.rss",
+            "twitter_url": "https://twitter.com/infinumco"
+          },
+          {
             "title": "The Distance – iOS Posts",
             "author": "The Distance",
             "site_url": "https://thedistance.co.uk/category/ios/",
