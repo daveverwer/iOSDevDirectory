@@ -2222,13 +2222,6 @@
             "twitter_url": "https://twitter.com/atomicbird"
           },
           {
-            "title": "The Capsized Eight",
-            "author": "Infinum",
-            "site_url": "https://infinum.co/the-capsized-eight",
-            "feed_url": "https://infinum.co/the-capsized-eight.rss",
-            "twitter_url": "https://twitter.com/infinumco"
-          },
-          {
             "title": "The FutureBlog – For Developers",
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=developer",
@@ -3140,6 +3133,13 @@
             "author": "ASOS",
             "site_url": "https://medium.com/asos-techblog/tagged/ios",
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
+          },
+          {
+            "title": "The Capsized Eight",
+            "author": "Infinum",
+            "site_url": "https://infinum.co/the-capsized-eight",
+            "feed_url": "https://infinum.co/the-capsized-eight.rss",
+            "twitter_url": "https://twitter.com/infinumco"
           },
           {
             "title": "The Distance – iOS Posts",
