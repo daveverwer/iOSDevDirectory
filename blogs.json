@@ -3294,6 +3294,12 @@
             "twitter_url": "https://twitter.com/insideiosdev"
           },
           {
+            "title": "iOS Building Blocks",
+            "author": "Scott Smith",
+            "site_url": "https://anchor.fm/scottsmithdev",
+            "feed_url": "https://anchor.fm/s/b24b688/podcast/rss"
+          },
+          {
             "title": "iOS Dev Break",
             "author": "Evan K. Stone",
             "site_url": "http://iosdevbreak.com",
@@ -3499,13 +3505,6 @@
             "twitter_url": "https://twitter.com/BestGaryEver"
           },
           {
-            "title": "iOS Compressed",
-            "author": "Scott Smith",
-            "site_url": "https://www.youtube.com/ioscompressed",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqndzS37vNHVrqLVAKEP2HQ",
-            "twitter_url": "https://twitter.com/ioscompressed"
-          },
-          {
             "title": "Jared Davidson on YouTube",
             "author": "Jared Davidson",
             "site_url": "https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA",
@@ -3553,6 +3552,13 @@
             "site_url": "http://www.youtube.com/user/PaulSolt",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?user=paulsolt",
             "twitter_url": "https://twitter.com/paulsolt"
+          },
+          {
+            "title": "Scott Smith on YouTube",
+            "author": "Scott Smith",
+            "site_url": "https://www.youtube.com/scottsmithdev",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqndzS37vNHVrqLVAKEP2HQ",
+            "twitter_url": "https://twitter.com/scottsmithdev"
           },
           {
             "title": "Sean Allen on YouTube",
