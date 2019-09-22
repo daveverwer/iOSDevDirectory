@@ -71,6 +71,13 @@
             "twitter_url": "https://twitter.com/rostyslav_d"
           },
           {
+            "title": "Andrey Volodin on Medium",
+            "author": "Andrey Volodin",
+            "site_url": "https://medium.com/@s1ddok/",
+            "feed_url": "https://medium.com/feed/@s1ddok/",
+            "twitter_url": "https://twitter.com/s1ddok"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
