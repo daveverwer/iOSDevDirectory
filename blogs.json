@@ -64,6 +64,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Rostyslav Dovhaliuk on Medium",
+            "author": "Rostyslav Dovhaliuk",
+            "site_url": "https://medium.com/@rdovhaliuk/",
+            "feed_url": "https://medium.com/feed/@rdovhaliuk/",
+            "twitter_url": "https://twitter.com/rostyslav_d"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
