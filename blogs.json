@@ -3019,6 +3019,13 @@
             "twitter_url": "https://twitter.com/EngineeringOver"
           },
           {
+            "title": "Penbook Dev Log",
+            "author": "User Camp",
+            "site_url": "https://penbook.substack.com",
+            "feed_url": "https://penbook.substack.com/feed/",
+            "twitter_url": "https://twitter.com/penbookapp"
+          },
+          {
             "title": "Periphery Blog",
             "author": "Periphery Team",
             "site_url": "https://peripheryapp.com/blog/",
