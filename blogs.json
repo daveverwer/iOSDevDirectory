@@ -64,27 +64,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Donny Wals' Blog",
-            "author": "Donny Wals",
-            "site_url": "https://www.donnywals.com",
-            "feed_url": "https://www.donnywals.com/feed/",
-            "twitter_url": "https://twitter.com/donnywals"
-          },
-          {
-            "title": "Rostyslav Dovhaliuk on Medium",
-            "author": "Rostyslav Dovhaliuk",
-            "site_url": "https://medium.com/@rdovhaliuk/",
-            "feed_url": "https://medium.com/feed/@rdovhaliuk/",
-            "twitter_url": "https://twitter.com/rostyslav_d"
-          },
-          {
-            "title": "Andrey Volodin on Medium",
-            "author": "Andrey Volodin",
-            "site_url": "https://medium.com/@s1ddok/",
-            "feed_url": "https://medium.com/feed/@s1ddok/",
-            "twitter_url": "https://twitter.com/s1ddok"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -236,6 +215,13 @@
             "site_url": "https://www.andrewcbancroft.com",
             "feed_url": "https://www.andrewcbancroft.com/index.xml",
             "twitter_url": "https://twitter.com/andrewcbancroft"
+          },
+          {
+            "title": "Andrey Volodin on Medium",
+            "author": "Andrey Volodin",
+            "site_url": "https://medium.com/@s1ddok/",
+            "feed_url": "https://medium.com/feed/@s1ddok/",
+            "twitter_url": "https://twitter.com/s1ddok"
           },
           {
             "title": "Andy Matuschak's Blog",
@@ -800,6 +786,13 @@
             "site_url": "https://holtwick.de/blog/",
             "feed_url": "https://holtwick.de/atom.xml",
             "twitter_url": "https://twitter.com/holtwick"
+          },
+          {
+            "title": "Donny Wals' Blog",
+            "author": "Donny Wals",
+            "site_url": "https://www.donnywals.com",
+            "feed_url": "https://www.donnywals.com/feed/",
+            "twitter_url": "https://twitter.com/donnywals"
           },
           {
             "title": "Dušan Tadić's Blog",
@@ -1940,6 +1933,13 @@
             "site_url": "https://medium.com/@rwbutler",
             "feed_url": "https://medium.com/feed/@rwbutler",
             "twitter_url": "https://twitter.com/ross_w_butler"
+          },
+          {
+            "title": "Rostyslav Dovhaliuk on Medium",
+            "author": "Rostyslav Dovhaliuk",
+            "site_url": "https://medium.com/@rdovhaliuk/",
+            "feed_url": "https://medium.com/feed/@rdovhaliuk/",
+            "twitter_url": "https://twitter.com/rostyslav_d"
           },
           {
             "title": "Roy Marmelstein on Medium",
