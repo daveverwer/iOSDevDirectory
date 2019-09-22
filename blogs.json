@@ -1907,10 +1907,10 @@
             "twitter_url": "https://twitter.com/fahrni"
           },
           {
-            "title": "Rob Whitaker on Medium",
+            "title": "Rob Whitaker's Blog",
             "author": "Rob Whitaker",
-            "site_url": "https://medium.com/@r.whitaker",
-            "feed_url": "https://medium.com/feed/@r.whitaker",
+            "site_url": "https://www.rwapp.co.uk",
+            "feed_url": "https://www.rwapp.co.uk/atom.xml",
             "twitter_url": "https://twitter.com/RobRWAPP"
           },
           {
