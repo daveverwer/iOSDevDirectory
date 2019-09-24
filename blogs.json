@@ -973,6 +973,13 @@
             "twitter_url": "https://twitter.com/halm"
           },
           {
+            "title": "Hesham Abd-Elmegid's Blog",
+            "author": "Hesham Abd-Elmegid",
+            "site_url": "https://hesh.am",
+            "feed_url": "https://hesh.am/feed.xml",
+            "twitter_url": "https://twitter.com/HeshamMegid"
+          },
+          {
             "title": "Hi, I'm Sam",
             "author": "Sam Soffes",
             "site_url": "https://soffes.blog/",
