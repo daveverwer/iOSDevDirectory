@@ -231,6 +231,13 @@
             "twitter_url": "https://twitter.com/AndyIbanezK"
           },
           {
+            "title": "Andy Matuschak's Blog",
+            "author": "Andy Matuschak",
+            "site_url": "http://blog.andymatuschak.org",
+            "feed_url": "http://blog.andymatuschak.org/rss",
+            "twitter_url": "https://twitter.com/andy_matuschak"
+          },
+          {
             "title": "Andy Obusek's Blog",
             "author": "Andy Obusek",
             "site_url": "http://www.cleanswifter.com",
