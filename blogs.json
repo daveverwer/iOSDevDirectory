@@ -224,11 +224,11 @@
             "twitter_url": "https://twitter.com/s1ddok"
           },
           {
-            "title": "Andy Matuschak's Blog",
-            "author": "Andy Matuschak",
-            "site_url": "http://blog.andymatuschak.org",
-            "feed_url": "http://blog.andymatuschak.org/rss",
-            "twitter_url": "https://twitter.com/andy_matuschak"
+            "title": "Andy Ibanez's Blog",
+            "author": "Andy Ibanez",
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "feed_url": "https://www.andyibanez.com/tags/apple/index.xml",
+            "twitter_url": "https://twitter.com/AndyIbanezK"
           },
           {
             "title": "Andy Obusek's Blog",
