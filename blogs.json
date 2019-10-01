@@ -1907,6 +1907,13 @@
             "twitter_url": "https://twitter.com/heckj"
           },
           {
+            "title": "Riley Testut's Blog",
+            "author": "Riley Testut",
+            "site_url": "http://rileytestut.com/blog/",
+            "feed_url": "http://rileytestut.com/feed.xml",
+            "twitter_url": "https://twitter.com/rileytestut"
+          },
+          {
             "title": "ritesh.hh",
             "author": "Ritesh Gupta",
             "site_url": "http://riteshhh.com",
