@@ -3749,6 +3749,13 @@
             "twitter_url": "https://twitter.com/gte"
           },
           {
+            "title": "LLVS Blog",
+            "author": "Drew McCormack",
+            "site_url": "https://mentalfaculty.github.io/LLVS",
+            "feed_url": "https://mentalfaculty.github.io/LLVS/feed.xml",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
             "title": "Mateusz Stawecki's Blog",
             "author": "Mateusz Stawecki",
             "site_url": "https://stawecki.wordpress.com",
@@ -3796,13 +3803,6 @@
             "site_url": "https://thatthinginswift.com/",
             "feed_url": "https://thatthinginswift.com/index.xml",
             "twitter_url": "https://twitter.com/nickoneill"
-          },
-          {
-            "title": "LLVS Blog",
-            "author": "Drew McCormack",
-            "site_url": "https://mentalfaculty.github.io/LLVS",
-            "feed_url": "https://mentalfaculty.github.io/LLVS/feed.xml",
-            "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
             "title": "The Mental Blog",
