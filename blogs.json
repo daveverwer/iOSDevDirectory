@@ -3798,6 +3798,13 @@
             "twitter_url": "https://twitter.com/nickoneill"
           },
           {
+            "title": "LLVS Blog",
+            "author": "Drew McCormack",
+            "site_url": "https://mentalfaculty.github.io/LLVS",
+            "feed_url": "https://mentalfaculty.github.io/LLVS/feed.xml",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
             "title": "The Mental Blog",
             "author": "Drew McCormack",
             "site_url": "http://mentalfaculty.tumblr.com",
