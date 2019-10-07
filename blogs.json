@@ -2269,6 +2269,13 @@
             "feed_url": "http://swiftyjimmy.com/feed/",
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
+	        {
+            "title": "Tanin's Blog",
+            "author": "Tanin Rojanapiansatith",
+            "site_url": "https://www.tanin.dev/tags/ios",
+            "feed_url": "https://tanin.dev/tags/ios/index.xml",
+            "twitter_url": "https://twitter.com/landtanin"
+          },
           {
             "title": "Technology Makes A Wonderful World",
             "author": "Ashish Kakkad",
