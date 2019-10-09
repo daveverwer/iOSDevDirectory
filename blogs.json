@@ -1983,7 +1983,7 @@
             "feed_url": "http://www.russbishop.net/feed",
             "twitter_url": "https://twitter.com/xenadu02"
           },
-	  {
+          {
             "title": "Rwapp",
             "author": "Rob Whitaker",
             "site_url": "https://rwapp.co.uk",
@@ -2213,19 +2213,19 @@
             "site_url": "https://swiftdevjournal.com/",
             "feed_url": "https://swiftdevjournal.com/feed"
           },
-	  {
-	    "title": "Swift journal by Tommi Kivimäki",
-            "author": "Tommi Kivimäki",
-            "site_url": "https://tommikivimaki.com/notes/",
-            "feed_url": "https://tommikivimaki.com/feed.xml",
-            "twitter_url": "https://twitter.com/TommiKivimaki"
-	  },
           {
             "title": "Swift in Depth",
             "author": "Tjeerd in 't Veen",
             "site_url": "https://swiftindepth.com/",
             "feed_url": "https://swiftindepth.com/feed.xml",
             "twitter_url": "https://twitter.com/tjeerdintveen"
+          },
+          {
+            "title": "Swift journal by Tommi Kivimäki",
+            "author": "Tommi Kivimäki",
+            "site_url": "https://tommikivimaki.com/notes/",
+            "feed_url": "https://tommikivimaki.com/feed.xml",
+            "twitter_url": "https://twitter.com/TommiKivimaki"
           },
           {
             "title": "Swift Post",
@@ -2276,7 +2276,7 @@
             "feed_url": "http://swiftyjimmy.com/feed/",
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
-	        {
+          {
             "title": "Tanin's Blog",
             "author": "Tanin Rojanapiansatith",
             "site_url": "https://www.tanin.dev/tags/ios",
