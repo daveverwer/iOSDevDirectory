@@ -2213,6 +2213,13 @@
             "site_url": "https://swiftdevjournal.com/",
             "feed_url": "https://swiftdevjournal.com/feed"
           },
+	  {
+	    "title": "Swift journal by Tommi Kivimäki",
+            "author": "Tommi Kivimäki",
+            "site_url": "https://tommikivimaki.com/notes/",
+            "feed_url": "https://tommikivimaki.com/feed.xml",
+            "twitter_url": "https://twitter.com/TommiKivimaki"
+	  },
           {
             "title": "Swift in Depth",
             "author": "Tjeerd in 't Veen",
