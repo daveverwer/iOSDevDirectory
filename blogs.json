@@ -1990,6 +1990,13 @@
             "feed_url": "http://www.russbishop.net/feed",
             "twitter_url": "https://twitter.com/xenadu02"
           },
+	  {
+            "title": "Rwapp",
+            "author": "Rob Whitaker",
+            "site_url": "https://rwapp.co.uk",
+            "feed_url": "https://rwapp.co.uk/atom.xml",
+            "twitter_url": "https://twitter.com/robrwapp"
+          },
           {
             "title": "rx_marin",
             "author": "Marin Todorov",
