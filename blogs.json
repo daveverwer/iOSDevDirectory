@@ -628,6 +628,12 @@
             "twitter_url": "https://twitter.com/ConsBulaquena"
           },
           {
+            "title": "Contageous Dev",
+            "author": "Dan Griffin",
+            "site_url": "https://contagious.dev/blog/category/ios/",
+            "feed_url": "https://contagious.dev/blog/category/ios/feed/"
+          },
+          {
             "title": "Crunchy Development",
             "author": "Olivier Halligon",
             "site_url": "http://alisoftware.github.io/",
