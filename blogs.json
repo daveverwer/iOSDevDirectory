@@ -1843,6 +1843,13 @@
             "twitter_url": "https://twitter.com/pfandrade_"
           },
           {
+            "title": "Pavel Zak's Dev Blog",
+            "author": "Pavel Zak",
+            "site_url": "https://izakpavel.github.io",
+            "feed_url": "https://izakpavel.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/myridiphis"
+          },
+          {
             "title": "Pedro Carrasco's Website",
             "author": "Pedro Carrasco",
             "site_url": "https://pedrommcarrasco.github.io/",
