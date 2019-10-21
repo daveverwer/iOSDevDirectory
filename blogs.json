@@ -1127,12 +1127,6 @@
             "twitter_url": "https://twitter.com/adamswinden"
           },
           {
-            "title": "Swifting on Medium",
-            "author": "iRiziya",
-            "site_url": "https://medium.com/@iriziya",
-            "feed_url": "https://medium.com/feed/@iriziya"
-          },
-          {
             "title": "James Dempsey's Blog",
             "author": "James Dempsey",
             "site_url": "http://jamesdempsey.net",
@@ -2281,6 +2275,12 @@
             "site_url": "https://swiftunboxed.com/",
             "feed_url": "https://swiftunboxed.com/feed.xml",
             "twitter_url": "https://twitter.com/gregheo"
+          },
+          {
+            "title": "Swifting on Medium",
+            "author": "iRiziya",
+            "site_url": "https://medium.com/@iriziya",
+            "feed_url": "https://medium.com/feed/@iriziya"
           },
           {
             "title": "swifting.io",
