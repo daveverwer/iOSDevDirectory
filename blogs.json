@@ -3589,6 +3589,13 @@
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
         "sites": [
           {
+            "title": "Apple Programming",
+            "author": "Lucas Derraugh",
+            "site_url": "https://www.youtube.com/channel/UCDg-YmnNehm3KB0BpytkUJg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDg-YmnNehm3KB0BpytkUJg",
+            "twitter_url": "https://twitter.com/LucasDerraugh"
+          },
+          {
             "title": "Brian Advent on YouTube",
             "author": "Brian Advent",
             "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw",
