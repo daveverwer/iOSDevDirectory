@@ -2262,6 +2262,13 @@
             "twitter_url": "https://twitter.com/TommiKivimaki"
           },
           {
+            "title": "Swift Notes",
+            "author": "Maxim Eremenko",
+            "site_url": "https://maximeremenko.com/",
+            "feed_url": "https://maximeremenko.com/feed.xml",
+            "twitter_url": "https://twitter.com/eremenko_maxim"
+          },
+          {
             "title": "Swift Post",
             "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
             "site_url": "https://theswiftpost.co",
