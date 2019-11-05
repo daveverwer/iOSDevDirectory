@@ -863,6 +863,12 @@
             "twitter_url": "https://twitter.com/ericasadun"
           },
           {
+            "title": "Fadi Ossama on Medium",
+            "author": "Fadi Ossama",
+            "site_url": "https://medium.com/@fadyossama",
+            "feed_url": "https://medium.com/feed/@fadyossama"
+          },
+          {
             "title": "Fady Derias on Medium",
             "author": "Fady Derias",
             "site_url": "https://medium.com/@fadiderias",
@@ -2426,12 +2432,6 @@
             "site_url": "http://thisiskyle.me",
             "feed_url": "http://thisiskyle.me/feed.xml",
             "twitter_url": "https://twitter.com/drumnkyle"
-          },
-          {
-            "title": "Fadi Ossama on Medium",
-            "author": "Fadi Ossama",
-            "site_url": "https://medium.com/@fadyossama",
-            "feed_url": "https://medium.com/feed/@fadyossama"
           },
           {
             "title": "Thomas Ricouard on Medium",
