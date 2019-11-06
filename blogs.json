@@ -2640,6 +2640,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Jasdev Singh’s Blog",
+            "author": "Jasdev Singh",
+            "site_url": "https://jasdev.me",
+            "feed_url": "https://jasdev.me/atom.xml",
+            "twitter_url": "https://twitter.com/jasdev"
           }
         ]
       },
