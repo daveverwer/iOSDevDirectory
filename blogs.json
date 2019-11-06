@@ -454,6 +454,13 @@
             "twitter_url": "https://twitter.com/irace"
           },
           {
+            "title": "Bryce Pauken's Blog",
+            "author": "Bryce Pauken",
+            "site_url": "https://bryce.co/",
+            "feed_url": "https://bryce.co/index.xml",
+            "twitter_url": "https://twitter.com/brycepauken"
+          },
+          {
             "title": "Build and Run",
             "author": "Thomas Zoechling",
             "site_url": "https://thomas.zoechling.me/journal/",
