@@ -2504,6 +2504,13 @@
             "twitter_url": "https://twitter.com/dmtopolog"
           },
           {
+            "title": "TrozWare",
+            "author": "Sarah Reichelt",
+            "site_url": "https://troz.net/",
+            "feed_url": "https://troz.net/index.xml",
+            "twitter_url": "https://twitter.com/trozware"
+          },
+          {
             "title": "Two Minute iOS",
             "author": "Damien Laughton",
             "site_url": "https://medium.com/@dfplaughton",
