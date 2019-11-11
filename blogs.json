@@ -4207,6 +4207,13 @@
             "site_url": "https://koromiko1104.wordpress.com/",
             "feed_url": "https://koromiko1104.wordpress.com/comments/feed/",
             "twitter_url": "https://twitter.com/KoromikoNeo"
+          },
+          {
+            "title": "13's Blog",
+            "author": "Ethan Huang",
+            "site_url": "https://13h.tw",
+            "feed_url": "https://13h.tw/feed.xml",
+            "twitter_url": "https://twitter.com/ethanhuang13"
           }
         ]
       }
