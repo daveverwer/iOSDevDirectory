@@ -683,6 +683,12 @@
             "twitter_url": "https://twitter.com/danielemargutti"
           },
           {
+            "title": "DanielT1263's Blog mostly about RxSwift",
+            "author": "Daniel Tartaglia",
+            "site_url": "https://medium.com/@danielt1263",
+            "feed_url": "https://medium.com/feed/@danielt1263"
+          },
+          {
             "title": "Dasdom Dev Blog",
             "author": "Dominik Hauser",
             "site_url": "https://dasdom.github.io",
