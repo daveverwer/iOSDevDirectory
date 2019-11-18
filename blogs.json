@@ -4220,6 +4220,13 @@
             "site_url": "https://13h.tw",
             "feed_url": "https://13h.tw/feed.xml",
             "twitter_url": "https://twitter.com/ethanhuang13"
+          },
+          {
+            "title": "ZhgChgLi on Medium",
+            "author": "ZhongCheng Li",
+            "site_url": "https://medium.com/@zhgchgli",
+            "feed_url": "https://medium.com/feed/@zhgchgli",
+            "twitter_url": "https://twitter.com/zhgchgli"
           }
         ]
       }
