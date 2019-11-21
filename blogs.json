@@ -4215,13 +4215,6 @@
         "description": "來自台灣的Swift、Objective-C開發者，我們討論架構、語法、應用、與任何跟iOS開發相關的主題",
         "sites": [
           {
-            "title": "鍵盤藍綠藻Neo",
-            "author": "ShihTing Huang",
-            "site_url": "https://koromiko1104.wordpress.com/",
-            "feed_url": "https://koromiko1104.wordpress.com/comments/feed/",
-            "twitter_url": "https://twitter.com/KoromikoNeo"
-          },
-          {
             "title": "13's Blog",
             "author": "Ethan Huang",
             "site_url": "https://13h.tw",
@@ -4234,6 +4227,13 @@
             "site_url": "https://medium.com/@zhgchgli",
             "feed_url": "https://medium.com/feed/@zhgchgli",
             "twitter_url": "https://twitter.com/zhgchgli"
+          },
+          {
+            "title": "鍵盤藍綠藻Neo",
+            "author": "ShihTing Huang",
+            "site_url": "https://koromiko1104.wordpress.com/",
+            "feed_url": "https://koromiko1104.wordpress.com/comments/feed/",
+            "twitter_url": "https://twitter.com/KoromikoNeo"
           }
         ]
       }
