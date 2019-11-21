@@ -266,6 +266,13 @@
             "twitter_url": "https://twitter.com/appmakers_dev"
           },
           {
+            "title": "appssemble",
+            "author": "Dragos Dobrean",
+            "site_url": "https://medium.com/appssemble",
+            "feed_url": "https://medium.com/feed/appssemble",
+            "twitter_url": "https://twitter.com/dobreandl"
+          },
+          {
             "title": "Apps Dissected",
             "author": "Evan Deaubl",
             "site_url": "https://www.appsdissected.com",
