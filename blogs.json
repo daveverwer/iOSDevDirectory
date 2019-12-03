@@ -280,6 +280,13 @@
             "twitter_url": "https://twitter.com/terhechte"
           },
           {
+            "title": "AQBlog",
+            "author": "Jim Dovey",
+            "site_url": "https://alanquatermain.me",
+            "feed_url": "https://alanquatermain.me/feed.xml",
+            "twitter_url": "https://twitter.com/alanQuatermain"
+          },
+          {
             "title": "Arek Holko's Blog",
             "author": "Arek Holko",
             "site_url": "http://holko.pl",
