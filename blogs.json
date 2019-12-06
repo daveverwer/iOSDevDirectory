@@ -1655,6 +1655,13 @@
             "twitter_url": "https://twitter.com/shadmazumder"
           },
           {
+            "title": "Mobile A11y",
+            "author": "Rob Whitaker",
+            "site_url": "https://mobilea11y.com",
+            "feed_url": "https://mobilea11y.com/index.xml",
+            "twitter_url": "https://twitter.com/MobileA11y"
+          },
+          {
             "title": "Mobile Development with Aloha",
             "author": "Mike Nachbaur",
             "site_url": "http://nachbaur.com/tag/apple",
