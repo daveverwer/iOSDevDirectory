@@ -2621,6 +2621,13 @@
             "twitter_url": "https://twitter.com/apontious"
           },
           {
+            "title": "Whackylabs Blog",
+            "author": "Sidharth Juyal",
+            "site_url": "https://whackylabs.com",
+            "feed_url": "https://whackylabs.com/feed.xml",
+            "twitter_url": "https://twitter.com/whackylabs"
+          },
+          {
             "title": "Will Bishop's Blog",
             "author": "Will Bishop",
             "site_url": "https://blog.willbish.com/",
