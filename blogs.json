@@ -895,6 +895,13 @@
             "feed_url": "https://medium.com/feed/@fadiderias"
           },
           {
+            "title": "Faiçal's Blog",
+            "author": "Faiçal Tchirou",
+            "site_url": "https://faical.dev",
+            "feed_url": "https://rss.app/feeds/tPWkcHnpdDcjdOtB.xml",
+            "twitter_url": "https://twitter.com/ftchirou"
+          },
+          {
             "title": "Felix Krause's Blog",
             "author": "Felix Krause",
             "site_url": "https://krausefx.com/",
