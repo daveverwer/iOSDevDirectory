@@ -168,6 +168,13 @@
             "twitter_url": "https://twitter.com/nomothetis"
           },
           {
+            "title": "Alexey Naumov's Blog",
+            "author": "Alexey Naumov",
+            "site_url": "https://nalexn.github.io",
+            "feed_url": "XXXXXXXXXXXXXXXXX",
+            "twitter_url": "https://twitter.com/nallexn"
+          },
+          {
             "title": "Alexis Creuzot on Medium",
             "author": "Alexis Creuzot",
             "site_url": "https://medium.com/@alexiscreuzot",
