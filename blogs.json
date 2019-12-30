@@ -9,13 +9,6 @@
         "description": "Whether it's an official Apple blog, or a community blog that keeps us up to date with what's going on with the platform it'll be here.",
         "sites": [
           {
-            "title": "Shankar Madeshvaran on Medium",
-            "author": "Shankar Madeshvaran",
-            "site_url": "https://medium.com/@shankarmadeshvaran",
-            "feed_url": "https://medium.com/feed/@shankarmadeshvaran/",
-            "twitter_url": "https://twitter.com/Shankar__am"
-          },
-          {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
             "site_url": "http://www.appstorereviewguidelineshistory.com/",
@@ -70,6 +63,13 @@
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
+          {
+            "title": "Shankar Madeshvaran on Medium",
+            "author": "Shankar Madeshvaran",
+            "site_url": "https://medium.com/@shankarmadeshvaran",
+            "feed_url": "https://medium.com/feed/@shankarmadeshvaran/",
+            "twitter_url": "https://twitter.com/Shankar__am"
+          },
           {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
