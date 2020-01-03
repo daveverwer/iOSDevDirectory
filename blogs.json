@@ -4130,6 +4130,13 @@
             "twitter_url": "https://twitter.com/mkeremkeskin"
           },
           {
+            "title": "Mehmet Kerem Keskin on Medium",
+            "author": "Mehmet Kerem Keskin",
+            "site_url": "https://medium.com/@mkeremkeskin",
+            "feed_url": "https://medium.com/feed/@mkeremkeskin",
+            "twitter_url": "https://twitter.com/mkeremkeskin"
+          },
+          {
             "title": "Mehmet Koca on Medium",
             "author": "Mehmet KOCA",
             "site_url": "https://medium.com/@mhmtkc",
@@ -4156,13 +4163,6 @@
             "site_url": "https://medium.com/whoknows-swift",
             "feed_url": "https://medium.com/feed/whoknows-swift",
             "twitter_url": "https://twitter.com/whoknowsswift"
-          },
-          {
-            "title": "Mehmet Kerem Keskin on Medium",
-            "author": "Mehmet Kerem Keskin",
-            "site_url": "https://medium.com/@mkeremkeskin",
-            "feed_url": "https://medium.com/feed/@mkeremkeskin",
-            "twitter_url": "https://twitter.com/mkeremkeskin"
           }
         ]
       }
