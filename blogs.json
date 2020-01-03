@@ -217,6 +217,13 @@
             "twitter_url": "https://twitter.com/vixentael"
           },
           {
+            "title": "Andreas Lüdemann's Blog",
+            "author": "Andreas Lüdemann",
+            "site_url": "https://www.andreaslydemann.com",
+            "feed_url": "https://www.andreaslydemann.com/feed",
+            "twitter_url": "https://twitter.com/andreaslydemann"
+          },
+          {
             "title": "Andrew Bancroft's Blog",
             "author": "Andrew Bancroft",
             "site_url": "https://www.andrewcbancroft.com",
@@ -4114,6 +4121,13 @@
             "site_url": "https://medium.com/@huseyinbagana",
             "feed_url": "https://medium.com/feed/@huseyinbagana",
             "twitter_url": "https://twitter.com/huseyinbagana"
+          },
+          {
+            "title": "Mehmet Kerem Keskin on Medium",
+            "author": "Mehmet Kerem Keskin",
+            "site_url": "https://medium.com/@mkeremkeskin",
+            "feed_url": "https://medium.com/feed/@mkeremkeskin",
+            "twitter_url": "https://twitter.com/mkeremkeskin"
           },
           {
             "title": "Mehmet Koca on Medium",
