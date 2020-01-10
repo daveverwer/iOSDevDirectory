@@ -690,6 +690,13 @@
             "twitter_url": "https://twitter.com/ikenndac"
           },
           {
+            "title": "Daniel Saidi's Blog",
+            "author": "Daniel Saidi",
+            "site_url": "https://danielsaidi.com/blog/",
+            "feed_url": "http://danielsaidi.com/feed.xml`",
+            "twitter_url": "https://twitter.com/danielsaidi"
+          },
+          {
             "title": "Daniel Tull's Blog",
             "author": "Daniel Tull",
             "site_url": "http://danieltull.co.uk/blog/",
