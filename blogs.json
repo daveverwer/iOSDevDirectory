@@ -2737,6 +2737,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Batikan's iOS Blog",
+            "author": "Batikan SOSUN",
+            "site_url": "https://medium.com/@batikansosun",
+            "feed_url": "https://medium.com/feed/@batikansosun",
+            "twitter_url": "https://twitter.com/batikansosun"
           }
         ]
       },
