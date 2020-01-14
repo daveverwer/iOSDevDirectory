@@ -1697,6 +1697,13 @@
             "twitter_url": "https://twitter.com/miguelquinon"
           },
           {
+            "title": "<mixedCase>",
+            "author": "Kevin Renskers",
+            "site_url": "https://mixedcase.nl/",
+            "feed_url": "https://mixedcase.nl//articles/feed.xml",
+            "twitter_url": "https://twitter.com/mixedcase"
+          },
+          {
             "title": "mobidevtalk, Learning through case study",
             "author": "Shad Rayhan Mazumder",
             "site_url": "https://mobidevtalk.com/",
