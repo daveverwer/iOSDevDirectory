@@ -71,7 +71,7 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
-            "title": "<mixedCase>",
+            "title": "mixedCase",
             "author": "Kevin Renskers",
             "site_url": "https://mixedcase.nl/",
             "feed_url": "https://mixedcase.nl//articles/feed.xml",
