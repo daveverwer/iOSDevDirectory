@@ -71,13 +71,6 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
-            "title": "mixedCase",
-            "author": "Kevin Renskers",
-            "site_url": "https://mixedcase.nl/",
-            "feed_url": "https://mixedcase.nl//articles/feed.xml",
-            "twitter_url": "https://twitter.com/mixedcase"
-          },
-          {
             "title": "a-coding",
             "author": "Alejandro Isaza",
             "site_url": "https://a-coding.com",
@@ -1702,6 +1695,13 @@
             "site_url": "https://miqu.me",
             "feed_url": "https://miqu.me/atom.xml",
             "twitter_url": "https://twitter.com/miguelquinon"
+          },
+          {
+            "title": "mixedCase",
+            "author": "Kevin Renskers",
+            "site_url": "https://mixedcase.nl/",
+            "feed_url": "https://mixedcase.nl//articles/feed.xml",
+            "twitter_url": "https://twitter.com/mixedcase"
           },
           {
             "title": "mobidevtalk, Learning through case study",
