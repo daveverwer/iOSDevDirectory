@@ -2521,7 +2521,8 @@
             "title": "The.Swift.Dev.",
             "author": "Tibor Bödecs",
             "site_url": "https://theswiftdev.com/",
-            "feed_url": "https://theswiftdev.com/rss/"
+            "feed_url": "https://theswiftdev.com/rss.xml",
+            "twitter_url": "https://twitter.com/tiborbodecs"
           },
           {
             "title": "Think & Build",
