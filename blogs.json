@@ -3845,6 +3845,13 @@
             "twitter_url": "https://twitter.com/SeanA0400"
           },
           {
+            "title": "Swift by Sundell",
+            "author": "John Sundell",
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTfmK7YoPhSkRsIul50_rSA",
+            "twitter_url": "https://twitter.com/swiftbysundell"
+          },
+          {
             "title": "Swift Language User Group",
             "author": "The Bay Area Swift Community",
             "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
