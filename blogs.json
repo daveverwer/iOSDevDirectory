@@ -2229,6 +2229,13 @@
             "twitter_url": "https://twitter.com/sgaw"
           },
           {
+            "title": "Simple Swift Guide",
+            "author": "Randy Swift",
+            "site_url": "https://www.simpleswiftguide.com",
+            "feed_url": "https://www.simpleswiftguide.com/feed.xml",
+            "twitter_url": "https://twitter.com/theswiftguide"
+          },
+          {
             "title": "SintraWorks Blog",
             "author": "António Nunes",
             "site_url": "https://sintraworks.github.io",
