@@ -3149,6 +3149,13 @@
             "feed_url": "https://blog.hobbyistsoftware.com/category/coding/apple/feed"
           },
           {
+            "title": "Industrial Binaries",
+            "author": "Industrial Binaries Team",
+            "site_url": "https://industrial-binaries.co/articles/",
+            "feed_url": "https://industrial-binaries.co/feed",
+            "twitter_url": "https://twitter.com/i_binaries"
+          },
+          {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
             "site_url": "https://pspdfkit.com/blog",
@@ -3863,6 +3870,13 @@
             "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-d1NWv5IWtIkfH47ux4dWA",
             "twitter_url": "https://twitter.com/1TheSwiftGuy"
+          },
+          {
+            "title": "Vojta Stavik on YouTube",
+            "author": "Vojta Stavik",
+            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "twitter_url": "https://twitter.com/vojtastavik"
           }
         ]
       },
