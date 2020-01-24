@@ -4018,6 +4018,13 @@
             "twitter_url": "https://twitter.com/onmyway133"
           },
           {
+            "title": "Ordinary Coding",
+            "author": "Artur Rymarz",
+            "site_url": "https://ordinarycoding.com",
+            "feed_url": "https://ordinarycoding.com/feed.rss",
+            "twitter_url": "https://twitter.com/artrmzx"
+          },
+          {
             "title": "Sunset Lake Software",
             "author": "Brad Larson",
             "site_url": "http://www.sunsetlakesoftware.com/blog",
@@ -4051,13 +4058,6 @@
             "site_url": "http://subfurther.com/blog/",
             "feed_url": "http://subfurther.com/blog/feed/",
             "twitter_url": "https://twitter.com/invalidname"
-          },
-          {
-            "title": "Ordinary Coding",
-            "author": "Artur Rymarz",
-            "site_url": "https://ordinarycoding.com",
-            "feed_url": "https://ordinarycoding.com/feed.rss",
-            "twitter_url": "https://twitter.com/artrmzx"
           }
         ]
       }
