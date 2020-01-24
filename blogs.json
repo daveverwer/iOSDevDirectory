@@ -3191,6 +3191,12 @@
             "twitter_url": "https://twitter.com/reinder42"
           },
           {
+            "title": "Lemi Blog",
+            "author": "Lemi",
+            "site_url": "https://blog.lemi.travel/category/technology/ios/",
+            "feed_url": "https://blog.lemi.travel/category/technology/ios/feed/"
+          },
+          {
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://blog.lickability.com/",
