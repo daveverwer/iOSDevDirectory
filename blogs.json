@@ -2471,8 +2471,8 @@
           {
             "title": "The Atomic Birdhouse",
             "author": "Tom Harrington",
-            "site_url": "http://www.atomicbird.com/blog",
-            "feed_url": "http://www.atomicbird.com/feed",
+            "site_url": "https://atomicbird.com/",
+            "feed_url": "https://atomicbird.com/index.xml",
             "twitter_url": "https://twitter.com/atomicbird"
           },
           {
