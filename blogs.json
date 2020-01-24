@@ -2741,6 +2741,13 @@
             "twitter_url": "https://twitter.com/V8tr"
           },
           {
+            "title": "Yonas Kolb's Blog",
+            "author": "Yonas Kolb",
+            "site_url": "https://yonaskolb.com/",
+            "feed_url": "https://yonaskolb.com/blog?format=rss",
+            "twitter_url": "https://twitter.com/yonaskolb"
+          },
+          {
             "title": "Zach Knox's Blog",
             "author": "Zach Knox",
             "site_url": "https://zachknox.com",
