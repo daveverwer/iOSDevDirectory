@@ -1967,6 +1967,13 @@
             "twitter_url": "https://twitter.com/pepibumur"
           },
           {
+            "title": "Peter Friese's Blog",
+            "author": "Peter Friese",
+            "site_url": "https://peterfriese.dev",
+            "feed_url": "https://peterfriese.dev/rss.xml",
+            "twitter_url": "https://twitter.com/peterfriese"
+          },          
+          {
             "title": "Pierre Felgines's Blog",
             "author": "Pierre Felgines",
             "site_url": "https://felginep.github.io",
