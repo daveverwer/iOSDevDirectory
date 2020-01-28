@@ -517,6 +517,14 @@
             "twitter_url": "https://twitter.com/humlelu"
           },
           {
+            "title": "Cerebral Gardens",
+            "author": "Dave Wood",
+            "site_url": "https://www.cerebralgardens.com/blog",
+            "feed_url": "https://www.cerebralgardens.com/blog?view=latest&format=feed&type=rss",
+            "twitter_url": "https://twitter.com/davewoodx",
+            "microblog_url": "https://micro.blog/davewoodx"            
+          },
+          {
             "title": "Charlie Chapman's Blog",
             "author": "Charlie Chapman",
             "site_url": "https://charliemchapman.com/",
