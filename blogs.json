@@ -1972,7 +1972,7 @@
             "site_url": "https://peterfriese.dev",
             "feed_url": "https://peterfriese.dev/rss.xml",
             "twitter_url": "https://twitter.com/peterfriese"
-          },          
+          },
           {
             "title": "Pierre Felgines's Blog",
             "author": "Pierre Felgines",
@@ -3092,7 +3092,7 @@
             "site_url": "https://www.cerebralgardens.com/blog",
             "feed_url": "https://www.cerebralgardens.com/blog?view=latest&format=feed&type=rss",
             "twitter_url": "https://twitter.com/davewoodx",
-            "microblog_url": "https://micro.blog/davewoodx"            
+            "microblog_url": "https://micro.blog/davewoodx"
           },
           {
             "title": "Coletiv Studio Blog",
@@ -4038,13 +4038,6 @@
             "site_url": "https://onmyway133.github.io/",
             "feed_url": "https://onmyway133.github.io/atom.xml",
             "twitter_url": "https://twitter.com/onmyway133"
-          },
-          {
-            "title": "Ordinary Coding",
-            "author": "Artur Rymarz",
-            "site_url": "https://ordinarycoding.com",
-            "feed_url": "https://ordinarycoding.com/feed.rss",
-            "twitter_url": "https://twitter.com/artrmzx"
           },
           {
             "title": "Sunset Lake Software",
