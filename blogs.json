@@ -3087,6 +3087,14 @@
             "twitter_url": "https://twitter.com/bugfenderapp"
           },
           {
+            "title": "Cerebral Gardens",
+            "author": "Dave Wood",
+            "site_url": "https://www.cerebralgardens.com/blog",
+            "feed_url": "https://www.cerebralgardens.com/blog?view=latest&format=feed&type=rss",
+            "twitter_url": "https://twitter.com/davewoodx",
+            "microblog_url": "https://micro.blog/davewoodx"            
+          },
+          {
             "title": "Coletiv Studio Blog",
             "author": "Coletiv Studio",
             "site_url": "https://coletiv.com/blog/",
