@@ -1889,6 +1889,13 @@
             "twitter_url": "https://twitter.com/shaps"
           },
           {
+            "title": "onmyway133",
+            "author": "Khoa Pham",
+            "site_url": "https://onmyway133.github.io/",
+            "feed_url": "https://onmyway133.github.io/atom.xml",
+            "twitter_url": "https://twitter.com/onmyway133"
+          },
+          {
             "title": "Orange Juice Liberation Front",
             "author": "Uli Kusterer",
             "site_url": "https://orangejuiceliberationfront.com",
@@ -4031,13 +4038,6 @@
             "site_url": "http://nsprogrammer.com",
             "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
             "twitter_url": "https://twitter.com/NSProgrammer"
-          },
-          {
-            "title": "onmyway133",
-            "author": "Khoa Pham",
-            "site_url": "https://onmyway133.github.io/",
-            "feed_url": "https://onmyway133.github.io/atom.xml",
-            "twitter_url": "https://twitter.com/onmyway133"
           },
           {
             "title": "Sunset Lake Software",
