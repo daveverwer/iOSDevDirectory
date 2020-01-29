@@ -2324,6 +2324,13 @@
             "twitter_url": "https://twitter.com/stevemoser"
           },
           {
+            "title": "Stuart Breckenridge's Blog",
+            "author": "Stuart Breckenridge",
+            "site_url": "https://www.stuartb.dev/",
+            "feed_url": "https://www.stuartb.dev/feed.xml",
+            "twitter_url": "https://twitter.com/stuarticus"
+          },
+          {
             "title": "Stuart Hall's Blog",
             "author": "Stuart Hall",
             "site_url": "http://stuartkhall.com/",
