@@ -3534,6 +3534,13 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
+          },
+          {
+            "title": "Exyte Blog",
+            "author": "Exyte",
+            "site_url": "https://exyte.com/blog",
+            "feed_url": "hhttps://exyte.com/feed/rss/main",
+            "twitter_url": "https://twitter.com/ExyteHQ"
           }
         ]
       },
