@@ -2421,6 +2421,13 @@
             "twitter_url": "https://twitter.com/rockthebruno"
           },
           {
+            "title": "Swift Senpai",
+            "author": "Lee Kah Seng",
+            "site_url": "https://swiftsenpai.com/",
+            "feed_url": "https://swiftsenpai.com/feed/",
+            "twitter_url": "https://twitter.com/Lee_Kah_Seng"
+          },
+          {
             "title": "Swift Unboxed",
             "author": "Greg Heo",
             "site_url": "https://swiftunboxed.com/",
