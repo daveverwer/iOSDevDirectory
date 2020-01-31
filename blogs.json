@@ -1683,17 +1683,17 @@
             "twitter_url": "https://twitter.com/mikemikina"
           },
           {
-            "title": "Mike's Psyche",
-            "author": "Michael Redig",
-            "site_url": "https://mikespsyche.com",
-            "feed_url": "https://mikespsyche.com/feed"
-          },
-          {
             "title": "Mike Swanson's Blog",
             "author": "Mike Swanson",
             "site_url": "http://blog.mikeswanson.com/",
             "feed_url": "http://blog.mikeswanson.com/rss",
             "twitter_url": "https://twitter.com/anyware"
+          },
+          {
+            "title": "Mike's Psyche",
+            "author": "Michael Redig",
+            "site_url": "https://mikespsyche.com",
+            "feed_url": "https://mikespsyche.com/feed"
           },
           {
             "title": "miqu.me",
@@ -3157,6 +3157,13 @@
             "twitter_url": "https://twitter.com/eternalstorms"
           },
           {
+            "title": "Exyte Blog",
+            "author": "Exyte",
+            "site_url": "https://exyte.com/blog",
+            "feed_url": "hhttps://exyte.com/feed/rss/main",
+            "twitter_url": "https://twitter.com/ExyteHQ"
+          },
+          {
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
@@ -3534,13 +3541,6 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
-          },
-          {
-            "title": "Exyte Blog",
-            "author": "Exyte",
-            "site_url": "https://exyte.com/blog",
-            "feed_url": "hhttps://exyte.com/feed/rss/main",
-            "twitter_url": "https://twitter.com/ExyteHQ"
           }
         ]
       },
