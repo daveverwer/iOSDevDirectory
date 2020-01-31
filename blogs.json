@@ -2800,6 +2800,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Exyte Blog",
+            "author": "Exyte",
+            "site_url": "https://exyte.com/blog",
+            "feed_url": "hhttps://exyte.com/feed/rss/main",
+            "twitter_url": "https://twitter.com/ExyteHQ"
           }
         ]
       },
