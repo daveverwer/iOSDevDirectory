@@ -2800,6 +2800,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "David Piper on Medium",
+            "author": "David Piper",
+            "site_url": "https://medium.com/@HeyDaveTheDev",
+            "feed_url": "https://medium.com/feed/@HeyDaveTheDev",
+            "twitter_url": "https://twitter.com/HeyDaveTheDev"
           }
         ]
       },
