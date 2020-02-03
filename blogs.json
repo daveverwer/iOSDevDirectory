@@ -766,6 +766,13 @@
             "twitter_url": "https://twitter.com/dcordero"
           },
           {
+            "title": "David Piper on Medium",
+            "author": "David Piper",
+            "site_url": "https://medium.com/@HeyDaveTheDev",
+            "feed_url": "https://medium.com/feed/@HeyDaveTheDev",
+            "twitter_url": "https://twitter.com/HeyDaveTheDev"
+          },
+          {
             "title": "David Reed's Blog",
             "author": "David Reed",
             "site_url": "https://microblog.dave256apps.com/",
@@ -2800,13 +2807,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "David Piper on Medium",
-            "author": "David Piper",
-            "site_url": "https://medium.com/@HeyDaveTheDev",
-            "feed_url": "https://medium.com/feed/@HeyDaveTheDev",
-            "twitter_url": "https://twitter.com/HeyDaveTheDev"
           }
         ]
       },
@@ -4297,17 +4297,17 @@
         "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
         "sites": [
           {
-            "title": "NSHipster 한국",
-            "author": "NSHipster",
-            "site_url": "https://nshipster.co.kr",
-            "feed_url": "https://nshipster.co.kr/feed.xml"
-          },
-          {
             "title": "class LifeArchive {}",
             "author": "pilgwon",
             "site_url": "https://pilgwon.github.io/",
             "feed_url": "https://pilgwon.github.io/feed.xml",
             "twitter_url": "https://twitter.com/pilgwon"
+          },
+          {
+            "title": "NSHipster 한국",
+            "author": "NSHipster",
+            "site_url": "https://nshipster.co.kr",
+            "feed_url": "https://nshipster.co.kr/feed.xml"
           },
           {
             "title": "tucan's blog",
