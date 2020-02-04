@@ -1370,6 +1370,13 @@
             "twitter_url": "https://twitter.com/KenBoreham"
           },
           {
+            "title": "Kentios Thinks About Tech",
+            "author": "Kent Humphries",
+            "site_url": "https://kenthumphries.github.io",
+            "feed_url": "https://kenthumphries.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/kentios"
+          },
+          {
             "title": "Khawer Khaliq's Blog",
             "author": "Khawer Khaliq",
             "site_url": "https://khawerkhaliq.com",
