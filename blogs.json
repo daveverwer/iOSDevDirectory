@@ -985,12 +985,6 @@
             "twitter_url": "https://twitter.com/soulchildpls"
           },
           {
-            "title": "Foresight Mobile Blog",
-            "author": "Gareth Reese",
-            "site_url": "https://foresightmobile.com/blog",
-            "feed_url": "https://foresightmobile.com/blog?format=rss"
-          },
-          {
             "title": "Fresh Swift",
             "author": "Pete Smith",
             "site_url": "http://freshswift.net",
@@ -3197,6 +3191,12 @@
             "site_url": "https://flight.school",
             "feed_url": "https://flight.school/feed.xml",
             "twitter_url": "https://twitter.com/flightdotschool"
+          },
+          {
+            "title": "Foresight Mobile Blog",
+            "author": "Gareth Reese",
+            "site_url": "https://foresightmobile.com/blog",
+            "feed_url": "https://foresightmobile.com/blog?format=rss"
           },
           {
             "title": "Gett Engineering Blog",
