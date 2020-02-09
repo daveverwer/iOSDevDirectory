@@ -3823,6 +3823,13 @@
         "slug": "youtube",
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
         "sites": [
+           {
+            "title": "Alexito's World",
+            "author": "Alejandro Martinez",
+            "site_url": "https://www.youtube.com/channel/UCfiBFlVY8s-tmJGDMNCd26w",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiBFlVY8s-tmJGDMNCd26w",
+            "twitter_url": "https://twitter.com/alexito4"
+          },
           {
             "title": "Apple Programming",
             "author": "Lucas Derraugh",
