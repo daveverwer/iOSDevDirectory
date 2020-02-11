@@ -4321,6 +4321,13 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
+          },
+          {
+            "title": "Dev Story of Sungdoo",
+            "author": "Sungdoo",
+            "site_url": "https://sungdoo.dev",
+            "feed_url": "https://feeds.feedburner.com/sungdoo/",
+            "twitter_url": "https://twitter.com/SungdooYoo"
           }
         ]
       }
