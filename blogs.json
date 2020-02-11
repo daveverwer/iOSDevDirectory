@@ -1128,7 +1128,7 @@
             "title": "Ilya Puchka's Blog",
             "author": "Ilya Puchka",
             "site_url": "http://ilya.puchka.me",
-            "feed_url": "http://ilya.puchka.me/rss/",
+            "feed_url": "http://ilya.puchka.me/rss.xml",
             "twitter_url": "https://twitter.com/ilyapuchka"
           },
           {
@@ -1205,8 +1205,8 @@
           {
             "title": "Jason Zurita's Blog",
             "author": "Jason Zurita",
-            "site_url": "https://www.jasonzurita.com/blog/",
-            "feed_url": "https://www.jasonzurita.com/feed.xml",
+            "site_url": "http://www.jasonzurita.com/",
+            "feed_url": "http://jasonzurita.com/feed.xml",
             "twitter_url": "https://twitter.com/jasonalexzurita"
           },
           {
@@ -2205,7 +2205,7 @@
             "title": "Simple Swift Guide",
             "author": "Randy Swift",
             "site_url": "https://www.simpleswiftguide.com",
-            "feed_url": "https://www.simpleswiftguide.com/feed.xml",
+            "feed_url": "https://www.simpleswiftguide.com/feed/",
             "twitter_url": "https://twitter.com/theswiftguide"
           },
           {
@@ -2369,7 +2369,7 @@
             "title": "Swift Post",
             "author": "Candost Dağdeviren, Göksel Köksal and Alp Avanoğlu",
             "site_url": "https://theswiftpost.co",
-            "feed_url": "https://theswiftpost.co/feed/",
+            "feed_url": "https://theswiftpost.co/feed.xml",
             "twitter_url": "https://twitter.com/theswiftpostco"
           },
           {
@@ -2578,7 +2578,7 @@
             "title": "Topolog's tech blog",
             "author": "Dmitrii Ivanov",
             "site_url": "https://dmtopolog.com",
-            "feed_url": "https://dmtopolog.com/feed/",
+            "feed_url": "https://dmtopolog.com/feed.xml",
             "twitter_url": "https://twitter.com/dmtopolog"
           },
           {
@@ -2855,7 +2855,7 @@
             "title": "Scott Hurff's Blog",
             "author": "Scott Hurff",
             "site_url": "http://scotthurff.com",
-            "feed_url": "http://scotthurff.com/feeds/rss",
+            "feed_url": "https://www.scotthurff.com/rss/",
             "twitter_url": "https://twitter.com/scotthurff"
           },
           {
@@ -3093,7 +3093,7 @@
             "title": "Exyte Blog",
             "author": "Exyte",
             "site_url": "https://exyte.com/blog",
-            "feed_url": "hhttps://exyte.com/feed/rss/main",
+            "feed_url": "https://exyte.com/feed/rss/main",
             "twitter_url": "https://twitter.com/ExyteHQ"
           },
           {
@@ -3160,8 +3160,8 @@
           {
             "title": "Instabug Blog",
             "author": "Instabug Team",
-            "site_url": "https://blog.instabug.com",
-            "feed_url": "https://blog.instabug.com/feed/",
+            "site_url": "https://instabug.com/blog/",
+            "feed_url": "https://instabug.com/blog/feed/",
             "twitter_url": "https://twitter.com/instabug"
           },
           {
@@ -3548,7 +3548,7 @@
             "title": "iDeveloper Podcast",
             "author": "Steve Scott and John Fox",
             "site_url": "http://ideveloper.co/",
-            "feed_url": "https://itunes.apple.com/gb/podcast/the-ideveloper-podcast/id400664935?mt=2"
+            "feed_url": "https://podcasts.apple.com/gb/podcast/the-ideveloper-podcast/id400664935"
           },
           {
             "title": "Independence",
@@ -3890,7 +3890,7 @@
             "title": "annema.me",
             "author": "Klaas Pieter Annema",
             "site_url": "http://www.annema.me/",
-            "feed_url": "http://feeds.feedburner.com/annemame",
+            "feed_url": "https://annema.me/feed.xml",
             "twitter_url": "https://twitter.com/klaaspieter"
           },
           {
@@ -3932,7 +3932,7 @@
             "title": "Egor Tolstoy's Blog",
             "author": "Egor Tolstoy",
             "site_url": "http://etolstoy.com",
-            "feed_url": "http://etolstoy.com/atom.xml",
+            "feed_url": "http://etolstoy.com/feed.xml",
             "twitter_url": "https://twitter.com/igrekde"
           },
           {
