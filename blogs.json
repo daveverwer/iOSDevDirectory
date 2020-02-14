@@ -1196,6 +1196,13 @@
             "twitter_url": "https://twitter.com/jaredsinclair"
           },
           {
+            "title": "jsorge.net",
+            "author": "Jared Sorge",
+            "site_url": "https://jsorge.net",
+            "feed_url": "https://jsorge.net/rss/",
+            "twitter_url": "https://twitter.com/jsorgenet"
+          },
+          {
             "title": "Jasdev Singh’s Blog",
             "author": "Jasdev Singh",
             "site_url": "https://jasdev.me",
