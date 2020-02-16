@@ -2673,6 +2673,13 @@
             "twitter_url": "https://twitter.com/vojtastavik"
           },
           {
+            "title": "Vojtech Rinik on Medium",
+            "author": "Vojtech Rinik",
+            "site_url": "https://medium.com/@vojto",
+            "feed_url": "https://medium.com/feed/@vojto",
+            "twitter_url": "https://twitter.com/_vojto"
+          },
+          {
             "title": "Warp your mobile development",
             "author": "Thibault Wittemberg",
             "site_url": "http://blog.warpfactor.io",
