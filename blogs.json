@@ -320,6 +320,13 @@
             "feed_url": "http://www.akpdev.com/feed.xml"
           },
           {
+            "title": "Arthur Van Siclen on Medium",
+            "author": "Arthur Van Siclen",
+            "site_url": "https://medium.com/@arthurofbabylon",
+            "feed_url": "https://medium.com/feed/@arthurofbabylon",
+            "twitter_url": "https://twitter.com/arthurofbabylon"
+          },
+          {
             "title": "Ash Furrow's Blog",
             "author": "Ash Furrow",
             "site_url": "https://ashfurrow.com/",
