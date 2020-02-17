@@ -2950,6 +2950,13 @@
             "twitter_url": "https://twitter.com/parrots"
           },
           {
+            "title": "Hey, I Make Apps! - Blog",
+            "author": "Michael Tigas",
+            "site_url": "https://heyimakeapps.com/blog/",
+            "feed_url": "https://heyimakeapps.com/blog?format=rss",
+            "twitter_url": "https://twitter.com/michael_tigas"
+          },
+          {
             "title": "Joe Cieplinski's Blog",
             "author": "Joe Cieplinski",
             "site_url": "https://joecieplinski.com/blog/",
