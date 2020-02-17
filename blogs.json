@@ -2915,6 +2915,13 @@
         "description": "All of the iOS business and marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
         "sites": [
           {
+            "title": "ASO Blog",
+            "author": "I WANT AN ELEPHANT",
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/",
+            "twitter_url": "https://twitter.com/IWA_ELEPHANT"            
+          },
+          {
             "title": "Appbot",
             "author": "Stuart Hall, Claire McGregor, Christie Hunter",
             "site_url": "https://stories.appbot.co/",
