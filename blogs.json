@@ -1203,13 +1203,6 @@
             "twitter_url": "https://twitter.com/jaredsinclair"
           },
           {
-            "title": "jsorge.net",
-            "author": "Jared Sorge",
-            "site_url": "https://jsorge.net",
-            "feed_url": "https://jsorge.net/rss/",
-            "twitter_url": "https://twitter.com/jsorgenet"
-          },
-          {
             "title": "Jasdev Singh’s Blog",
             "author": "Jasdev Singh",
             "site_url": "https://jasdev.me",
@@ -1306,6 +1299,13 @@
             "site_url": "https://www.jonathant.com",
             "feed_url": "http://feed.jonathant.com/",
             "twitter_url": "https://twitter.com/jonathant"
+          },
+          {
+            "title": "jsorge.net",
+            "author": "Jared Sorge",
+            "site_url": "https://jsorge.net",
+            "feed_url": "https://jsorge.net/rss/",
+            "twitter_url": "https://twitter.com/jsorgenet"
           },
           {
             "title": "Julian Schiavo's Blog",
@@ -2915,13 +2915,6 @@
         "description": "All of the iOS business and marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
         "sites": [
           {
-            "title": "ASO Blog",
-            "author": "I WANT AN ELEPHANT",
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
-            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/",
-            "twitter_url": "https://twitter.com/IWA_ELEPHANT"            
-          },
-          {
             "title": "Appbot",
             "author": "Stuart Hall, Claire McGregor, Christie Hunter",
             "site_url": "https://stories.appbot.co/",
@@ -2934,6 +2927,13 @@
             "site_url": "https://www.apptentive.com/blog",
             "feed_url": "https://www.apptentive.com/blog/feed",
             "twitter_url": "https://twitter.com/apptentive"
+          },
+          {
+            "title": "ASO Blog",
+            "author": "I WANT AN ELEPHANT",
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/",
+            "twitter_url": "https://twitter.com/IWA_ELEPHANT"
           },
           {
             "title": "ASO Stack on Medium",
@@ -2950,7 +2950,7 @@
             "twitter_url": "https://twitter.com/parrots"
           },
           {
-            "title": "Hey, I Make Apps! - Blog",
+            "title": "Hey, I Make Apps!",
             "author": "Michael Tigas",
             "site_url": "https://heyimakeapps.com/blog/",
             "feed_url": "https://heyimakeapps.com/blog?format=rss",
@@ -3769,7 +3769,7 @@
         "slug": "youtube",
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
         "sites": [
-           {
+          {
             "title": "Alexito's World",
             "author": "Alejandro Martinez",
             "site_url": "https://www.youtube.com/channel/UCfiBFlVY8s-tmJGDMNCd26w",
@@ -4257,6 +4257,13 @@
             "twitter_url": "https://twitter.com/pilgwon"
           },
           {
+            "title": "Dev Story of Sungdoo",
+            "author": "Sungdoo",
+            "site_url": "https://sungdoo.dev",
+            "feed_url": "https://feeds.feedburner.com/sungdoo/",
+            "twitter_url": "https://twitter.com/SungdooYoo"
+          },
+          {
             "title": "NSHipster 한국",
             "author": "NSHipster",
             "site_url": "https://nshipster.co.kr",
@@ -4267,13 +4274,6 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
-          },
-          {
-            "title": "Dev Story of Sungdoo",
-            "author": "Sungdoo",
-            "site_url": "https://sungdoo.dev",
-            "feed_url": "https://feeds.feedburner.com/sungdoo/",
-            "twitter_url": "https://twitter.com/SungdooYoo"
           }
         ]
       }
