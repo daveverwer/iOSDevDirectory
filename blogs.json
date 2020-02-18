@@ -3726,6 +3726,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "Cocoa Delights",
+            "author": "Exyte",
+            "site_url": "https://exyte.com/cocoa-delights",
+            "feed_url": "https://exyte.com/feed/rss/cocoa-delights",
+            "twitter_url": "https://twitter.com/ExyteHQ"
           }
         ]
       },
