@@ -64,13 +64,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Rony Fadel's Blog",
-            "author": "Rony Fadel",
-            "site_url": "https://www.fadel.io/blog",
-            "feed_url": "https://www.fadel.io/blog/index.xml",
-            "twitter_url": "https://twitter.com/ronyfadel"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -2078,6 +2071,13 @@
             "site_url": "https://rolandleth.com",
             "feed_url": "https://rolandleth.com/feed",
             "twitter_url": "https://twitter.com/rolandleth"
+          },
+          {
+            "title": "Rony Fadel's Blog",
+            "author": "Rony Fadel",
+            "site_url": "https://www.fadel.io/blog",
+            "feed_url": "https://www.fadel.io/blog/index.xml",
+            "twitter_url": "https://twitter.com/ronyfadel"
           },
           {
             "title": "Ross Butler on Medium",
