@@ -64,13 +64,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it's focused on app architecture or UI coding. As long as it's related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Chris Mash on Medium",
-            "author": "Chris Mash",
-            "site_url": "https://medium.com/@chris.mash",
-            "feed_url": "https://medium.com/feed/@chris.mash",
-            "twitter_url": "https://twitter.com/cjmash"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -550,6 +543,13 @@
             "site_url": "http://chris.eidhof.nl/",
             "feed_url": "http://chris.eidhof.nl/index.xml",
             "twitter_url": "https://twitter.com/chriseidhof"
+          },
+          {
+            "title": "Chris Mash on Medium",
+            "author": "Chris Mash",
+            "site_url": "https://medium.com/@chris.mash",
+            "feed_url": "https://medium.com/feed/@chris.mash",
+            "twitter_url": "https://twitter.com/cjmash"
           },
           {
             "title": "Chris Winstanley on Medium",
@@ -3749,6 +3749,13 @@
         "description": "Newsletters or round up blogs covering iOS Development.",
         "sites": [
           {
+            "title": "Cocoa Delights",
+            "author": "Exyte",
+            "site_url": "https://exyte.com/cocoa-delights",
+            "feed_url": "https://exyte.com/feed/rss/cocoa-delights",
+            "twitter_url": "https://twitter.com/ExyteHQ"
+          },
+          {
             "title": "iOS Dev Weekly",
             "author": "Dave Verwer",
             "site_url": "https://iosdevweekly.com/",
@@ -3782,13 +3789,6 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
-          },
-          {
-            "title": "Cocoa Delights",
-            "author": "Exyte",
-            "site_url": "https://exyte.com/cocoa-delights",
-            "feed_url": "https://exyte.com/feed/rss/cocoa-delights",
-            "twitter_url": "https://twitter.com/ExyteHQ"
           }
         ]
       },
