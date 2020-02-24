@@ -231,6 +231,13 @@
             "twitter_url": "https://twitter.com/andrewcbancroft"
           },
           {
+            "title": "Andrew King's Blog",
+            "author": "Andrew King",
+            "site_url": "https://andrewking.ca/category/ios-development",
+            "feed_url": "https://andrewking.ca/category/ios-development/feed/rss",
+            "twitter_url": "https://twitter.com/andrewkingbk"
+          },
+          {
             "title": "Andrey Volodin on Medium",
             "author": "Andrey Volodin",
             "site_url": "https://medium.com/@s1ddok/",
