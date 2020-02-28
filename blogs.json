@@ -2795,6 +2795,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Tung Fam on Medium",
+            "author": "Tung Fam",
+            "site_url": "https://medium.com/@tungfam",
+            "feed_url": "https://medium.com/feed/@tungfam",
+            "twitter_url": "https://twitter.com/TyHnec"
           }
         ]
       },
