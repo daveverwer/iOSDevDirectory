@@ -2802,6 +2802,13 @@
             "site_url": "https://medium.com/@tungfam",
             "feed_url": "https://medium.com/feed/@tungfam",
             "twitter_url": "https://twitter.com/TyHnec"
+          },
+          {
+            "title": "Programming With Swift",
+            "author": "Darren Leak",
+            "site_url": "https://programmingwithswift.com",
+            "feed_url": "https://programmingwithswift.com/rss/",
+            "twitter_url": "https://twitter.com/WithProgramming"
           }
         ]
       },
