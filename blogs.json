@@ -2394,13 +2394,6 @@
             "twitter_url": "https://twitter.com/tjeerdintveen"
           },
           {
-            "title": "Swift Journal by Tommi Kivimäki",
-            "author": "Tommi Kivimäki",
-            "site_url": "https://tommikivimaki.com/notes/",
-            "feed_url": "https://tommikivimaki.com/feed.xml",
-            "twitter_url": "https://twitter.com/TommiKivimaki"
-          },
-          {
             "title": "Swift Notes",
             "author": "Maxim Eremenko",
             "site_url": "https://maximeremenko.com/",
@@ -3559,19 +3552,6 @@
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
           {
-            "title": "App Dev Diary",
-            "author": "Ben Scheirman and Joe Cieplinski",
-            "site_url": "http://appdevdiary.com/",
-            "feed_url": "https://rss.simplecast.com/podcasts/5425/rss"
-          },
-          {
-            "title": "CastKit",
-            "author": "Calvin Chestnut, Bob Solorio, Steve Ciauri",
-            "site_url": "https://CastKit.fm",
-            "feed_url": "https://pod.icalvin.dev/CastKit",
-            "twitter_url": "https://twitter.com/CastKitfm"
-          },
-          {
             "title": "CmdSwift",
             "author": "Kristof Kocsis & Héctor Carrion",
             "site_url": "https://cmdswift.com/",
@@ -4256,13 +4236,6 @@
             "site_url": "https://medium.com/@mhmtkc",
             "feed_url": "https://medium.com/feed/@mhmtkc",
             "twitter_url": "https://twitter.com/mehmetkcaa"
-          },
-          {
-            "title": "NSColak Swift Blog",
-            "author": "Çağrı ÇOLAK",
-            "site_url": "https://nscolak.com",
-            "feed_url": "https://nscolak.com/feed.xml",
-            "twitter_url": "https://twitter.com/cgcolak"
           },
           {
             "title": "NSIstanbul Blog",
