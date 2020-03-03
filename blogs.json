@@ -2498,7 +2498,7 @@
             "twitter_url": "https://twitter.com/atomicbird"
           },
           {
-            "title": "The FutureBlog – For Developers",
+            "title": "The FutureBlog",
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=developer",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
@@ -2533,7 +2533,7 @@
             "twitter_url": "https://twitter.com/SwiftUILab"
           },
           {
-            "title": "The.Swift.Dev.",
+            "title": "The Swift Dev.",
             "author": "Tibor Bödecs",
             "site_url": "https://theswiftdev.com/",
             "feed_url": "https://theswiftdev.com/rss.xml",
