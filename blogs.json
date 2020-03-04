@@ -70,6 +70,13 @@
             "feed_url": "https://gaelfoppolo.com/feed.xml",
             "twitter_url": "https://twitter.com/gaelugio"
           },
+           {
+             "title": "DaddyCoding (Weekly iOS Tutorials)",
+             "author": "Kelvin Tan",
+             "site_url": "https://daddycoding.com",
+             "feed_url": "https://daddycoding.com/feed/",
+             "twitter_url": "https://twitter.com/KelvinT02053969"
+           },
           {
             "title": "Accidentally in Code",
             "author": "Cate Huston",
