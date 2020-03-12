@@ -704,6 +704,13 @@
             "twitter_url": "https://twitter.com/KelvinT02053969"
           },
           {
+            "title": "Dan Gauthier's Blog",
+            "author": "Dan Gauthier",
+            "site_url": "https://danielgauthier.me",
+            "feed_url": "https://danielgauthier.me/feed.xml",
+            "twitter_url": "https://twitter.com/danielmgauthier"
+          },
+          {
             "title": "Daniel Kennett's Blog",
             "author": "Daniel Kennett",
             "site_url": "http://ikennd.ac/",
