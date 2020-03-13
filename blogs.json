@@ -1287,6 +1287,13 @@
             "twitter_url": "https://twitter.com/lapcatsoftware"
           },
           {
+            "title": "Jeff Kelley’s Blog",
+            "author": "Jeff Kelley",
+            "site_url": "https://blog.slaunchaman.com",
+            "feed_url": "https://blog.slaunchaman.com/feed/",
+            "twitter_url": "https://twitter.com/slaunchaman"
+          },
+          {
             "title": "Jeremy W. Sherman's Blog",
             "author": "Jeremy W. Sherman",
             "site_url": "https://jeremywsherman.com/",
