@@ -383,18 +383,18 @@
             "twitter_url": "https://twitter.com/norapsi"
           },
           {
-            "title": "Bas’ Blog",
-            "author": "Bas Broek",
-            "site_url": "https://basthomas.github.io",
-            "feed_url": "https://basthomas.github.io/feed.xml",
-            "twitter_url": "https://twitter.com/basthomas"
-          },
-          {
             "title": "Basem Emara’s Blog",
             "author": "Basem Emara",
             "site_url": "http://basememara.com",
             "feed_url": "http://basememara.com/feed/",
             "twitter_url": "https://twitter.com/basememara"
+          },
+          {
+            "title": "Bas’ Blog",
+            "author": "Bas Broek",
+            "site_url": "https://basthomas.github.io",
+            "feed_url": "https://basthomas.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/basthomas"
           },
           {
             "title": "Batikan’s iOS Blog",
