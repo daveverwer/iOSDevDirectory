@@ -524,6 +524,13 @@
             "twitter_url": "https://twitter.com/justin"
           },
           {
+            "title": "Cassius Pacheco's Blog",
+            "author": "Cassius Pacheco",
+            "site_url": "https://cassiuspacheco.com",
+            "feed_url": "https://cassiuspacheco.com/rss.xml",
+            "twitter_url": "https://twitter.com/cassiuspacheco"
+          },
+          {
             "title": "Cecilia Humlelu on Medium",
             "author": "Cecilia Humlelu",
             "site_url": "https://medium.com/@cecilia.humlelu",
