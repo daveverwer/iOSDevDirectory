@@ -2985,6 +2985,13 @@
             "twitter_url": "https://twitter.com/appbotx"
           },
           {
+            "title": "AppManager",
+            "author": "Max Ott",
+            "site_url": "https://appmanager.io/blog",
+            "feed_url": "https://appmanager.io/blog/feed/",
+            "twitter_url": "https://twitter.com/appmanagerhq"
+          },
+          {
             "title": "Apptentive",
             "author": "Ashley Sefferman, Robi Ganguly",
             "site_url": "https://www.apptentive.com/blog",
@@ -3783,6 +3790,13 @@
             "site_url": "https://exyte.com/cocoa-delights",
             "feed_url": "https://exyte.com/feed/rss/cocoa-delights",
             "twitter_url": "https://twitter.com/ExyteHQ"
+          },
+          {
+            "title": "iOS Dev Tools",
+            "author": "Max Ott",
+            "site_url": "https://iosdev.tools/",
+            "feed_url": "https://iosdev.tools/rss/",
+            "twitter_url": "https://twitter.com/iOSDevTools"
           },
           {
             "title": "iOS Dev Weekly",
