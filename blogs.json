@@ -856,13 +856,6 @@
             "twitter_url": "https://twitter.com/UINT_MIN"
           },
           {
-            "title": "Delightful Apps",
-            "author": "Matt Delves",
-            "site_url": "https://delightfulapps.co",
-            "feed_url": "https://delightfulapps.co/feed.xml",
-            "twitter_url": "https://twitter.com/_delightfulapps"
-          },
-          {
             "title": "Denis Poifol’s Blog",
             "author": "Denis Poifol",
             "site_url": "https://denispoifol.github.io/",
@@ -3199,6 +3192,13 @@
             "site_url": "https://crunchybagel.com",
             "feed_url": "https://crunchybagel.com/rss/",
             "twitter_url": "https://twitter.com/qzervaas"
+          },
+          {
+            "title": "Delightful Apps",
+            "author": "Delightful Apps",
+            "site_url": "https://delightfulapps.co",
+            "feed_url": "https://delightfulapps.co/feed.xml",
+            "twitter_url": "https://twitter.com/_delightfulapps"
           },
           {
             "title": "Digital Leaves Blog",
