@@ -856,6 +856,13 @@
             "twitter_url": "https://twitter.com/UINT_MIN"
           },
           {
+            "title": "Delightful Apps",
+            "author": "Matt Delves",
+            "site_url": "https://delightfulapps.co",
+            "feed_url": "https://delightfulapps.co/feed.xml",
+            "twitter_url": "https://twitter.com/_delightfulapps"
+          },
+          {
             "title": "Denis Poifol’s Blog",
             "author": "Denis Poifol",
             "site_url": "https://denispoifol.github.io/",
