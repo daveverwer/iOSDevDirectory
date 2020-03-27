@@ -3980,6 +3980,13 @@
             "twitter_url": "https://twitter.com/freak4pc"
           },
           {
+            "title": "Stewart Lynch on YouTube",
+            "author": "Stewart Lynch",
+            "site_url": "https://www.youtube.com/channel/UCOWdR4sFkmolWkU2fg669Gg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOWdR4sFkmolWkU2fg669Gg",
+            "twitter_url": "https://twitter.com/StewartLynch"
+          },
+          {
             "title": "Swift by Sundell",
             "author": "John Sundell",
             "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA",
