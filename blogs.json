@@ -1858,6 +1858,13 @@
             "twitter_url": "https://twitter.com/noir"
           },
           {
+            "title": "Neil Smith’s Blog",
+            "author": "Neil Smith",
+            "site_url": "https://www.neilsmithdesign.com",
+            "feed_url": "https://www.neilsmithdesign.com/dev/rss.xml",
+            "twitter_url": "https://twitter.com/neilsmith11"
+          },
+          {
             "title": "Netsplit",
             "author": "Scott James Remnant",
             "site_url": "https://netsplit.com",
