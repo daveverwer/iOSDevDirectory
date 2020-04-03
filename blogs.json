@@ -1511,6 +1511,13 @@
             "twitter_url": "https://twitter.com/petermolnar_hu"
           },
           {
+            "title": "Learning Swift",
+            "author": "Leo Dion",
+            "site_url": "https://learningswift.brightdigit.com",
+            "feed_url": "https://learningswift.brightdigit.com/feed/",
+            "twitter_url": "https://twitter.com/leogdion"
+          },
+          {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
             "site_url": "http://lewismakesapps.com",
@@ -1863,6 +1870,13 @@
             "site_url": "http://www.neglectedpotential.com",
             "feed_url": "http://www.neglectedpotential.com/feed/",
             "twitter_url": "https://twitter.com/noir"
+          },
+          {
+            "title": "Neil Smith’s Blog",
+            "author": "Neil Smith",
+            "site_url": "https://www.neilsmithdesign.com",
+            "feed_url": "https://www.neilsmithdesign.com/dev/rss.xml",
+            "twitter_url": "https://twitter.com/neilsmith11"
           },
           {
             "title": "Netsplit",
@@ -3651,6 +3665,13 @@
             "twitter_url": "https://twitter.com/designdetailsfm"
           },
           {
+            "title": "Empower Apps",
+            "author": "Leo Dion",
+            "site_url": "https://www.empowerapps.show",
+            "feed_url": "https://feeds.transistor.fm/empowerapps-show",
+            "twitter_url": "https://twitter.com/brightdigit"
+          },
+          {
             "title": "Fatal Error",
             "author": "Soroush Khanlou and Chris Dzombak",
             "site_url": "https://fatalerror.fm",
@@ -3703,13 +3724,6 @@
             "site_url": "https://devchat.tv/iphreaks",
             "feed_url": "https://feeds.feedwrench.com/iphreaks.rss",
             "twitter_url": "https://twitter.com/iphreaks"
-          },
-          {
-            "title": "Learning Swift",
-            "author": "Leo Dion",
-            "site_url": "https://learningswift.brightdigit.com",
-            "feed_url": "https://learningswift.brightdigit.com/feed/",
-            "twitter_url": "https://twitter.com/leogdion"
           },
           {
             "title": "More Than Just Code",
@@ -3985,6 +3999,13 @@
             "site_url": "https://www.youtube.com/channel/UCJRFsl9NHi_PDl2ur9tFRWg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJRFsl9NHi_PDl2ur9tFRWg",
             "twitter_url": "https://twitter.com/freak4pc"
+          },
+          {
+            "title": "Stewart Lynch on YouTube",
+            "author": "Stewart Lynch",
+            "site_url": "https://www.youtube.com/channel/UCOWdR4sFkmolWkU2fg669Gg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOWdR4sFkmolWkU2fg669Gg",
+            "twitter_url": "https://twitter.com/StewartLynch"
           },
           {
             "title": "Swift by Sundell",
