@@ -905,6 +905,13 @@
             "twitter_url": "https://twitter.com/donnywals"
           },
           {
+            "title": "Douglas Hill's Blog",
+            "author": "Douglas Hill",
+            "site_url": "https://douglashill.co",
+            "feed_url": "https://douglashill.co/feed.json",
+            "twitter_url": "https://twitter.com/qdoug"
+          },
+          {
             "title": "Drawing Your Own Conclusions",
             "author": "Daniel Steinberg",
             "site_url": "https://www.drawingyourownconclusions.com",
