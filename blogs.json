@@ -2446,8 +2446,8 @@
           {
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
-            "site_url": "https://stuartb.dev/",
-            "feed_url": "https://stuartb.dev/feed.xml",
+            "site_url": "https://stuart.wtf/",
+            "feed_url": "https://stuart.wtf/rss",
             "twitter_url": "https://twitter.com/stuarticus"
           },
           {
@@ -3500,9 +3500,9 @@
           {
             "title": "RevenueCat Blog",
             "author": "Jacob Eiting",
-            "site_url": "https://medium.com/revenuecat-blog",
-            "feed_url": "https://medium.com/feed/revenuecat-blog",
-            "twitter_url": "https://twitter.com/jeiting"
+            "site_url": "https://www.revenuecat.com/blog",
+            "feed_url": "https://www.revenuecat.com/blog/rss.xml",
+            "twitter_url": "https://twitter.com/revenuecat"
           },
           {
             "title": "Rightpoint Labs Blog",
