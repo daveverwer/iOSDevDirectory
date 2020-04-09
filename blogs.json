@@ -1315,6 +1315,13 @@
             "twitter_url": "https://twitter.com/slaunchaman"
           },
           {
+            "title": "Jeff Watkins’ Blog",
+            "author": "Jeff Watkins",
+            "site_url": "https://jeffwatkins.dev/articles",
+            "feed_url": "https://jeffwatkins.dev/articles/feed",
+            "twitter_url": "https://twitter.com/jeffwatkins"
+          },
+          {
             "title": "Jeremy W. Sherman’s Blog",
             "author": "Jeremy W. Sherman",
             "site_url": "https://jeremywsherman.com/",
