@@ -4208,6 +4208,15 @@
             "site_url": "http://subfurther.com/blog/",
             "feed_url": "http://subfurther.com/blog/feed/",
             "twitter_url": "https://twitter.com/invalidname"
+          },
+          {
+             "title":"Application development - Kamee",
+             "author":"Marcin Affelski, blog about project management",
+             "site_url":"https://kamee-software.com/",
+             "feed_url":"https://kamee-software.com/blog",
+             "twitter_url":"",
+             "microblog_url":"",
+             "weibo_url":""
           }
         ]
       }
