@@ -2694,6 +2694,13 @@
             "twitter_url": "https://twitter.com/TimOliverAU"
           },
           {
+            "title": "Tim Roesner's Blog",
+            "author": "Tim Roesner",
+            "site_url": "https://blog.timroesner.com",
+            "feed_url": "https://blog.timroesner.com/feed.xml",
+            "twitter_url": "https://twitter.com/timroesner"
+          },
+          {
             "title": "Timac",
             "author": "Alexandre Colucci",
             "site_url": "https://blog.timac.org",
