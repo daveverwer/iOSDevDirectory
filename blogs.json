@@ -92,6 +92,13 @@
             "twitter_url": "https://twitter.com/adam_wareing1"
           },
           {
+            "title": "Adrian Schönig's Blog",
+            "author": "Adrian Schönig",
+            "site_url": "https://adrian.schoenig.me",
+            "feed_url": "https://adrian.schoenig.me/feed.xml",
+            "twitter_url": "https://twitter.com/nhawk"
+          },
+          {
             "title": "Adrian Śliwa on Medium",
             "author": "Adrian Śliwa",
             "site_url": "https://medium.com/@adrianmsliwa",
