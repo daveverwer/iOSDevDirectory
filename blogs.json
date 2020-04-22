@@ -1574,6 +1574,13 @@
             "twitter_url": "https://twitter.com/lordcodes"
           },
           {
+            "title": "Luis Ascorbe's Blog",
+            "author": "Luis Ascorbe",
+            "site_url": "https://lascorbe.com",
+            "feed_url": "https://lascorbe.com/feed.rss",
+            "twitter_url": "https://twitter.com/lascorbe"
+          },
+          {
             "title": "Luis Recuenco on Medium",
             "author": "Luis Recuenco",
             "site_url": "https://medium.com/@recuenco/",
