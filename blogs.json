@@ -114,6 +114,13 @@
             "twitter_url": "https://twitter.com/dagostin"
           },
           {
+            "title": "Airspeed Velocity",
+            "author": "Ben Cohen",
+            "site_url": "https://airspeedvelocity.net",
+            "feed_url": "https://airspeedvelocity.net/feed/",
+            "twitter_url": "https://twitter.com/airspeedswift"
+          },
+          {
             "title": "Alan Zeino on Medium",
             "author": "Alan Zeino",
             "site_url": "https://medium.com/@alanzeino",
@@ -218,6 +225,13 @@
             "twitter_url": "https://twitter.com/vixentael"
           },
           {
+            "title": "Andreas Kurtz’s Blog",
+            "author": "Andreas Kurtz",
+            "site_url": "https://andreas-kurtz.de/post/",
+            "feed_url": "https://andreas-kurtz.de/post/index.xml",
+            "twitter_url": "https://twitter.com/aykay"
+          },
+          {
             "title": "Andreas Lüdemann’s Blog",
             "author": "Andreas Lüdemann",
             "site_url": "https://www.andreaslydemann.com",
@@ -265,6 +279,20 @@
             "site_url": "http://www.cleanswifter.com",
             "feed_url": "http://cleanswifter.com/feed/",
             "twitter_url": "https://twitter.com/obusek"
+          },
+          {
+            "title": "annema.me",
+            "author": "Klaas Pieter Annema",
+            "site_url": "http://www.annema.me/",
+            "feed_url": "https://annema.me/feed.xml",
+            "twitter_url": "https://twitter.com/klaaspieter"
+          },
+          {
+            "title": "Antitypical",
+            "author": "Rob Rix‎",
+            "site_url": "http://antitypical.com/",
+            "feed_url": "http://antitypical.com/feed.xml",
+            "twitter_url": "https://twitter.com/rob_rix"
           },
           {
             "title": "AnySuggestion",
@@ -532,11 +560,25 @@
             "twitter_url": "https://twitter.com/weichsel"
           },
           {
+            "title": "Cabel.me",
+            "author": "Cabel Sasser",
+            "site_url": "https://cabel.me",
+            "feed_url": "https://cabel.me/feed/",
+            "twitter_url": "https://twitter.com/cabel"
+          },
+          {
             "title": "CALayer",
             "author": "Shannon Potter",
             "site_url": "https://calayer.com/",
             "feed_url": "https://www.calayer.com/feed.xml",
             "twitter_url": "https://twitter.com/lucastizma"
+          },
+          {
+            "title": "Call Me Fishmeal",
+            "author": "Wil Shipley",
+            "site_url": "http://blog.wilshipley.com/",
+            "feed_url": "http://blog.wilshipley.com/rss.xml",
+            "twitter_url": "https://twitter.com/wilshipley"
           },
           {
             "title": "carpeaqua",
@@ -940,6 +982,13 @@
             "feed_url": "https://www.dusantadic.dev/index.xml"
           },
           {
+            "title": "Egor Tolstoy’s Blog",
+            "author": "Egor Tolstoy",
+            "site_url": "http://etolstoy.com",
+            "feed_url": "http://etolstoy.com/feed.xml",
+            "twitter_url": "https://twitter.com/igrekde"
+          },
+          {
             "title": "Elegant Chaos",
             "author": "Sam Deane",
             "site_url": "http://elegantchaos.com/news/",
@@ -1075,6 +1124,13 @@
             "site_url": "https://www.futuretap.com/blog?tag=developer",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
             "twitter_url": "https://twitter.com/ortwingentz"
+          },
+          {
+            "title": "Gabriel Hauber’s Blog",
+            "author": "Gabriel Hauber",
+            "site_url": "http://gabrielhauber.net/",
+            "feed_url": "http://gabrielhauber.net/feed.xml",
+            "twitter_url": "https://twitter.com/gabrielhauber"
           },
           {
             "title": "Gabriel Theodoropoulos’ Blog",
@@ -1421,6 +1477,13 @@
             "twitter_url": "https://twitter.com/_julianschiavo"
           },
           {
+            "title": "Jury.me",
+            "author": "Michael Jurewitz",
+            "site_url": "http://jury.me/blog/",
+            "feed_url": "http://jury.me/blog?format=rss",
+            "twitter_url": "https://twitter.com/jury"
+          },
+          {
             "title": "Just Sit And Grin",
             "author": "Artem Loenko",
             "site_url": "https://dive.github.io/",
@@ -1713,6 +1776,13 @@
             "twitter_url": "https://twitter.com/mitrevski"
           },
           {
+            "title": "Mateusz Stawecki’s Blog",
+            "author": "Mateusz Stawecki",
+            "site_url": "https://stawecki.wordpress.com",
+            "feed_url": "https://stawecki.wordpress.com/feed/",
+            "twitter_url": "https://twitter.com/stawecki"
+          },
+          {
             "title": "Matt Delves’ Blog",
             "author": "Matt Delves",
             "site_url": "https://mattdelves.com",
@@ -1753,6 +1823,20 @@
             "site_url": "https://medium.com/@mxcl",
             "feed_url": "https://medium.com/feed/@mxcl",
             "twitter_url": "https://twitter.com/mxcl"
+          },
+          {
+            "title": "Meng To’s Blog",
+            "author": "Meng To",
+            "site_url": "http://blog.mengto.com",
+            "feed_url": "http://blog.mengto.com/feed/",
+            "twitter_url": "https://twitter.com/mengto"
+          },
+          {
+            "title": "The Mental Blog",
+            "author": "Drew McCormack",
+            "site_url": "http://mentalfaculty.tumblr.com",
+            "feed_url": "http://mentalfaculty.tumblr.com/rss",
+            "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
             "title": "Michael Tsai’s Blog",
@@ -1973,6 +2057,13 @@
             "site_url": "https://nshipster.com",
             "feed_url": "https://nshipster.com/feed.xml",
             "twitter_url": "https://twitter.com/nshipster"
+          },
+          {
+            "title": "NSProgrammer",
+            "author": "Nolan O’Brien",
+            "site_url": "http://nsprogrammer.com",
+            "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
+            "twitter_url": "https://twitter.com/NSProgrammer"
           },
           {
             "title": "Objective Tidbits",
@@ -2338,6 +2429,13 @@
             "twitter_url": "https://twitter.com/ScottBerrevoets"
           },
           {
+            "title": "Scott Gardner's Blog",
+            "author": "Scott Gardner",
+            "site_url": "https://scotteg.github.io",
+            "feed_url": "https://scotteg.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/scotteg"
+          },
+          {
             "title": "Sealed Abstract",
             "author": "Drew Crawford",
             "site_url": "http://sealedabstract.com",
@@ -2492,6 +2590,13 @@
             "site_url": "http://stuartkhall.com/",
             "feed_url": "http://feeds.feedburner.com/stuartkhall",
             "twitter_url": "https://twitter.com/stuartkhall"
+          },
+          {
+            "title": "Sunset Lake Software",
+            "author": "Brad Larson",
+            "site_url": "http://www.sunsetlakesoftware.com/blog",
+            "feed_url": "http://www.sunsetlakesoftware.com/blog/rss.xml/rss",
+            "twitter_url": "https://twitter.com/bradlarson"
           },
           {
             "title": "Sunshinejr’s Blog",
@@ -2660,6 +2765,20 @@
             "twitter_url": "https://twitter.com/ashishkakkad8"
           },
           {
+            "title": "that thing in swift",
+            "author": "Nick O’Neill",
+            "site_url": "https://thatthinginswift.com/",
+            "feed_url": "https://thatthinginswift.com/index.xml",
+            "twitter_url": "https://twitter.com/nickoneill"
+          },
+          {
+            "title": "Theocacao",
+            "author": "Scott Stevenson",
+            "site_url": "http://theocacao.com",
+            "feed_url": "http://theocacao.com/index.rss",
+            "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
             "title": "Think & Build",
             "author": "Yari D’areglia",
             "site_url": "http://www.thinkandbuild.it",
@@ -2721,6 +2840,13 @@
             "site_url": "https://blog.timac.org",
             "feed_url": "https://blog.timac.org/index.xml",
             "twitter_url": "https://twitter.com/timacfr"
+          },
+          {
+            "title": "Time.code()",
+            "author": "Chris Adamson",
+            "site_url": "http://subfurther.com/blog/",
+            "feed_url": "http://subfurther.com/blog/feed/",
+            "twitter_url": "https://twitter.com/invalidname"
           },
           {
             "title": "Tomasz Szulc’s Blog",
@@ -2929,132 +3055,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Airspeed Velocity",
-            "author": "Ben Cohen",
-            "site_url": "https://airspeedvelocity.net",
-            "feed_url": "https://airspeedvelocity.net/feed/",
-            "twitter_url": "https://twitter.com/airspeedswift"
-          },
-          {
-            "title": "Andreas Kurtz’s Blog",
-            "author": "Andreas Kurtz",
-            "site_url": "https://andreas-kurtz.de/post/",
-            "feed_url": "https://andreas-kurtz.de/post/index.xml",
-            "twitter_url": "https://twitter.com/aykay"
-          },
-          {
-            "title": "annema.me",
-            "author": "Klaas Pieter Annema",
-            "site_url": "http://www.annema.me/",
-            "feed_url": "https://annema.me/feed.xml",
-            "twitter_url": "https://twitter.com/klaaspieter"
-          },
-          {
-            "title": "Antitypical",
-            "author": "Rob Rix‎",
-            "site_url": "http://antitypical.com/",
-            "feed_url": "http://antitypical.com/feed.xml",
-            "twitter_url": "https://twitter.com/rob_rix"
-          },
-          {
-            "title": "Scott Gardner's Blog",
-            "author": "Scott Gardner",
-            "site_url": "https://scotteg.github.io",
-            "feed_url": "https://scotteg.github.io/feed.xml",
-            "twitter_url": "https://twitter.com/scotteg"
-          },
-          {
-            "title": "Cabel.me",
-            "author": "Cabel Sasser",
-            "site_url": "https://cabel.me",
-            "feed_url": "https://cabel.me/feed/",
-            "twitter_url": "https://twitter.com/cabel"
-          },
-          {
-            "title": "Call Me Fishmeal",
-            "author": "Wil Shipley",
-            "site_url": "http://blog.wilshipley.com/",
-            "feed_url": "http://blog.wilshipley.com/rss.xml",
-            "twitter_url": "https://twitter.com/wilshipley"
-          },
-          {
-            "title": "Egor Tolstoy’s Blog",
-            "author": "Egor Tolstoy",
-            "site_url": "http://etolstoy.com",
-            "feed_url": "http://etolstoy.com/feed.xml",
-            "twitter_url": "https://twitter.com/igrekde"
-          },
-          {
-            "title": "Gabriel Hauber’s Blog",
-            "author": "Gabriel Hauber",
-            "site_url": "http://gabrielhauber.net/",
-            "feed_url": "http://gabrielhauber.net/feed.xml",
-            "twitter_url": "https://twitter.com/gabrielhauber"
-          },
-          {
-            "title": "Jury.me",
-            "author": "Michael Jurewitz",
-            "site_url": "http://jury.me/blog/",
-            "feed_url": "http://jury.me/blog?format=rss",
-            "twitter_url": "https://twitter.com/jury"
-          },
-          {
-            "title": "Mateusz Stawecki’s Blog",
-            "author": "Mateusz Stawecki",
-            "site_url": "https://stawecki.wordpress.com",
-            "feed_url": "https://stawecki.wordpress.com/feed/",
-            "twitter_url": "https://twitter.com/stawecki"
-          },
-          {
-            "title": "Meng To’s Blog",
-            "author": "Meng To",
-            "site_url": "http://blog.mengto.com",
-            "feed_url": "http://blog.mengto.com/feed/",
-            "twitter_url": "https://twitter.com/mengto"
-          },
-          {
-            "title": "The Mental Blog",
-            "author": "Drew McCormack",
-            "site_url": "http://mentalfaculty.tumblr.com",
-            "feed_url": "http://mentalfaculty.tumblr.com/rss",
-            "twitter_url": "https://twitter.com/drewmccormack"
-          },
-          {
-            "title": "NSProgrammer",
-            "author": "Nolan O’Brien",
-            "site_url": "http://nsprogrammer.com",
-            "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
-            "twitter_url": "https://twitter.com/NSProgrammer"
-          },
-          {
-            "title": "Sunset Lake Software",
-            "author": "Brad Larson",
-            "site_url": "http://www.sunsetlakesoftware.com/blog",
-            "feed_url": "http://www.sunsetlakesoftware.com/blog/rss.xml/rss",
-            "twitter_url": "https://twitter.com/bradlarson"
-          },
-          {
-            "title": "that thing in swift",
-            "author": "Nick O’Neill",
-            "site_url": "https://thatthinginswift.com/",
-            "feed_url": "https://thatthinginswift.com/index.xml",
-            "twitter_url": "https://twitter.com/nickoneill"
-          },
-          {
-            "title": "Theocacao",
-            "author": "Scott Stevenson",
-            "site_url": "http://theocacao.com",
-            "feed_url": "http://theocacao.com/index.rss",
-            "twitter_url": "https://twitter.com/scottstevenson"
-          },
-          {
-            "title": "Time.code()",
-            "author": "Chris Adamson",
-            "site_url": "http://subfurther.com/blog/",
-            "feed_url": "http://subfurther.com/blog/feed/",
-            "twitter_url": "https://twitter.com/invalidname"
           }
         ]
       },
