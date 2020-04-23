@@ -1915,10 +1915,10 @@
             "twitter_url": "https://twitter.com/MobileA11y"
           },
           {
-            "title": "Mobile Development with Aloha",
+            "title": "Development with Mike Nachbaur",
             "author": "Mike Nachbaur",
-            "site_url": "http://nachbaur.com/tag/apple",
-            "feed_url": "https://nachbaur.com/tag/apple/feed/",
+            "site_url": "https://nachbaur.com/",
+            "feed_url": "https://nachbaur.com/posts/index.xml",
             "twitter_url": "https://twitter.com/NachoMan"
           },
           {
