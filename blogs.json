@@ -370,18 +370,18 @@
             "twitter_url": "https://twitter.com/moeburney"
           },
           {
-            "title": "Baking Swift",
-            "author": "Jeroen Bakker",
-            "site_url": "https://jeroenscode.com",
-            "feed_url": "https://jeroenscode.com/feed/",
-            "twitter_url": "https://twitter.com/jeroenbios"
-          },
-          {
             "title": "Badarinath Venkatnarayansetty on Medium",
             "author": "Badarinath Venkatnarayansetty",
             "site_url": "https://medium.com/@badrinathvm",
             "feed_url": "https://medium.com/feed/@badrinathvm",
             "twitter_url": "https://twitter.com/badrivm"
+          },
+          {
+            "title": "Baking Swift",
+            "author": "Jeroen Bakker",
+            "site_url": "https://jeroenscode.com",
+            "feed_url": "https://jeroenscode.com/feed/",
+            "twitter_url": "https://twitter.com/jeroenbios"
           },
           {
             "title": "Bartosz Ciechanowski’s Blog",
@@ -1266,7 +1266,7 @@
             "feed_url": "https://iosdev.tools/rss.php",
             "twitter_url": "https://twitter.com/adamswinden"
           },
-         {
+          {
             "title": "iOS Examples Without Code",
             "author": "Steve Mykytyn",
             "site_url": "https://medium.com/ios-examples-without-code",
@@ -3070,11 +3070,46 @@
         "description": "All of the iOS business and marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
         "sites": [
           {
+            "title": "Airspeed Velocity",
+            "author": "Ben Cohen",
+            "site_url": "https://airspeedvelocity.net",
+            "feed_url": "https://airspeedvelocity.net/feed/",
+            "twitter_url": "https://twitter.com/airspeedswift"
+          },
+          {
+            "title": "Andreas Kurtz’s Blog",
+            "author": "Andreas Kurtz",
+            "site_url": "https://andreas-kurtz.de/post/",
+            "feed_url": "https://andreas-kurtz.de/post/index.xml",
+            "twitter_url": "https://twitter.com/aykay"
+          },
+          {
+            "title": "annema.me",
+            "author": "Klaas Pieter Annema",
+            "site_url": "http://www.annema.me/",
+            "feed_url": "https://annema.me/feed.xml",
+            "twitter_url": "https://twitter.com/klaaspieter"
+          },
+          {
+            "title": "Antitypical",
+            "author": "Rob Rix‎",
+            "site_url": "http://antitypical.com/",
+            "feed_url": "http://antitypical.com/feed.xml",
+            "twitter_url": "https://twitter.com/rob_rix"
+          },
+          {
             "title": "Appbot",
             "author": "Stuart Hall, Claire McGregor, Christie Hunter",
             "site_url": "https://stories.appbot.co/",
             "feed_url": "https://stories.appbot.co/feed",
             "twitter_url": "https://twitter.com/appbotx"
+          },
+          {
+            "title": "Apple Outsider",
+            "author": "Matt Drance",
+            "site_url": "http://www.appleoutsider.com",
+            "feed_url": "http://www.appleoutsider.com/feed/",
+            "twitter_url": "https://twitter.com/drance"
           },
           {
             "title": "AppManager",
@@ -3105,76 +3140,6 @@
             "twitter_url": "https://twitter.com/phituregrowth"
           },
           {
-            "title": "Curtis Herbert’s Blog",
-            "author": "Curtis Herbert",
-            "site_url": "https://blog.curtisherbert.com/",
-            "feed_url": "http://blog.curtisherbert.com/rss/",
-            "twitter_url": "https://twitter.com/parrots"
-          },
-          {
-            "title": "The FutureBlog – For App Marketers",
-            "author": "Ortwin Gentz",
-            "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
-            "feed_url": "https://www.futuretap.com/category/blog/feed?tag=app-marketing",
-            "twitter_url": "https://twitter.com/ortwingentz"
-          },
-          {
-            "title": "Hey, I Make Apps!",
-            "author": "Michael Tigas",
-            "site_url": "https://heyimakeapps.com/blog/",
-            "feed_url": "https://heyimakeapps.com/blog?format=rss",
-            "twitter_url": "https://twitter.com/michael_tigas"
-          },
-          {
-            "title": "Joe Cieplinski’s Blog",
-            "author": "Joe Cieplinski",
-            "site_url": "https://joecieplinski.com/blog/",
-            "feed_url": "http://www.joecieplinski.com/blog/rss/",
-            "twitter_url": "https://twitter.com/jcieplinski"
-          },
-          {
-            "title": "Airspeed Velocity",
-            "author": "Ben Cohen",
-            "site_url": "https://airspeedvelocity.net",
-            "feed_url": "https://airspeedvelocity.net/feed/",
-            "twitter_url": "https://twitter.com/airspeedswift"
-          },
-          {
-            "title": "Andreas Kurtz’s Blog",
-            "author": "Andreas Kurtz",
-            "site_url": "https://andreas-kurtz.de/post/",
-            "feed_url": "https://andreas-kurtz.de/post/index.xml",
-            "twitter_url": "https://twitter.com/aykay"
-          },
-          {
-            "title": "annema.me",
-            "author": "Klaas Pieter Annema",
-            "site_url": "http://www.annema.me/",
-            "feed_url": "https://annema.me/feed.xml",
-            "twitter_url": "https://twitter.com/klaaspieter"
-          },
-          {
-            "title": "Antitypical",
-            "author": "Rob Rix‎",
-            "site_url": "http://antitypical.com/",
-            "feed_url": "http://antitypical.com/feed.xml",
-            "twitter_url": "https://twitter.com/rob_rix"
-          },
-          {
-            "title": "Apple Outsider",
-            "author": "Matt Drance",
-            "site_url": "http://www.appleoutsider.com",
-            "feed_url": "http://www.appleoutsider.com/feed/",
-            "twitter_url": "https://twitter.com/drance"
-          },
-          {
-            "title": "Scott Gardner's Blog",
-            "author": "Scott Gardner",
-            "site_url": "https://scotteg.github.io",
-            "feed_url": "https://scotteg.github.io/feed.xml",
-            "twitter_url": "https://twitter.com/scotteg"
-          },
-          {
             "title": "Cabel.me",
             "author": "Cabel Sasser",
             "site_url": "https://cabel.me",
@@ -3189,6 +3154,13 @@
             "twitter_url": "https://twitter.com/wilshipley"
           },
           {
+            "title": "Curtis Herbert’s Blog",
+            "author": "Curtis Herbert",
+            "site_url": "https://blog.curtisherbert.com/",
+            "feed_url": "http://blog.curtisherbert.com/rss/",
+            "twitter_url": "https://twitter.com/parrots"
+          },
+          {
             "title": "Egor Tolstoy’s Blog",
             "author": "Egor Tolstoy",
             "site_url": "http://etolstoy.com",
@@ -3196,11 +3168,32 @@
             "twitter_url": "https://twitter.com/igrekde"
           },
           {
+            "title": "The FutureBlog – For App Marketers",
+            "author": "Ortwin Gentz",
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
+            "feed_url": "https://www.futuretap.com/category/blog/feed?tag=app-marketing",
+            "twitter_url": "https://twitter.com/ortwingentz"
+          },
+          {
             "title": "Gabriel Hauber’s Blog",
             "author": "Gabriel Hauber",
             "site_url": "http://gabrielhauber.net/",
             "feed_url": "http://gabrielhauber.net/feed.xml",
             "twitter_url": "https://twitter.com/gabrielhauber"
+          },
+          {
+            "title": "Hey, I Make Apps!",
+            "author": "Michael Tigas",
+            "site_url": "https://heyimakeapps.com/blog/",
+            "feed_url": "https://heyimakeapps.com/blog?format=rss",
+            "twitter_url": "https://twitter.com/michael_tigas"
+          },
+          {
+            "title": "Joe Cieplinski’s Blog",
+            "author": "Joe Cieplinski",
+            "site_url": "https://joecieplinski.com/blog/",
+            "feed_url": "http://www.joecieplinski.com/blog/rss/",
+            "twitter_url": "https://twitter.com/jcieplinski"
           },
           {
             "title": "Jury.me",
@@ -3236,6 +3229,13 @@
             "site_url": "http://nsprogrammer.com",
             "feed_url": "http://www.nsprogrammer.com/feeds/posts/default",
             "twitter_url": "https://twitter.com/NSProgrammer"
+          },
+          {
+            "title": "Scott Gardner's Blog",
+            "author": "Scott Gardner",
+            "site_url": "https://scotteg.github.io",
+            "feed_url": "https://scotteg.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/scotteg"
           },
           {
             "title": "Sunset Lake Software",
