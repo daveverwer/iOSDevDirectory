@@ -1631,13 +1631,6 @@
             "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
-            "title": "Loic Land",
-            "author": "Loïc Lecrenier",
-            "site_url": "https://loic.land/",
-            "feed_url": "https://loic.land/feed.xml",
-            "twitter_url": "https://twitter.com/loiclec"
-          },
-          {
             "title": "Lord Codes",
             "author": "Andrew Lord",
             "site_url": "https://www.lordcodes.com/ios/",
@@ -3638,20 +3631,6 @@
             "site_url": "https://peripheryapp.com/blog/",
             "feed_url": "https://www.peripheryapp.com/blog/feed.xml",
             "twitter_url": "https://twitter.com/peripheryappcom"
-          },
-          {
-            "title": "POSSIBLE Mobile Blog",
-            "author": "POSSIBLE Mobile",
-            "site_url": "https://possiblemobile.com/tag/ios/",
-            "feed_url": "https://possiblemobile.com/tag/ios/feed/",
-            "twitter_url": "https://twitter.com/POSSIBLEmobile"
-          },
-          {
-            "title": "Prolific Interactive Ideas",
-            "author": "Prolific Interactive Team",
-            "site_url": "https://www.prolificinteractive.com/ideas/",
-            "feed_url": "https://www.prolificinteractive.com/feed/",
-            "twitter_url": "https://twitter.com/weareprolific"
           },
           {
             "title": "QuickBird Studios Blog",
