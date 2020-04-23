@@ -806,7 +806,7 @@
             "title": "Daniele Margutti’s Blog",
             "author": "Daniele Margutti",
             "site_url": "http://danielemargutti.com",
-            "feed_url": "http://danielemargutti.com/feed/",
+            "feed_url": "http://danielemargutti.com/atom.xml",
             "twitter_url": "https://twitter.com/danielemargutti"
           },
           {
@@ -3865,7 +3865,7 @@
             "title": "iDeveloper Podcast",
             "author": "Steve Scott and John Fox",
             "site_url": "http://ideveloper.co/",
-            "feed_url": "https://podcasts.apple.com/gb/podcast/the-ideveloper-podcast/id400664935"
+            "feed_url": "http://feeds.ideveloper.co/ideveloperpodcast.xml"
           },
           {
             "title": "Independence",
@@ -3985,8 +3985,8 @@
             "title": "Waiting for Review",
             "author": "Dave Nott and Dave Woods",
             "site_url": "https://waitingforreview.com/",
-            "twitter_url": "https://twitter.com/wfrpodcast",
-            "feed_url": "https://waitingforreview.com/feed/podcast/"
+            "feed_url": "https://feeds.fireside.fm/waitingforreview/rss",
+            "twitter_url": "https://twitter.com/wfrpodcast"
           }
         ]
       },
