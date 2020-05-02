@@ -1769,6 +1769,13 @@
             "twitter_url": "https://twitter.com/mitrevski"
           },
           {
+            "title": "Mateusz Matrejek's Blog",
+            "author": "Mateusz Matrejek",
+            "site_url": "https://matrejek.eu/",
+            "feed_url": "https://matrejek.eu/feed.rss",
+            "twitter_url": "https://twitter.com/matrejek"
+          },
+          {
             "title": "Mateusz Stawecki’s Blog",
             "author": "Mateusz Stawecki",
             "site_url": "https://stawecki.wordpress.com",
