@@ -1477,6 +1477,13 @@
             "twitter_url": "https://twitter.com/jsorgenet"
           },
           {
+            "title": "Julian Alonso's Blog",
+            "author": "Julian Alonso",
+            "site_url": "http://diariodeprogramacion.com/",
+            "feed_url": "http://diariodeprogramacion.com/feed.xml",
+            "twitter_url": "https://twitter.com/maisterjuli"
+          },
+          {
             "title": "Julian Schiavo’s Blog",
             "author": "Julian Schiavo",
             "site_url": "https://schiavo.me",
