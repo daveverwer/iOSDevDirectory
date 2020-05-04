@@ -2130,6 +2130,13 @@
             "microblog_url": "https://micro.blog/uliwitness"
           },
           {
+            "title": "Orestis' Papadopoulos Blog",
+            "author": "Orestis Papadopoulos",
+            "site_url": "https://orjpap.github.io",
+            "feed_url": "https://orjpap.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/OrestisPapadop8"
+          },
+          {
             "title": "Ordinary Coding",
             "author": "Artur Rymarz",
             "site_url": "https://ordinarycoding.com",
