@@ -475,6 +475,13 @@
             "twitter_url": "https://twitter.com/bendodson"
           },
           {
+            "title": "Ben Gilroy's Medium",
+            "author": "Ben Gilroy",
+            "site_url": "https://medium.com/@bengilroy",
+            "feed_url": "https://medium.com/feed/@bengilroy",
+            "twitter_url": "https://twitter.com/GilroyBen"
+          },
+          {
             "title": "Ben Scheirman’s Blog",
             "author": "Ben Scheirman",
             "site_url": "https://benscheirman.com/",
