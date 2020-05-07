@@ -281,6 +281,13 @@
             "twitter_url": "https://twitter.com/obusek"
           },
           {
+            "title": "Andreas Neusüß's Blog - Anerma",
+            "author": "Andreas Neusüß",
+            "site_url": "https://anerma.de/blog/",
+            "feed_url": "https://anerma.de/blog/feed/",
+            "twitter_url": "https://twitter.com/Klaarname"
+          },
+          {
             "title": "annema.me",
             "author": "Klaas Pieter Annema",
             "site_url": "http://www.annema.me/",
@@ -466,6 +473,13 @@
             "site_url": "https://bendodson.com/weblog/",
             "feed_url": "https://bendodson.com/rss.xml",
             "twitter_url": "https://twitter.com/bendodson"
+          },
+          {
+            "title": "Ben Gilroy's Medium",
+            "author": "Ben Gilroy",
+            "site_url": "https://medium.com/@bengilroy",
+            "feed_url": "https://medium.com/feed/@bengilroy",
+            "twitter_url": "https://twitter.com/GilroyBen"
           },
           {
             "title": "Ben Scheirman’s Blog",
@@ -1477,6 +1491,13 @@
             "twitter_url": "https://twitter.com/jsorgenet"
           },
           {
+            "title": "Julian Alonso's Blog",
+            "author": "Julian Alonso",
+            "site_url": "http://diariodeprogramacion.com/",
+            "feed_url": "http://diariodeprogramacion.com/feed.xml",
+            "twitter_url": "https://twitter.com/maisterjuli"
+          },
+          {
             "title": "Julian Schiavo’s Blog",
             "author": "Julian Schiavo",
             "site_url": "https://schiavo.me",
@@ -1538,6 +1559,13 @@
             "site_url": "https://khawerkhaliq.com",
             "feed_url": "https://khawerkhaliq.com/feed/",
             "twitter_url": "https://twitter.com/khawerkhaliq"
+          },
+          {
+            "title": "Kin + Carta Create Medium (iOS)",
+            "author": "Kin + Carta Create Engineers",
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios",
+            "feed_url": "https://medium.com/feed/kinandcartacreated/tagged/ios",
+            "twitter_url": "https://twitter.com/kinandcarta_cr"
           },
           {
             "title": "KrakenDev",
@@ -1823,6 +1851,13 @@
             "site_url": "https://medium.com/@mxcl",
             "feed_url": "https://medium.com/feed/@mxcl",
             "twitter_url": "https://twitter.com/mxcl"
+          },
+          {
+            "title": "Mhd Hejazi on Medium",
+            "author": "Mhd Hejazi",
+            "site_url": "https://medium.com/@mhdhejazi",
+            "feed_url": "https://medium.com/feed/@mhdhejazi",
+            "twitter_url": "https://twitter.com/Hejazi"
           },
           {
             "title": "Meng To’s Blog",
@@ -2114,6 +2149,13 @@
             "feed_url": "https://orangejuiceliberationfront.com/feed.xml",
             "twitter_url": "https://twitter.com/uliwitness",
             "microblog_url": "https://micro.blog/uliwitness"
+          },
+          {
+            "title": "Orestis' Papadopoulos Blog",
+            "author": "Orestis Papadopoulos",
+            "site_url": "https://orjpap.github.io",
+            "feed_url": "https://orjpap.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/OrestisPapadop8"
           },
           {
             "title": "Ordinary Coding",
@@ -2538,10 +2580,10 @@
             "twitter_url": "https://twitter.com/khanlou"
           },
           {
-            "title": "Sound of Silence",
+            "title": "Matt Reagan's Blog",
             "author": "Matt Reagan",
-            "site_url": "http://sound-of-silence.com",
-            "feed_url": "http://sound-of-silence.com/rss.xml",
+            "site_url": "http://mattreagandev.com",
+            "feed_url": "http://mattreagandev.com/rss.xml",
             "twitter_url": "https://twitter.com/hmblebee"
           },
           {
