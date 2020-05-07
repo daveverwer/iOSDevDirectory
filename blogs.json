@@ -858,6 +858,13 @@
             "twitter_url": "https://twitter.com/dcordero"
           },
           {
+            "title": "David House’s Blog",
+            "author": "David House",
+            "site_url": "https://www.davidahouse.com/",
+            "feed_url": "https://www.davidahouse.com/feed.xml",
+            "twitter_url": "https://twitter.com/davidahouse"
+          },
+          {
             "title": "David Piper on Medium",
             "author": "David Piper",
             "site_url": "https://medium.com/@HeyDaveTheDev",
