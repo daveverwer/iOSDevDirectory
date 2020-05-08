@@ -57,7 +57,7 @@
             "feed_url": "https://github.com/apple/swift-evolution/commits/master.atom"
           },
           {
-            "title": "Unnoficial Apple Developer App News Feed",
+            "title": "Unofficial Apple Developer App News Feed",
             "author": "Apple, and Brandon Evans",
             "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
             "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
