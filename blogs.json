@@ -231,6 +231,13 @@
             "twitter_url": "https://twitter.com/vixentael"
           },
           {
+            "title": "Andrea Antonioni’s Blog",
+            "author": "Andrea Antonioni",
+            "site_url": "https://aantonioni.me/",
+            "feed_url": "https://aantonioni.me/feed/",
+            "twitter_url": "https://twitter.com/andrea_anto97"
+          },
+          {
             "title": "Andreas Kurtz’s Blog",
             "author": "Andreas Kurtz",
             "site_url": "https://andreas-kurtz.de/post/",
