@@ -3618,6 +3618,12 @@
             "twitter_url": "https://twitter.com/martiancraft"
           },
           {
+            "title": "Monstar Lab Engineering Blog",
+            "author": "Monstar Lab",
+            "site_url": "https://engineering.monstar-lab.com/",
+            "feed_url": "https://engineering.monstar-lab.com/feed.xml"
+          },
+          {
             "title": "Montana Floss Co. Blog",
             "author": "Montana Floss Team",
             "site_url": "https://www.montanafloss.co/blog/?category=Technical",
