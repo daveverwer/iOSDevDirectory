@@ -1265,6 +1265,13 @@
             "twitter_url": "https://twitter.com/simmelj"
           },
           {
+            "title": "Ian Keen's Blog",
+            "author": "Ian Keen",
+            "site_url": "https://iankeen.tech",
+            "feed_url": "https://iankeen.tech/atom.xml",
+            "twitter_url": "https://twitter.com/IanKay"
+          },
+          {
             "title": "iCalvin.dev",
             "author": "Calvin Chestnut",
             "site_url": "https://icalvin.dev/",
