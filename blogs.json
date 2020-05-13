@@ -3459,6 +3459,12 @@
             "twitter_url": "https://twitter.com/infinumco"
           },
           {
+            "title": "Cash App Code Blog",
+            "author": "Cash App",
+            "site_url": "https://cashapp.github.io/",
+            "feed_url": "https://cashapp.github.io/feed/ios.xml"
+          },
+          {
             "title": "Cerebral Gardens",
             "author": "Dave Wood",
             "site_url": "https://www.cerebralgardens.com/blog",
