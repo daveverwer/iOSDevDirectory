@@ -1546,6 +1546,13 @@
             "twitter_url": "https://twitter.com/KairaDiagne"
           },
           {
+            "title": "Kamil Pyć’s Blog",
+            "author": "Kamil Pyć",
+            "site_url": "https://pyckamil.github.io",
+            "feed_url": "https://pyckamil.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/kamilpyc"
+          },
+          {
             "title": "Karol S. Mazur’s Blog",
             "author": "Karol S. Mazur",
             "site_url": "https://blog.mazur.me",
