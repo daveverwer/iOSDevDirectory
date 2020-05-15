@@ -2268,6 +2268,13 @@
             "twitter_url": "https://twitter.com/peterfriese"
           },
           {
+            "title": "Peter Steinberger’s Blog",
+            "author": "Peter Steinberger",
+            "site_url": "https://steipete.com",
+            "feed_url": "https://steipete.com/feed.xml",
+            "twitter_url": "https://twitter.com/steipete"
+          },
+          {
             "title": "Pierre Felgines’s Blog",
             "author": "Pierre Felgines",
             "site_url": "https://felginep.github.io",
