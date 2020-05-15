@@ -252,6 +252,13 @@
             "twitter_url": "https://twitter.com/andreaslydemann"
           },
           {
+            "title": "Andreas Neusüß's Blog - Anerma",
+            "author": "Andreas Neusüß",
+            "site_url": "https://anerma.de/blog/",
+            "feed_url": "https://anerma.de/blog/feed/",
+            "twitter_url": "https://twitter.com/Klaarname"
+          },
+          {
             "title": "Andrew Bancroft’s Blog",
             "author": "Andrew Bancroft",
             "site_url": "https://www.andrewcbancroft.com",
@@ -292,13 +299,6 @@
             "site_url": "http://www.cleanswifter.com",
             "feed_url": "http://cleanswifter.com/feed/",
             "twitter_url": "https://twitter.com/obusek"
-          },
-          {
-            "title": "Andreas Neusüß's Blog - Anerma",
-            "author": "Andreas Neusüß",
-            "site_url": "https://anerma.de/blog/",
-            "feed_url": "https://anerma.de/blog/feed/",
-            "twitter_url": "https://twitter.com/Klaarname"
           },
           {
             "title": "annema.me",
@@ -973,6 +973,13 @@
             "site_url": "http://devetc.org",
             "feed_url": "http://devetc.org/feed.xml",
             "twitter_url": "https://twitter.com/dev_etc"
+          },
+          {
+            "title": "Development with Mike Nachbaur",
+            "author": "Mike Nachbaur",
+            "site_url": "https://nachbaur.com/",
+            "feed_url": "https://nachbaur.com/posts/index.xml",
+            "twitter_url": "https://twitter.com/NachoMan"
           },
           {
             "title": "Device Blogs",
@@ -1859,6 +1866,13 @@
             "twitter_url": "https://twitter.com/mdiep"
           },
           {
+            "title": "Matt Reagan's Blog",
+            "author": "Matt Reagan",
+            "site_url": "http://mattreagandev.com",
+            "feed_url": "http://mattreagandev.com/rss.xml",
+            "twitter_url": "https://twitter.com/hmblebee"
+          },
+          {
             "title": "Matteo Manferdini’s Blog",
             "author": "Matteo Manferdini",
             "site_url": "https://matteomanferdini.com/blog/",
@@ -1887,13 +1901,6 @@
             "twitter_url": "https://twitter.com/mxcl"
           },
           {
-            "title": "Mhd Hejazi on Medium",
-            "author": "Mhd Hejazi",
-            "site_url": "https://medium.com/@mhdhejazi",
-            "feed_url": "https://medium.com/feed/@mhdhejazi",
-            "twitter_url": "https://twitter.com/Hejazi"
-          },
-          {
             "title": "Meng To’s Blog",
             "author": "Meng To",
             "site_url": "http://blog.mengto.com",
@@ -1906,6 +1913,13 @@
             "site_url": "http://mentalfaculty.tumblr.com",
             "feed_url": "http://mentalfaculty.tumblr.com/rss",
             "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
+            "title": "Mhd Hejazi on Medium",
+            "author": "Mhd Hejazi",
+            "site_url": "https://medium.com/@mhdhejazi",
+            "feed_url": "https://medium.com/feed/@mhdhejazi",
+            "twitter_url": "https://twitter.com/Hejazi"
           },
           {
             "title": "Michael Tsai’s Blog",
@@ -1982,13 +1996,6 @@
             "site_url": "https://mobilea11y.com",
             "feed_url": "https://mobilea11y.com/index.xml",
             "twitter_url": "https://twitter.com/MobileA11y"
-          },
-          {
-            "title": "Development with Mike Nachbaur",
-            "author": "Mike Nachbaur",
-            "site_url": "https://nachbaur.com/",
-            "feed_url": "https://nachbaur.com/posts/index.xml",
-            "twitter_url": "https://twitter.com/NachoMan"
           },
           {
             "title": "Mobile Invader",
@@ -2191,18 +2198,18 @@
             "microblog_url": "https://micro.blog/uliwitness"
           },
           {
-            "title": "Orestis' Papadopoulos Blog",
-            "author": "Orestis Papadopoulos",
-            "site_url": "https://orjpap.github.io",
-            "feed_url": "https://orjpap.github.io/feed.xml",
-            "twitter_url": "https://twitter.com/OrestisPapadop8"
-          },
-          {
             "title": "Ordinary Coding",
             "author": "Artur Rymarz",
             "site_url": "https://ordinarycoding.com",
             "feed_url": "https://ordinarycoding.com/feed.rss",
             "twitter_url": "https://twitter.com/artrmzx"
+          },
+          {
+            "title": "Orestis' Papadopoulos Blog",
+            "author": "Orestis Papadopoulos",
+            "site_url": "https://orjpap.github.io",
+            "feed_url": "https://orjpap.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/OrestisPapadop8"
           },
           {
             "title": "owensd.io",
@@ -2625,13 +2632,6 @@
             "site_url": "http://khanlou.com/",
             "feed_url": "http://khanlou.com/feed/",
             "twitter_url": "https://twitter.com/khanlou"
-          },
-          {
-            "title": "Matt Reagan's Blog",
-            "author": "Matt Reagan",
-            "site_url": "http://mattreagandev.com",
-            "feed_url": "http://mattreagandev.com/rss.xml",
-            "twitter_url": "https://twitter.com/hmblebee"
           },
           {
             "title": "Spaceman Labs Blog",
