@@ -3151,7 +3151,14 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          }
+          },
+          {
+            "title": "YoSwift - Swift, SwiftUI and Combine tips",
+            "author": "Manoj Karki",
+            "site_url": "https://yoswift.dev",
+            "feed_url": "https://yoswift.dev/feed.rss",
+            "twitter_url": "https://twitter.com/mskarki"
+        }
         ]
       },
       {
