@@ -2345,6 +2345,13 @@
             "twitter_url": "https://twitter.com/radexp"
           },
           {
+            "title": "Ram Shandilya's Blog",
+            "author": "Ramsundar Shandilya",
+            "site_url": "https://ramshandilya.com",
+            "feed_url": "https://ramshandilya.com/feed.rss",
+            "twitter_url": "https://twitter.com/ramshandilya"
+          },
+          {
             "title": "Raul Riera on Medium",
             "author": "Raul Riera",
             "site_url": "https://medium.com/@raulriera/",
