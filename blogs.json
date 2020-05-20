@@ -3925,6 +3925,12 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
+          },
+          {
+            "title": "Igor Nemenonok on Medium",
+            "author": "Igor Nemenonok",
+            "site_url": "https://medium.com/@igornemenonok/",
+            "feed_url": "https://medium.com/feed/@igornemenonok/"
           }
         ]
       },
