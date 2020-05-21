@@ -1560,6 +1560,13 @@
             "twitter_url": "https://twitter.com/KairaDiagne"
           },
           {
+            "title": "Kane Cheshire's Blog",
+            "author": "Kane Cheshire",
+            "site_url": "https://medium.com/@kanecheshire",
+            "feed_url": "https://medium.com/feed/@kanecheshire",
+            "twitter_url": "https://twitter.com/kanecheshire"
+          },
+          {
             "title": "Kamil Pyć’s Blog",
             "author": "Kamil Pyć",
             "site_url": "https://pyckamil.github.io",
