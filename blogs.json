@@ -1112,6 +1112,13 @@
             "twitter_url": "https://twitter.com/krausefx"
           },
           {
+            "title": "Filip Němeček’s Blog",
+            "author": "Filip Němeček",
+            "site_url": "https://nemecek.be/blog/swift-and-ios",
+            "feed_url": "https://nemecek.be/blog/feed/rss",
+            "twitter_url": "https://twitter.com/nemecek_f"
+          },
+          {
             "title": "Figure Ink",
             "author": "Joshua Emmons",
             "site_url": "http://www.figure.ink/",
