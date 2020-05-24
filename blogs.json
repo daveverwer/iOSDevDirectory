@@ -1686,13 +1686,6 @@
             "twitter_url": "https://twitter.com/latenightswift_"
           },
           {
-            "title": "Learn iOS Dev Blog",
-            "author": "Peter Molnar",
-            "site_url": "https://learniosdevblog.com",
-            "feed_url": "https://learniosdevblog.com/feed/",
-            "twitter_url": "https://twitter.com/petermolnar_hu"
-          },
-          {
             "title": "Learning Swift",
             "author": "Leo Dion",
             "site_url": "https://learningswift.brightdigit.com",
@@ -2301,6 +2294,13 @@
             "site_url": "https://peterfriese.dev",
             "feed_url": "https://peterfriese.dev/rss.xml",
             "twitter_url": "https://twitter.com/peterfriese"
+          },
+          {
+            "title": "Petermolnar.dev",
+            "author": "Peter Molnar",
+            "site_url": "https://petermolnar.dev",
+            "feed_url": "https://petermolnar.dev/feed/",
+            "twitter_url": "https://twitter.com/petermolnar_hu"
           },
           {
             "title": "Peter Steinberger’s Blog",
