@@ -2176,6 +2176,13 @@
             "twitter_url": "https://twitter.com/objective_see"
           },
           {
+            "title": "Oh my Swift",
+            "author": "Rizwan Ahmed",
+            "site_url": "https://ohmyswift.com",
+            "feed_url": "https://ohmyswift.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/ohmyswiftblog"
+          },
+          {
             "title": "Ole Begemann’s Blog",
             "author": "Ole Begemann",
             "site_url": "https://oleb.net/blog/",
