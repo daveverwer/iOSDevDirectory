@@ -2917,6 +2917,13 @@
             "twitter_url": "https://twitter.com/drumnkyle"
           },
           {
+            "title": "Thomas Hanning's Blog",
+            "author": "Thomas Hanning",
+            "site_url": "http://www.thomashanning.com",
+            "feed_url": "http://www.thomashanning.com/feed/",
+            "twitter_url": "https://twitter.com/hanning_thomas"
+          },
+          {
             "title": "Thomas Ricouard on Medium",
             "author": "Thomas Ricouard",
             "site_url": "https://medium.com/@dimillian",
