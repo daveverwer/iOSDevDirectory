@@ -1112,18 +1112,18 @@
             "twitter_url": "https://twitter.com/krausefx"
           },
           {
-            "title": "Filip Němeček’s Blog",
-            "author": "Filip Němeček",
-            "site_url": "https://nemecek.be/blog/swift-and-ios",
-            "feed_url": "https://nemecek.be/blog/feed/rss",
-            "twitter_url": "https://twitter.com/nemecek_f"
-          },
-          {
             "title": "Figure Ink",
             "author": "Joshua Emmons",
             "site_url": "http://www.figure.ink/",
             "feed_url": "http://www.figure.ink/blog?format=RSS",
             "twitter_url": "https://twitter.com/jemmons"
+          },
+          {
+            "title": "Filip Němeček’s Blog",
+            "author": "Filip Němeček",
+            "site_url": "https://nemecek.be/blog/swift-and-ios",
+            "feed_url": "https://nemecek.be/blog/feed/rss",
+            "twitter_url": "https://twitter.com/nemecek_f"
           },
           {
             "title": "finestructure",
@@ -1567,18 +1567,18 @@
             "twitter_url": "https://twitter.com/KairaDiagne"
           },
           {
-            "title": "Kane Cheshire's Blog",
-            "author": "Kane Cheshire",
-            "site_url": "https://medium.com/@kanecheshire",
-            "feed_url": "https://medium.com/feed/@kanecheshire",
-            "twitter_url": "https://twitter.com/kanecheshire"
-          },
-          {
             "title": "Kamil Pyć’s Blog",
             "author": "Kamil Pyć",
             "site_url": "https://pyckamil.github.io",
             "feed_url": "https://pyckamil.github.io/feed.xml",
             "twitter_url": "https://twitter.com/kamilpyc"
+          },
+          {
+            "title": "Kane Cheshire's Blog",
+            "author": "Kane Cheshire",
+            "site_url": "https://medium.com/@kanecheshire",
+            "feed_url": "https://medium.com/feed/@kanecheshire",
+            "twitter_url": "https://twitter.com/kanecheshire"
           },
           {
             "title": "Karol S. Mazur’s Blog",
@@ -2303,18 +2303,18 @@
             "twitter_url": "https://twitter.com/peterfriese"
           },
           {
-            "title": "Petermolnar.dev",
-            "author": "Peter Molnar",
-            "site_url": "https://petermolnar.dev",
-            "feed_url": "https://petermolnar.dev/feed/",
-            "twitter_url": "https://twitter.com/petermolnar_hu"
-          },
-          {
             "title": "Peter Steinberger’s Blog",
             "author": "Peter Steinberger",
             "site_url": "https://steipete.com",
             "feed_url": "https://steipete.com/feed.xml",
             "twitter_url": "https://twitter.com/steipete"
+          },
+          {
+            "title": "Petermolnar.dev",
+            "author": "Peter Molnar",
+            "site_url": "https://petermolnar.dev",
+            "feed_url": "https://petermolnar.dev/feed/",
+            "twitter_url": "https://twitter.com/petermolnar_hu"
           },
           {
             "title": "Pierre Felgines’s Blog",
@@ -3645,6 +3645,12 @@
             "feed_url": "https://blog.hobbyistsoftware.com/category/coding/apple/feed"
           },
           {
+            "title": "Igor Nemenonok on Medium",
+            "author": "Igor Nemenonok",
+            "site_url": "https://medium.com/@igornemenonok/",
+            "feed_url": "https://medium.com/feed/@igornemenonok/"
+          },
+          {
             "title": "Industrial Binaries",
             "author": "Industrial Binaries Team",
             "site_url": "https://industrial-binaries.co/articles/",
@@ -3953,12 +3959,6 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
-          },
-          {
-            "title": "Igor Nemenonok on Medium",
-            "author": "Igor Nemenonok",
-            "site_url": "https://medium.com/@igornemenonok/",
-            "feed_url": "https://medium.com/feed/@igornemenonok/"
           }
         ]
       },
