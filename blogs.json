@@ -1742,6 +1742,13 @@
             "twitter_url": "https://twitter.com/lukesmithapps"
           },
           {
+            "title": "Lux Mentis",
+            "author": "Adrian Ross",
+            "site_url": "https://luxmentis.org",
+            "feed_url": "https://luxmentis.org/rss/",
+            "twitter_url": "https://twitter.com/adrianross"
+          },
+          {
             "title": "Machine Think",
             "author": "Matthijs Hollemans",
             "site_url": "http://machinethink.net/blog/",
