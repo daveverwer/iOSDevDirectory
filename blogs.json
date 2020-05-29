@@ -1,4 +1,4 @@
-[
+ [
   {
     "language": "en",
     "title": "English Language",
@@ -70,6 +70,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "NSMutableString",
+            "author": "Bram Huenaerts",
+            "site_url": "http://blog.huenaerts.be",
+            "feed_url": "http://blog.huenaerts.be/archive.html?tag=swift",
+            "twitter_url": "https://twitter.com/bhuenaerts"
+          }
+          ,{
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
