@@ -3348,6 +3348,20 @@
             "twitter_url": "https://twitter.com/appbotx"
           },
           {
+            "title": "Appfigures Blog",
+            "author": "Appfigures Team",
+            "site_url": "https://blog.appfigures.com/",
+            "feed_url": "https://blog.appfigures.com/feed/",
+            "twitter_url": "https://twitter.com/appfigures"
+          },
+          {
+            "title": "Appfigures Resources",
+            "author": "Appfigures Team",
+            "site_url": "https://appfigures.com/resources",
+            "feed_url": "https://appfigures.com/resources/rss/",
+            "twitter_url": "https://twitter.com/appfigures"
+          },
+          {
             "title": "AppManager",
             "author": "Max Ott",
             "site_url": "https://appmanager.io/blog",
@@ -3429,20 +3443,6 @@
             "site_url": "https://blog.jetbrains.com/objc",
             "feed_url": "https://blog.jetbrains.com/objc/feed/",
             "twitter_url": "https://twitter.com/appcode"
-          },
-          {
-            "title": "Appfigures Blog",
-            "author": "Appfigures Team",
-            "site_url": "https://blog.appfigures.com/",
-            "feed_url": "https://blog.appfigures.com/feed/",
-            "twitter_url": "https://twitter.com/appfigures"
-          },
-          {
-            "title": "Appfigures Resources",
-            "author": "Appfigures Team",
-            "site_url": "https://appfigures.com/resources",
-            "feed_url": "https://appfigures.com/resources/rss/",
-            "twitter_url": "https://twitter.com/appfigures"
           },
           {
             "title": "Appracatappra Blog",
