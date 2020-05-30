@@ -1223,6 +1223,13 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
+             "title": "Grant Isom's Blog",
+             "author": "Grant Isom",
+             "site_url": "https://grantisom.com",
+             "feed_url": "https://grantisom.com/feed.xml",
+             "twitter_url": "https://twitter.com/grantisom"
+           },
+          {
             "title": "Guilherme Rambo’s Blog",
             "author": "Guilherme Rambo",
             "site_url": "https://rambo.codes",
