@@ -1852,6 +1852,12 @@
             "feed_url": "http://www.marisibrothers.com/feeds/posts/default"
           },
           {
+            "title": "Mark Brownsword's Blog",
+            "author": "Mark Brownsword",
+            "site_url": "https://markbrownsword.com/",
+            "feed_url": "https://markbrownsword.com/feed"
+          },
+          {
             "title": "Mark Struzinski’s Blog",
             "author": "Mark Struzinski",
             "site_url": "http://markstruzinski.com",
