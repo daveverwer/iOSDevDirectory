@@ -1,4 +1,4 @@
- [
+[
   {
     "language": "en",
     "title": "English Language",
@@ -75,8 +75,8 @@
             "site_url": "http://blog.huenaerts.be",
             "feed_url": "http://blog.huenaerts.be/archive.html?tag=swift",
             "twitter_url": "https://twitter.com/bhuenaerts"
-          }
-          ,{
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -1223,12 +1223,12 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
-             "title": "Grant Isom's Blog",
-             "author": "Grant Isom",
-             "site_url": "https://grantisom.com",
-             "feed_url": "https://grantisom.com/feed.xml",
-             "twitter_url": "https://twitter.com/grantisom"
-           },
+            "title": "Grant Isom's Blog",
+            "author": "Grant Isom",
+            "site_url": "https://grantisom.com",
+            "feed_url": "https://grantisom.com/feed.xml",
+            "twitter_url": "https://twitter.com/grantisom"
+          },
           {
             "title": "Guilherme Rambo’s Blog",
             "author": "Guilherme Rambo",
@@ -2141,11 +2141,11 @@
             "feed_url": "https://medium.com/feed/@niamhpower"
           },
           {
-              "title": "Nikita Lazarev-Zubov on Medium",
-              "author": "Nikita Lazarev-Zubov",
-              "site_url": "https://medium.com/@lazarevzubov",
-              "feed_url": "https://medium.com/feed/@lazarevzubov",
-              "twitter_url": "https://twitter.com/lazarevzubov"
+            "title": "Nikita Lazarev-Zubov on Medium",
+            "author": "Nikita Lazarev-Zubov",
+            "site_url": "https://medium.com/@lazarevzubov",
+            "feed_url": "https://medium.com/feed/@lazarevzubov",
+            "twitter_url": "https://twitter.com/lazarevzubov"
           },
           {
             "title": "Nikita Rodionov on Medium",
@@ -3227,6 +3227,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Rizwan's blog",
+            "author": "Rizwan",
+            "site_url": "https://blog.rizwan.dev",
+            "feed_url": "https://blog.rizwan.dev/rss.xml",
+            "twitter_url": "https://twitter.com/rizzu26"
           }
         ]
       },
