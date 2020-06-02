@@ -70,13 +70,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "NSMutableString",
-            "author": "Bram Huenaerts",
-            "site_url": "http://blog.huenaerts.be",
-            "feed_url": "http://blog.huenaerts.be/archive.html?tag=swift",
-            "twitter_url": "https://twitter.com/bhuenaerts"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -2189,6 +2182,13 @@
             "twitter_url": "https://twitter.com/nshipster"
           },
           {
+            "title": "NSMutableString",
+            "author": "Bram Huenaerts",
+            "site_url": "http://blog.huenaerts.be",
+            "feed_url": "http://blog.huenaerts.be/archive.html?tag=swift",
+            "twitter_url": "https://twitter.com/bhuenaerts"
+          },
+          {
             "title": "NSProgrammer",
             "author": "Nolan O’Brien",
             "site_url": "http://nsprogrammer.com",
@@ -2461,6 +2461,13 @@
             "site_url": "http://riteshhh.com",
             "feed_url": "http://riteshhh.com/rss.xml",
             "twitter_url": "https://twitter.com/_riteshhh"
+          },
+          {
+            "title": "Rizwan's blog",
+            "author": "Rizwan",
+            "site_url": "https://blog.rizwan.dev",
+            "feed_url": "https://blog.rizwan.dev/rss.xml",
+            "twitter_url": "https://twitter.com/rizzu26"
           },
           {
             "title": "Roger Molas’s Blog",
@@ -3227,13 +3234,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Rizwan's blog",
-            "author": "Rizwan",
-            "site_url": "https://blog.rizwan.dev",
-            "feed_url": "https://blog.rizwan.dev/rss.xml",
-            "twitter_url": "https://twitter.com/rizzu26"
           }
         ]
       },
