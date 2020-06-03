@@ -231,6 +231,12 @@
             "twitter_url": "https://twitter.com/vixentael"
           },
           {
+            "title": "Andre Salla's Blog",
+            "author": "Andre Salla",
+            "site_url": "https://andresalla.dev/en",
+            "feed_url": "https://andresalla.dev/en/?feed=rss2"
+          },
+          {
             "title": "Andrea Antonioni’s Blog",
             "author": "Andrea Antonioni",
             "site_url": "https://aantonioni.me/",
@@ -4762,6 +4768,25 @@
             "author": "Иван Акулов",
             "site_url": "https://swiftbook.ru/",
             "feed_url": "https://swiftbook.ru/feed/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "language": "pt-br",
+    "title": "Portuguese(Brazil) Language",
+    "categories": [
+      {
+        "title": "Blogs de desenvolvimento iOS",
+        "slug": "development",
+        "description": "Seja um blog oficial da Apple ou um blog da comunidade que nos mantenha atualizados sobre o que está acontecendo com a plataforma, ele estará aqui.",
+        "sites": [
+          {
+            "title": "Blog de André Salla",
+            "author": "André Salla",
+            "site_url": "https://andresalla.dev",
+            "feed_url": "https://andresalla.dev/?feed=rss2"
           }
         ]
       }
