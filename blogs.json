@@ -1727,17 +1727,17 @@
             "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
-            "title": "Lucas Oliveira dot Tech",
-            "author": "Lucas Oliveira",
-            "site_url": "https://www.lucasoliveira.tech/",
-            "feed_url": "https://www.lucasoliveira.tech/feed.rss"
-          },
-          {
             "title": "Lord Codes",
             "author": "Andrew Lord",
             "site_url": "https://www.lordcodes.com/ios/",
             "feed_url": "https://www.lordcodes.com/feeds/ios.xml",
             "twitter_url": "https://twitter.com/lordcodes"
+          },
+          {
+            "title": "Lucas Oliveira dot Tech",
+            "author": "Lucas Oliveira",
+            "site_url": "https://www.lucasoliveira.tech/",
+            "feed_url": "https://www.lucasoliveira.tech/feed.rss"
           },
           {
             "title": "Luis Ascorbe's Blog",
