@@ -1271,6 +1271,13 @@
             "twitter_url": "https://twitter.com/HeshamMegid"
           },
           {
+            "title": "Heberti Almeida’s Blog",
+            "author": "Heberti Almeida",
+            "site_url": "https://heberti.com/",
+            "feed_url": "https://heberti.com/feed.rss",
+            "twitter_url": "https://twitter.com/hebertialmeida"
+          },
+          {
             "title": "Hi, I’m Sam",
             "author": "Sam Soffes",
             "site_url": "https://soffes.blog/",
