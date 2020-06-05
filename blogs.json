@@ -739,6 +739,13 @@
             "twitter_url": "https://twitter.com/cocoaphony"
           },
           {
+            "title": "Codakuma Blog",
+            "author": "Shaun Donnelly",
+            "site_url": "https://codakuma.com/ios-blog",
+            "feed_url": "https://codakuma.com/rss.xml",
+            "twitter_url": "https://twitter.com/codakuma"
+          },
+          {
             "title": "Code Workshop",
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/",
