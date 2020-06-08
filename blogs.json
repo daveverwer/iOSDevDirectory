@@ -1431,6 +1431,13 @@
             "twitter_url": "https://twitter.com/stevemykytyn"
           },
           {
+            "title": "Jack Newcombe's Blog",
+            "author": "Jack Newcombe",
+            "site_url": "https://newcombe.io/tag/ios/",
+            "feed_url": "https://newcombe.io/tag/ios/feed",
+            "twitter_url": "https://twitter.com/jacknewc"
+          },
+          {
             "title": "James Dempsey’s Blog",
             "author": "James Dempsey",
             "site_url": "http://jamesdempsey.net",
