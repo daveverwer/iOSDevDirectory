@@ -1903,6 +1903,13 @@
             "twitter_url": "https://twitter.com/ski081"
           },
           {
+            "title": "Martin Höller's Blog",
+            "author": "Martin Höller",
+            "site_url": "https://blog.martinhoeller.net/development.html",
+            "feed_url": "https://blog.martinhoeller.net/feed.xml",
+            "twitter_url": "https://twitter.com/martinhoeller"
+          },
+          {
             "title": "Martin Mitrevski’s Blog",
             "author": "Martin Mitrevski",
             "site_url": "https://martinmitrevski.com/",
