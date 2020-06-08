@@ -57,12 +57,6 @@
             "feed_url": "https://github.com/apple/swift-evolution/commits/master.atom"
           },
           {
-            "title": "Unofficial Apple Developer App News Feed",
-            "author": "Apple, and Brandon Evans",
-            "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
-            "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
-          },
-          {
             "title": "Swift Package Index - Recently Added",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
@@ -73,6 +67,12 @@
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/releases.rss"
+          },
+          {
+            "title": "Unofficial Apple Developer App News Feed",
+            "author": "Apple, and Brandon Evans",
+            "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
+            "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
           }
         ]
       },
@@ -1283,18 +1283,18 @@
             "twitter_url": "https://twitter.com/halm"
           },
           {
-            "title": "Hesham Abd-Elmegid’s Blog",
-            "author": "Hesham Abd-Elmegid",
-            "site_url": "https://hesh.am",
-            "feed_url": "https://hesh.am/feed.xml",
-            "twitter_url": "https://twitter.com/HeshamMegid"
-          },
-          {
             "title": "Heberti Almeida’s Blog",
             "author": "Heberti Almeida",
             "site_url": "https://heberti.com/",
             "feed_url": "https://heberti.com/feed.rss",
             "twitter_url": "https://twitter.com/hebertialmeida"
+          },
+          {
+            "title": "Hesham Abd-Elmegid’s Blog",
+            "author": "Hesham Abd-Elmegid",
+            "site_url": "https://hesh.am",
+            "feed_url": "https://hesh.am/feed.xml",
+            "twitter_url": "https://twitter.com/HeshamMegid"
           },
           {
             "title": "Hi, I’m Sam",
@@ -4335,6 +4335,13 @@
             "twitter_url": "https://twitter.com/deepdojo"
           },
           {
+            "title": "Farfetch Blog: Mobile Apps Development",
+            "author": "Farfetch",
+            "site_url": "https://farfetchtechblog.com/en/blog/keyword/mobile-apps-development/",
+            "feed_url": "https://farfetchtechblog.com/en/reader-space/rss/",
+            "twitter_url": "https://twitter.com/farfetchpeople"
+          },
+          {
             "title": "FastBike",
             "author": "Tiago Martinho & Lewis Black",
             "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
@@ -4458,13 +4465,6 @@
             "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
             "twitter_url": "https://twitter.com/vojtastavik"
-          },
-          {
-            "title": "Farfetch Blog: Mobile Apps Development",
-            "author": "Farfetch",
-            "site_url": "https://farfetchtechblog.com/en/blog/keyword/mobile-apps-development/",
-            "feed_url": "https://farfetchtechblog.com/en/reader-space/rss/",
-            "twitter_url": "https://twitter.com/farfetchpeople"
           }
         ]
       }
