@@ -61,6 +61,18 @@
             "author": "Apple, and Brandon Evans",
             "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
             "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
+          },
+          {
+            "title": "Swift Package Index - Recently Added",
+            "author": "Dave Verwer and Sven A. Schmidt",
+            "site_url": "https://swiftpackageindex.com",
+            "feed_url": "https://swiftpackageindex.com/packages.rss"
+          },
+          {
+            "title": "Swift Package Index – Recent Releases",
+            "author": "Dave Verwer and Sven A. Schmidt",
+            "site_url": "https://swiftpackageindex.com",
+            "feed_url": "https://swiftpackageindex.com/releases.rss"
           }
         ]
       },
