@@ -751,6 +751,13 @@
             "twitter_url": "https://twitter.com/cocoaphony"
           },
           {
+            "title": "Codakuma Blog",
+            "author": "Shaun Donnelly",
+            "site_url": "https://codakuma.com/ios-blog",
+            "feed_url": "https://codakuma.com/rss.xml",
+            "twitter_url": "https://twitter.com/codakuma"
+          },
+          {
             "title": "Code Workshop",
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/",
@@ -4451,6 +4458,13 @@
             "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
             "twitter_url": "https://twitter.com/vojtastavik"
+          },
+          {
+            "title": "Farfetch Blog: Mobile Apps Development",
+            "author": "Farfetch",
+            "site_url": "https://farfetchtechblog.com/en/blog/keyword/mobile-apps-development/",
+            "feed_url": "https://farfetchtechblog.com/en/reader-space/rss/",
+            "twitter_url": "https://twitter.com/farfetchpeople"
           }
         ]
       }
