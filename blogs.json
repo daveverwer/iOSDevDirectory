@@ -3399,6 +3399,12 @@
             "twitter_url": "https://www.twitter.com/taptodismiss"
           },
           {
+            "title": "Tobias Renström's Blog",
+            "author": "Tobias Renström",
+            "site_url": "https://medium.com/@tobiasrenstrm",
+            "feed_url": "https://medium.com/feed/@tobiasrenstrm"
+          },
+          {
             "title": "User Onboarding",
             "author": "Samuel Hulick",
             "site_url": "http://www.useronboard.com/",
