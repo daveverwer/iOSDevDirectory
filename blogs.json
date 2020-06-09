@@ -368,6 +368,13 @@
             "twitter_url": "https://twitter.com/terhechte"
           },
           {
+            "title": "App Decentral",
+            "author": "Drew McCormack",
+            "site_url": "https://appdecentral.com",
+            "feed_url": "https://appdecentral.com/feed/",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
             "title": "AQBlog",
             "author": "Jim Dovey",
             "site_url": "https://alanquatermain.me",
