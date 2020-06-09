@@ -347,6 +347,13 @@
             "twitter_url": "https://twitter.com/apoorvatyagi"
           },
           {
+            "title": "App Decentral",
+            "author": "Drew McCormack",
+            "site_url": "https://appdecentral.com",
+            "feed_url": "https://appdecentral.com/feed/",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
             "title": "AppMakers.Dev",
             "author": "Alexander Adelmaer",
             "site_url": "https://appmakers.dev/category/ios/",
@@ -366,13 +373,6 @@
             "site_url": "https://appventure.me/",
             "feed_url": "https://appventure.me/feed.rss",
             "twitter_url": "https://twitter.com/terhechte"
-          },
-          {
-            "title": "App Decentral",
-            "author": "Drew McCormack",
-            "site_url": "https://appdecentral.com",
-            "feed_url": "https://appdecentral.com/feed/",
-            "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
             "title": "AQBlog",
