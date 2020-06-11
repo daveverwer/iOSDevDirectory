@@ -3662,6 +3662,13 @@
             "twitter_url": "https://twitter.com/coletivstudio"
           },
           {
+            "title": "Cossack Labs Blog",
+            "author": "Cossack Labs",
+            "site_url": "https://www.cossacklabs.com/tags/iOS/",
+            "feed_url": "https://www.cossacklabs.com/feeds/all.rss.xml",
+            "twitter_url": "https://twitter.com/cossacklabs"
+          },
+          {
             "title": "Crunchy Bagel",
             "author": "Quentin Zervaas",
             "site_url": "https://crunchybagel.com",
