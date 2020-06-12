@@ -3247,6 +3247,13 @@
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
+            "title": "Xavier Lowmiller's Blog",
+            "author": "Xavier Lowmiller",
+            "site_url": "https://xavierlowmiller.github.io",
+            "feed_url": "https://xavierlowmiller.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/xavierLowmiller"
+          },
+          {
             "title": "XCBlog",
             "author": "Shashikant Jagtap",
             "site_url": "http://shashikantjagtap.net/",
