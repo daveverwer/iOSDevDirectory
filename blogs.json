@@ -2598,6 +2598,13 @@
             "twitter_url": "https://twitter.com/xenadu02"
           },
           {
+            "title": "Ryan Ashcraft's Blog",
+            "author": "Ryan Ashcraft",
+            "site_url": "https://ryanashcraft.com",
+            "feed_url": "https://ryanashcraft.com/rss/",
+            "twitter_url": "https://twitter.com/ryanashcraft"
+          },
+          {
             "title": "Rwapp",
             "author": "Rob Whitaker",
             "site_url": "https://rwapp.co.uk",
