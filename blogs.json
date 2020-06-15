@@ -765,6 +765,13 @@
             "twitter_url": "https://twitter.com/codakuma"
           },
           {
+            "title": "The Code Hub Blog",
+            "author": "Matt Hanlon",
+            "site_url": "https://www.thecodehub.ie/news",
+            "feed_url": "https://www.thecodehub.ie/news/feed/",
+            "twitter_url": "https://twitter.com/TheCodeHubIE"
+          },
+          {
             "title": "Code Workshop",
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/",
