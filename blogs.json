@@ -779,6 +779,13 @@
             "twitter_url": "https://twitter.com/macgreg"
           },
           {
+            "title": "The Code Hub Blog",
+            "author": "Matt Hanlon",
+            "site_url": "https://www.thecodehub.ie/news",
+            "feed_url": "https://www.thecodehub.ie/news/feed/",
+            "twitter_url": "https://twitter.com/TheCodeHubIE"
+          },
+          {
             "title": "Coding Explorer Blog",
             "author": "Nick Hanan",
             "site_url": "http://www.codingexplorer.com",
