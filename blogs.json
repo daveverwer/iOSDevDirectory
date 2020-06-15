@@ -1261,6 +1261,13 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
+            "title": "Glenn Gonda's Blog",
+            "author": "Glenn Gonda",
+            "site_url": "https://glenngonda.com/blog",
+            "feed_url": "http://feeds.feedburner.com/glenngonda",
+            "twitter_url": "https://twitter.com/tupleshakur"
+          },
+          {
             "title": "Grant Isom's Blog",
             "author": "Grant Isom",
             "site_url": "https://grantisom.com",
