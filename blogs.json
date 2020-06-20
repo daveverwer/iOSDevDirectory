@@ -103,6 +103,13 @@
             "twitter_url": "https://twitter.com/naturaln0va"
           },
           {
+            "title": "Adam Bell's Blog",
+            "author": "Adam Bell",
+            "site_url": "https://blog.adambell.ca/",
+            "feed_url": "https://blog.adambell.ca/rss.xml",
+            "twitter_url": "https://twitter.com/b3ll"
+          },
+          {
             "title": "Adam Wareing on Medium",
             "author": "Adam Wareing",
             "site_url": "https://medium.com/@adamwareing241/",
