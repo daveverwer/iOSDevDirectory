@@ -1381,6 +1381,13 @@
             "twitter_url": "https://twitter.com/icalvin"
           },
           {
+            "title": "Lars Augustin’s Blog",
+            "author": "Lars Augustin",
+            "site_url": "https://larztech.com/",
+            "feed_url": "https://larztech.com/feed.rss",
+            "twitter_url": "https://twitter.com/zhcet4"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "http://ignorethecode.net",
