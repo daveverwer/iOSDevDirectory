@@ -2933,6 +2933,13 @@
             "twitter_url": "https://twitter.com/eremenko_maxim"
           },
           {
+            "title": "Swift Mentor",
+            "author": "Hesham Abd-Elmegid",
+            "site_url": "https://www.swiftmentor.io/blog/",
+            "feed_url": "https://www.swiftmentor.io/blog/?format=rss",
+            "twitter_url": "https://twitter.com/HeshamMegid"
+          },
+          {
             "title": "Swift Ramen",
             "author": "Azhar Anwar",
             "site_url": "https://swiftramen.com/",
