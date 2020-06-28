@@ -2317,6 +2317,13 @@
             "twitter_url": "https://twitter.com/olebegemann"
           },
           {
+              "title": "Oliver Binns’ Blog",
+              "author": "Oliver Binns",
+              "site_url": "https://www.oliverbinns.co.uk/index.php/blog",
+              "feed_url": "https://www.oliverbinns.co.uk/index.php/category/ios/feed",
+              "twitter_url": "https://twitter.com/oliver_binns"
+          },
+          {
             "title": "On Swift Wings",
             "author": "Maksym Shcheglov",
             "site_url": "https://onswiftwings.com",
