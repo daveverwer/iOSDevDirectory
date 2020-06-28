@@ -73,6 +73,12 @@
             "author": "Apple, and Brandon Evans",
             "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
             "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
+          },
+          {
+            "title": "WWDC Notes",
+            "author": "WWDC Community",
+            "site_url": "https://wwdcnotes.com",
+            "feed_url": "https://wwdcnotes.com/feed.rss"
           }
         ]
       },
