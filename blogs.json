@@ -3295,6 +3295,12 @@
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
+            "title": "WWDC Notes",
+            "author": "The WWDC Community",
+            "site_url": "https://wwdcnotes.com",
+            "feed_url": "https://wwdcnotes.com/feed.rss"
+          },
+          {
             "title": "Xavier Lowmiller's Blog",
             "author": "Xavier Lowmiller",
             "site_url": "https://xavierlowmiller.github.io",
