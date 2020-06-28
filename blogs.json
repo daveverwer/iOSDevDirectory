@@ -73,12 +73,6 @@
             "author": "Apple, and Brandon Evans",
             "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
             "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
-          },
-          {
-            "title": "WWDC Notes",
-            "author": "The WWDC Community",
-            "site_url": "https://wwdcnotes.com",
-            "feed_url": "https://wwdcnotes.com/feed.rss"
           }
         ]
       },
@@ -3299,6 +3293,12 @@
             "site_url": "https://www.writingontablets.com",
             "feed_url": "https://writingontablets.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
+          },
+          {
+            "title": "WWDC Notes",
+            "author": "The WWDC Community",
+            "site_url": "https://wwdcnotes.com",
+            "feed_url": "https://wwdcnotes.com/feed.rss"
           },
           {
             "title": "Xavier Lowmiller's Blog",
