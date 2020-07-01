@@ -772,6 +772,13 @@
             "twitter_url": "https://twitter.com/codakuma"
           },
           {
+            "title": "The Code Hub Blog",
+            "author": "Matt Hanlon",
+            "site_url": "https://www.thecodehub.ie/news",
+            "feed_url": "https://www.thecodehub.ie/news/feed/",
+            "twitter_url": "https://twitter.com/TheCodeHubIE"
+          },
+          {
             "title": "Code Workshop",
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/",
@@ -784,13 +791,6 @@
             "site_url": "https://codecookread.com/",
             "feed_url": "https://codecookread.com/feed/rss",
             "twitter_url": "https://twitter.com/macgreg"
-          },
-          {
-            "title": "The Code Hub Blog",
-            "author": "Matt Hanlon",
-            "site_url": "https://www.thecodehub.ie/news",
-            "feed_url": "https://www.thecodehub.ie/news/feed/",
-            "twitter_url": "https://twitter.com/TheCodeHubIE"
           },
           {
             "title": "Coding Explorer Blog",
@@ -1381,13 +1381,6 @@
             "twitter_url": "https://twitter.com/icalvin"
           },
           {
-            "title": "Lars Augustin’s Blog",
-            "author": "Lars Augustin",
-            "site_url": "https://larztech.com/",
-            "feed_url": "https://larztech.com/feed.rss",
-            "twitter_url": "https://twitter.com/zhcet4"
-          },
-          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "http://ignorethecode.net",
@@ -1764,6 +1757,13 @@
             "site_url": "http://landonf.org",
             "feed_url": "http://landonf.org/index.rss",
             "twitter_url": "https://twitter.com/landonfuller"
+          },
+          {
+            "title": "Lars Augustin’s Blog",
+            "author": "Lars Augustin",
+            "site_url": "https://larztech.com/",
+            "feed_url": "https://larztech.com/feed.rss",
+            "twitter_url": "https://twitter.com/zhcet4"
           },
           {
             "title": "Late Night Swift",
@@ -2173,6 +2173,13 @@
             "twitter_url": "https://twitter.com/multicolourpxl"
           },
           {
+            "title": "myeyesareblind's Blog",
+            "author": "Max",
+            "site_url": "http://myeyesareblind.com/",
+            "feed_url": "http://myeyesareblind.com/feed.xml",
+            "twitter_url": "https://twitter.com/myeyesareblnd"
+          },
+          {
             "title": "Natan Rolnik’s Blog",
             "author": "Natan Rolnik",
             "site_url": "https://blog.natanrolnik.me",
@@ -2317,11 +2324,11 @@
             "twitter_url": "https://twitter.com/olebegemann"
           },
           {
-              "title": "Oliver Binns’ Blog",
-              "author": "Oliver Binns",
-              "site_url": "https://www.oliverbinns.co.uk/index.php/blog",
-              "feed_url": "https://www.oliverbinns.co.uk/index.php/category/ios/feed",
-              "twitter_url": "https://twitter.com/oliver_binns"
+            "title": "Oliver Binns’ Blog",
+            "author": "Oliver Binns",
+            "site_url": "https://www.oliverbinns.co.uk/index.php/blog",
+            "feed_url": "https://www.oliverbinns.co.uk/index.php/category/ios/feed",
+            "twitter_url": "https://twitter.com/oliver_binns"
           },
           {
             "title": "On Swift Wings",
@@ -2640,13 +2647,6 @@
             "twitter_url": "https://twitter.com/xenadu02"
           },
           {
-            "title": "Ryan Ashcraft's Blog",
-            "author": "Ryan Ashcraft",
-            "site_url": "https://ryanashcraft.com",
-            "feed_url": "https://ryanashcraft.com/rss/",
-            "twitter_url": "https://twitter.com/ryanashcraft"
-          },
-          {
             "title": "Rwapp",
             "author": "Rob Whitaker",
             "site_url": "https://rwapp.co.uk",
@@ -2659,6 +2659,13 @@
             "site_url": "http://rx-marin.com/",
             "feed_url": "http://rx-marin.com/index.xml",
             "twitter_url": "https://twitter.com/icanzilb"
+          },
+          {
+            "title": "Ryan Ashcraft's Blog",
+            "author": "Ryan Ashcraft",
+            "site_url": "https://ryanashcraft.com",
+            "feed_url": "https://ryanashcraft.com/rss/",
+            "twitter_url": "https://twitter.com/ryanashcraft"
           },
           {
             "title": "Sam Dods’s Blog",
@@ -2940,18 +2947,18 @@
             "twitter_url": "https://twitter.com/tjeerdintveen"
           },
           {
-            "title": "Swift Notes",
-            "author": "Maxim Eremenko",
-            "site_url": "https://maximeremenko.com/",
-            "feed_url": "https://maximeremenko.com/feed.xml",
-            "twitter_url": "https://twitter.com/eremenko_maxim"
-          },
-          {
             "title": "Swift Mentor",
             "author": "Hesham Abd-Elmegid",
             "site_url": "https://www.swiftmentor.io/blog/",
             "feed_url": "https://www.swiftmentor.io/blog/?format=rss",
             "twitter_url": "https://twitter.com/HeshamMegid"
+          },
+          {
+            "title": "Swift Notes",
+            "author": "Maxim Eremenko",
+            "site_url": "https://maximeremenko.com/",
+            "feed_url": "https://maximeremenko.com/feed.xml",
+            "twitter_url": "https://twitter.com/eremenko_maxim"
           },
           {
             "title": "Swift Ramen",
@@ -3368,13 +3375,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "myeyesareblind's Blog",
-            "author": "Max",
-            "site_url": "http://myeyesareblind.com/",
-            "feed_url": "http://myeyesareblind.com/feed.xml",
-            "twitter_url": "https://twitter.com/myeyesareblnd"
           }
         ]
       },
