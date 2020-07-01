@@ -3368,6 +3368,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "myeyesareblind's Blog",
+            "author": "Max",
+            "site_url": "http://myeyesareblind.com/",
+            "feed_url": "http://myeyesareblind.com/feed.xml",
+            "twitter_url": "https://twitter.com/myeyesareblnd"
           }
         ]
       },
