@@ -2430,6 +2430,13 @@
             "twitter_url": "https://twitter.com/myridiphis"
           },
           {
+            "title": "Paweł Madej's Blog",
+            "author": "Paweł Madej",
+            "site_url": "https://pawelmadej.com",
+            "feed_url": "https://pawelmadej.com/feed.xml",
+            "twitter_url": "https://twitter.com/PawelMadejCK"
+          },
+          {
             "title": "Pedro Carrasco’s Website",
             "author": "Pedro Carrasco",
             "site_url": "https://pedrommcarrasco.github.io/",
