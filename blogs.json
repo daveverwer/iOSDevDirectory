@@ -4597,18 +4597,18 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
           },
           {
-            "title": "Vojta Stavik on YouTube",
-            "author": "Vojta Stavik",
-            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "twitter_url": "https://twitter.com/vojtastavik"
-          },
-          {
             "title": "Tom Baranowicz",
             "author": "Tom Baranowicz",
             "site_url": "https://www.youtube.com/c/tombaranowicz",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8xpCahU1OhBnPyWuX9kcKQ",
             "twitter_url": "https://twitter.com/tombaranowicz"
+          },
+          {
+            "title": "Vojta Stavik on YouTube",
+            "author": "Vojta Stavik",
+            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "twitter_url": "https://twitter.com/vojtastavik"
           }
         ]
       }
