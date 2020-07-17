@@ -1125,6 +1125,13 @@
             "twitter_url": "https://twitter.com/ericasadun"
           },
           {
+            "title": "Fabian Fett's Blog",
+            "author": "Fabian Fett",
+            "site_url": "https://fabianfett.de",
+            "feed_url": "https://fabianfett.de/feed.xml",
+            "twitter_url": "https://twitter.com/fabianfett"
+          },
+          {
             "title": "Fabisevi.ch",
             "author": "Joe Fabisevich",
             "site_url": "https://fabisevi.ch",
