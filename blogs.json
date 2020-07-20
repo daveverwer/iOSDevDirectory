@@ -703,6 +703,13 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
+            "title": "Cihat Gündüz' Blog",
+            "author": "Cihat Gündüz",
+            "site_url": "https://dev.to/jeehut",
+            "feed_url": "https://dev.to/feed/jeehut",
+            "twitter_url": "https://twitter.com/Jeehut"
+          },
+          {
             "title": "Coach Frank",
             "author": "Frank Courville",
             "site_url": "http://www.ioscoachfrank.com",
