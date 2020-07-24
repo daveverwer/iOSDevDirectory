@@ -3403,6 +3403,12 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Get on the Store",
+            "author": "David Olesch",
+            "site_url": "https://getonthestore.com/",
+            "feed_url": "http://getonthestore.com/?feed=rss"
           }
         ]
       },
