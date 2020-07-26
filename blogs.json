@@ -3364,6 +3364,13 @@
             "twitter_url": "https://twitter.com/yeltzland"
           },
           {
+            "title": "Writing an SDK With Core Bluetooth",
+            "author": "ChrisMarshallNY",
+            "site_url": "https://littlegreenviper.com/series/bluetooth/",
+            "feed_url": "https://littlegreenviper.com/series/bluetooth/feed/",
+            "twitter_url": "https://twitter.com/ChrisMarshallNY"
+          },
+          {
             "title": "WWDC Notes",
             "author": "The WWDC Community",
             "site_url": "https://wwdcnotes.com",
