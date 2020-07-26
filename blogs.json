@@ -1305,7 +1305,7 @@
             "title": "Guilherme Rambo’s Blog",
             "author": "Guilherme Rambo",
             "site_url": "https://rambo.codes",
-            "feed_url": "https://rambo.codes/feed.xml",
+            "feed_url": "https://rambo.codes/feed.rss",
             "twitter_url": "https://twitter.com/_inside"
           },
           {
