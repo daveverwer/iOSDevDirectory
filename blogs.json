@@ -689,6 +689,13 @@
             "twitter_url": "https://twitter.com/cjmash"
           },
           {
+            "title": "ChrisMarshallNY",
+            "author": "ChrisMarshallNY",
+            "site_url": "https://medium.com/chrismarshallny",
+            "feed_url": "https://medium.com/feed/chrismarshallny",
+            "twitter_url": "https://twitter.com/ChrisMarshallNY"
+          },
+          {
             "title": "Chris Winstanley on Medium",
             "author": "Chris Winstanley",
             "site_url": "https://medium.com/@CWinstanley90",
@@ -4160,6 +4167,13 @@
             "site_url": "http://blog.supertop.co/",
             "feed_url": "http://blog.supertop.co/rss",
             "twitter_url": "https://twitter.com/supertopsquid"
+          },
+          {
+            "title": "Swiftwater",
+            "author": "ChrisMarshallNY",
+            "site_url": "http://littlegreenviper.com/swiftwater",
+            "feed_url": "https://littlegreenviper.com/series/swiftwater/feed/",
+            "twitter_url": "https://twitter.com/ChrisMarshallNY"
           },
           {
             "title": "thoughtbot: iOS posts",
