@@ -689,6 +689,13 @@
             "twitter_url": "https://twitter.com/cjmash"
           },
           {
+            "title": "ChrisMarshallNY",
+            "author": "ChrisMarshallNY",
+            "site_url": "https://medium.com/chrismarshallny",
+            "feed_url": "https://medium.com/feed/chrismarshallny",
+            "twitter_url": "https://twitter.com/ChrisMarshallNY"
+          },
+          {
             "title": "Chris Winstanley on Medium",
             "author": "Chris Winstanley",
             "site_url": "https://medium.com/@CWinstanley90",
@@ -1441,13 +1448,6 @@
             "feed_url": "http://indiestack.com/feed/",
             "twitter_url": "https://twitter.com/danielpunkass",
             "microblog_url": "https://micro.blog/danielpunkass"
-          },
-          {
-            "title": "Implementing Swift Package Manager",
-            "author": "ChrisMarshallNY",
-            "site_url": "https://littlegreenviper.com/series/spm/",
-            "feed_url": "https://littlegreenviper.com/series/spm/feed/",
-            "twitter_url": "https://twitter.com/ChrisMarshallNY"
           },
           {
             "title": "Inessential",
@@ -3085,13 +3085,6 @@
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
           {
-            "title": "Swiftwater",
-            "author": "ChrisMarshallNY",
-            "site_url": "http://littlegreenviper.com/swiftwater",
-            "feed_url": "https://littlegreenviper.com/series/swiftwater/feed/",
-            "twitter_url": "https://twitter.com/ChrisMarshallNY"
-          },
-          {
             "title": "Tanin’s Blog",
             "author": "Tanin Rojanapiansatith",
             "site_url": "https://www.tanin.dev/tags/ios",
@@ -3369,13 +3362,6 @@
             "site_url": "https://www.writingontablets.com",
             "feed_url": "https://writingontablets.com/atom.xml",
             "twitter_url": "https://twitter.com/yeltzland"
-          },
-          {
-            "title": "Writing an SDK With Core Bluetooth",
-            "author": "ChrisMarshallNY",
-            "site_url": "https://littlegreenviper.com/series/bluetooth/",
-            "feed_url": "https://littlegreenviper.com/series/bluetooth/feed/",
-            "twitter_url": "https://twitter.com/ChrisMarshallNY"
           },
           {
             "title": "WWDC Notes",
@@ -4181,6 +4167,13 @@
             "site_url": "http://blog.supertop.co/",
             "feed_url": "http://blog.supertop.co/rss",
             "twitter_url": "https://twitter.com/supertopsquid"
+          },
+          {
+            "title": "Swiftwater",
+            "author": "ChrisMarshallNY",
+            "site_url": "http://littlegreenviper.com/swiftwater",
+            "feed_url": "https://littlegreenviper.com/series/swiftwater/feed/",
+            "twitter_url": "https://twitter.com/ChrisMarshallNY"
           },
           {
             "title": "thoughtbot: iOS posts",
