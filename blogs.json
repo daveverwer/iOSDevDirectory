@@ -3106,6 +3106,13 @@
             "twitter_url": "https://twitter.com/ashishkakkad8"
           },
           {
+            "title": "Ted Bradley's Blog",
+            "author": "Ted Bradley",
+            "site_url": "https://earltedly.github.io",
+            "feed_url": "https://earltedly.github.io/index.xml",
+            "twitter_url": "https://twitter.com/earltedly"
+          },
+          {
             "title": "that thing in swift",
             "author": "Nick O’Neill",
             "site_url": "https://thatthinginswift.com/",
