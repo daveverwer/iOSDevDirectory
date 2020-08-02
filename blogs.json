@@ -2513,6 +2513,13 @@
             "twitter_url": "https://twitter.com/PierreFelgines"
           },
           {
+            "title": "Pietro Rea’s Blog",
+            "author": "Pietro Rea",
+            "site_url": "https://www.pietrorea.com",
+            "feed_url": "https://www.pietrorea.com/rss.xml",
+            "twitter_url": "https://twitter.com/pietrorea"
+          },
+          {
             "title": "Pilot Coder",
             "author": "Bill Gestrich",
             "site_url": "https://pilotcoder.com",
