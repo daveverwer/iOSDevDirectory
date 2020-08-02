@@ -2513,6 +2513,13 @@
             "twitter_url": "https://twitter.com/PierreFelgines"
           },
           {
+            "title": "Pilot Coder",
+            "author": "Bill Gestrich",
+            "site_url": "https://pilotcoder.com",
+            "feed_url": "https://pilotcoder.com/category/development/feed",
+            "twitter_url": "https://twitter.com/PilotCoder"
+          },
+          {
             "title": "Point-Free Pointers",
             "author": "Brandon Williams and Stephen Celis",
             "site_url": "https://www.pointfree.co/blog",
