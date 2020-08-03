@@ -682,18 +682,18 @@
             "twitter_url": "https://twitter.com/chriseidhof"
           },
           {
-            "title": "Chris Mash on Medium",
-            "author": "Chris Mash",
-            "site_url": "https://medium.com/@chris.mash",
-            "feed_url": "https://medium.com/feed/@chris.mash",
-            "twitter_url": "https://twitter.com/cjmash"
-          },
-          {
             "title": "Chris Marshall on Medium",
             "author": "Chris Marshall",
             "site_url": "https://medium.com/chrismarshallny",
             "feed_url": "https://medium.com/feed/chrismarshallny",
             "twitter_url": "https://twitter.com/ChrisMarshallNY"
+          },
+          {
+            "title": "Chris Mash on Medium",
+            "author": "Chris Mash",
+            "site_url": "https://medium.com/@chris.mash",
+            "feed_url": "https://medium.com/feed/@chris.mash",
+            "twitter_url": "https://twitter.com/cjmash"
           },
           {
             "title": "Chris Winstanley on Medium",
@@ -1067,7 +1067,7 @@
             "author": "Donnie Smith",
             "site_url": "https://dev.to/donniejp",
             "feed_url": "https://dev.to/feed/donniejp"
-          },         
+          },
           {
             "title": "Donny Wals’ Blog",
             "author": "Donny Wals",
