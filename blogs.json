@@ -1063,6 +1063,12 @@
             "twitter_url": "https://twitter.com/holtwick"
           },
           {
+            "title": "donnie-jp's Blog",
+            "author": "Donnie Smith",
+            "site_url": "https://dev.to/donniejp",
+            "feed_url": "https://dev.to/feed/donniejp"
+          },         
+          {
             "title": "Donny Wals’ Blog",
             "author": "Donny Wals",
             "site_url": "https://www.donnywals.com",
