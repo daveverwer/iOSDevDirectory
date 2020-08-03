@@ -1620,7 +1620,7 @@
             "title": "Joe Masilotti’s Blog",
             "author": "Joe Masilotti",
             "site_url": "http://masilotti.com",
-            "feed_url": "http://masilotti.com/atom.xml",
+            "feed_url": "http://masilotti.com/feed.xml",
             "twitter_url": "https://twitter.com/joemasilotti"
           },
           {
