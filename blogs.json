@@ -2082,6 +2082,13 @@
             "twitter_url": "https://twitter.com/Hejazi"
           },
           {
+            "title": "Michael Eisel’s Blog",
+            "author": "Michael Eisel",
+            "site_url": "https://eisel.me",
+            "feed_url": "https://eisel.me/feed.xml",
+            "twitter_url": "https://twitter.com/EiselMichael"
+          },
+          {
             "title": "Michael Tsai’s Blog",
             "author": "Michael Tsai",
             "site_url": "https://mjtsai.com/blog",
