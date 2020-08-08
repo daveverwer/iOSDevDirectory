@@ -912,8 +912,8 @@
           {
             "title": "Dasdom Dev Blog",
             "author": "Dominik Hauser",
-            "site_url": "https://dasdom.github.io",
-            "feed_url": "https://dasdom.github.io/feed.xml",
+            "site_url": "https://dasdom.dev",
+            "feed_url": "https://dasdom.dev/feed.rss",
             "twitter_url": "https://twitter.com/dasdom"
           },
           {
