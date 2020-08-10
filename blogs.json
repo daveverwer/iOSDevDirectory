@@ -4045,6 +4045,13 @@
             "twitter_url": "https://twitter.com/motiv"
           },
           {
+            "title": "Nami ML Blog",
+            "author": "Nami ML Team",
+            "site_url": "https://www.namiml.com/blog/",
+            "feed_url": "http://www.namiml.com/blog?format=rss",
+            "twitter_url": "https://twitter.com/HelloNamiML"
+          },          
+          {
             "title": "Netguru iOS Codestories",
             "author": "Netguru Team",
             "site_url": "https://www.netguru.co/codestories/topic/ios",
