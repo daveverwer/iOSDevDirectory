@@ -82,6 +82,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Compile Swift",
+            "author": "Peter Witham",
+            "site_url": "https://compileswift.com/",
+            "feed_url": "https://compileswift.com/rss.xml",
+            "twitter_url": "https://twitter.com/compileswift"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -4050,7 +4057,7 @@
             "site_url": "https://www.namiml.com/blog/",
             "feed_url": "http://www.namiml.com/blog?format=rss",
             "twitter_url": "https://twitter.com/HelloNamiML"
-          },          
+          },
           {
             "title": "Netguru iOS Codestories",
             "author": "Netguru Team",
@@ -4279,6 +4286,13 @@
         "slug": "podcasts",
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
+          {
+            "title": "Compile Swift",
+            "author": "Peter Witham",
+            "site_url": "https://compileswift.com/",
+            "feed_url": "https://anchor.fm/s/bd86b38/podcast/rss",
+            "twitter_url": "https://twitter.com/compileswift"
+          },
           {
             "title": "CmdSwift",
             "author": "Kristof Kocsis & Héctor Carrion",
