@@ -4280,18 +4280,18 @@
         "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
         "sites": [
           {
-            "title": "Compile Swift",
-            "author": "Peter Witham",
-            "site_url": "https://compileswift.com/",
-            "feed_url": "https://anchor.fm/s/bd86b38/podcast/rss",
-            "twitter_url": "https://twitter.com/compileswift"
-          },
-          {
             "title": "CmdSwift",
             "author": "Kristof Kocsis & Héctor Carrion",
             "site_url": "https://cmdswift.com/",
             "feed_url": "http://feeds.soundcloud.com/users/soundcloud%3Ausers%3A552348081/sounds.rss",
             "twitter_url": "https://twitter.com/CmdSwift"
+          },
+          {
+            "title": "Compile Swift",
+            "author": "Peter Witham",
+            "site_url": "https://compileswift.com/",
+            "feed_url": "https://anchor.fm/s/bd86b38/podcast/rss",
+            "twitter_url": "https://twitter.com/compileswift"
           },
           {
             "title": "Constant Variables",
