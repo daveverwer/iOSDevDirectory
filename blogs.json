@@ -4287,6 +4287,13 @@
             "twitter_url": "https://twitter.com/CmdSwift"
           },
           {
+            "title": "Code Completion",
+            "author": "Ben, Dimitri, Fernando, Johnny, and Spencer",
+            "site_url": "https://codecompletion.io/episodes/",
+            "feed_url": "https://feeds.fireside.fm/codecompletion/rss",
+            "twitter_url": "https://twitter.com/CodeCompletion"
+          },
+          {
             "title": "Compile Swift",
             "author": "Peter Witham",
             "site_url": "https://compileswift.com/",
@@ -4559,6 +4566,13 @@
             "site_url": "https://www.youtube.com/stichtingcocoaheadsnl",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2JMZ0-IKnqRCvjBHpBApzA",
             "twitter_url": "https://twitter.com/CocoaHeadsNL"
+          },
+          {
+            "title": "Code Completion",
+            "author": "Ben, Dimitri, Fernando, Johnny, and Spencer",
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCboYE6brY0HjojFqkg936mw",
+            "twitter_url": "https://twitter.com/CodeCompletion"
           },
           {
             "title": "Deep Dojo",
