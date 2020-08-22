@@ -1827,6 +1827,13 @@
             "twitter_url": "https://twitter.com/jakemarsh"
           },
           {
+            "title": "Living in Paraside",
+            "author": "Arnaud Joubay",
+            "site_url": "https://paraside.in/tags/swift/",
+            "feed_url": "https://paraside.in/feed.rss",
+            "twitter_url": "https://twitter.com/sowenjub"
+          },
+          {
             "title": "LLVS Blog",
             "author": "Drew McCormack",
             "site_url": "https://mentalfaculty.github.io/LLVS",
