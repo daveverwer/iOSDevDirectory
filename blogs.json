@@ -4087,6 +4087,13 @@
             "twitter_url": "https://twitter.com/objectbox_io"
           },
           {
+            "title": "OrangeLoops Blog",
+            "author": "OrangeLoops Team",
+            "site_url": "https://orangeloops.com/blog/",
+            "feed_url": "https://orangeloops.com/feed/",
+            "twitter_url": "https://twitter.com/orangeloopsinc"
+          },
+          {
             "title": "Over Engineering blog",
             "author": "Over iOS Engineering team",
             "site_url": "https://medium.com/over-engineering/tagged/ios",
