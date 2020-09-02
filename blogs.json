@@ -86,7 +86,8 @@
             "author": "Mike Zornek",
             "site_url": "http://mikezornek.com/",
             "feed_url": "http://mikezornek.com/posts/index.xml",
-            "twitter_url": "https://twitter.com/zorn"
+            "twitter_url": "https://twitter.com/zorn",
+            "microblog_url": "https://micro.blog/zorn"
           },
           {
             "title": "/var/log/journal",
