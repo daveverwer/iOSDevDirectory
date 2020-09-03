@@ -82,14 +82,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Mike Zornek Personal Blog",
-            "author": "Mike Zornek",
-            "site_url": "http://mikezornek.com/",
-            "feed_url": "http://mikezornek.com/posts/index.xml",
-            "twitter_url": "https://twitter.com/zorn",
-            "microblog_url": "https://micro.blog/zorn"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -2144,6 +2136,14 @@
             "site_url": "http://blog.mikeswanson.com/",
             "feed_url": "http://blog.mikeswanson.com/rss",
             "twitter_url": "https://twitter.com/anyware"
+          },
+          {
+            "title": "Mike Zornek Personal Blog",
+            "author": "Mike Zornek",
+            "site_url": "http://mikezornek.com/",
+            "feed_url": "http://mikezornek.com/posts/index.xml",
+            "twitter_url": "https://twitter.com/zorn",
+            "microblog_url": "https://micro.blog/zorn"
           },
           {
             "title": "Mike’s Psyche",
