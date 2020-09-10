@@ -2047,6 +2047,13 @@
             "twitter_url": "https://twitter.com/hmblebee"
           },
           {
+            "title": "Matt Ronge's Blog",
+            "author": "Matt Ronge",
+            "site_url": "https://mronge.com",
+            "feed_url": "https://mronge.com/feed/",
+            "twitter_url": "https://twitter.com/mronge"
+          },
+          {
             "title": "Matteo Manferdini’s Blog",
             "author": "Matteo Manferdini",
             "site_url": "https://matteomanferdini.com/blog/",
