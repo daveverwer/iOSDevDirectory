@@ -821,6 +821,12 @@
             "twitter_url": "https://twitter.com/codingexplorer"
           },
           {
+            "title": "Coding with Jeff",
+            "author": "Jeff Merola",
+            "site_url": "https://www.codingwithjeff.org",
+            "feed_url": "https://www.codingwithjeff.org/feed.xml"
+          },
+          {
             "title": "Colin Drake’s Blog",
             "author": "Colin Drake",
             "site_url": "https://colindrake.me/post/",
