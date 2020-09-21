@@ -1644,6 +1644,13 @@
             "twitter_url": "https://twitter.com/jjrscott"
           },
           {
+            "title": "Jogendra’s Blog",
+            "author": "Jogendra Kumar",
+            "site_url": "https://jogendra.dev/",
+            "feed_url": "https://jogendra.dev/feed.xml",
+            "twitter_url": "https://twitter.com/jogendrafx"
+          },
+          {
             "title": "Jonathan Tarud - Tech. Business. Design.",
             "author": "Jonathan Tarud",
             "site_url": "https://www.jonathant.com",
