@@ -1103,6 +1103,13 @@
             "twitter_url": "https://twitter.com/dimsumthinking"
           },
           {
+            "title": "Drew McCormack on Medium",
+            "author": "Drew McCormack",
+            "site_url": "https://medium.com/@drewmccormack",
+            "feed_url": "https://medium.com/feed/@drewmccormack",
+            "twitter_url": "https://twitter.com/drewmccormack"
+          },
+          {
             "title": "Dušan Tadić’s Blog",
             "author": "Dušan Tadić",
             "site_url": "https://www.dusantadic.dev/",
