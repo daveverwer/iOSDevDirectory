@@ -1644,18 +1644,18 @@
             "twitter_url": "https://twitter.com/joemasilotti"
           },
           {
-            "title": "John Scott’s Blog",
-            "author": "John Scott",
-            "site_url": "https://jjrscott.com/",
-            "feed_url": "https://jjrscott.com/atom.xml",
-            "twitter_url": "https://twitter.com/jjrscott"
-          },
-          {
             "title": "Jogendra’s Blog",
             "author": "Jogendra Kumar",
             "site_url": "https://jogendra.dev/",
             "feed_url": "https://jogendra.dev/feed.xml",
             "twitter_url": "https://twitter.com/jogendrafx"
+          },
+          {
+            "title": "John Scott’s Blog",
+            "author": "John Scott",
+            "site_url": "https://jjrscott.com/",
+            "feed_url": "https://jjrscott.com/atom.xml",
+            "twitter_url": "https://twitter.com/jjrscott"
           },
           {
             "title": "Jonathan Tarud - Tech. Business. Design.",
