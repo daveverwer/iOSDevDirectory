@@ -3951,6 +3951,12 @@
             "twitter_url": "https://twitter.com/ExyteHQ"
           },
           {
+            "title": "Fabernovel Tech Blog",
+            "author": "Fabernovel",
+            "site_url": "https://fabernovel.github.io/",
+            "feed_url": "https://fabernovel.github.io/feed.xml"
+          },
+          {
             "title": "Fabric Blog",
             "author": "Fabric Team",
             "site_url": "https://fabric.io/blog",
