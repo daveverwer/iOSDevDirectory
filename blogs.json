@@ -3748,6 +3748,13 @@
             "site_url": "https://joecieplinski.com/blog/",
             "feed_url": "http://www.joecieplinski.com/blog/rss/",
             "twitter_url": "https://twitter.com/jcieplinski"
+          },
+          {
+            "title": "Mobile Ad.ventures",
+            "author": "Thomas Petit",
+            "site_url": "https://madv.substack.com/",
+            "feed_url": "https://madv.substack.com/feed",
+            "twitter_url": "https://twitter.com/thomasbcn"
           }
         ]
       },
