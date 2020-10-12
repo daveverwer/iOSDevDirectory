@@ -4614,6 +4614,13 @@
             "site_url": "https://medium.com/@NilStack/",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "UI Designer Weekly",
+            "author": "Sahand Nayebaziz",
+            "site_url": "https://uidesignerweekly.curated.co",
+            "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
+            "twitter_url": "https://twitter.com/sahandnayebaziz"
           }
         ]
       },
