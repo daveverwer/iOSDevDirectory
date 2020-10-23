@@ -3174,6 +3174,13 @@
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
           {
+            "title": "Tanaschita",
+            "author": "Natascha Fadeeva",
+            "site_url": "https://tanaschita.com",
+            "feed_url": "https://tanaschita.com/feed.rss",
+            "twitter_url": "https://twitter.com/tanaschita"
+          },
+          {
             "title": "Tanin’s Blog",
             "author": "Tanin Rojanapiansatith",
             "site_url": "https://www.tanin.dev/tags/ios",
