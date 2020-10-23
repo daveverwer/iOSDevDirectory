@@ -3895,6 +3895,12 @@
             "microblog_url": "https://micro.blog/davewoodx"
           },
           {
+            "title": "Code as Craft from Etsy",
+            "author": "Etsy Engineering Team",
+            "site_url": "https://codeascraft.com",
+            "feed_url": "https://codeascraft.com/feed/"
+          },
+          {
             "title": "Coletiv Studio Blog",
             "author": "Coletiv Studio",
             "site_url": "https://coletiv.com/blog/",
