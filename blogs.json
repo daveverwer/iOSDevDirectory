@@ -2227,6 +2227,13 @@
             "twitter_url": "https://twitter.com/mobileinvader"
           },
           {
+            "title": "Modern AppKit",
+            "author": "Pádraig Ó Cinnéide",
+            "site_url": "https://padraig.org/",
+            "feed_url": "https://padraig.org/feed.xml",
+            "twitter_url": "https://twitter.com/padraig"
+          },
+          {
             "title": "Mohsen’s Blog",
             "author": "Mohsen Alijanpour",
             "site_url": "https://mohsen.dev",
