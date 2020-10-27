@@ -3769,6 +3769,13 @@
             "site_url": "https://madv.substack.com/",
             "feed_url": "https://madv.substack.com/feed",
             "twitter_url": "https://twitter.com/thomasbcn"
+          },
+          {
+              "title": "Vini Leal's Blog",
+              "author": "Vinicius Leal",
+              "site_url": "https://vinileal.com",
+              "feed_url": "https://vinileal.com/feed.xml",
+              "twitter_url": "https://twitter.com/Vini__leal"
           }
         ]
       },
