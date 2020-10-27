@@ -4823,18 +4823,18 @@
             "twitter_url": "https://twitter.com/tombaranowicz"
           },
           {
-            "title": "Vojta Stavik on YouTube",
-            "author": "Vojta Stavik",
-            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "twitter_url": "https://twitter.com/vojtastavik"
-          },
-          {
             "title": "Vincent Pradeilles on YouTube",
             "author": "Vincent Pradeilles",
             "site_url": "https://youtube.com/channel/UCjkoQk5fOk6lH-shlm53vlw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjkoQk5fOk6lH-shlm53vlw",
             "twitter_url": "https://twitter.com/v_pradeilles"
+          },
+          {
+            "title": "Vojta Stavik on YouTube",
+            "author": "Vojta Stavik",
+            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "twitter_url": "https://twitter.com/vojtastavik"
           }
         ]
       }
