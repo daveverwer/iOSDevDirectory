@@ -82,6 +82,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
+            "title": "Imthath's Swift Journey",
+            "author": "Imthath M",
+            "site_url": "https://dev.to/imthath_m/",
+            "feed_url": "https://dev.to/feed/imthath_m",
+            "twitter_url": "https://twitter.com/imthath_m"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
