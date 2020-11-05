@@ -896,6 +896,13 @@
             "twitter_url": "https://twitter.com/danielmgauthier"
           },
           {
+            "title": "Dan Loman’s Blog",
+            "author": "Dan Loman",
+            "site_url": "https://danloman.com",
+            "feed_url": "https://danloman.com/feed.xml",
+            "twitter_url": "https://twitter.com/namolnad"
+          },
+          {
             "title": "Daniel Kennett’s Blog",
             "author": "Daniel Kennett",
             "site_url": "http://ikennd.ac/",
