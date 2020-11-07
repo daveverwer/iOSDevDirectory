@@ -4782,6 +4782,13 @@
             "twitter_url": "https://twitter.com/bigmtnstudio"
           },
           {
+            "title": "matthias_code on Youtube",
+            "author": "Matthias Zarzecki",
+            "site_url": "https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvMdsKesM05bIG0eq7M5z1g",
+            "twitter_url": "https://twitter.com/matthias_code"
+          },
+          {
             "title": "Paul Hudson on YouTube",
             "author": "Paul Hudson",
             "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ",
