@@ -1686,6 +1686,13 @@
             "twitter_url": "https://twitter.com/jonathant"
           },
           {
+            "title": "Josh Holtz's Blog",
+            "author": "Josh Holtz",
+            "site_url": "https://www.joshholtz.com/blog/",
+            "feed_url": "https://www.joshholtz.com/feed.xml",
+            "twitter_url": "http://twitter.com/joshdholtz"
+          },
+          {
             "title": "jsorge.net",
             "author": "Jared Sorge",
             "site_url": "https://jsorge.net",
