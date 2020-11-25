@@ -3581,6 +3581,12 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Eugene Kazaev’s blog",
+            "author": "Eugene Kazaev",
+            "site_url": "https://eugenenekhoroshiy.medium.com",
+            "twitter_url": "https://twitter.com/EKazaev"
           }
         ]
       },
