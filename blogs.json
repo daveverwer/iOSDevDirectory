@@ -4080,6 +4080,13 @@
             "twitter_url": "https://twitter.com/freak4pc"
           },
           {
+            "title": "Grant Emerson's Blog",
+            "author": "Grant Emerson",
+            "site_url": "https://www.grantemerson.co/blog/",
+            "feed_url": "https://www.grantemerson.co/feed.rss",
+            "twitter_url": "https://twitter.com/grantjemerson"
+          },
+          {
             "title": "Helftone Blog",
             "author": "Milen Dzhumerov",
             "site_url": "https://blog.helftone.com",
