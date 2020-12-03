@@ -1348,6 +1348,13 @@
             "twitter_url": "https://twitter.com/tupleshakur"
           },
           {
+            "title": "Grant Emerson's Blog",
+            "author": "Grant Emerson",
+            "site_url": "https://www.grantemerson.co/blog/",
+            "feed_url": "https://www.grantemerson.co/feed.rss",
+            "twitter_url": "https://twitter.com/grantjemerson"
+          },
+          {
             "title": "Grant Isom's Blog",
             "author": "Grant Isom",
             "site_url": "https://grantisom.com",
@@ -4078,13 +4085,6 @@
             "site_url": "https://medium.com/gett-engineering",
             "feed_url": "https://medium.com/feed/gett-engineering",
             "twitter_url": "https://twitter.com/freak4pc"
-          },
-          {
-            "title": "Grant Emerson's Blog",
-            "author": "Grant Emerson",
-            "site_url": "https://www.grantemerson.co/blog/",
-            "feed_url": "https://www.grantemerson.co/feed.rss",
-            "twitter_url": "https://twitter.com/grantjemerson"
           },
           {
             "title": "Helftone Blog",
