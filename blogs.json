@@ -3845,6 +3845,12 @@
             "site_url": "https://vinileal.com",
             "feed_url": "https://vinileal.com/feed.xml",
             "twitter_url": "https://twitter.com/Vini__leal"
+          },
+          {
+            "title": "Zachary Shakked's Blog",
+            "author": "Zachary Shakked",
+            "site_url": "https://blog.zach.so",
+            "feed_url": "https://blog.zach.so/feed/"
           }
         ]
       },
