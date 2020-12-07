@@ -1178,6 +1178,13 @@
             "feed_url": "https://emptytheory.com/feed/"
           },
           {
+            "title": "Eneko Alonso's Blog",
+            "author": "Eneko Alonso",
+            "site_url": "https://www.enekoalonso.com/",
+            "feed_url": "http://www.enekoalonso.com/feed.xml",
+            "twitter_url": "https://twitter.com/eneko"
+          },
+          {
             "title": "ennioma",
             "author": "Ennio Masi",
             "site_url": "http://ennioma.com/",
