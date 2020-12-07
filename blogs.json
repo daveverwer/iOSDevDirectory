@@ -132,6 +132,13 @@
             "twitter_url": "https://twitter.com/adiki91"
           },
           {
+            "title": "Advanced Swift",
+            "author": "Robert Pieta",
+            "site_url": "https://www.robertpieta.com/",
+            "feed_url": "https://www.robertpieta.com/rss",
+            "twitter_url": "https://twitter.com/robertpieta"
+          },
+          {
             "title": "Agostini.Tech",
             "author": "Dejan Agostini",
             "site_url": "https://agostini.tech",
