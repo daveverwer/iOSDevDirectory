@@ -1985,10 +1985,10 @@
             "twitter_url": "https://twitter.com/steve_lipton"
           },
           {
-            "title": "Making The Switch",
+            "title": "Walled Garden Farmers",
             "author": "Sasmito Adibowo",
-            "site_url": "https://cutecoder.org/",
-            "feed_url": "http://feeds.feedburner.com/cutecoder"
+            "site_url": "https://cutecoder.org/category/programming/",
+            "feed_url": "https://cutecoder.org/category/programming/feed/"
           },
           {
             "title": "Makin’ that Instapaper",
@@ -3859,6 +3859,13 @@
             "site_url": "https://vinileal.com",
             "feed_url": "https://vinileal.com/feed.xml",
             "twitter_url": "https://twitter.com/Vini__leal"
+          },
+          {
+            "title": "Walled Garden Farmers",
+            "author": "Sasmito Adibowo",
+            "site_url": "https://cutecoder.org/category/business/",
+            "feed_url": "https://cutecoder.org/category/business/feed/",
+            "twitter_url": "https://twitter.com/cutecoder"
           },
           {
             "title": "Zachary Shakked's Blog",
