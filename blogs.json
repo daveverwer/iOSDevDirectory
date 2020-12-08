@@ -1199,6 +1199,13 @@
             "twitter_url": "https://twitter.com/ericasadun"
           },
           {
+            "title": "Eugene Kazaev’s blog",
+            "author": "Eugene Kazaev",
+            "site_url": "https://eugenenekhoroshiy.medium.com",
+            "feed_url": "https://medium.com/feed/@eugenenekhoroshiy",
+            "twitter_url": "https://twitter.com/EKazaev"
+          },
+          {
             "title": "Fabian Fett's Blog",
             "author": "Fabian Fett",
             "site_url": "https://fabianfett.de",
@@ -1990,12 +1997,6 @@
             "site_url": "https://makeapppie.com/",
             "feed_url": "https://makeapppie.com/feed/",
             "twitter_url": "https://twitter.com/steve_lipton"
-          },
-          {
-            "title": "Walled Garden Farmers",
-            "author": "Sasmito Adibowo",
-            "site_url": "https://cutecoder.org/category/programming/",
-            "feed_url": "https://cutecoder.org/category/programming/feed/"
           },
           {
             "title": "Makin’ that Instapaper",
@@ -3495,6 +3496,12 @@
             "twitter_url": "https://twitter.com/_vojto"
           },
           {
+            "title": "Walled Garden Farmers",
+            "author": "Sasmito Adibowo",
+            "site_url": "https://cutecoder.org/category/programming/",
+            "feed_url": "https://cutecoder.org/category/programming/feed/"
+          },
+          {
             "title": "Warp your mobile development",
             "author": "Thibault Wittemberg",
             "site_url": "https://twittemb.github.io",
@@ -3591,6 +3598,13 @@
             "twitter_url": "https://twitter.com/mskarki"
           },
           {
+            "title": "Yunus Koçyiğit - Medium",
+            "author": "Yunus Koçyiğit",
+            "site_url": "https://kocyigityunus.medium.com",
+            "feed_url": "https://medium.com/feed/@kocyigityunus",
+            "twitter_url": "https://twitter.com/yunuskocyigit1"
+          },
+          {
             "title": "Zach Knox’s Blog",
             "author": "Zach Knox",
             "site_url": "https://zachknox.com",
@@ -3609,20 +3623,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Eugene Kazaev’s blog",
-            "author": "Eugene Kazaev",
-            "site_url": "https://eugenenekhoroshiy.medium.com",
-            "feed_url": "https://medium.com/feed/@eugenenekhoroshiy",
-            "twitter_url": "https://twitter.com/EKazaev"
-          },
-          {
-            "title": "Yunus Koçyiğit - Medium",
-            "author": "Yunus Koçyiğit",
-            "site_url": "https://kocyigityunus.medium.com",
-            "feed_url": "https://medium.com/feed/@kocyigityunus",
-            "twitter_url": "https://twitter.com/yunuskocyigit1"
           }
         ]
       },
@@ -3721,17 +3721,17 @@
             "twitter_url": "https://twitter.com/nathangitter"
           },
           {
-            "title": "Nick Babich’s Blog",
-            "author": "Nick Babich",
-            "site_url": "http://babich.biz/",
-            "feed_url": "http://babich.biz/rss/",
-            "twitter_url": "https://twitter.com/101babich"
-          },
-          {
             "title": "Nick Babich on Medium",
             "author": "Nick Babich",
             "site_url": "https://medium.com/@101",
             "feed_url": "https://medium.com/feed/@101",
+            "twitter_url": "https://twitter.com/101babich"
+          },
+          {
+            "title": "Nick Babich’s Blog",
+            "author": "Nick Babich",
+            "site_url": "http://babich.biz/",
+            "feed_url": "http://babich.biz/rss/",
             "twitter_url": "https://twitter.com/101babich"
           },
           {
