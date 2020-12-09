@@ -3868,6 +3868,13 @@
             "twitter_url": "https://twitter.com/thomasbcn"
           },
           {
+            "title": "Niels Mouthaan's Blog",
+            "author": "Niels Mouthaan",
+            "site_url": "https://blog.nielsmouthaan.nl/",
+            "feed_url": "https://blog.nielsmouthaan.nl/rss.xml",
+            "twitter_url": "https://twitter.com/nielsmouthaan"
+          },
+          {
             "title": "Vini Leal's Blog",
             "author": "Vinicius Leal",
             "site_url": "https://vinileal.com",
