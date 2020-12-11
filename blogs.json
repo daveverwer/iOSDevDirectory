@@ -1363,6 +1363,13 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
+            "title": "Georgios Sotiropoulos on Medium",
+            "author": "Georgios Sotiropoulos",
+            "site_url": "https://medium.com/@ge.sotiropoulos",
+            "feed_url": "https://medium.com/feed/@ge.sotiropoulos",
+            "twitter_url": "https://twitter.com/qqefy"
+          },
+          {
             "title": "Get on the Store",
             "author": "David Olesch",
             "site_url": "https://getonthestore.com/",
@@ -3630,13 +3637,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Georgios Sotiropoulos on Medium",
-            "author": "Georgios Sotiropoulos",
-            "site_url": "https://medium.com/@ge.sotiropoulos",
-            "feed_url": "https://medium.com/feed/@ge.sotiropoulos",
-            "twitter_url": "https://twitter.com/qqefy"
           }
         ]
       },
