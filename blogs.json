@@ -3210,6 +3210,13 @@
             "twitter_url": "https://twitter.com/bfoutty"
           },
           {
+            "title": "Swift Tom",
+            "author": "Tommy Prezioso",
+            "site_url": "https://www.swifttom.com",
+            "feed_url": "https://www.swifttom.com/blog-feed/",
+            "twitter_url": "https://twitter.com/tommyprezioso"
+          },
+          {
             "title": "Swift Unboxed",
             "author": "Greg Heo",
             "site_url": "https://swiftunboxed.com/",
