@@ -82,12 +82,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "MobileFactory #sbbcffffs",
-            "author": "Nicolas Brunner",
-            "site_url": "https://medium.com/@mobilefactory/",
-            "feed_url": "https://medium.com/feed/@mobilefactory"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -2308,6 +2302,12 @@
             "site_url": "https://mobileinvader.com",
             "feed_url": "https://mobileinvader.com/feed/",
             "twitter_url": "https://twitter.com/mobileinvader"
+          },
+          {
+            "title": "MobileFactory #sbbcffffs",
+            "author": "Nicolas Brunner",
+            "site_url": "https://medium.com/@mobilefactory/",
+            "feed_url": "https://medium.com/feed/@mobilefactory"
           },
           {
             "title": "Modern AppKit",
