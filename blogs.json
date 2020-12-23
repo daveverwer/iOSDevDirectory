@@ -1580,6 +1580,13 @@
             "twitter_url": "https://twitter.com/adamswinden"
           },
           {
+            "title": "iOS Divine",
+            "author": "Ruslan Alikhamov",
+            "site_url": "https://iosdivin.blog",
+            "feed_url": "https://iosdivin.blog/feed/",
+            "twitter_url": "https://twitter.com/r_alikhamov"
+          },
+          {
             "title": "iOS Examples Without Code",
             "author": "Steve Mykytyn",
             "site_url": "https://medium.com/ios-examples-without-code",
