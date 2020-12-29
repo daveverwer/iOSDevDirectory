@@ -4759,6 +4759,13 @@
             "twitter_url": "https://twitter.com/ExyteHQ"
           },
           {
+            "title": "Indie Dev Monday",
+            "author": "Josh Holtz",
+            "site_url": "https://indiedevmonday.com",
+            "feed_url": "https://indiedevmonday.com/feed.xml",
+            "twitter_url": "https://twitter.com/IndieDevMonday"
+          },
+          {
             "title": "iOS Dev Tools",
             "author": "Max Ott",
             "site_url": "https://iosdev.tools/",
