@@ -4750,6 +4750,13 @@
             "site_url": "https://waitingforreview.com/",
             "feed_url": "https://feeds.fireside.fm/waitingforreview/rss",
             "twitter_url": "https://twitter.com/wfrpodcast"
+          },
+          {
+            "title": "AppForce1 Podcast",
+            "author": "Jeroen Leenarts",
+            "site_url": "https://appforce1.net/podcast",
+            "feed_url": "https://appforce1.net/podcastfeed",
+            "twitter_url": "https://twitter.com/appforce1"
           }
         ]
       },
