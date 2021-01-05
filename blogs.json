@@ -1862,7 +1862,7 @@
             "title": "Kristaps Grinbergs’s Blog",
             "author": "Kristaps Grinbergs",
             "site_url": "https://kristaps.me",
-            "feed_url": "https://kristaps.me/feed.xml",
+            "feed_url": "https://kristaps.me/feed.rss",
             "twitter_url": "https://twitter.com/fassko"
           },
           {
