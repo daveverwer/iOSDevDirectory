@@ -2136,6 +2136,13 @@
             "twitter_url": "https://twitter.com/stawecki"
           },
           {
+            "title": "Mathias Quintero's Blog",
+            "author": "Mathias Quintero",
+            "site_url": "https://quintero.io/blog/",
+            "feed_url": "https://quintero.io/feed.rss",
+            "twitter_url": "https://twitter.com/nerdsupremacist"
+          },
+          {
             "title": "Matt Delves’ Blog",
             "author": "Matt Delves",
             "site_url": "https://mattdelves.com",
