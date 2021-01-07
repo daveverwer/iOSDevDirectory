@@ -82,13 +82,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "magnuskahr writing code",
-            "author": "Magnus Kahr Jensen",
-            "site_url": "https://www.magnuskahr.dk",
-            "feed_url": "https://www.magnuskahr.dk/feed.rss",
-            "twitter_url": "https://twitter.com/magnuskahr"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -2017,6 +2010,13 @@
             "site_url": "https://mackuba.eu",
             "feed_url": "https://feeds.feedburner.com/psionides-eu",
             "twitter_url": "https://twitter.com/kuba_suder"
+          },
+          {
+            "title": "magnuskahr writing code",
+            "author": "Magnus Kahr Jensen",
+            "site_url": "https://www.magnuskahr.dk",
+            "feed_url": "https://www.magnuskahr.dk/feed.rss",
+            "twitter_url": "https://twitter.com/magnuskahr"
           },
           {
             "title": "Majid’s Blog about Swift development",
