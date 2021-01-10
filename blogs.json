@@ -429,6 +429,13 @@
             "feed_url": "http://www.akpdev.com/feed.xml"
           },
           {
+            "title": "Arthur Sabintsev's Blog",
+            "author": "Arthur Sabintsev",
+            "site_url": "https://medium.com/@artsabintsev",
+            "feed_url": "https://medium.com/feed/@artsabintsev",
+            "twitter_url": "https://twitter.com/artsabintsev"
+          },
+          {
             "title": "Arthur Van Siclen on Medium",
             "author": "Arthur Van Siclen",
             "site_url": "https://medium.com/@arthurofbabylon",
