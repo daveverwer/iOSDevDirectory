@@ -2901,6 +2901,13 @@
             "twitter_url": "https://twitter.com/karpov"
           },
           {
+            "title": "Rui Miguel's Blog",
+            "author": "Rui Miguel",
+            "site_url": "https://ruimiguel.com/blog",
+            "feed_url": "https://ruimiguel.com/blog/feed/",
+            "twitter_url": "https://twitter.com/ruimiguel"
+          },
+          {
             "title": "ruiper.es",
             "author": "Rui Peres",
             "site_url": "https://ruiper.es/",
