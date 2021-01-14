@@ -4586,6 +4586,12 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
+          },
+          {
+            "title": "The Craft",
+            "author": "Faire",
+            "site_url": "https://medium.com/faire-the-craft/tagged/engineering",
+            "feed_url": "https://medium.com/feed/faire-the-craft/tagged/engineering"
           }
         ]
       },
