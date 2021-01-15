@@ -3215,6 +3215,13 @@
             "twitter_url": "https://twitter.com/tiborbodecs"
           },
           {
+            "title": "A Swift Misadventure",
+            "author": "Claudio Cannino",
+            "site_url": "https://medium.com/a-swift-misadventure",
+            "feed_url": "https://medium.com/feed/a-swift-misadventure",
+            "twitter_url": "https://twitter.com/ccarnino"
+          },
+          {
             "title": "Swift in Depth",
             "author": "Tjeerd in ’t Veen",
             "site_url": "https://swiftindepth.com/",
