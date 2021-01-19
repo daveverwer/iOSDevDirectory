@@ -4672,6 +4672,13 @@
             "twitter_url": "https://twitter.com/brightdigit"
           },
           {
+            "title": "Everyday robots",
+            "author": "Jonathan Ruiz",
+            "site_url": "https://everydayrobots.tech/",
+            "feed_url": "https://everydayrobots.libsyn.com/rss",
+            "twitter_url": "https://twitter.com/_everydayrobots"
+          },
+          {
             "title": "Fatal Error",
             "author": "Soroush Khanlou and Chris Dzombak",
             "site_url": "https://fatalerror.fm",
