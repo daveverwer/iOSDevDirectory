@@ -89,6 +89,13 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
+            "title": "A Swift Misadventure",
+            "author": "Claudio Cannino",
+            "site_url": "https://medium.com/a-swift-misadventure",
+            "feed_url": "https://medium.com/feed/a-swift-misadventure",
+            "twitter_url": "https://twitter.com/ccarnino"
+          },
+          {
             "title": "Accidentally in Code",
             "author": "Cate Huston",
             "site_url": "https://cate.blog/tag/ios/",
@@ -1541,6 +1548,13 @@
             "site_url": "http://ilya.puchka.me",
             "feed_url": "http://ilya.puchka.me/rss.xml",
             "twitter_url": "https://twitter.com/ilyapuchka"
+          },
+          {
+            "title": "The Imaginary Road",
+            "author": "Michael Collins",
+            "site_url": "https://www.michaelfcollins3.me/categories/ios-development/",
+            "feed_url": "https://www.michaelfcollins3.me/categories/ios-development/index.xml",
+            "twitter_url": "https://twitter.com/mfcollins3"
           },
           {
             "title": "Imthath's Swift Journey",
@@ -3222,13 +3236,6 @@
             "twitter_url": "https://twitter.com/tiborbodecs"
           },
           {
-            "title": "A Swift Misadventure",
-            "author": "Claudio Cannino",
-            "site_url": "https://medium.com/a-swift-misadventure",
-            "feed_url": "https://medium.com/feed/a-swift-misadventure",
-            "twitter_url": "https://twitter.com/ccarnino"
-          },
-          {
             "title": "Swift in Depth",
             "author": "Tjeerd in ’t Veen",
             "site_url": "https://swiftindepth.com/",
@@ -3373,13 +3380,6 @@
             "site_url": "https://thatthinginswift.com/",
             "feed_url": "https://thatthinginswift.com/index.xml",
             "twitter_url": "https://twitter.com/nickoneill"
-          },
-          {
-            "title": "The Imaginary Road",
-            "author": "Michael Collins",
-            "site_url": "https://www.michaelfcollins3.me/categories/ios-development/",
-            "feed_url": "https://www.michaelfcollins3.me/categories/ios-development/index.xml",
-            "twitter_url": "https://twitter.com/mfcollins3"
           },
           {
             "title": "Theocacao",
@@ -4156,6 +4156,12 @@
             "twitter_url": "https://twitter.com/cossacklabs"
           },
           {
+            "title": "The Craft",
+            "author": "Faire",
+            "site_url": "https://medium.com/faire-the-craft/tagged/engineering",
+            "feed_url": "https://medium.com/feed/faire-the-craft/tagged/engineering"
+          },
+          {
             "title": "Crunchy Bagel",
             "author": "Quentin Zervaas",
             "site_url": "https://crunchybagel.com",
@@ -4600,12 +4606,6 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
-          },
-          {
-            "title": "The Craft",
-            "author": "Faire",
-            "site_url": "https://medium.com/faire-the-craft/tagged/engineering",
-            "feed_url": "https://medium.com/feed/faire-the-craft/tagged/engineering"
           }
         ]
       },
