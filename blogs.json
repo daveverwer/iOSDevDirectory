@@ -3153,6 +3153,13 @@
             "twitter_url": "https://twitter.com/stephencelis"
           },
           {
+            "title": "StepUp Development",
+            "author": "Manuel Kunz and Nicolas Spinner",
+            "site_url": "https://medium.com/stepup-development",
+            "feed_url": "https://medium.com/feed/stepup-development",
+            "twitter_url": "https://twitter.com/su_development"
+          },
+          {
             "title": "Steve Moser’s Blog",
             "author": "Steve Moser",
             "site_url": "https://www.stevemoser.org/category/apple-dev/index.html",
