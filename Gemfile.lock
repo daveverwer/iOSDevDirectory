@@ -1,17 +1,29 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
-    json-schema (2.8.0)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
+    httparty (0.18.1)
+      mime-types (~> 3.0)
+      multi_xml (>= 0.5.2)
+    json (2.3.1)
+    json-schema (2.8.1)
       addressable (>= 2.4)
-    public_suffix (3.0.2)
+    mime-types (3.3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2020.0512)
+    multi_xml (0.6.0)
+    public_suffix (4.0.5)
+    rake (13.0.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  httparty
+  json
   json-schema
+  rake
 
 BUNDLED WITH
-   1.16.1
+   1.17.2

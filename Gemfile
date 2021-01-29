@@ -1,3 +1,6 @@
 source "https://rubygems.org"
 
-gem 'json-schema'
+gem "rake"
+gem "json"
+gem "json-schema"
+gem "httparty"
