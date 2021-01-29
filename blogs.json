@@ -1266,6 +1266,13 @@
             "twitter_url": "https://twitter.com/ftchirou"
           },
           {
+            "title": "Federico Jordan’s Blog",
+            "author": "Federico Jordan",
+            "site_url": "https://federicojordan.github.io/",
+            "feed_url": "https://federicojordan.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/fedejordan90"
+          },
+          {
             "title": "Felix Krause’s Blog",
             "author": "Felix Krause",
             "site_url": "https://krausefx.com/",
