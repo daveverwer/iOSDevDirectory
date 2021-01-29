@@ -1459,6 +1459,13 @@
             "twitter_url": "https://twitter.com/halm"
           },
           {
+            "title": "Harshil Shah’s Blog",
+            "author": "Harshil Shah",
+            "site_url": "https://harshil.net/",
+            "feed_url": "https://harshil.net/feed.xml",
+            "twitter_url": "https://twitter.com/_HarshilShah"
+          },
+          {
             "title": "Heberti Almeida’s Blog",
             "author": "Heberti Almeida",
             "site_url": "https://heberti.com/",
