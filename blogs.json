@@ -4794,6 +4794,13 @@
             "twitter_url": "https://twitter.com/stacktracepod"
           },
           {
+            "title": "Sub Club Podcast",
+            "author": "David Barnard, Jacob Eiting",
+            "site_url": "https://www.subclub.co/",
+            "feed_url": "https://feeds.transistor.fm/sub-club",
+            "twitter_url": "https://twitter.com/SubClubHQ"
+          },
+          {
             "title": "Supertop Podcast",
             "author": "Pádraig Ó Cinnéide and Oisín Prendiville",
             "site_url": "http://blog.supertop.co/",
