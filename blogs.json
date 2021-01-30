@@ -2866,6 +2866,13 @@
             "twitter_url": "https://twitter.com/heckj"
           },
           {
+            "title": "Richard Jones' Blog",
+            "author": "Richard Jones",
+            "site_url": "https://richardj.org",
+            "feed_url": "https://richardj.org/feed/",
+            "twitter_url": "https://twitter.com/the_richardj"
+          },
+          {
             "title": "Riley Testut’s Blog",
             "author": "Riley Testut",
             "site_url": "http://rileytestut.com/blog/",
