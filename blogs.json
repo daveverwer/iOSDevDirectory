@@ -1887,6 +1887,13 @@
             "twitter_url": "https://twitter.com/kinandcarta_cr"
           },
           {
+            "title": "ko9",
+            "author": "Nick Randall",
+            "site_url": "https://ko9.org/",
+            "feed_url": "https://ko9.org/feed.rss",
+            "twitter_url": "https://twitter.com/n_randall"
+          },
+          {
             "title": "KrakenDev",
             "author": "Hector Matos",
             "site_url": "https://krakendev.io/",
