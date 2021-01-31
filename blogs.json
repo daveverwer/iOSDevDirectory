@@ -1670,6 +1670,13 @@
             "twitter_url": "https://twitter.com/jasdev"
           },
           {
+            "title": "Jasdev Singh’s technical diary",
+            "author": "Jasdev Singh",
+            "site_url": "https://jasdev.me/notes/",
+            "feed_url": "https://jasdev.me/notes.xml",
+            "twitter_url": "https://twitter.com/jasdev"
+          },
+          {
             "title": "Jason Zurita’s Blog",
             "author": "Jason Zurita",
             "site_url": "http://jasonzurita.com/blog/",
