@@ -2901,6 +2901,13 @@
             "twitter_url": "https://twitter.com/rizzu26"
           },
           {
+            "title": "Rob Kerr’s Weblog",
+            "author": "Rob Kerr",
+            "site_url": "http://www.robkerr.com/",
+            "feed_url": "https://www.robkerr.com/rss",
+            "twitter_url": "https://twitter.com/rekerrsive"
+          },
+          {
             "title": "Roger Molas’s Blog",
             "author": "Roger Molas",
             "site_url": "http://blog.rogermolas.com/",
