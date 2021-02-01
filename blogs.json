@@ -709,6 +709,12 @@
             "twitter_url": "https://twitter.com/humlelu"
           },
           {
+            "title": "César Vargas on Medium",
+            "author": "César Vargas Casaseca",
+            "site_url": "https://toupper.medium.com",
+            "feed_url": "https://medium.com/feed/@toupper"
+          },
+          {
             "title": "Charlie Chapman’s Blog",
             "author": "Charlie Chapman",
             "site_url": "https://charliemchapman.com/",
