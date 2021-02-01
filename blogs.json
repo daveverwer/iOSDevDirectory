@@ -2515,6 +2515,13 @@
             "feed_url": "https://medium.com/feed/@proudofziggy"
           },
           {
+            "title": "Nikolay Fiantsev on Medium",
+            "author": "Nikolay Fiantsev",
+            "site_url": "https://medium.com/@bigmotor",
+            "feed_url": "https://medium.com/feed/@bigmotor",
+            "twitter_url": "https://twitter.com/bigmotor"
+          },
+          {
             "title": "Noah Gilmore’s Blog",
             "author": "Noah Gilmore",
             "site_url": "https://noahgilmore.com/blog/tags/ios/",
