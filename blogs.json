@@ -709,12 +709,6 @@
             "twitter_url": "https://twitter.com/humlelu"
           },
           {
-            "title": "César Vargas on Medium",
-            "author": "César Vargas Casaseca",
-            "site_url": "https://toupper.medium.com",
-            "feed_url": "https://medium.com/feed/@toupper"
-          },
-          {
             "title": "Charlie Chapman’s Blog",
             "author": "Charlie Chapman",
             "site_url": "https://charliemchapman.com/",
@@ -913,6 +907,12 @@
             "site_url": "https://cutting.io",
             "feed_url": "http://feed.cutting.io",
             "twitter_url": "https://twitter.com/dcutting"
+          },
+          {
+            "title": "César Vargas on Medium",
+            "author": "César Vargas Casaseca",
+            "site_url": "https://toupper.medium.com",
+            "feed_url": "https://medium.com/feed/@toupper"
           },
           {
             "title": "DaddyCoding",
@@ -1168,6 +1168,13 @@
             "author": "Dušan Tadić",
             "site_url": "https://www.dusantadic.dev/",
             "feed_url": "https://www.dusantadic.dev/index.xml"
+          },
+          {
+            "title": "The education of Paul Weichhart",
+            "author": "Paul Weichhart",
+            "site_url": "https://www.paulweichhart.com",
+            "feed_url": "https://www.paulweichhart.com/feed.xml",
+            "twitter_url": "https://twitter.com/paulweichhart"
           },
           {
             "title": "Egor Tolstoy’s Blog",
@@ -3442,13 +3449,6 @@
             "site_url": "https://thatthinginswift.com/",
             "feed_url": "https://thatthinginswift.com/index.xml",
             "twitter_url": "https://twitter.com/nickoneill"
-          },
-          {
-            "title": "The education of Paul Weichhart",
-            "author": "Paul Weichhart",
-            "site_url": "https://www.paulweichhart.com",
-            "feed_url": "https://www.paulweichhart.com/feed.xml",
-            "twitter_url": "https://twitter.com/paulweichhart"
           },
           {
             "title": "Theocacao",
