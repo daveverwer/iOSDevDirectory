@@ -2345,6 +2345,12 @@
             "microblog_url": "https://micro.blog/zorn"
           },
           {
+            "title": "Mike Pesate on Medium",
+            "author": "Mike Pesate",
+            "site_url": "https://medium.com/@mpesate",
+            "feed_url": "https://medium.com/feed/@mpesate"
+          },
+          {
             "title": "Mike’s Psyche",
             "author": "Michael Redig",
             "site_url": "https://mikespsyche.com",
