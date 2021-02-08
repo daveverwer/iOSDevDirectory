@@ -1991,6 +1991,12 @@
             "twitter_url": "https://twitter.com/leogdion"
           },
           {
+            "title": "Leonardo Diaz's Blog",
+            "author": "Leonardo Diaz",
+            "site_url": "https://medium.com/@leonardoidiaz",
+            "feed_url": "https://medium.com/feed/@leonardoidiaz",
+          },
+          {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
             "site_url": "http://lewismakesapps.com",
