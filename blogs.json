@@ -5026,6 +5026,13 @@
             "twitter_url": "https://twitter.com/CodeCompletion"
           },
           {
+            "title": "Dave Jacobsen on YouTube",
+            "author": "Dave Jacobsen",
+            "site_url": "https://www.youtube.com/channel/UCpClazC2qqYfAO48NdnBeuQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpClazC2qqYfAO48NdnBeuQ",
+            "twitter_url": "https://twitter.com/davejacobseniOS"
+          },
+          {
             "title": "Deep Dojo",
             "author": "Otto Schnurr",
             "site_url": "https://www.youtube.com/channel/UCpHWi_dxxTReXW6Bxab-ikQ",
