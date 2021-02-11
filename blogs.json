@@ -2018,6 +2018,12 @@
             "feed_url": "https://medium.com/feed/@leonardoidiaz"
           },
           {
+              "title": "Leo Dev iOS Journal",
+              "author": "Leonardo Pugliese",
+              "site_url": "https://leodev.hashnode.dev",
+              "feed_url": "https://leodev.hashnode.dev/rss.xml"
+          },
+          {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
             "site_url": "http://lewismakesapps.com",
