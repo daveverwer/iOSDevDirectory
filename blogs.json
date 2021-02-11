@@ -1732,6 +1732,13 @@
             "twitter_url": "https://twitter.com/slaunchaman"
           },
           {
+            "title": "Jeff Morhous’ Blog",
+            "author": "Jeff Morhous",
+            "site_url": "https://jeffmorhous.com",
+            "feed_url": "https://jeffmorhous.com/feed",
+            "twitter_url": "https://twitter.com/jeffmorhous"
+          },
+          {
             "title": "Jeff Watkins’ Blog",
             "author": "Jeff Watkins",
             "site_url": "https://jeffwatkins.dev/articles",
