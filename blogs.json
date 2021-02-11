@@ -639,6 +639,13 @@
             "twitter_url": "https://twitter.com/worrydream"
           },
           {
+            "title": "Brevans.io",
+            "author": "Bruce Evans",
+            "site_url": "https://brevans.io/",
+            "feed_url": "https://brevans.io/index.php/feed/",
+            "twitter_url": "https://twitter.com/brevansio"
+          },
+          {
             "title": "Bryan Irace’s Blog",
             "author": "Bryan Irace",
             "site_url": "http://irace.me/",
