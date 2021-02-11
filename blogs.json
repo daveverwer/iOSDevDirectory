@@ -1293,6 +1293,13 @@
             "twitter_url": "https://twitter.com/fedejordan90"
           },
           {
+            "title": "Felipe Marino’s Blog",
+            "author": "Felipe Marino",
+            "site_url": "https://marinofelipe.github.io",
+            "feed_url": "https://marinofelipe.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/_marinofelipe"
+          },
+          {
             "title": "Felix Krause’s Blog",
             "author": "Felix Krause",
             "site_url": "https://krausefx.com/",
