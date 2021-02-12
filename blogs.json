@@ -3939,6 +3939,13 @@
             "twitter_url": "https://twitter.com/pasql"
           },
           {
+            "title": "Phil Yates’ Blog",
+            "author": "Phil Yates",
+            "site_url": "https://pyartez.github.io",
+            "feed_url": "https://pyartez.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/pyates"
+          },
+          {
             "title": "Scott Hurff’s Blog",
             "author": "Scott Hurff",
             "site_url": "http://scotthurff.com",
