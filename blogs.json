@@ -1047,6 +1047,13 @@
             "twitter_url": "https://twitter.com/davereed"
           },
           {
+            "title": "David Seek’s Blog",
+            "author": "David Seek and Ting Becker",
+            "site_url": "https://www.davidseek.com",
+            "feed_url": "https://www.davidseek.com/rss/",
+            "twitter_url": "https://twitter.com/davidseek"
+          },
+          {
             "title": "David Sinclair’s Blog",
             "author": "David Sinclair",
             "site_url": "http://www.dejal.com/blog/",
