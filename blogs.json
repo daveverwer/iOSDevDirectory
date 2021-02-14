@@ -1535,6 +1535,13 @@
             "twitter_url": "https://twitter.com/czechboy0"
           },
           {
+            "title":"Human Friendly Blog",
+            "author": "Joseph Lord",
+            "site_url": "https://blog.human-friendly.com",
+            "feed_url": "http://blog.human-friendly.com/posts.atom",
+            "twitter_url": "https://twitter.com/jl_hfl"
+          },
+          {
             "title": "Hwee-Boon Yar’s Blog",
             "author": "Hwee-Boon Yar",
             "site_url": "http://hboon.com",
