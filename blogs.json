@@ -5165,6 +5165,13 @@
             "twitter_url": "https://twitter.com/paulsolt"
           },
           {
+            "title": "Peter Friese on YouTube",
+            "author": "Peter Friese",
+            "site_url": "https://www.youtube.com/channel/UCUr1KzSE1ubrYhTVriuiNRQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUr1KzSE1ubrYhTVriuiNRQ",
+            "twitter_url": "https://twitter.com/peterfriese"
+          },          
+          {
             "title": "Scott Smith on YouTube",
             "author": "Scott Smith",
             "site_url": "https://www.youtube.com/scottsmithdev",
