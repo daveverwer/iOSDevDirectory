@@ -2827,6 +2827,13 @@
             "twitter_url": "https://twitter.com/petermolnar_hu"
           },
           {
+            "title": "Phil Yates’ Blog",
+            "author": "Phil Yates",
+            "site_url": "https://pyartez.github.io",
+            "feed_url": "https://pyartez.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/pyates"
+          },
+          {
             "title": "Pierre Felgines’s Blog",
             "author": "Pierre Felgines",
             "site_url": "https://felginep.github.io",
