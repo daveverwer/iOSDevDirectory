@@ -2033,10 +2033,11 @@
             "twitter_url": "https://twitter.com/leogdion"
           },
           {
-            "title": "Leo Dev iOS Journal",
+            "title": "Holy Swift",
             "author": "Leonardo Pugliese",
-            "site_url": "https://leodev.hashnode.dev",
-            "feed_url": "https://leodev.hashnode.dev/rss.xml"
+            "site_url": "https://holyswift.app",
+            "feed_url": "https://holyswift.app/rss.xml",
+            "twitter_url": "https://twitter.com/Leo_Pugliese"
           },
           {
             "title": "Leonardo Diaz's Blog",
