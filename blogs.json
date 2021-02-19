@@ -1535,6 +1535,13 @@
             "twitter_url": "https://twitter.com/stroughtonsmith"
           },
           {
+            "title": "Holy Swift",
+            "author": "Leonardo Pugliese",
+            "site_url": "https://holyswift.app",
+            "feed_url": "https://holyswift.app/rss.xml",
+            "twitter_url": "https://twitter.com/Leo_Pugliese"
+          },
+          {
             "title": "Honza Dvorsky’s Blog",
             "author": "Honza Dvorsky",
             "site_url": "http://honzadvorsky.com",
@@ -2031,13 +2038,6 @@
             "site_url": "https://learningswift.brightdigit.com",
             "feed_url": "https://learningswift.brightdigit.com/feed/",
             "twitter_url": "https://twitter.com/leogdion"
-          },
-          {
-            "title": "Holy Swift",
-            "author": "Leonardo Pugliese",
-            "site_url": "https://holyswift.app",
-            "feed_url": "https://holyswift.app/rss.xml",
-            "twitter_url": "https://twitter.com/Leo_Pugliese"
           },
           {
             "title": "Leonardo Diaz's Blog",
