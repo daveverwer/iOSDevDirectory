@@ -2715,6 +2715,13 @@
             "twitter_url": "https://twitter.com/onmyway133"
           },
           {
+            "title": "Optical Aberration",
+            "author": "Adam Fowler",
+            "site_url": "https://opticalaberration.com",
+            "feed_url": "https://opticalaberration.com/feed.xml",
+            "twitter_url": "https://twitter.com/o_aberration"
+          },
+          {
             "title": "Orange Juice Liberation Front",
             "author": "Uli Kusterer",
             "site_url": "https://orangejuiceliberationfront.com",
@@ -3255,6 +3262,12 @@
             "site_url": "http://khanlou.com/",
             "feed_url": "http://khanlou.com/feed/",
             "twitter_url": "https://twitter.com/khanlou"
+          },
+          {
+            "title": "Soto Blog",
+            "author": "Adam Fowler",
+            "site_url": "https://soto.codes",
+            "feed_url": "https://soto.codes/feed.xml"
           },
           {
             "title": "Spaceman Labs Blog",
