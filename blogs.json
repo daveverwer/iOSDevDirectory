@@ -3094,6 +3094,13 @@
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
+            "title": "RY's Blog",
+            "author": "RY Zheng",
+            "site_url": "https://suelan.github.io",
+            "feed_url": "https://suelan.github.io/rss/atom.xml",
+            "twitter_url": "https://twitter.com/ZoeZheng_RY"
+          },
+          {
             "title": "Ryan Ashcraft's Blog",
             "author": "Ryan Ashcraft",
             "site_url": "https://ryanashcraft.com",
