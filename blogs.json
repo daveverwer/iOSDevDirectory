@@ -82,19 +82,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "Hacking The iOS Interview",
-            "author": "Hash Coding",
-            "site_url": "https://medium.com/hash-coding",
-            "feed_url": "https://medium.com/feed/hash-coding"
-          },
-          {
-            "title": "Stavros Schizas' Blog",
-            "author": "Stavros Schizas",
-            "site_url": "https://stavrosschizas.com",
-            "feed_url": "https://stavrosschizas.com/post/index.xml",
-            "twitter_url": "https://twitter.com/StavrosSchizas"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -977,13 +964,6 @@
             "twitter_url": "https://twitter.com/danielsaidi"
           },
           {
-            "title": "Dim Sum Thinking",
-            "author": "Daniel Steinberg",
-            "site_url": "https://dimsumthinking.com",
-            "feed_url": "https://dimsumthinking.com/rss.xml",
-            "twitter_url": "https://twitter.com/dimsumthinking"
-          },
-          {
             "title": "Daniel Tull’s Blog",
             "author": "Daniel Tull",
             "site_url": "http://danieltull.co.uk/blog/",
@@ -1155,6 +1135,13 @@
             "site_url": "https://medium.com/@peterlivesey",
             "feed_url": "https://medium.com/feed/@peterlivesey",
             "twitter_url": "https://twitter.com/plivesey453"
+          },
+          {
+            "title": "Dim Sum Thinking",
+            "author": "Daniel Steinberg",
+            "site_url": "https://dimsumthinking.com",
+            "feed_url": "https://dimsumthinking.com/rss.xml",
+            "twitter_url": "https://twitter.com/dimsumthinking"
           },
           {
             "title": "Dino Bozic on Medium",
@@ -1510,6 +1497,12 @@
             "site_url": "https://medium.com/@gokselkoksal",
             "feed_url": "https://medium.com/feed/@gokselkoksal",
             "twitter_url": "https://twitter.com/gokselkk"
+          },
+          {
+            "title": "Hacking The iOS Interview",
+            "author": "Hash Coding",
+            "site_url": "https://medium.com/hash-coding",
+            "feed_url": "https://medium.com/feed/hash-coding"
           },
           {
             "title": "Hacking with Swift",
@@ -3327,6 +3320,13 @@
             "author": "Chris Hulbert",
             "site_url": "http://www.splinter.com.au/",
             "feed_url": "http://www.splinter.com.au/atom.xml"
+          },
+          {
+            "title": "Stavros Schizas' Blog",
+            "author": "Stavros Schizas",
+            "site_url": "https://stavrosschizas.com",
+            "feed_url": "https://stavrosschizas.com/post/index.xml",
+            "twitter_url": "https://twitter.com/StavrosSchizas"
           },
           {
             "title": "Stephen Celis blogs",
