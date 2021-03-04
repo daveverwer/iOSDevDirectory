@@ -2507,6 +2507,13 @@
             "twitter_url": "https://twitter.com/m_compilation"
           },
           {
+            "title": "moraleda.info",
+            "author": "Guillermo Culkin",
+            "site_url": "http://moraleda.info",
+            "feed_url": "http://moraleda.info/atom.xml",
+            "twitter_url": "https://twitter.com/gmoraleda_"
+          },
+          {
             "title": "More Indirection",
             "author": "Bill Atkins",
             "site_url": "https://moreindirection.wordpress.com/tag/ios/",
