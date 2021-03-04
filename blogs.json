@@ -977,6 +977,13 @@
             "twitter_url": "https://twitter.com/danielsaidi"
           },
           {
+            "title": "Dim Sum Thinking",
+            "author": "Daniel Steinberg",
+            "site_url": "https://dimsumthinking.com",
+            "feed_url": "https://dimsumthinking.com/rss.xml",
+            "twitter_url": "https://twitter.com/dimsumthinking"
+          },
+          {
             "title": "Daniel Tull’s Blog",
             "author": "Daniel Tull",
             "site_url": "http://danieltull.co.uk/blog/",
