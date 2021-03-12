@@ -5115,6 +5115,13 @@
         "description": "Channels on YouTube that cover a variety of topics around iOS development.",
         "sites": [
           {
+            "title": "Alex Paul on YouTube",
+            "author": "Alex Paul",
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSOLVcGXOEUDpmQu_L7kH9g",
+            "twitter_url": "https://twitter.com/AlexPaul"
+          },
+          {
             "title": "Alexito’s World",
             "author": "Alejandro Martinez",
             "site_url": "https://www.youtube.com/channel/UCfiBFlVY8s-tmJGDMNCd26w",
