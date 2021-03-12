@@ -457,6 +457,13 @@
             "twitter_url": "https://twitter.com/ashfurrow"
           },
           {
+            "title": "Asif's Blog",
+            "author": "Mohammad Asif",
+            "site_url": "https://asifmohd.github.io/",
+            "feed_url": "https://asifmohd.github.io/feed.ios.xml",
+            "twitter_url": "https://twitter.com/_asif0312"
+          },
+          {
             "title": "The Atomic Birdhouse",
             "author": "Tom Harrington",
             "site_url": "https://atomicbird.com/",
