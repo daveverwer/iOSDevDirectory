@@ -1085,7 +1085,7 @@
             "title": "David Yang’s Blog’",
             "author": "David Yang",
             "site_url": "https://david.y4ng.fr/",
-            "feed_url": "https://david.y4ng.fr/rss/",
+            "feed_url": "https://david.y4ng.fr/atom.xml",
             "twitter_url": "https://twitter.com/davidy4ng"
           },
           {
