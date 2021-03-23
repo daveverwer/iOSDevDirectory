@@ -4737,8 +4737,8 @@
           {
             "title": "Spokestack, Voice for iOS Blog",
             "author": "Spokestack Team",
-            "site_url": "https://spokestack.io/blog/tags/ios",
-            "feed_url": "https://savvyapps.com/blog/rss.xml",
+            "site_url": "https://spokestack.io/blog/tag/ios",
+            "feed_url": "https://spokestack.io/rss.xml",
             "twitter_url": "https://twitter.com/spokestack"
           },
           {
