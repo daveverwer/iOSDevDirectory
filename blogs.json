@@ -4735,6 +4735,13 @@
             "feed_url": "https://developer.soundcloud.com/blog.rss"
           },
           {
+            "title": "Spokestack, Voice for iOS Blog",
+            "author": "Spokestack Team",
+            "site_url": "https://spokestack.io/blog/tag/ios",
+            "feed_url": "https://spokestack.io/rss.xml",
+            "twitter_url": "https://twitter.com/spokestack"
+          },
+          {
             "title": "Steamclock Software Blog",
             "author": "Steamclock Team",
             "site_url": "https://steamclock.com/blog/",
