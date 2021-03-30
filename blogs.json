@@ -916,6 +916,12 @@
             "feed_url": "https://contagious.dev/blog/category/ios/feed/"
           },
           {
+            "title": "Cory Bohon's Blog",
+            "author": "Cory Bohon",
+            "site_url": "https://corybohon.com/categories/software-development/",
+            "feed_url": "https://corybohon.com/categories/software-development/feed.xml"
+          },
+          {
             "title": "Crunchy Development",
             "author": "Olivier Halligon",
             "site_url": "http://alisoftware.github.io/",
