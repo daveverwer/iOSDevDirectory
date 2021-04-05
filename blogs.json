@@ -779,6 +779,13 @@
             "twitter_url": "https://twitter.com/CWinstanley90"
           },
           {
+            "title": "Christian Selig's Blog",
+            "author": "Christian Selig",
+            "site_url": "https://christianselig.com",
+            "feed_url": "https://christianselig.com/index.xml",
+            "twitter_url": "https://twitter.com/ChristianSelig"
+          },
+          {
             "title": "Christian Tietze’s Blog",
             "author": "Christian Tietze",
             "site_url": "https://christiantietze.de/",
