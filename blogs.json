@@ -730,6 +730,13 @@
             "twitter_url": "https://twitter.com/humlelu"
           },
           {
+            "title": "Cephalopod Studio",
+            "author": "Matthew Waller",
+            "site_url": "https://www.cephalopod.studio/blog",
+            "feed_url": "https://www.cephalopod.studio/blog?format=rss",
+            "twitter_url": "https://twitter.com/wattmaller1"
+          },
+          {
             "title": "Charlie Chapman’s Blog",
             "author": "Charlie Chapman",
             "site_url": "https://charliemchapman.com/",
