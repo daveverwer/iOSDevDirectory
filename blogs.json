@@ -5090,6 +5090,13 @@
             "site_url": "https://waitingforreview.com/",
             "feed_url": "https://feeds.fireside.fm/waitingforreview/rss",
             "twitter_url": "https://twitter.com/wfrpodcast"
+          },
+          {
+            "title": "This Week in Apps",
+            "author": "Ariel Michaeli",
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "feed_url": "https://feed.podbean.com/thisweekinapps/feed.xml",
+            "twitter_url": "https://twitter.com/appfigures"
           }
         ]
       },
@@ -5396,6 +5403,13 @@
             "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
             "twitter_url": "https://twitter.com/vojtastavik"
+          },
+          {
+            "title": "Appfigures on YouTube",
+            "author": "Appfigures",
+            "site_url": "https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfvk5lomVsbHBYWciRVNHlg",
+            "twitter_url": "https://twitter.com/appfigures"
           }
         ]
       }
