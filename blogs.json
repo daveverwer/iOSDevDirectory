@@ -1904,6 +1904,13 @@
             "twitter_url": "https://twitter.com/jonathant"
           },
           {
+            "title": "Joohee Kim's Blog",
+            "author": "Joohee Kim",
+            "site_url": "https://imjhk03.github.io",
+            "feed_url": "https://imjhk03.github.io/feed.xml",
+            "twitter_url": "http://twitter.com/_jooheekim_"
+          },
+          {
             "title": "Josh Holtz's Blog",
             "author": "Josh Holtz",
             "site_url": "https://www.joshholtz.com/blog/",
@@ -5589,6 +5596,13 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
+          },
+          {
+            "title": "Joohee Kim's Blog",
+            "author": "Joohee Kim",
+            "site_url": "https://imjhk03.github.io",
+            "feed_url": "https://imjhk03.github.io/feed.xml",
+            "twitter_url": "http://twitter.com/_jooheekim_"
           }
         ]
       }
