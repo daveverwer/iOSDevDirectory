@@ -3377,6 +3377,13 @@
             "feed_url": "http://www.splinter.com.au/atom.xml"
           },
           {
+            "title": "Srđan's notes on programming",
+            "author": "Srđan Stanić",
+            "site_url": "https://dev.srdanstanic.com/",
+            "feed_url": "https://dev.srdanstanic.com/feed-ios.xml",
+            "twitter_url": "https://twitter.com/srstanic"
+          },
+          {
             "title": "Stavros Schizas' Blog",
             "author": "Stavros Schizas",
             "site_url": "https://stavrosschizas.com",
