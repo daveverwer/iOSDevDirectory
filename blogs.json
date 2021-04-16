@@ -4257,12 +4257,6 @@
         "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you’ll find it!",
         "sites": [
           {
-            "title": "Shake Blog",
-            "author": "Shake",
-            "site_url": "https://www.shakebugs.com/blog/",
-            "feed_url": "https://www.shakebugs.com/blog/feed/"
-          },
-          {
             "title": "47 Degrees Blog",
             "author": "47 Degrees",
             "site_url": "https://www.47deg.com/blog/",
@@ -4770,6 +4764,12 @@
             "twitter_url": "https://twitter.com/savvyapps"
           },
           {
+            "title": "Shake Blog",
+            "author": "Shake",
+            "site_url": "https://www.shakebugs.com/blog/",
+            "feed_url": "https://www.shakebugs.com/blog/feed/"
+          },
+          {
             "title": "SHAPE Code Blog",
             "author": "SHAPE Team",
             "site_url": "http://codeblog.shape.dk/",
@@ -5087,6 +5087,13 @@
             "feed_url": "https://simplecast.com/podcasts/2693/rss"
           },
           {
+            "title": "This Week in Apps",
+            "author": "Ariel Michaeli",
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "feed_url": "https://feed.podbean.com/thisweekinapps/feed.xml",
+            "twitter_url": "https://twitter.com/appfigures"
+          },
+          {
             "title": "Under the Radar",
             "author": "Marco Arment and David Smith",
             "site_url": "https://www.relay.fm/radar",
@@ -5098,13 +5105,6 @@
             "site_url": "https://waitingforreview.com/",
             "feed_url": "https://feeds.fireside.fm/waitingforreview/rss",
             "twitter_url": "https://twitter.com/wfrpodcast"
-          },
-          {
-            "title": "This Week in Apps",
-            "author": "Ariel Michaeli",
-            "site_url": "https://appfigures.com/resources/this-week-in-apps",
-            "feed_url": "https://feed.podbean.com/thisweekinapps/feed.xml",
-            "twitter_url": "https://twitter.com/appfigures"
           }
         ]
       },
@@ -5203,6 +5203,13 @@
             "site_url": "https://www.youtube.com/channel/UCfiBFlVY8s-tmJGDMNCd26w",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiBFlVY8s-tmJGDMNCd26w",
             "twitter_url": "https://twitter.com/alexito4"
+          },
+          {
+            "title": "Appfigures on YouTube",
+            "author": "Appfigures",
+            "site_url": "https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfvk5lomVsbHBYWciRVNHlg",
+            "twitter_url": "https://twitter.com/appfigures"
           },
           {
             "title": "Apple Programming",
@@ -5411,13 +5418,6 @@
             "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
             "twitter_url": "https://twitter.com/vojtastavik"
-          },
-          {
-            "title": "Appfigures on YouTube",
-            "author": "Appfigures",
-            "site_url": "https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfvk5lomVsbHBYWciRVNHlg",
-            "twitter_url": "https://twitter.com/appfigures"
           }
         ]
       }
@@ -5615,6 +5615,13 @@
             "twitter_url": "https://twitter.com/SungdooYoo"
           },
           {
+            "title": "Joohee Kim's Blog",
+            "author": "Joohee Kim",
+            "site_url": "https://imjhk03.github.io",
+            "feed_url": "https://imjhk03.github.io/feed.xml",
+            "twitter_url": "http://twitter.com/_jooheekim_"
+          },
+          {
             "title": "NSHipster 한국",
             "author": "NSHipster",
             "site_url": "https://nshipster.co.kr",
@@ -5625,13 +5632,6 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
-          },
-          {
-            "title": "Joohee Kim's Blog",
-            "author": "Joohee Kim",
-            "site_url": "https://imjhk03.github.io",
-            "feed_url": "https://imjhk03.github.io/feed.xml",
-            "twitter_url": "http://twitter.com/_jooheekim_"
           }
         ]
       }
