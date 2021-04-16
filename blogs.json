@@ -382,6 +382,13 @@
             "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
+            "title": "AppForce1 blog",
+            "author": "Jeroen Leenarts - AppForce1",
+            "site_url": "https://appforce1.net/blog/",
+            "feed_url": "https://appforce1.net/blog/rss.php",
+            "twitter_url": "https://twitter.com/appforce1"
+          },
+          {
             "title": "AppMakers.Dev",
             "author": "Alexander Adelmaer",
             "site_url": "https://appmakers.dev/category/ios/",
