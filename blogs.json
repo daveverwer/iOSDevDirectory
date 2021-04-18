@@ -443,6 +443,13 @@
             "feed_url": "http://www.akpdev.com/feed.xml"
           },
           {
+            "title": "Artem Novichkov’s Blog",
+            "author": "Artem Novichkov",
+            "site_url": "https://blog.artemnovichkov.com/+ios",
+            "feed_url": "https://teletype.in/rss/artemnovichkov",
+            "twitter_url": "https://twitter.com/iosartem"
+          },
+          {
             "title": "Arthur Sabintsev's Blog",
             "author": "Arthur Sabintsev",
             "site_url": "https://medium.com/@artsabintsev",
