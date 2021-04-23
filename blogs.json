@@ -3599,6 +3599,13 @@
             "twitter_url": "https://twitter.com/twannl"
           },
           {
+            "title": "Swifty Finch",
+            "author": "Khorkov Vyacheslav",
+            "site_url": "https://swiftyfinch.github.io/en",
+            "feed_url": "https://swiftyfinch.github.io/feed.rss",
+            "twitter_url": "https://twitter.com/swiftyfinch"
+          },
+          {
             "title": "The SwiftUI Lab",
             "author": "Javier Nigro",
             "site_url": "https://swiftui-lab.com/",
@@ -5788,6 +5795,13 @@
             "author": "Иван Акулов",
             "site_url": "https://swiftbook.ru/",
             "feed_url": "https://swiftbook.ru/feed/"
+          },
+          {
+            "title": "Swifty Finch",
+            "author": "Хорьков Вячеслав",
+            "site_url": "https://swiftyfinch.github.io",
+            "feed_url": "https://swiftyfinch.github.io/feed.rss",
+            "twitter_url": "https://twitter.com/swiftyfinch"
           }
         ]
       }
