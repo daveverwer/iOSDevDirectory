@@ -772,6 +772,13 @@
             "twitter_url": "https://twitter.com/chriseidhof"
           },
           {
+            "title": "Chris Hefferman's Blog",
+            "author": "Chris Hefferman",
+            "site_url": "https://chrishefferman.squarespace.com/blog-landing-page",
+            "feed_url": "https://chrishefferman.squarespace.com/blog?format=rss",
+            "twitter_url": "https://twitter.com/heffertron"
+          },
+          {
             "title": "Chris Marshall on Medium",
             "author": "Chris Marshall",
             "site_url": "https://medium.com/chrismarshallny",
