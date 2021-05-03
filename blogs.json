@@ -2761,6 +2761,13 @@
             "twitter_url": "https://twitter.com/objective_see"
           },
           {
+            "title": "Obscured Pixels",
+            "author": "Omar",
+            "site_url": "https://obscuredpixels.com/",
+            "feed_url": "https://obscuredpixels.com/rss.xml",
+            "twitter_url": "https://twitter.com/obscured_pixels"
+          },
+          {
             "title": "Oh my Swift",
             "author": "Rizwan Ahmed",
             "site_url": "https://ohmyswift.com",
