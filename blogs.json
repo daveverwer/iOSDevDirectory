@@ -1019,6 +1019,13 @@
             "twitter_url": "https://twitter.com/danielsaidi"
           },
           {
+            "title": "Daniel Tavares’s Blog",
+            "author": "Daniel Tavares",
+            "site_url": "https://dev.to/vibrazy",
+            "feed_url": "https://dev.to/feed/vibrazy",
+            "twitter_url": "https://twitter.com/vibrazy"
+          },
+          {
             "title": "Daniel Tull’s Blog",
             "author": "Daniel Tull",
             "site_url": "http://danieltull.co.uk/blog/",
