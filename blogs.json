@@ -2023,6 +2023,13 @@
             "twitter_url": "https://twitter.com/KenBoreham"
           },
           {
+            "title": "Ken Kocienda's Blog",
+            "author": "Ken Kocienda",
+            "site_url": "https://kocienda.micro.blog",
+            "feed_url": "https://kocienda.micro.blog/feed.xml",
+            "twitter_url": "https://twitter.com/kocienda"
+          },
+          {
             "title": "Kentios Thinks About Tech",
             "author": "Kent Humphries",
             "site_url": "https://kenthumphries.github.io",
