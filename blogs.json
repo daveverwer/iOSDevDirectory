@@ -4560,6 +4560,13 @@
             "twitter_url": "https://twitter.com/freak4pc"
           },
           {
+            "title": "GoodNotes Engineering Blog",
+            "author": "GoodNotes",
+            "site_url": "https://medium.com/engineering-at-goodnotes",
+            "feed_url": "https://medium.com/feed/engineering-at-goodnotes",
+            "twitter_url": "https://twitter.com/goodnotesapp"
+          },
+          {
             "title": "Helftone Blog",
             "author": "Milen Dzhumerov",
             "site_url": "https://blog.helftone.com",
