@@ -4041,6 +4041,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+              "title": "Vlad Iacob on Medium",
+              "author": "Vlad Iacob",
+              "site_url": "https://vladiacob.medium.com",
+              "feed_url": "https://medium.com/feed/@vladiacob",
+              "twitter_url": "https://twitter.com/_vladiacob"
           }
         ]
       },
