@@ -1226,6 +1226,13 @@
             "twitter_url": "https://twitter.com/holtwick"
           },
           {
+            "title": "Dominic Williams' Blog",
+            "author": "Dominic Williams",
+            "site_url": "https://domz.co.uk",
+            "feed_url": "https://domz.co.uk/feed.rss",
+            "twitter_url": "https://twitter.com/domzy"
+          },
+          {
             "title": "donnie-jp's Blog",
             "author": "Donnie Smith",
             "site_url": "https://dev.to/donniejp",
