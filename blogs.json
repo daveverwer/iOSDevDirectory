@@ -1953,6 +1953,13 @@
             "twitter_url": "http://twitter.com/_jooheekim_"
           },
           {
+            "title": "Joseph Duffy's Blog",
+            "author": "Joseph Duffy",
+            "site_url": "https://josephduffy.co.uk/posts",
+            "feed_url": "https://josephduffy.co.uk/atom.xml",
+            "twitter_url": "http://twitter.com/Joe_Duffy"
+          },
+          {
             "title": "Josh Holtz's Blog",
             "author": "Josh Holtz",
             "site_url": "https://www.joshholtz.com/blog/",
