@@ -8,6 +8,12 @@
         "slug": "updates",
         "description": "Whether it’s an official Apple blog, or a community blog that keeps us up to date with what’s going on with the platform it’ll be here.",
         "sites": [
+           {
+            "title": "AzamSharp Blog",
+            "author": "Mohammad Azam",
+            "site_url": "https://azamsharp.com/",
+            "feed_url": "https://azamsharp.com/feed.xml"
+          },
           {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
