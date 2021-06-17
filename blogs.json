@@ -8,12 +8,6 @@
         "slug": "updates",
         "description": "Whether it’s an official Apple blog, or a community blog that keeps us up to date with what’s going on with the platform it’ll be here.",
         "sites": [
-           {
-            "title": "AzamSharp Blog",
-            "author": "Mohammad Azam",
-            "site_url": "https://azamsharp.com/",
-            "feed_url": "https://azamsharp.com/feed.xml"
-          },
           {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
@@ -25,6 +19,12 @@
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/objc-diff/sdkdiffs/",
             "feed_url": "http://codeworkshop.net/feed"
+          },
+          {
+            "title": "AzamSharp Blog",
+            "author": "Mohammad Azam",
+            "site_url": "https://azamsharp.com/",
+            "feed_url": "https://azamsharp.com/feed.xml"
           },
           {
             "title": "Design News",
@@ -380,7 +380,7 @@
             "feed_url": "https://appdecentral.com/feed/",
             "twitter_url": "https://twitter.com/drewmccormack"
           },
-           {
+          {
             "title": "App Developer Jay",
             "author": "Jay Cohen",
             "site_url": "https://appdeveloperjay.com/blog/",
@@ -3661,18 +3661,18 @@
             "twitter_url": "https://twitter.com/twannl"
           },
           {
-            "title": "Swifty Finch",
-            "author": "Khorkov Vyacheslav",
-            "site_url": "https://swiftyfinch.github.io/en",
-            "feed_url": "https://swiftyfinch.github.io/feed.rss",
-            "twitter_url": "https://twitter.com/swiftyfinch"
-          },
-          {
             "title": "The SwiftUI Lab",
             "author": "Javier Nigro",
             "site_url": "https://swiftui-lab.com/",
             "feed_url": "https://swiftui-lab.com/feed/",
             "twitter_url": "https://twitter.com/SwiftUILab"
+          },
+          {
+            "title": "Swifty Finch",
+            "author": "Khorkov Vyacheslav",
+            "site_url": "https://swiftyfinch.github.io/en",
+            "feed_url": "https://swiftyfinch.github.io/feed.rss",
+            "twitter_url": "https://twitter.com/swiftyfinch"
           },
           {
             "title": "SwiftyJimmy",
@@ -3920,6 +3920,13 @@
             "twitter_url": "https://twitter.com/johnbrayton"
           },
           {
+            "title": "Vlad Iacob on Medium",
+            "author": "Vlad Iacob",
+            "site_url": "https://vladiacob.medium.com",
+            "feed_url": "https://medium.com/feed/@vladiacob",
+            "twitter_url": "https://twitter.com/_vladiacob"
+          },
+          {
             "title": "Vojta Stavik’s Blog",
             "author": "Vojta Stavik",
             "site_url": "https://vojtastavik.com/",
@@ -4061,13 +4068,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-              "title": "Vlad Iacob on Medium",
-              "author": "Vlad Iacob",
-              "site_url": "https://vladiacob.medium.com",
-              "feed_url": "https://medium.com/feed/@vladiacob",
-              "twitter_url": "https://twitter.com/_vladiacob"
           }
         ]
       },
