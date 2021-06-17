@@ -4709,6 +4709,13 @@
             "twitter_url": "https://twitter.com/montanafloss"
           },
           {
+            "title": "Moove it Blog",
+            "author": "Moove it Team",
+            "site_url": "https://blog.moove-it.com",
+            "feed_url": "https://blog.moove-it.com/feed",
+            "twitter_url": "https://twitter.com/moove_it"
+          },
+          {
             "title": "Motiv Engineering Blog",
             "author": "Motiv Engineering Team",
             "site_url": "https://medium.com/motiv-engineering-blog",
