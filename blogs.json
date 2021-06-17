@@ -4068,13 +4068,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Moove it’s blog",
-            "author": "Moove it (Colaborative Company's Blog)",
-            "site_url": "https://blog.moove-it.com",
-            "feed_url": "https://blog.moove-it.com/feed",
-            "twitter_url": "https://twitter.com/moove_it"
           }
         ]
       },
@@ -4714,6 +4707,13 @@
             "site_url": "https://www.montanafloss.co/blog/?category=Technical",
             "feed_url": "https://www.montanafloss.co/blog/?format=RSS&category=Technical",
             "twitter_url": "https://twitter.com/montanafloss"
+          },
+          {
+            "title": "Moove it’s blog",
+            "author": "Moove it Team",
+            "site_url": "https://blog.moove-it.com",
+            "feed_url": "https://blog.moove-it.com/feed",
+            "twitter_url": "https://twitter.com/moove_it"
           },
           {
             "title": "Motiv Engineering Blog",
