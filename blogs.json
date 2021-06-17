@@ -4068,6 +4068,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Moove it’s blog",
+            "author": "Moove it (Colaborative Company's Blog)",
+            "site_url": "https://blog.moove-it.com",
+            "feed_url": "https://blog.moove-it.com/feed",
+            "twitter_url": "https://twitter.com/moove_it"
           }
         ]
       },
