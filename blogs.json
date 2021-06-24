@@ -1940,8 +1940,8 @@
           {
             "title": "John Codeos’ Blog",
             "author": "John Codeos",
-            "site_url": "https://johncodeos.com/",
-            "feed_url": "https://johncodeos.com/feed/",
+            "site_url": "https://johncodeos.com/category/tutorials/ios/",
+            "feed_url": "https://johncodeos.com/category/tutorials/ios/feed/",
             "twitter_url": "https://twitter.com/johncodeos"
           },
           {
