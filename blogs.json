@@ -1938,6 +1938,13 @@
             "twitter_url": "https://twitter.com/jogendrafx"
           },
           {
+            "title": "John Codeos’ Blog",
+            "author": "John Codeos",
+            "site_url": "https://johncodeos.com/category/tutorials/ios/",
+            "feed_url": "https://johncodeos.com/category/tutorials/ios/feed/",
+            "twitter_url": "https://twitter.com/johncodeos"
+          },
+          {
             "title": "John Scott’s Blog",
             "author": "John Scott",
             "site_url": "https://jjrscott.com/",
