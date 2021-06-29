@@ -4075,6 +4075,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "thegoodalright.dev",
+            "author": "Egor Mihnevich",
+            "site_url": "https://thegoodalright.dev/",
+            "feed_url": "https://thegoodalright.dev/feed/ios.xml",
+            "twitter_url": "https://twitter.com/leg_of_guldan"
           }
         ]
       },
