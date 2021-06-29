@@ -89,6 +89,13 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
+            "title": "Soheil Novinfard's Blog",
+            "author": "Soheil Novinfard",
+            "site_url": "https://novinfard.medium.com",
+            "feed_url": "https://novinfard.medium.com/feed",
+            "twitter_url": "https://twitter.com/novinfard"
+          },
+          {
             "title": "A Swift Misadventure",
             "author": "Claudio Cannino",
             "site_url": "https://medium.com/a-swift-misadventure",
