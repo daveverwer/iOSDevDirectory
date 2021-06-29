@@ -89,13 +89,6 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
-            "title": "Soheil Novinfard's Blog",
-            "author": "Soheil Novinfard",
-            "site_url": "https://novinfard.medium.com",
-            "feed_url": "https://novinfard.medium.com/feed",
-            "twitter_url": "https://twitter.com/novinfard"
-          },
-          {
             "title": "A Swift Misadventure",
             "author": "Claudio Cannino",
             "site_url": "https://medium.com/a-swift-misadventure",
@@ -3435,6 +3428,13 @@
             "feed_url": "https://smashswift.com/feed/"
           },
           {
+            "title": "Soheil Novinfard's Blog",
+            "author": "Soheil Novinfard",
+            "site_url": "https://novinfard.medium.com",
+            "feed_url": "https://novinfard.medium.com/feed",
+            "twitter_url": "https://twitter.com/novinfard"
+          },
+          {
             "title": "Soroush Khanlou’s Blog",
             "author": "Soroush Khanlou",
             "site_url": "http://khanlou.com/",
@@ -3736,6 +3736,13 @@
             "site_url": "https://thatthinginswift.com/",
             "feed_url": "https://thatthinginswift.com/index.xml",
             "twitter_url": "https://twitter.com/nickoneill"
+          },
+          {
+            "title": "thegoodalright.dev",
+            "author": "Egor Mihnevich",
+            "site_url": "https://thegoodalright.dev/",
+            "feed_url": "https://thegoodalright.dev/feed/ios.xml",
+            "twitter_url": "https://twitter.com/leg_of_guldan"
           },
           {
             "title": "Theocacao",
@@ -4082,13 +4089,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "thegoodalright.dev",
-            "author": "Egor Mihnevich",
-            "site_url": "https://thegoodalright.dev/",
-            "feed_url": "https://thegoodalright.dev/feed/ios.xml",
-            "twitter_url": "https://twitter.com/leg_of_guldan"
           }
         ]
       },
