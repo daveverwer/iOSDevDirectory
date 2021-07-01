@@ -55,7 +55,14 @@
             "author": "Apple",
             "site_url": "https://github.com/apple/swift-evolution/tree/master/proposals",
             "feed_url": "https://github.com/apple/swift-evolution/commits/master.atom"
-          },
+          }
+        ]
+      },
+      {
+        "title": "Swift Packages",
+        "slug": "packages",
+        "description": "Information about new or updated Swift packages from the Swift Package Index.",
+        "sites": [
           {
             "title": "Swift Package Index - Recently Added",
             "author": "Dave Verwer and Sven A. Schmidt",
@@ -67,7 +74,7 @@
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/releases.rss"
-          },
+          }
         ]
       },
       {
