@@ -67,14 +67,14 @@
             "title": "Swift Package Index - Recently Added",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
-            "feed_url": "https://swiftpackageindex.com/packages.rss"
+            "feed_url": "https://swiftpackageindex.com/packages.rss",
             "twitter_url": "https://twitter.com/SwiftPackages"
           },
           {
             "title": "Swift Package Index – Recent Releases",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
-            "feed_url": "https://swiftpackageindex.com/releases.rss"
+            "feed_url": "https://swiftpackageindex.com/releases.rss",
             "twitter_url": "https://twitter.com/SwiftPkgUpdates"
           }
         ]
