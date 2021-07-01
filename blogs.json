@@ -68,12 +68,6 @@
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/releases.rss"
           },
-          {
-            "title": "Unofficial Apple Developer App News Feed",
-            "author": "Apple, and Brandon Evans",
-            "site_url": "https://github.com/interstateone/AppleDeveloperDiscover",
-            "feed_url": "https://interstateone.github.io/AppleDeveloperDiscover/feed.xml"
-          }
         ]
       },
       {
