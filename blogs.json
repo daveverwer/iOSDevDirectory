@@ -445,8 +445,8 @@
           {
             "title": "Artem Novichkov’s Blog",
             "author": "Artem Novichkov",
-            "site_url": "https://blog.artemnovichkov.com/+ios",
-            "feed_url": "https://teletype.in/rss/artemnovichkov",
+            "site_url": "https://artemnovichkov.com",
+            "feed_url": "https://artemnovichkov.com/feed.xml",
             "twitter_url": "https://twitter.com/iosartem"
           },
           {
