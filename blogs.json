@@ -1948,6 +1948,13 @@
             "twitter_url": "https://twitter.com/johncodeos"
           },
           {
+            "title": "John Patrick Morgan’s Blog",
+            "author": "John Patrick Morgan",
+            "site_url": "https://johnpatrickmorgan.github.io",
+            "feed_url": "https://johnpatrickmorgan.github.io/atom.xml",
+            "twitter_url": "https://twitter.com/jpmmusic"
+          },
+          {
             "title": "John Scott’s Blog",
             "author": "John Scott",
             "site_url": "https://jjrscott.com/",
