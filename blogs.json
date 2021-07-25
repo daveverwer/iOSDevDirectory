@@ -3001,6 +3001,13 @@
             "twitter_url": "https://twitter.com/pepibumur"
           },
           {
+            "title": "Pete Smith on Medium",
+            "author": "Pete Smith",
+            "site_url": "https://superpeteblaze.medium.com",
+            "feed_url": "https://medium.com/feed/@superpeteblaze",
+            "twitter_url": "https://twitter.com/superpeteblaze"
+          },
+          {
             "title": "Peter Friese’s Blog",
             "author": "Peter Friese",
             "site_url": "https://peterfriese.dev",
