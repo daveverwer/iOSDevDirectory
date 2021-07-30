@@ -5527,6 +5527,13 @@
             "twitter_url": "https://twitter.com/StewartLynch"
           },
           {
+            "title": "Swift and Tips",
+            "author": "Pitt",
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrLSw5I775hSQQtXOLjq0Vw",
+            "twitter_url": "https://twitter.com/swiftandtips"
+          },
+          {
             "title": "Swift by Sundell",
             "author": "John Sundell",
             "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA",
