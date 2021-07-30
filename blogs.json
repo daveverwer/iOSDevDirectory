@@ -5892,6 +5892,20 @@
             "twitter_url": "https://twitter.com/NSHipster"
           }
         ]
+      },
+      {
+        "title": "Podcasts sobre el desarrollo en iOS",
+        "slug": "podcasts",
+        "description": "Podcasts en español relacionados al mundo de la programacion de iOS",
+        "sites": [
+          {
+            "title": "Let Swift Podcast",
+            "author": "Angel Morales K & Pitt",
+            "site_url": "https://anchor.fm/let-swift-podcast",
+            "twitter_url": "https://twitter.com/letswiftpodcast",
+            "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
+          }
+        ]
       }
     ]
   },
