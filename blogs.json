@@ -4382,6 +4382,13 @@
             "author": "Zachary Shakked",
             "site_url": "https://blog.zach.so",
             "feed_url": "https://blog.zach.so/feed/"
+          },
+          {
+            "title": "Ralf Ebert's Blog",
+            "author": "Ralf Ebert",
+            "site_url": "https://www.ralfebert.de/en/ios/",
+            "feed_url": "https://www.ralfebert.de/en/ios/index.rss",
+            "twitter_url": "https://twitter.com/RalfEbert"
           }
         ]
       },
@@ -5962,6 +5969,26 @@
             "author": "André Salla",
             "site_url": "https://andresalla.dev",
             "feed_url": "https://andresalla.dev/?feed=rss2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "title": "German Language",
+    "categories": [
+      {
+        "title": "Blogs zur iOS-Entwicklung",
+        "slug": "development",
+        "description": "Egal, ob es um Swift oder Objective-C geht, ob der Schwerpunkt auf der App-Architektur oder der UI-Programmierung liegt. Solange es mit der iOS-Entwicklung zu tun hat, gehört es hierher.",
+        "sites": [
+          {
+            "title": "Ralf Ebert's Blog",
+            "author": "Ralf Ebert",
+            "site_url": "https://www.ralfebert.de/ios/",
+            "feed_url": "https://www.ralfebert.de/ios/index.rss",
+            "twitter_url": "https://twitter.com/RalfEbert"
           }
         ]
       }
