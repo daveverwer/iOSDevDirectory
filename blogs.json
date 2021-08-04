@@ -5897,6 +5897,13 @@
             "site_url": "https://nshipster.es",
             "feed_url": "https://nshipster.es/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
+          },
+          {
+            "title": "SwiftBeta",
+            "author": "SwiftBeta",
+            "site_url": "https://www.swiftbeta.com",
+            "feed_url": "https://www.swiftbeta.com/rss",
+            "twitter_url": "https://twitter.com/SwiftBeta_"
           }
         ]
       },
