@@ -2681,6 +2681,13 @@
             "twitter_url": "https://twitter.com/multicolourpxl"
           },
           {
+            "title": "Musa Kökçen on Medium",
+            "author": "Musa Kökçen",
+            "site_url": "https://medium.com/@musakokcen",
+            "feed_url": "https://medium.com/feed/@musakokcen",
+            "twitter_url": "https://twitter.com/musakkcn"
+          },
+          {
             "title": "myeyesareblind's Blog",
             "author": "Max",
             "site_url": "http://myeyesareblind.com/",
@@ -4126,13 +4133,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Musa Kökçen on Medium",
-            "author": "Musa Kökçen",
-            "site_url": "https://medium.com/@musakokcen",
-            "feed_url": "https://medium.com/feed/@musakokcen",
-            "twitter_url": "https://twitter.com/musakkcn"
           }
         ]
       },
