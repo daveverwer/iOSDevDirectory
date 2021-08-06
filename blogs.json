@@ -3113,6 +3113,13 @@
             "twitter_url": "https://twitter.com/rajkwatra"
           },
           {
+            "title": "Ralf Ebert's Blog",
+            "author": "Ralf Ebert",
+            "site_url": "https://www.ralfebert.de/en/ios/",
+            "feed_url": "https://www.ralfebert.de/en/ios/index.rss",
+            "twitter_url": "https://twitter.com/RalfEbert"
+          },
+          {
             "title": "Ram Shandilya's Blog",
             "author": "Ramsundar Shandilya",
             "site_url": "https://ramshandilya.com",
@@ -4376,13 +4383,6 @@
             "site_url": "https://blog.nielsmouthaan.nl/",
             "feed_url": "https://blog.nielsmouthaan.nl/rss.xml",
             "twitter_url": "https://twitter.com/nielsmouthaan"
-          },
-          {
-            "title": "Ralf Ebert's Blog",
-            "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.de/en/ios/",
-            "feed_url": "https://www.ralfebert.de/en/ios/index.rss",
-            "twitter_url": "https://twitter.com/RalfEbert"
           },
           {
             "title": "Vini Leal's Blog",
