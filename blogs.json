@@ -5029,6 +5029,13 @@
             "twitter_url": "https://twitter.com/UseWaldo"
           },
           {
+            "title": "Xmartlabs Blog",
+            "author": "Xmartlabs Team",
+            "site_url": "https://blog.xmartlabs.com/category/ios-development",
+            "feed_url": "https://blog.xmartlabs.com/feed.xml",
+            "twitter_url": "https://twitter.com/xmartlabs"
+          },
+          {
             "title": "Zepelin Blog",
             "author": "Zepelin Team",
             "site_url": "https://blog.zeplin.io",
