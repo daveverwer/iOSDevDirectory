@@ -816,6 +816,13 @@
             "twitter_url": "https://twitter.com/CWinstanley90"
           },
           {
+            "title": "Chris Wu's Blog",
+            "author": "Chris Wu",
+            "site_url": "http://chriswu.com/categories/development/",
+            "feed_url": "http://chriswu.com/index.xml",
+            "twitter_url": "https://twitter.com/MuseumShuffle"
+          },
+          {
             "title": "Christian Selig's Blog",
             "author": "Christian Selig",
             "site_url": "https://christianselig.com",
