@@ -467,6 +467,13 @@
             "twitter_url": "https://twitter.com/arthurofbabylon"
           },
           {
+            "title": "Artur Gruchała's Blog",
+            "author": "Artur Gruchała",
+            "site_url": "https://arturgruchala.com/",
+            "feed_url": "https://arturgruchala.com/rss/",
+            "twitter_url": "https://twitter.com/GruchalaArtur"
+          },
+          {
             "title": "Ash Furrow’s Blog",
             "author": "Ash Furrow",
             "site_url": "https://ashfurrow.com/",
