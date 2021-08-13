@@ -2490,6 +2490,13 @@
             "twitter_url": "https://twitter.com/mxcl"
           },
           {
+            "title": "Maxim Smirnov on Medium",
+            "author": "Maxim Smirnov",
+            "site_url": "https://medium.com/@atimca",
+            "feed_url": "https://medium.com/feed/@atimca",
+            "twitter_url": "https://twitter.com/atimca"
+          },
+          {
             "title": "Mayur Gowravaram's Blog",
             "author": "Mayur Gowravaram",
             "site_url": "https://theswiftdeveloper.com",
