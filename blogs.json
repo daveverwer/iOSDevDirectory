@@ -4101,6 +4101,13 @@
             "feed_url": "https://wwdcnotes.com/feed.rss"
           },
           {
+            "title": "Xcoding with Alfian",
+            "author": "Alfian Losari",
+            "site_url": "http://alfianlosari.com/",
+            "feed_url": "https://alfianlosari.com/feed.rss",
+            "twitter_url": "https://twitter.com/alfianlosari"
+          },
+          {
             "title": "Xavier Lowmiller's Blog",
             "author": "Xavier Lowmiller",
             "site_url": "https://xavierlowmiller.github.io",
@@ -5636,6 +5643,13 @@
             "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
             "twitter_url": "https://twitter.com/vojtastavik"
+          },
+          {
+            "title": "Xcoding with Alfian",
+            "author": "Alfian Losari",
+            "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
+            "twitter_url": "https://twitter.com/alfianlosari"
           }
         ]
       }
