@@ -3761,6 +3761,13 @@
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
           {
+            "title": "Swift Unwrap",
+            "author": "JC Pastant",
+            "site_url": "https://swiftunwrap.com",
+            "feed_url": "https://swiftunwrap.com/feed.rss",
+            "twitter_url": "https://twitter.com/pjechris"
+          },
+          {
             "title": "Tammo Freese on Medium",
             "author": "Tammo Freese",
             "site_url": "https://medium.com/@tammofreese",
