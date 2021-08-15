@@ -4168,6 +4168,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Daniel Bernal's Blog",
+            "author": "Daniel Bernal",
+            "site_url": "https://danielbernal.co",
+            "feed_url": "https://danielbernal.co/feed",
+            "twitter_url": "https://twitter.com/afterxleep"
           }
         ]
       },
