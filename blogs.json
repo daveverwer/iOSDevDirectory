@@ -974,6 +974,13 @@
             "feed_url": "https://contagious.dev/blog/category/ios/feed/"
           },
           {
+            "title": "Cornerbit Kamil Tustanowski's Blog",
+            "author": "Kamil Tustanowski",
+            "site_url": "https://cornerbit.tech/",
+            "feed_url": "https://cornerbit.tech/rss/",
+             "twitter_url": "https://twitter.com/tustanowskik"
+          },
+          {
             "title": "Cory Bohon's Blog",
             "author": "Cory Bohon",
             "site_url": "https://corybohon.com/categories/software-development/",
