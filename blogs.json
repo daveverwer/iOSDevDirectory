@@ -3385,6 +3385,13 @@
             "twitter_url": "https://twitter.com/sarunw"
           },
           {
+            "title": "School of Swift",
+            "author": "Frank Courville",
+            "site_url": "https://schoolofswift.com/",
+            "feed_url": "https://schoolofswift.com/feed.xml",
+            "twitter_url": "https://twitter.com/schoolofswift"
+          },
+          {
             "title": "Scorpios",
             "author": "Avi Tsadok",
             "site_url": "https://scorpios.home.blog/",
