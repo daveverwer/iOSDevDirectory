@@ -985,7 +985,7 @@
             "author": "Kamil Tustanowski",
             "site_url": "https://cornerbit.tech/",
             "feed_url": "https://cornerbit.tech/rss/",
-             "twitter_url": "https://twitter.com/tustanowskik"
+            "twitter_url": "https://twitter.com/tustanowskik"
           },
           {
             "title": "Cory Bohon's Blog",
@@ -1040,6 +1040,13 @@
             "site_url": "https://danloman.com",
             "feed_url": "https://danloman.com/feed.xml",
             "twitter_url": "https://twitter.com/namolnad"
+          },
+          {
+            "title": "Daniel Bernal's Blog",
+            "author": "Daniel Bernal",
+            "site_url": "https://danielbernal.co",
+            "feed_url": "https://danielbernal.co/feed",
+            "twitter_url": "https://twitter.com/afterxleep"
           },
           {
             "title": "Daniel Kennett’s Blog",
@@ -3727,6 +3734,13 @@
             "twitter_url": "https://twitter.com/gregheo"
           },
           {
+            "title": "Swift Unwrap",
+            "author": "JC Pastant",
+            "site_url": "https://swiftunwrap.com",
+            "feed_url": "https://swiftunwrap.com/feed.rss",
+            "twitter_url": "https://twitter.com/pjechris"
+          },
+          {
             "title": "Swiftier - A tale of Swift Performance",
             "author": "Siddharth Gupta",
             "site_url": "https://swiftier.co",
@@ -3780,13 +3794,6 @@
             "site_url": "http://swiftyjimmy.com",
             "feed_url": "http://swiftyjimmy.com/feed/",
             "twitter_url": "https://twitter.com/jussisuojanen"
-          },
-          {
-            "title": "Swift Unwrap",
-            "author": "JC Pastant",
-            "site_url": "https://swiftunwrap.com",
-            "feed_url": "https://swiftunwrap.com/feed.rss",
-            "twitter_url": "https://twitter.com/pjechris"
           },
           {
             "title": "Tammo Freese on Medium",
@@ -4122,13 +4129,6 @@
             "feed_url": "https://wwdcnotes.com/feed.rss"
           },
           {
-            "title": "Xcoding with Alfian",
-            "author": "Alfian Losari",
-            "site_url": "https://alfianlosari.com/",
-            "feed_url": "https://alfianlosari.com/feed.rss",
-            "twitter_url": "https://twitter.com/alfianlosari"
-          },
-          {
             "title": "Xavier Lowmiller's Blog",
             "author": "Xavier Lowmiller",
             "site_url": "https://xavierlowmiller.github.io",
@@ -4141,6 +4141,13 @@
             "site_url": "http://shashikantjagtap.net/",
             "feed_url": "http://shashikantjagtap.net/feed/",
             "twitter_url": "https://twitter.com/Shashikant86"
+          },
+          {
+            "title": "Xcoding with Alfian",
+            "author": "Alfian Losari",
+            "site_url": "https://alfianlosari.com/",
+            "feed_url": "https://alfianlosari.com/feed.rss",
+            "twitter_url": "https://twitter.com/alfianlosari"
           },
           {
             "title": "YASB - Yet Another Swift Blog",
@@ -4189,13 +4196,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Daniel Bernal's Blog",
-            "author": "Daniel Bernal",
-            "site_url": "https://danielbernal.co",
-            "feed_url": "https://danielbernal.co/feed",
-            "twitter_url": "https://twitter.com/afterxleep"
           }
         ]
       },
