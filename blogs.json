@@ -1598,6 +1598,13 @@
             "twitter_url": "https://twitter.com/grantisom"
           },
           {
+            "title": "Gualtiero Frigerio’s Blog",
+            "author": "Gualtiero Frigerio",
+            "site_url": "https://gfrigerio.com",
+            "feed_url": "https://gfrigerio.com/feed",
+            "twitter_url": "https://twitter.com/gualtierofr"
+          },
+          {
             "title": "Guilherme Rambo’s Blog",
             "author": "Guilherme Rambo",
             "site_url": "https://rambo.codes",
