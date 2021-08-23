@@ -1028,6 +1028,13 @@
             "twitter_url": "https://twitter.com/dadederk"
           },
           {
+            "title": "Damian Mehers' Blog",
+            "author": "Damian Mehers",
+            "site_url": "https://damian.fyi",
+            "feed_url": "https://damian.fyi/feed.xml",
+            "twitter_url": "https://twitter.com/DamianMehers"
+          },
+          {
             "title": "Dan Gauthier’s Blog",
             "author": "Dan Gauthier",
             "site_url": "https://danielgauthier.me",
