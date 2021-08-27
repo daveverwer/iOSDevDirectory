@@ -99,13 +99,6 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
-            "title": "/var/log/journal",
-            "author": "Gaël Foppolo",
-            "site_url": "https://gaelfoppolo.com/",
-            "feed_url": "https://gaelfoppolo.com/feed.xml",
-            "twitter_url": "https://twitter.com/gaelugio"
-          },
-          {
             "title": "A Swift Misadventure",
             "author": "Claudio Cannino",
             "site_url": "https://medium.com/a-swift-misadventure",
