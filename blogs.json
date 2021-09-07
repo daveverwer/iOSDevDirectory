@@ -1284,6 +1284,13 @@
             "twitter_url": "https://twitter.com/holtwick"
           },
           {
+            "title": "Dodo Games Development Log",
+            "author": "Ben Dodson",
+            "site_url": "https://dodogames.io/devlog/",
+            "feed_url": "https://dodogames.io/feed.xml",
+            "twitter_url": "https://twitter.com/bendodson"
+          },
+          {
             "title": "Dominic Williams' Blog",
             "author": "Dominic Williams",
             "site_url": "https://domz.co.uk",
