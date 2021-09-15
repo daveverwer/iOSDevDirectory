@@ -4020,6 +4020,13 @@
             "twitter_url": "https://twitter.com/trollwerks"
           },
           {
+            "title": "unpredictable.tech",
+            "author": "Victor Pavlychko",
+            "site_url": "https://unpredictable.tech/",
+            "feed_url": "https://unpredictable.tech/atom.xml",
+            "twitter_url": "https://twitter.com/victorpavlychko"
+          },
+          {
             "title": "upbeat.it",
             "author": "Cesare Rocchi",
             "site_url": "https://www.upbeat.it",
@@ -4053,13 +4060,6 @@
             "site_url": "https://vmanot.com",
             "feed_url": "https://vmanot.com/feed",
             "twitter_url": "https://twitter.com/vatsal_manot"
-          },
-          {
-            "title": "Victor Pavlychko on Medium",
-            "author": "Victor Pavlychko",
-            "site_url": "https://medium.com/@victor.pavlychko",
-            "feed_url": "https://medium.com/feed/@victor.pavlychko",
-            "twitter_url": "https://twitter.com/victorpavlychko"
           },
           {
             "title": "Virtual Sanity",
