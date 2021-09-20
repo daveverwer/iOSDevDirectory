@@ -651,7 +651,7 @@
             "title": "Bitrise Blog",
             "author": "Bitrise",
             "site_url": "http://blog.bitrise.io",
-            "feed_url": "blog.bitrise.io/post/rss.xml",
+            "feed_url": "https://blog.bitrise.io/post/rss.xml",
             "twitter_url": "https://twitter.com/bitrise"
           },
           {
@@ -923,7 +923,7 @@
             "title": "Codakuma",
             "author": "Shaun Donnelly",
             "site_url": "https://codakuma.com/ios-blog",
-            "feed_url": "https://codakuma.com/rss.xml",
+            "feed_url": "https://codakuma.com/feed.xml",
             "twitter_url": "https://twitter.com/shauneba"
           },
           {
@@ -3751,7 +3751,7 @@
             "title": "Swift Tom",
             "author": "Tommy Prezioso",
             "site_url": "https://www.swifttom.com",
-            "feed_url": "https://www.swifttom.com/blog-feed/",
+            "feed_url": "https://swifttom.com/blog-feed/",
             "twitter_url": "https://twitter.com/tommyprezioso"
           },
           {
