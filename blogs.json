@@ -2994,6 +2994,12 @@
             "twitter_url": "https://twitter.com/iOtbivnoe"
           },
           {
+            "title": "Overdesigned Blog",
+            "author": "Adam Overholtzer",
+            "site_url": "https://blog.overdesigned.net/",
+            "feed_url": "https://blog.overdesigned.net/feed.rss"
+          },
+          {
             "title": "owensd.io",
             "author": "David Owens II",
             "site_url": "https://owensd.io",
