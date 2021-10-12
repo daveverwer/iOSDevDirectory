@@ -690,6 +690,12 @@
             "twitter_url": "https://twitter.com/brevansio"
           },
           {
+            "title": "Brian Coyner’s Blog",
+            "author": "Brian Coyner",
+            "site_url": "https://briancoyner.github.io/",
+            "feed_url": "https://briancoyner.github.io/feed.rss"
+          },
+          {
             "title": "Bryan Irace’s Blog",
             "author": "Bryan Irace",
             "site_url": "http://irace.me/",
