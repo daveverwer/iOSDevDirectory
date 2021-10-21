@@ -711,6 +711,13 @@
             "twitter_url": "https://twitter.com/justin"
           },
           {
+            "title": "Carson Katri's Blog",
+            "author": "Carson Katri",
+            "site_url": "https://www.carsonkatri.com/",
+            "feed_url": "https://www.carsonkatri.com/feed.rss",
+            "twitter_url": "https://twitter.com/carsonkatri"
+          },
+          {
             "title": "Cassius Pacheco's Blog",
             "author": "Cassius Pacheco",
             "site_url": "https://cassiuspacheco.com",
