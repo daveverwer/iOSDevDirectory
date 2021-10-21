@@ -4884,6 +4884,13 @@
             "twitter_url": "https://twitter.com/motiv"
           },
           {
+            "title": "Moving Parts Blog",
+            "author": "Moving Parts Team",
+            "site_url": "https://movingparts.io",
+            "feed_url": "https://movingparts.io/atom.xml",
+            "twitter_url": "https://twitter.com/movingpartsio"
+          },
+          {
             "title": "Nami ML Blog",
             "author": "Nami ML Team",
             "site_url": "https://www.namiml.com/blog/",
