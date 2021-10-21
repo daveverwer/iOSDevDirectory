@@ -79,13 +79,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
         "sites": [
           {
-            "title": "AnSwift - Swift Dev Journey",
-            "author": "An Tran",
-            "site_url": "https://antran.app/",
-            "feed_url": "https://antran.app/rss/swift.xml",
-            "twitter_url": "https://twitter.com/antranapp"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -342,6 +335,13 @@
             "site_url": "http://www.annema.me/",
             "feed_url": "https://annema.me/feed.xml",
             "twitter_url": "https://twitter.com/klaaspieter"
+          },
+          {
+            "title": "AnSwift - Swift Dev Journey",
+            "author": "An Tran",
+            "site_url": "https://antran.app/",
+            "feed_url": "https://antran.app/rss/swift.xml",
+            "twitter_url": "https://twitter.com/antranapp"
           },
           {
             "title": "Antitypical",
@@ -4404,13 +4404,6 @@
             "twitter_url": "https://twitter.com/blackpixel"
           },
           {
-            "title": "Sketch Blog",
-            "author": "Sketch Team",
-            "site_url": "https://www.sketch.com/blog/",
-            "feed_url": "https://www.sketch.com/blog/feed.xml",
-            "twitter_url": "https://twitter.com/sketch"
-          },
-          {
             "title": "BPXL Craft",
             "author": "Black Pixel Team",
             "site_url": "https://medium.com/bpxl-craft",
@@ -4806,6 +4799,13 @@
             "site_url": "http://codeblog.shape.dk/",
             "feed_url": "http://codeblog.shape.dk/atom.xml",
             "twitter_url": "https://twitter.com/shapedk"
+          },
+          {
+            "title": "Sketch Blog",
+            "author": "Sketch Team",
+            "site_url": "https://www.sketch.com/blog/",
+            "feed_url": "https://www.sketch.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/sketch"
           },
           {
             "title": "Spokestack, Voice for iOS Blog",
@@ -5244,6 +5244,13 @@
             "twitter_url": "https://twitter.com/LucasDerraugh"
           },
           {
+            "title": "Aryaman Sharda on YouTube",
+            "author": "Aryaman Sharda",
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOaGxMc7zD9vpjBwluVgP2w",
+            "twitter_url": "https://twitter.com/aryamansharda"
+          },
+          {
             "title": "Brian Advent on YouTube",
             "author": "Brian Advent",
             "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw",
@@ -5457,13 +5464,6 @@
             "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
             "twitter_url": "https://twitter.com/alfianlosari"
-          },
-          {
-            "title": "Aryaman Sharda on YouTube",
-            "author": "Aryaman Sharda",
-            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOaGxMc7zD9vpjBwluVgP2w",
-            "twitter_url": "https://twitter.com/aryamansharda"
           }
         ]
       }
