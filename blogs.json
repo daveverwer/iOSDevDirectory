@@ -4609,6 +4609,13 @@
             "twitter_url": "https://twitter.com/ittybittyapps"
           },
           {
+            "title": "Kaleidoscope Blog",
+            "author": "Kaleidoscope Team",
+            "site_url": "https://blog.kaleidoscope.app/",
+            "feed_url": "https://blog.kaleidoscope.app/feed/",
+            "twitter_url": "https://twitter.com/kaleidoscopeapp"
+          },
+          {
             "title": "Kitefaster’s iOS Development Blog",
             "author": "Kitefaster",
             "site_url": "https://kitefaster.com/categories/ios-development/",
