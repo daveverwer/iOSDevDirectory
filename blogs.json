@@ -3066,8 +3066,8 @@
           {
             "title": "Ralf Ebert's Blog",
             "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.de/en/ios/",
-            "feed_url": "https://www.ralfebert.de/en/ios/index.rss",
+            "site_url": "https://www.ralfebert.com/blog/",
+            "feed_url": "https://www.ralfebert.com/blog/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
           },
           {
@@ -5898,8 +5898,8 @@
           {
             "title": "Ralf Ebert's Blog",
             "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.de/ios/",
-            "feed_url": "https://www.ralfebert.de/ios/index.rss",
+            "site_url": "https://www.ralfebert.de/blog/",
+            "feed_url": "https://www.ralfebert.de/blog/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
           }
         ]
