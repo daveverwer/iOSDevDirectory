@@ -959,6 +959,12 @@
             "feed_url": "https://corybohon.com/categories/software-development/feed.xml"
           },
           {
+            "title": "Create with Swift",
+            "author": "Giovanni Monaco, Tiago Gomes Pereira, and Moritz Philip Recke",
+            "site_url": "https://www.createwithswift.com/",
+            "feed_url": "https://www.createwithswift.com/rss/"
+          },
+          {
             "title": "Crunchy Development",
             "author": "Olivier Halligon",
             "site_url": "http://alisoftware.github.io/",
