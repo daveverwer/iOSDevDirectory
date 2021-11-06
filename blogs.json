@@ -3091,6 +3091,13 @@
             "twitter_url": "https://twitter.com/raulriera"
           },
           {
+            "title": "Ray Fix's Blog",
+            "author": "Ray Fix",
+            "site_url": "https://rayfix.org",
+            "feed_url": "https://rayfix.org/feed.xml",
+            "twitter_url": "https://twitter.com/rayfix"
+          },
+          {
             "title": "Ray Wenderlich",
             "author": "Ray Wenderlich and Team",
             "site_url": "https://www.raywenderlich.com",
