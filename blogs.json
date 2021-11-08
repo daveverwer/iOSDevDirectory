@@ -93,6 +93,13 @@
             "twitter_url": "https://twitter.com/ccarnino"
           },
           {
+            "title": "Aaron Sky",
+            "author": "Aaron Sky",
+            "site_url": "https://skyaaron.com/",
+            "feed_url": "https://skyaaron.com/posts/index.xml",
+            "twitter_url": "https://twitter.com/metc_sky"
+          },
+          {
             "title": "ackermann.io",
             "author": "Ryan Ackermann",
             "site_url": "https://ackermann.io",
