@@ -4493,6 +4493,13 @@
             "feed_url": "https://medium.com/feed/faire-the-craft/tagged/engineering"
           },
           {
+            "title": "Cromulent Labs Blog",
+            "author": "Greg Gardner",
+            "site_url": "https://cromulentlabs.wordpress.com",
+            "feed_url": "https://cromulentlabs.wordpress.com/feed/",
+            "twitter_url": "https://twitter.com/gregggreg2"
+          },
+          {
             "title": "Crunchy Bagel",
             "author": "Quentin Zervaas",
             "site_url": "https://crunchybagel.com",
