@@ -4077,6 +4077,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "SwiftlyRush - Build apps using Swift",
+            "author": "Adam Rush",
+            "site_url": "https://swiftlyrush.com",
+            "feed_url": "https://www.swiftlyrush.com/feed/",
+            "twitter_url": "https://twitter.com/Adam9Rush"
           }
         ]
       },
@@ -5248,6 +5255,13 @@
             "site_url": "https://uidesignerweekly.curated.co",
             "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
+          },
+          {
+            "title": "SwiftlyRush Weekly",
+            "author": "Adam Rush",
+            "site_url": "https://swiftlyrush.com",
+            "feed_url": "https://swiftlyrush.curated.co/issues.rss",
+            "twitter_url": "https://twitter.com/adam9rush"
           }
         ]
       },
