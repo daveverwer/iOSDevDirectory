@@ -5417,6 +5417,12 @@
             "twitter_url": "https://twitter.com/peterfriese"
           },
           {
+            "title": "Richard Topchii on YouTube",
+            "author": "Richard Topchii",
+            "site_url": "https://www.youtube.com/channel/UCx1gvWpy5zjOd7yZyDwmXEA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx1gvWpy5zjOd7yZyDwmXEA"
+          },
+          {
             "title": "Scott Smith on YouTube",
             "author": "Scott Smith",
             "site_url": "https://www.youtube.com/scottsmithdev",
