@@ -2755,6 +2755,13 @@
             "twitter_url": "https://twitter.com/sond813"
           },
           {
+            "title": "Emerge Tools' Blog",
+            "author": "Noah Martin",
+            "site_url": "https://emergetools.com/blog",
+            "feed_url": "https://emergetools.com/rss.xml",
+            "twitter_url": "https://twitter.com/emergetools"
+          },
+          {
             "title": "NSBlog",
             "author": "Mike Ash",
             "site_url": "http://www.mikeash.com/pyblog/",
