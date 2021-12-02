@@ -2755,13 +2755,6 @@
             "twitter_url": "https://twitter.com/sond813"
           },
           {
-            "title": "Emerge Tools' Blog",
-            "author": "Noah Martin",
-            "site_url": "https://emergetools.com/blog",
-            "feed_url": "https://emergetools.com/rss.xml",
-            "twitter_url": "https://twitter.com/emergetools"
-          },
-          {
             "title": "NSBlog",
             "author": "Mike Ash",
             "site_url": "http://www.mikeash.com/pyblog/",
@@ -4533,6 +4526,13 @@
             "site_url": "https://thedistance.co.uk/category/ios/",
             "feed_url": "https://thedistance.co.uk/category/ios/feed/",
             "twitter_url": "https://twitter.com/thedistancehq"
+          },
+          {
+            "title": "Emerge Tools' Blog",
+            "author": "Noah Martin",
+            "site_url": "https://emergetools.com/blog",
+            "feed_url": "https://emergetools.com/rss.xml",
+            "twitter_url": "https://twitter.com/emergetools"
           },
           {
             "title": "Eternal Storms Software Blog",
