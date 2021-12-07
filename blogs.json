@@ -4084,6 +4084,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Digging Developer blog",
+            "author": "Oleksii Nezhyborets",
+            "site_url": "https://diggingdeveloper.blog",
+            "feed_url": "https://diggingdeveloper.blog/?feed=rss",
+            "twitter_url": "https://twitter.com/undeadhip"
           }
         ]
       },
