@@ -1214,6 +1214,13 @@
             "twitter_url": "https://twitter.com/plivesey453"
           },
           {
+            "title": "Digging Developer blog",
+            "author": "Oleksii Nezhyborets",
+            "site_url": "https://diggingdeveloper.blog",
+            "feed_url": "https://diggingdeveloper.blog/?feed=rss",
+            "twitter_url": "https://twitter.com/undeadhip"
+          },
+          {
             "title": "digital bunker",
             "author": "Aryaman Sharda",
             "site_url": "https://digitalbunker.dev/",
@@ -1740,6 +1747,12 @@
             "site_url": "https://dev.to/imthath_m/",
             "feed_url": "https://dev.to/feed/imthath_m",
             "twitter_url": "https://twitter.com/imthath_m"
+          },
+          {
+            "title": "Indie Spark",
+            "author": "Sasmito Adibowo",
+            "site_url": "https://indiespark.top/tag/ios/",
+            "feed_url": "https://indiespark.top/tag/ios/feed/"
           },
           {
             "title": "Indie Stack",
@@ -3964,12 +3977,6 @@
             "twitter_url": "https://twitter.com/_vojto"
           },
           {
-            "title": "Indie Spark",
-            "author": "Sasmito Adibowo",
-            "site_url": "https://indiespark.top/tag/ios/",
-            "feed_url": "https://indiespark.top/tag/ios/feed/"
-          },
-          {
             "title": "Warp your mobile development",
             "author": "Thibault Wittemberg",
             "site_url": "https://twittemb.github.io",
@@ -4091,13 +4098,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Digging Developer blog",
-            "author": "Oleksii Nezhyborets",
-            "site_url": "https://diggingdeveloper.blog",
-            "feed_url": "https://diggingdeveloper.blog/?feed=rss",
-            "twitter_url": "https://twitter.com/undeadhip"
           }
         ]
       },
@@ -4315,6 +4315,13 @@
             "twitter_url": "https://twitter.com/michael_tigas"
           },
           {
+            "title": "Indie Spark",
+            "author": "Sasmito Adibowo",
+            "site_url": "https://indiespark.top/tag/app-store/",
+            "feed_url": "https://indiespark.top/tag/app-store/feed/",
+            "twitter_url": "https://twitter.com/cutecoder"
+          },
+          {
             "title": "Joe Cieplinski’s Blog",
             "author": "Joe Cieplinski",
             "site_url": "https://joecieplinski.com/blog/",
@@ -4341,13 +4348,6 @@
             "site_url": "https://vinileal.com",
             "feed_url": "https://vinileal.com/feed.xml",
             "twitter_url": "https://twitter.com/Vini__leal"
-          },
-          {
-            "title": "Indie Spark",
-            "author": "Sasmito Adibowo",
-            "site_url": "https://indiespark.top/tag/app-store/",
-            "feed_url": "https://indiespark.top/tag/app-store/feed/",
-            "twitter_url": "https://twitter.com/cutecoder"
           },
           {
             "title": "Zachary Shakked's Blog",
