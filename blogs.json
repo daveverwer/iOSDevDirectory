@@ -3300,6 +3300,13 @@
             "twitter_url": "https://twitter.com/queersorceress"
           },
           {
+            "title": "Samuel Défago's Corner",
+            "author": "Samuel Défago",
+            "site_url": "https://defagos.github.io",
+            "feed_url": "https://defagos.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/defagos"
+          },
+          {
             "title": "samwize’s Blog",
             "author": "Junda Ong",
             "site_url": "https://samwize.com",
