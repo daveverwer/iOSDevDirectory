@@ -3900,6 +3900,13 @@
             "twitter_url": "https://twitter.com/dfplaughton"
           },
           {
+            "title": "Ufuk's Blog",
+            "author": "Ufuk Canli",
+            "site_url": "https://ufukcanli.com",
+            "feed_url": "https://ufukcanli.com/rss.xml",
+            "twitter_url": ""
+          },
+          {
             "title": "Umberto Raimondi’s Blog",
             "author": "Umberto Raimondi",
             "site_url": "https://www.uraimo.com",
