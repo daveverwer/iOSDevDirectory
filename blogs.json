@@ -1062,10 +1062,10 @@
             "twitter_url": "https://twitter.com/danielctull"
           },
           {
-            "title": "Daniele Margutti’s Blog",
+            "title": "OffNotes.org",
             "author": "Daniele Margutti",
-            "site_url": "http://danielemargutti.com",
-            "feed_url": "http://danielemargutti.com/atom.xml",
+            "site_url": "http://offnotes.org",
+            "feed_url": "https://www.offnotes.org/rss/",
             "twitter_url": "https://twitter.com/danielemargutti"
           },
           {
