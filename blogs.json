@@ -5638,6 +5638,13 @@
             "site_url": "http://swift.gg",
             "feed_url": "http://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
+          },
+          {
+            "title": "肘子的Swift记事本",
+            "author": "东坡肘子(@fatbobman)",
+            "site_url": "https://www.fatbobman.com",
+            "feed_url": "https://www.fatbobman.com/feed.rss",
+            "twitter_url": "https://twitter.com/fatbobman"
           }
         ]
       }
