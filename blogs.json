@@ -2342,6 +2342,13 @@
             "twitter_url": "https://twitter.com/krzyzanowskim"
           },
           {
+            "title": "Marco Eidinger’s Blog (Swifty Tech)",
+            "author": "Marco Eidinger",
+            "site_url": "https://blog.eidinger.info/",
+            "feed_url": "https://blog.eidinger.info/rss.xml",
+            "twitter_url": "https://twitter.com/MarcoEidinger"
+          },
+          {
             "title": "Marco Santa Dev",
             "author": "Marco Santarossa",
             "site_url": "https://www.marcosantadev.com/",
