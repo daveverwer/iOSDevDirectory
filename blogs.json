@@ -1062,13 +1062,6 @@
             "twitter_url": "https://twitter.com/danielctull"
           },
           {
-            "title": "OffNotes.org",
-            "author": "Daniele Margutti",
-            "site_url": "https://offnotes.org",
-            "feed_url": "https://www.offnotes.org/rss/",
-            "twitter_url": "https://twitter.com/danielemargutti"
-          },
-          {
             "title": "DanielT1263’s Blog mostly about RxSwift",
             "author": "Daniel Tartaglia",
             "site_url": "https://medium.com/@danielt1263",
@@ -2836,6 +2829,13 @@
             "site_url": "https://obscuredpixels.com/",
             "feed_url": "https://obscuredpixels.com/rss.xml",
             "twitter_url": "https://twitter.com/obscured_pixels"
+          },
+          {
+            "title": "OffNotes.org",
+            "author": "Daniele Margutti",
+            "site_url": "https://offnotes.org",
+            "feed_url": "https://www.offnotes.org/rss/",
+            "twitter_url": "https://twitter.com/danielemargutti"
           },
           {
             "title": "Oh my Swift",
