@@ -198,6 +198,13 @@
             "twitter_url": "https://twitter.com/a_grebenyuk"
           },
           {
+            "title": "Alexander Weiß’s Blog (Teabyte)",
+            "author": "Alexander Weiß",
+            "site_url": "https://alexanderweiss.dev",
+            "feed_url": "https://alexanderweiss.dev/blog/feed/rss.xml",
+            "twitter_url": "https://twitter.com/_al_we"
+          },
+          {
             "title": "Alexandros Salazar’s Blog",
             "author": "Alexandros Salazar",
             "site_url": "https://nomothetis.svbtle.com",
