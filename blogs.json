@@ -2568,6 +2568,13 @@
             "feed_url": "https://medium.com/feed/@mpesate"
           },
           {
+            "title": "Mike Sand on Medium",
+            "author": "Mike Sand",
+            "site_url": "https://medium.com/@mikesand",
+            "feed_url": "https://medium.com/feed/@mikesand",
+            "twitter_url": "https://twitter.com/_mikesand",
+          },
+          {
             "title": "Mike Swanson’s Blog",
             "author": "Mike Swanson",
             "site_url": "http://blog.mikeswanson.com/",
