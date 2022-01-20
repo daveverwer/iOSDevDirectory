@@ -3837,6 +3837,13 @@
             "twitter_url": "https://twitter.com/Dimillian"
           },
           {
+            "title": "Tiago Lopes' Blog",
+            "author": "Tiago Lopes",
+            "site_url": "https://tiagomaia.blog",
+            "feed_url": "https://tiagomaia.blog/feed",
+            "twitter_url": "https://twitter.com/TiagoMaiaLopes"
+          },
+          {
             "title": "Tim Ekl’s Blog",
             "author": "Tim Ekl",
             "site_url": "https://www.timekl.com",
