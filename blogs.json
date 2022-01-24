@@ -3076,6 +3076,13 @@
             "twitter_url": "https://twitter.com/pointfreeco"
           },
           {
+            "title": "Pol Piella's Blog",
+            "author": "Pol Piella Abadia",
+            "site_url": "https://www.polpiella.dev",
+            "feed_url": "https://www.polpiella.dev/rss.xml",
+            "twitter_url": "https://twitter.com/polpielladev"
+          },
+          {
             "title": "Programming With Swift",
             "author": "Darren Leak",
             "site_url": "https://programmingwithswift.com",
