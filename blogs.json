@@ -973,13 +973,6 @@
             "feed_url": "https://corybohon.com/categories/software-development/feed.xml"
           },
           {
-            "title": "Cossack Labs' Data Security Engineering Blog",
-            "author": "Cossack Labs",
-            "site_url": "https://www.cossacklabs.com/blog/",
-            "feed_url": "https://www.cossacklabs.com/blog/index.xml",
-            "twitter_url": "https://twitter.com/cossacklabs"
-          },
-          {
             "title": "Create with Swift",
             "author": "Giovanni Monaco, Tiago Gomes Pereira, and Moritz Philip Recke",
             "site_url": "https://www.createwithswift.com/",
@@ -4564,9 +4557,9 @@
             "twitter_url": "https://twitter.com/coletivstudio"
           },
           {
-            "title": "Cossack Labs Blog",
+            "title": "Cossack Labs' Data Security Engineering Blog",
             "author": "Cossack Labs",
-            "site_url": "https://www.cossacklabs.com/tags/iOS/",
+            "site_url": "https://www.cossacklabs.com/blog/",
             "feed_url": "https://www.cossacklabs.com/feeds/all.rss.xml",
             "twitter_url": "https://twitter.com/cossacklabs"
           },
