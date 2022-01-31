@@ -3893,6 +3893,12 @@
             "twitter_url": "https://twitter.com/timacfr"
           },
           {
+            "title": "Toby O'Connell on Medium",
+            "author": "Toby O'Connell",
+            "site_url": "https://medium.com/@oconnelltoby",
+            "feed_url": "https://medium.com/feed/@oconnelltoby"
+          },
+          {
             "title": "Tomasz Szulc’s Blog",
             "author": "Tomasz Szulc",
             "site_url": "http://szulctomasz.com/programming-blog/",
