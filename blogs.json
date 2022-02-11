@@ -4107,6 +4107,13 @@
             "twitter_url": "https://twitter.com/Shashikant86"
           },
           {
+            "title": "Xcode.tips",
+            "author": "Dominik Hauser",
+            "site_url": "https://xcode.tips",
+            "feed_url": "https://xcode.tips/feed.xml",
+            "twitter_url": "https://twitter.com/dasdom"
+          },
+          {
             "title": "Xcoding with Alfian",
             "author": "Alfian Losari",
             "site_url": "https://alfianlosari.com/",
