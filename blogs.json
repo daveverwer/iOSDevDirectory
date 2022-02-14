@@ -21,6 +21,13 @@
             "feed_url": "http://codeworkshop.net/feed"
           },
           {
+            "title": "Groovy Web",
+            "author": "Krunal Panchal",
+            "site_url": "https://www.groovyweb.co/service/mobile-app-development/",
+            "feed_url": "https://rss.app/feeds/Y9cowvudtIIcGpra.xml"
+            "twitter_url": "https://twitter.com/groovywebco"
+          },
+          {
             "title": "Design News",
             "author": "Apple",
             "site_url": "https://developer.apple.com/design/whats-new/",
