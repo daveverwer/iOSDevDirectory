@@ -830,10 +830,10 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
-            "title": "Cihat Gündüz' Blog",
+            "title": "Cihat Gündüz on Medium",
             "author": "Cihat Gündüz",
-            "site_url": "https://dev.to/jeehut",
-            "feed_url": "https://dev.to/feed/jeehut",
+            "site_url": "https://jeehut.medium.com",
+            "feed_url": "https://jeehut.medium.com/feed",
             "twitter_url": "https://twitter.com/Jeehut"
           },
           {
@@ -5444,6 +5444,13 @@
             "twitter_url": "https://twitter.com/martinho_t"
           },
           {
+            "title": "FlineDev",
+            "author": "Cihat Gündüz",
+            "site_url": "https://www.youtube.com/channel/UCtg6Ck7oYa_9k1oSTmFGNRw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtg6Ck7oYa_9k1oSTmFGNRw",
+            "twitter_url": "https://twitter.com/Jeehut"
+          },
+          {
             "title": "Gary Tokman on YouTube",
             "author": "Gary Tokman",
             "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
@@ -6052,6 +6059,20 @@
             "site_url": "https://www.ralfebert.de/blog/",
             "feed_url": "https://www.ralfebert.de/blog/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
+          }
+        ]
+      },
+      {
+        "title": "Podcasts zur iOS-Entwicklung",
+        "slug": "podcasts",
+        "description": "Podcasts über App-Entwicklung, egal ob es um Coding-Themen geht oder darum, ein Business im iOS-Ökosystem aufzubauen.",
+        "sites": [
+          {
+            "title": "Appstore Tagebuch",
+            "author": "Nicolo Stanciu & Holger Krupp",
+            "site_url": "https://appstore-tagebuch.de",
+            "twitter_url": "https://twitter.com/AppTagebuch",
+            "feed_url": "https://appstore-tagebuch.de/feed/"
           }
         ]
       }
