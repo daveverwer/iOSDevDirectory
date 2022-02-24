@@ -5631,6 +5631,20 @@
             "twitter_url": "https://twitter.com/alfianlosari"
           }
         ]
+      },
+      {
+        "title": "Twitch Streams",
+        "slug": "twitch",
+        "description": "Twitch streamers who focus on Swift or Apple platform development.",
+        "sites": [
+          {
+            "title": "pilkycrc on Twitch",
+            "author": "Martin Pilkington",
+            "site_url": "https://www.twitch.tv/pilkycrc",
+            "feed_url": "https://twitchrss.appspot.com/vod/pilkycrc",
+            "twitter_url": "https://twitter.com/pilky"
+          }
+        ]
       }
     ]
   },
