@@ -5645,6 +5645,13 @@
         "description": "Twitch streamers who focus on Swift or Apple platform development.",
         "sites": [
           {
+            "title": "aivars_meijers on Twitch",
+            "author": "Aivars Meijers",
+            "site_url": "https://www.twitch.tv/aivars_meijers",
+            "feed_url": "https://twitchrss.appspot.com/vod/aivars_meijers",
+            "twitter_url": "https://twitter.com/aivars_meijers"
+          },
+          {
             "title": "AphluxLogix on Twitch",
             "author": "Grant Davis",
             "site_url": "https://www.twitch.tv/aphluxlogix",
@@ -5680,6 +5687,13 @@
             "twitter_url": "https://twitter.com/maeganwilson_"
           },
           {
+            "title": "MonsieurBee on Twitch",
+            "author": "Jeremie Berduck",
+            "site_url": "https://www.twitch.tv/monsieurbee",
+            "feed_url": "https://twitchrss.appspot.com/vod/monsieurbee",
+            "twitter_url": "https://twitter.com/jeremieberduck"
+          },
+          {
             "title": "nutterfi on Twitch",
             "author": "nutterfi",
             "site_url": "https://www.twitch.tv/nutterfi",
@@ -5699,20 +5713,6 @@
             "site_url": "https://www.twitch.tv/pilkycrc",
             "feed_url": "https://twitchrss.appspot.com/vod/pilkycrc",
             "twitter_url": "https://twitter.com/pilky"
-          },
-          {
-            "title": "aivars_meijers on Twitch",
-            "author": "Aivars Meijers",
-            "site_url": "https://www.twitch.tv/aivars_meijers",
-            "feed_url": "https://twitchrss.appspot.com/vod/aivars_meijers",
-            "twitter_url": "https://twitter.com/aivars_meijers"
-          },
-          {
-            "title": "MonsieurBee on Twitch",
-            "author": "Jeremie Berduck",
-            "site_url": "https://www.twitch.tv/monsieurbee",
-            "feed_url": "https://twitchrss.appspot.com/vod/monsieurbee",
-            "twitter_url": "https://twitter.com/jeremieberduck"
           },
           {
             "title": "subdigital on Twitch",
