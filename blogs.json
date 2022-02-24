@@ -3677,6 +3677,13 @@
             "twitter_url": "https://twitter.com/bfoutty"
           },
           {
+            "title": "Swift Tips",
+            "author": "Brett Bauman",
+            "site_url": "https://swifttips.substack.com/",
+            "feed_url": "https://swifttips.substack.com/feed",
+            "twitter_url": "https://twitter.com/brettunhandled"
+          },
+          {
             "title": "Swift Tom",
             "author": "Tommy Prezioso",
             "site_url": "https://www.swifttom.com",
@@ -3696,13 +3703,6 @@
             "site_url": "https://swiftunwrap.com",
             "feed_url": "https://swiftunwrap.com/feed.rss",
             "twitter_url": "https://twitter.com/pjechris"
-          },
-          {
-            "title": "Swift Tips",
-            "author": "Brett Bauman",
-            "site_url": "https://swifttips.substack.com/",
-            "feed_url": "https://swifttips.substack.com/feed",
-            "twitter_url": "https://twitter.com/brettunhandled"
           },
           {
             "title": "Swifting on Medium",
@@ -5975,18 +5975,18 @@
             "twitter_url": "https://twitter.com/ethanhuang13"
           },
           {
-            "title": "ZhgChgLi on Medium",
-            "author": "ZhongCheng Li",
-            "site_url": "https://medium.com/@zhgchgli",
-            "feed_url": "https://medium.com/feed/@zhgchgli",
-            "twitter_url": "https://twitter.com/zhgchgli"
-          },
-          {
             "title": "S.T.H Brewery 鍵盤藍綠藻",
             "author": "ShihTing Huang",
             "site_url": "https://huangshihting.works/blog",
             "feed_url": "https://huangshihting.works/blog/rss",
             "twitter_url": "https://twitter.com/KoromikoNeo"
+          },
+          {
+            "title": "ZhgChgLi on Medium",
+            "author": "ZhongCheng Li",
+            "site_url": "https://medium.com/@zhgchgli",
+            "feed_url": "https://medium.com/feed/@zhgchgli",
+            "twitter_url": "https://twitter.com/zhgchgli"
           }
         ]
       }
