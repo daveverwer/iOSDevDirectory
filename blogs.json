@@ -830,10 +830,10 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
-            "title": "Cihat Gündüz' Blog",
+            "title": "Cihat Gündüz on Medium",
             "author": "Cihat Gündüz",
-            "site_url": "https://dev.to/jeehut",
-            "feed_url": "https://dev.to/feed/jeehut",
+            "site_url": "https://jeehut.medium.com",
+            "feed_url": "https://jeehut.medium.com/feed",
             "twitter_url": "https://twitter.com/Jeehut"
           },
           {
@@ -1628,7 +1628,7 @@
             "author": "Harshil Shah",
             "site_url": "https://harshil.net/",
             "feed_url": "https://harshil.net/feed.xml",
-            "twitter_url": "https://twitter.com/_HarshilShah"
+            "twitter_url": "https://twitter.com/Harshil"
           },
           {
             "title": "Heberti Almeida’s Blog",
@@ -3698,6 +3698,13 @@
             "twitter_url": "https://twitter.com/pjechris"
           },
           {
+            "title": "Swift Tips",
+            "author": "Brett Bauman",
+            "site_url": "https://swifttips.substack.com/",
+            "feed_url": "https://swifttips.substack.com/feed",
+            "twitter_url": "https://twitter.com/brettunhandled"
+          },
+          {
             "title": "Swifting on Medium",
             "author": "iRiziya",
             "site_url": "https://medium.com/@iriziya",
@@ -4100,6 +4107,13 @@
             "twitter_url": "https://twitter.com/Shashikant86"
           },
           {
+            "title": "Xcode.tips",
+            "author": "Dominik Hauser",
+            "site_url": "https://xcode.tips",
+            "feed_url": "https://xcode.tips/feed.xml",
+            "twitter_url": "https://twitter.com/dasdom"
+          },
+          {
             "title": "Xcoding with Alfian",
             "author": "Alfian Losari",
             "site_url": "https://alfianlosari.com/",
@@ -4403,6 +4417,13 @@
             "site_url": "https://vinileal.com",
             "feed_url": "https://vinileal.com/feed.xml",
             "twitter_url": "https://twitter.com/Vini__leal"
+          },
+          {
+            "title": "Yvz Digital Lab",
+            "author": "Yves Jannic",
+            "site_url": "https://yvz.fr",
+            "feed_url": "https://yvz.fr/feed",
+            "twitter_url": "https://twitter.com/YvesJannic"
           },
           {
             "title": "Zachary Shakked's Blog",
@@ -5423,6 +5444,13 @@
             "twitter_url": "https://twitter.com/martinho_t"
           },
           {
+            "title": "FlineDev",
+            "author": "Cihat Gündüz",
+            "site_url": "https://www.youtube.com/channel/UCtg6Ck7oYa_9k1oSTmFGNRw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtg6Ck7oYa_9k1oSTmFGNRw",
+            "twitter_url": "https://twitter.com/Jeehut"
+          },
+          {
             "title": "Gary Tokman on YouTube",
             "author": "Gary Tokman",
             "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
@@ -6031,6 +6059,20 @@
             "site_url": "https://www.ralfebert.de/blog/",
             "feed_url": "https://www.ralfebert.de/blog/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
+          }
+        ]
+      },
+      {
+        "title": "Podcasts zur iOS-Entwicklung",
+        "slug": "podcasts",
+        "description": "Podcasts über App-Entwicklung, egal ob es um Coding-Themen geht oder darum, ein Business im iOS-Ökosystem aufzubauen.",
+        "sites": [
+          {
+            "title": "Appstore Tagebuch",
+            "author": "Nicolo Stanciu & Holger Krupp",
+            "site_url": "https://appstore-tagebuch.de",
+            "twitter_url": "https://twitter.com/AppTagebuch",
+            "feed_url": "https://appstore-tagebuch.de/feed/"
           }
         ]
       }
