@@ -5650,6 +5650,55 @@
             "site_url": "https://www.twitch.tv/pilkycrc",
             "feed_url": "https://twitchrss.appspot.com/vod/pilkycrc",
             "twitter_url": "https://twitter.com/pilky"
+          },
+          {
+            "title": "MaeganWilson_ on Twitch",
+            "author": "Maegan Wilson",
+            "site_url": "https://www.twitch.tv/maeganwilson_",
+            "feed_url": "https://twitchrss.appspot.com/vod/maeganwilson_",
+            "twitter_url": "https://twitter.com/maeganwilson_"
+          },
+          {
+            "title": "CompileSwift on Twitch",
+            "author": "Peter Witham",
+            "site_url": "https://www.twitch.tv/compileswift",
+            "feed_url": "https://twitchrss.appspot.com/vod/compileswift",
+            "twitter_url": "https://twitter.com/CompileSwift"
+          },
+          {
+            "title": "AphluxLogix on Twitch",
+            "author": "Grant Davis",
+            "site_url": "https://www.twitch.tv/aphluxlogix",
+            "feed_url": "https://twitchrss.appspot.com/vod/aphluxlogix",
+            "twitter_url": "https://twitter.com/aphluxlogix"
+          },
+          {
+            "title": "nutterfi on Twitch",
+            "author": "nutterfi",
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "feed_url": "https://twitchrss.appspot.com/vod/nutterfi",
+            "twitter_url": "https://twitter.com/nutterfi"
+          },
+          {
+            "title": "Cocoatype on Twitch",
+            "author": "Geoff Pado",
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "feed_url": "https://twitchrss.appspot.com/vod/cocoatype",
+            "twitter_url": "https://twitter.com/cocoatype"
+          },
+          {
+            "title": "Jeehut on Twitch",
+            "author": "Cihat Gündüz",
+            "site_url": "https://www.twitch.tv/jeehut",
+            "feed_url": "https://twitchrss.appspot.com/vod/jeehut",
+            "twitter_url": "https://twitter.com/jeehut"
+          },
+          {
+            "title": "ObjCRetain on Twitch",
+            "author": "Graham Lee and Steven Baker",
+            "site_url": "https://www.twitch.tv/",
+            "feed_url": "https://twitchrss.appspot.com/vod/",
+            "twitter_url": "https://twitter.com/"
           }
         ]
       }
