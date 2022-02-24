@@ -344,6 +344,13 @@
             "twitter_url": "https://twitter.com/obusek"
           },
           {
+            "title": "Canopas Blog",
+            "author": "Jimmy Sanghani",
+            "site_url": "https://blog.canopas.com",
+            "feed_url": "http://blog.canopas.com/feed/",
+            "twitter_url": "https://twitter.com/canopassoftware"
+          },
+          {
             "title": "annema.me",
             "author": "Klaas Pieter Annema",
             "site_url": "http://www.annema.me/",
