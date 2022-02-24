@@ -74,9 +74,9 @@
         ]
       },
       {
-        "title": "iOS Development Blogs",
+        "title": "Development Blogs",
         "slug": "development",
-        "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to iOS development then it belongs here.",
+        "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
             "title": "/var/log/journal",
@@ -4171,9 +4171,9 @@
         ]
       },
       {
-        "title": "iOS Design Blogs",
+        "title": "Design Blogs",
         "slug": "design",
-        "description": "Anything related to iOS design.",
+        "description": "Anything related to Apple platform design.",
         "sites": [
           {
             "title": "Adam Wiggins’ Blog",
@@ -4311,7 +4311,7 @@
       {
         "title": "iOS Marketing and Business Blogs",
         "slug": "marketing",
-        "description": "All of the iOS business and marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
+        "description": "All of the Apple platform business and marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
         "sites": [
           {
             "title": "Appbot",
@@ -4434,9 +4434,9 @@
         ]
       },
       {
-        "title": "iOS Development Company Blogs",
+        "title": "Company Blogs",
         "slug": "companies",
-        "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to iOS development. This is where you’ll find it!",
+        "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
           {
             "title": "47 Degrees Blog",
@@ -5046,9 +5046,9 @@
         ]
       },
       {
-        "title": "iOS Development Podcasts",
+        "title": "Development or Design Podcasts",
         "slug": "podcasts",
-        "description": "Podcasts about application development, whether it is detailed code level or running a business within the iOS ecosystem.",
+        "description": "Podcasts about Apple platform development, no matter whether it covers code, design or running a business within the ecosystem.",
         "sites": [
           {
             "title": "AppForce1 Podcast",
@@ -5279,9 +5279,9 @@
         ]
       },
       {
-        "title": "iOS Development Newsletters",
+        "title": "Newsletters",
         "slug": "newsletters",
-        "description": "Newsletters or round up blogs covering iOS Development.",
+        "description": "Newsletters or round up blogs covering Swift or Apple platform Development.",
         "sites": [
           {
             "title": "Cocoa Delights",
@@ -5370,9 +5370,9 @@
         ]
       },
       {
-        "title": "iOS Development YouTube Channels",
+        "title": "YouTube Channels",
         "slug": "youtube",
-        "description": "Channels on YouTube that cover a variety of topics around iOS development.",
+        "description": "Channels on YouTube that cover a variety of topics around Apple platform development.",
         "sites": [
           {
             "title": "Alex Paul on YouTube",
