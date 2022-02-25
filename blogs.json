@@ -5298,6 +5298,13 @@
             "twitter_url": "https://twitter.com/IndieDevMonday"
           },
           {
+            "title": "iOS Stack Weekly",
+            "author": "Jimmy Sanghani",
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
+            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
+            "twitter_url": "https://twitter.com/canopassoftware"
+          },
+          {
             "title": "iOS Code Review Tips",
             "author": "Marina Gornostaeva",
             "site_url": "https://newsletter.ioscodereview.com/",
