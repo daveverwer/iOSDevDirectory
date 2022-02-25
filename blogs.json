@@ -6140,9 +6140,9 @@
     "title": "German Language",
     "categories": [
       {
-        "title": "Blogs zur iOS-Entwicklung",
+        "title": "Entwickler-Blogs",
         "slug": "development",
-        "description": "Egal, ob es um Swift oder Objective-C geht, ob der Schwerpunkt auf der App-Architektur oder der UI-Programmierung liegt. Solange es mit der iOS-Entwicklung zu tun hat, gehört es hierher.",
+        "description": "Ganz gleich ob es um Swift oder Objective-C geht, sich um App-Architektur oder UI-Programmierung handelt. Solange es sich mit der Entwicklung für Apple-Plattformen befasst, ist es hier gut aufgehoben.",
         "sites": [
           {
             "title": "Ralf Ebert's Blog",
@@ -6154,9 +6154,9 @@
         ]
       },
       {
-        "title": "Podcasts zur iOS-Entwicklung",
+        "title": "Programmier- oder Design-Podcasts",
         "slug": "podcasts",
-        "description": "Podcasts über App-Entwicklung, egal ob es um Coding-Themen geht oder darum, ein Business im iOS-Ökosystem aufzubauen.",
+        "description": "Podcasts zu Entwicklung auf Apple-Plattformen, ganz gleich ob sie Code, Design oder Geschäftliches innerhalb des Ökosystems behandeln.",
         "sites": [
           {
             "title": "Appstore Tagebuch",
@@ -6168,9 +6168,9 @@
         ]
       },
       {
-        "title": "Twitch Streams",
+        "title": "Twitch-Streams",
         "slug": "twitch",
-        "description": "Twitch streamers who focus on Swift or Apple platform development.",
+        "description": "Twitch-Streamer mit Fokus auf Swift oder Entwicklung auf Apple-Plattformen.",
         "sites": [
           {
             "title": "Drag0ndust on Twitch",
