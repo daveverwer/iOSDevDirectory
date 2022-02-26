@@ -6185,6 +6185,13 @@
             "site_url": "https://www.twitch.tv/drag0ndust",
             "feed_url": "https://twitchrss.appspot.com/vod/drag0ndust",
             "twitter_url": "https://twitter.com/drag0ndust"
+          },
+          {
+            "title": "arconsis on Twitch",
+            "author": "arconsis IT-Solutions GmbH",
+            "site_url": "https://www.twitch.tv/arconsis",
+            "feed_url": "https://twitchrss.appspot.com/vod/arconsis",
+            "twitter_url": "http://twitter.com/arconsis"
           }
         ]
       }
