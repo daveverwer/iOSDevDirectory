@@ -5549,6 +5549,13 @@
             "twitter_url": "https://twitter.com/peterfriese"
           },
           {
+            "title": "Quality Coding on YouTube",
+            "author": "Jon Reid",
+            "site_url": "https://www.youtube.com/channel/UC69XtVGLRydpG7o1nkdQs8Q",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC69XtVGLRydpG7o1nkdQs8Q",
+            "twitter_url": "https://twitter.com/qcoding"
+          },
+          {
             "title": "Richard Topchii on YouTube",
             "author": "Richard Topchii",
             "site_url": "https://www.youtube.com/channel/UCx1gvWpy5zjOd7yZyDwmXEA",
@@ -5720,6 +5727,13 @@
             "site_url": "https://www.twitch.tv/pilkycrc",
             "feed_url": "https://twitchrss.appspot.com/vod/pilkycrc",
             "twitter_url": "https://twitter.com/pilky"
+          },
+          {
+            "title": "Quality Coding on Twitch",
+            "author": "Jon Reid",
+            "site_url": "https://www.twitch.tv/qcoding",
+            "feed_url": "https://twitchrss.appspot.com/vod/qcoding",
+            "twitter_url": "https://twitter.com/qcoding"
           },
           {
             "title": "subdigital on Twitch",
