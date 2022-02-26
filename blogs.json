@@ -3711,6 +3711,12 @@
             "feed_url": "https://medium.com/feed/@iriziya"
           },
           {
+            "title": "SwiftBlade",
+            "author": "Thongchai Kolyutsakul",
+            "site_url": "https://medium.com/swiftblade",
+            "feed_url": "https://medium.com/feed/swiftblade"
+          },
+          {
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
             "site_url": "https://swifting.io/",
