@@ -4577,6 +4577,13 @@
             "microblog_url": "https://micro.blog/davewoodx"
           },
           {
+            "title": "Codemagic Blog",
+            "author": "Codemagic",
+            "site_url": "https://blog.codemagic.io",
+            "feed_url": "https://blog.codemagic.io/index.xml",
+            "twitter_url": "https://twitter.com/codemagicio"
+          },
+          {
             "title": "Code as Craft from Etsy",
             "author": "Etsy Engineering Team",
             "site_url": "https://codeascraft.com",
