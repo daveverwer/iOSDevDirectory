@@ -6086,6 +6086,20 @@
             "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
           }
         ]
+      },
+      {
+        "title": "Streams en Twitch",
+        "slug": "twitch",
+        "description": "Streams en Twitch centrados en Swift o desarollo en plataformas de Apple.",
+        "sites": [
+          {
+            "title": "Diego Freniche en Twitch",
+            "author": "Diego Freniche",
+            "site_url": "https://www.twitch.tv/dfreniche",
+            "feed_url": "https://twitchrss.appspot.com/vod/dfreniche",
+            "twitter_url": "https://twitter.com/dfreniche"
+          }
+        ]
       }
     ]
   },
