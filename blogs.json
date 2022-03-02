@@ -3711,6 +3711,12 @@
             "feed_url": "https://medium.com/feed/@iriziya"
           },
           {
+            "title": "SwiftBlade",
+            "author": "Thongchai Kolyutsakul",
+            "site_url": "https://medium.com/swiftblade",
+            "feed_url": "https://medium.com/feed/swiftblade"
+          },
+          {
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
             "site_url": "https://swifting.io/",
@@ -4167,6 +4173,12 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Testable Apple",
+            "author": "Alexey Alter-Pesotskiy",
+            "site_url": "https://testableapple.com",
+            "feed_url": "https://testableapple.com/feed.xml"
           }
         ]
       },
@@ -4569,6 +4581,13 @@
             "feed_url": "https://www.cerebralgardens.com/blog?view=latest&format=feed&type=rss",
             "twitter_url": "https://twitter.com/davewoodx",
             "microblog_url": "https://micro.blog/davewoodx"
+          },
+          {
+            "title": "Codemagic Blog",
+            "author": "Codemagic",
+            "site_url": "https://blog.codemagic.io",
+            "feed_url": "https://blog.codemagic.io/index.xml",
+            "twitter_url": "https://twitter.com/codemagicio"
           },
           {
             "title": "Code as Craft from Etsy",
@@ -5549,6 +5568,13 @@
             "twitter_url": "https://twitter.com/peterfriese"
           },
           {
+            "title": "Quality Coding on YouTube",
+            "author": "Jon Reid",
+            "site_url": "https://www.youtube.com/channel/UC69XtVGLRydpG7o1nkdQs8Q",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC69XtVGLRydpG7o1nkdQs8Q",
+            "twitter_url": "https://twitter.com/qcoding"
+          },
+          {
             "title": "Richard Topchii on YouTube",
             "author": "Richard Topchii",
             "site_url": "https://www.youtube.com/channel/UCx1gvWpy5zjOd7yZyDwmXEA",
@@ -5659,6 +5685,13 @@
             "twitter_url": "https://twitter.com/aivars_meijers"
           },
           {
+            "title": "Alejandro Martinez on Twitch",
+            "author": "Alejandro Martinez",
+            "site_url": "https://www.twitch.tv/alejandromp4",
+            "feed_url": "https://twitchrss.appspot.com/vod/alejandromp4",
+            "twitter_url": "https://twitter.com/alexito4"
+          },
+          {
             "title": "AphluxLogix on Twitch",
             "author": "Grant Davis",
             "site_url": "https://www.twitch.tv/aphluxlogix",
@@ -5720,6 +5753,13 @@
             "site_url": "https://www.twitch.tv/pilkycrc",
             "feed_url": "https://twitchrss.appspot.com/vod/pilkycrc",
             "twitter_url": "https://twitter.com/pilky"
+          },
+          {
+            "title": "Quality Coding on Twitch",
+            "author": "Jon Reid",
+            "site_url": "https://www.twitch.tv/qcoding",
+            "feed_url": "https://twitchrss.appspot.com/vod/qcoding",
+            "twitter_url": "https://twitter.com/qcoding"
           },
           {
             "title": "subdigital on Twitch",
@@ -6185,6 +6225,13 @@
             "site_url": "https://www.twitch.tv/drag0ndust",
             "feed_url": "https://twitchrss.appspot.com/vod/drag0ndust",
             "twitter_url": "https://twitter.com/drag0ndust"
+          },
+          {
+            "title": "arconsis on Twitch",
+            "author": "arconsis IT-Solutions GmbH",
+            "site_url": "https://www.twitch.tv/arconsis",
+            "feed_url": "https://twitchrss.appspot.com/vod/arconsis",
+            "twitter_url": "http://twitter.com/arconsis"
           }
         ]
       }
