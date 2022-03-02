@@ -6032,9 +6032,9 @@
     "title": "Spanish Language",
     "categories": [
       {
-        "title": "Blogs de desarrollo iOS",
+        "title": "Blogs de desarrollo",
         "slug": "development",
-        "description": "Todo lo relacionado con el desarrollo iOS, desde arquitectura hasta UI, ya sea en Objective-C o Swift, pertenece a esta categoría.",
+        "description": "Blogs de desarrollo en plataformas de Apple en español. Sin importar si están centrados en Swift u Objective-C, en arquitectura de aplicaciones o desarrollo de UI.",
         "sites": [
           {
             "title": "alexruperez.com",
@@ -6074,9 +6074,9 @@
         ]
       },
       {
-        "title": "Podcasts sobre el desarrollo en iOS",
+        "title": "Podcasts de desarrollo o diseño",
         "slug": "podcasts",
-        "description": "Podcasts en español relacionados al mundo de la programacion de iOS",
+        "description": "Podcasts en español relacionados con el desarrollo en plataformas de Apple. Sin importar si hablan de código, diseño o de como llevar un negocio en este ecosistema.",
         "sites": [
           {
             "title": "Let Swift Podcast",
@@ -6090,7 +6090,7 @@
       {
         "title": "Streams en Twitch",
         "slug": "twitch",
-        "description": "Streams en Twitch centrados en Swift o desarollo en plataformas de Apple.",
+        "description": "Streams en Twitch centrados en Swift o desarrollo en plataformas de Apple.",
         "sites": [
           {
             "title": "Diego Freniche en Twitch",
