@@ -4173,6 +4173,12 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Testable Apple",
+            "author": "Alexey Alter-Pesotskiy",
+            "site_url": "https://testableapple.com",
+            "feed_url": "https://testableapple.com/feed.xml"
           }
         ]
       },
