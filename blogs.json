@@ -3471,6 +3471,12 @@
             "feed_url": "https://smashswift.com/feed/"
           },
           {
+            "title": "Software Development Notes",
+            "author": "Eric Callanan",
+            "site_url": "https://swdevnotes.com/swift/",
+            "feed_url": "https://swdevnotes.com/swift/index.xml"
+          },
+          {
             "title": "Soheil Novinfard's Blog",
             "author": "Soheil Novinfard",
             "site_url": "https://novinfard.medium.com",
