@@ -3471,6 +3471,12 @@
             "feed_url": "https://smashswift.com/feed/"
           },
           {
+            "title": "Software Development Notes",
+            "author": "Eric Callanan",
+            "site_url": "https://swdevnotes.com/swift/",
+            "feed_url": "https://swdevnotes.com/swift/index.xml"
+          },
+          {
             "title": "Soheil Novinfard's Blog",
             "author": "Soheil Novinfard",
             "site_url": "https://novinfard.medium.com",
@@ -6039,9 +6045,9 @@
     "title": "Spanish Language",
     "categories": [
       {
-        "title": "Blogs de desarrollo iOS",
+        "title": "Blogs de desarrollo",
         "slug": "development",
-        "description": "Todo lo relacionado con el desarrollo iOS, desde arquitectura hasta UI, ya sea en Objective-C o Swift, pertenece a esta categoría.",
+        "description": "Blogs de desarrollo en plataformas de Apple en español. Sin importar si están centrados en Swift u Objective-C, en arquitectura de aplicaciones o desarrollo de UI.",
         "sites": [
           {
             "title": "alexruperez.com",
@@ -6081,9 +6087,9 @@
         ]
       },
       {
-        "title": "Podcasts sobre el desarrollo en iOS",
+        "title": "Podcasts de desarrollo o diseño",
         "slug": "podcasts",
-        "description": "Podcasts en español relacionados al mundo de la programacion de iOS",
+        "description": "Podcasts en español relacionados con el desarrollo en plataformas de Apple. Sin importar si hablan de código, diseño o de como llevar un negocio en este ecosistema.",
         "sites": [
           {
             "title": "Let Swift Podcast",
@@ -6091,6 +6097,20 @@
             "site_url": "https://anchor.fm/let-swift-podcast",
             "twitter_url": "https://twitter.com/letswiftpodcast",
             "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
+          }
+        ]
+      },
+      {
+        "title": "Streams en Twitch",
+        "slug": "twitch",
+        "description": "Streams en Twitch centrados en Swift o desarrollo en plataformas de Apple.",
+        "sites": [
+          {
+            "title": "Diego Freniche en Twitch",
+            "author": "Diego Freniche",
+            "site_url": "https://www.twitch.tv/dfreniche",
+            "feed_url": "https://twitchrss.appspot.com/vod/dfreniche",
+            "twitter_url": "https://twitter.com/dfreniche"
           }
         ]
       }
