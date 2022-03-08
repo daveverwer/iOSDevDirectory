@@ -3711,16 +3711,16 @@
             "twitter_url": "https://twitter.com/pjechris"
           },
           {
-            "title": "Swifting on Medium",
-            "author": "iRiziya",
-            "site_url": "https://medium.com/@iriziya",
-            "feed_url": "https://medium.com/feed/@iriziya"
-          },
-          {
             "title": "SwiftBlade",
             "author": "Thongchai Kolyutsakul",
             "site_url": "https://medium.com/swiftblade",
             "feed_url": "https://medium.com/feed/swiftblade"
+          },
+          {
+            "title": "Swifting on Medium",
+            "author": "iRiziya",
+            "site_url": "https://medium.com/@iriziya",
+            "feed_url": "https://medium.com/feed/@iriziya"
           },
           {
             "title": "swifting.io",
@@ -3805,6 +3805,12 @@
             "site_url": "https://tedly.codes",
             "feed_url": "https://tedly.codes/rss/",
             "twitter_url": "https://twitter.com/earltedly"
+          },
+          {
+            "title": "Testable Apple",
+            "author": "Alexey Alter-Pesotskiy",
+            "site_url": "https://testableapple.com",
+            "feed_url": "https://testableapple.com/feed.xml"
           },
           {
             "title": "that thing in swift",
@@ -4179,12 +4185,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Testable Apple",
-            "author": "Alexey Alter-Pesotskiy",
-            "site_url": "https://testableapple.com",
-            "feed_url": "https://testableapple.com/feed.xml"
           }
         ]
       },
@@ -4589,17 +4589,17 @@
             "microblog_url": "https://micro.blog/davewoodx"
           },
           {
+            "title": "Code as Craft from Etsy",
+            "author": "Etsy Engineering Team",
+            "site_url": "https://codeascraft.com",
+            "feed_url": "https://codeascraft.com/feed/"
+          },
+          {
             "title": "Codemagic Blog",
             "author": "Codemagic",
             "site_url": "https://blog.codemagic.io",
             "feed_url": "https://blog.codemagic.io/index.xml",
             "twitter_url": "https://twitter.com/codemagicio"
-          },
-          {
-            "title": "Code as Craft from Etsy",
-            "author": "Etsy Engineering Team",
-            "site_url": "https://codeascraft.com",
-            "feed_url": "https://codeascraft.com/feed/"
           },
           {
             "title": "Coletiv Studio Blog",
@@ -5323,13 +5323,6 @@
             "twitter_url": "https://twitter.com/IndieDevMonday"
           },
           {
-            "title": "iOS Stack Weekly",
-            "author": "Jimmy Sanghani",
-            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
-            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
-            "twitter_url": "https://twitter.com/canopassoftware"
-          },
-          {
             "title": "iOS Code Review Tips",
             "author": "Marina Gornostaeva",
             "site_url": "https://newsletter.ioscodereview.com/",
@@ -5356,6 +5349,13 @@
             "site_url": "http://ios-goodies.com/",
             "feed_url": "http://ios-goodies.com/rss",
             "twitter_url": "https://twitter.com/iOSGoodies"
+          },
+          {
+            "title": "iOS Stack Weekly",
+            "author": "Jimmy Sanghani",
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
+            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
+            "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
             "title": "Swift Developments",
@@ -5459,7 +5459,7 @@
             "author": "Cristi Habliuc",
             "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTDu9PDvgVmh4J2tt10RBmQ"
-          },          
+          },
           {
             "title": "Code Completion",
             "author": "Ben, Dimitri, Fernando, Johnny, and Spencer",
@@ -6246,18 +6246,18 @@
         "description": "Twitch-Streamer mit Fokus auf Swift oder Entwicklung auf Apple-Plattformen.",
         "sites": [
           {
-            "title": "Drag0ndust on Twitch",
-            "author": "Thimo Bess",
-            "site_url": "https://www.twitch.tv/drag0ndust",
-            "feed_url": "https://twitchrss.appspot.com/vod/drag0ndust",
-            "twitter_url": "https://twitter.com/drag0ndust"
-          },
-          {
             "title": "arconsis on Twitch",
             "author": "arconsis IT-Solutions GmbH",
             "site_url": "https://www.twitch.tv/arconsis",
             "feed_url": "https://twitchrss.appspot.com/vod/arconsis",
             "twitter_url": "http://twitter.com/arconsis"
+          },
+          {
+            "title": "Drag0ndust on Twitch",
+            "author": "Thimo Bess",
+            "site_url": "https://www.twitch.tv/drag0ndust",
+            "feed_url": "https://twitchrss.appspot.com/vod/drag0ndust",
+            "twitter_url": "https://twitter.com/drag0ndust"
           }
         ]
       }
