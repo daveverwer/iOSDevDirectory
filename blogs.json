@@ -4999,6 +4999,13 @@
             "twitter_url": "https://twitter.com/steamclocksw"
           },
           {
+            "title": "GetStream.io Blog",
+            "author": "Stream Blog",
+            "site_url": "https://getstream.io/blog/",
+            "feed_url": "https://getstream.io/blog/rss.xml",
+            "twitter_url": "https://twitter.com/getstream_io"
+          },
+          {
             "title": "Super Easy Apps",
             "author": "Super Easy Apps Team",
             "site_url": "http://blog.supereasyapps.com/",
@@ -5619,6 +5626,13 @@
             "site_url": "https://www.youtube.com/channel/UCOWdR4sFkmolWkU2fg669Gg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOWdR4sFkmolWkU2fg669Gg",
             "twitter_url": "https://twitter.com/StewartLynch"
+          },
+          {
+            "title": "Stream Developers on YouTube",
+            "author": "GetStream.io",
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xOn0xQj1HIpHJpOy5tvpA",
+            "twitter_url": "https://twitter.com/getstream_io"
           },
           {
             "title": "Swift and Tips",
