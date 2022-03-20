@@ -837,7 +837,7 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
-            "title": "Cihat Gündüz on Medium",
+            "title": "Jeehut on Medium",
             "author": "Cihat Gündüz",
             "site_url": "https://jeehut.medium.com",
             "feed_url": "https://jeehut.medium.com/feed",
@@ -5377,6 +5377,13 @@
             "site_url": "https://andybargh.com/swiftdevelopments/",
             "feed_url": "https://andybargh.com/feed/",
             "twitter_url": "https://twitter.com/swiftdevmnts"
+          },
+          {
+            "title": "Swift Evolution Monthly",
+            "author": "Cihat Gündüz",
+            "site_url": "http://se-monthly.flinedev.com/",
+            "feed_url": "http://se-monthly.flinedev.com/?format=rss",
+            "twitter_url": "https://twitter.com/Jeehut"
           },
           {
             "title": "Swift Weekly",
