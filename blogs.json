@@ -844,13 +844,6 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
-            "title": "Jeehut on Medium",
-            "author": "Cihat Gündüz",
-            "site_url": "https://jeehut.medium.com",
-            "feed_url": "https://jeehut.medium.com/feed",
-            "twitter_url": "https://twitter.com/Jeehut"
-          },
-          {
             "title": "Coach Frank",
             "author": "Frank Courville",
             "site_url": "http://www.ioscoachfrank.com",
@@ -1887,6 +1880,13 @@
             "site_url": "https://medium.com/@jhandguy",
             "feed_url": "https://medium.com/feed/@jhandguy",
             "twitter_url": "https://twitter.com/jhandguy"
+          },
+          {
+            "title": "Jeehut on Medium",
+            "author": "Cihat Gündüz",
+            "site_url": "https://jeehut.medium.com",
+            "feed_url": "https://jeehut.medium.com/feed",
+            "twitter_url": "https://twitter.com/Jeehut"
           },
           {
             "title": "Jeff Johnson’s Blog",
@@ -4718,6 +4718,13 @@
             "feed_url": "https://foresightmobile.com/blog?format=rss"
           },
           {
+            "title": "GetStream.io Blog",
+            "author": "Stream Blog",
+            "site_url": "https://getstream.io/blog/",
+            "feed_url": "https://getstream.io/blog/rss.xml",
+            "twitter_url": "https://twitter.com/getstream_io"
+          },
+          {
             "title": "Gett Engineering Blog",
             "author": "Shai Mishali",
             "site_url": "https://medium.com/gett-engineering",
@@ -5011,13 +5018,6 @@
             "site_url": "https://steamclock.com/blog/",
             "feed_url": "https://steamclock.com/blog/feed.xml",
             "twitter_url": "https://twitter.com/steamclocksw"
-          },
-          {
-            "title": "GetStream.io Blog",
-            "author": "Stream Blog",
-            "site_url": "https://getstream.io/blog/",
-            "feed_url": "https://getstream.io/blog/rss.xml",
-            "twitter_url": "https://twitter.com/getstream_io"
           },
           {
             "title": "Super Easy Apps",
