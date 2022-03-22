@@ -198,6 +198,13 @@
             "twitter_url": "https://twitter.com/a_grebenyuk"
           },
           {
+            "title": "Alexander Sandberg’s Blog",
+            "author": "Alexander Sandberg",
+            "site_url": "https://alexandersandberg.com",
+            "feed_url": "https://alexandersandberg.com/feed.xml",
+            "twitter_url": "https://twitter.com/alexandberg"
+          },
+          {
             "title": "Alexander Weiß’s Blog (Teabyte)",
             "author": "Alexander Weiß",
             "site_url": "https://alexanderweiss.dev",
