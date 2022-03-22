@@ -198,6 +198,13 @@
             "twitter_url": "https://twitter.com/a_grebenyuk"
           },
           {
+            "title": "Alexander Sandberg’s Blog",
+            "author": "Alexander Sandberg",
+            "site_url": "https://alexandersandberg.com",
+            "feed_url": "https://alexandersandberg.com/feed.xml",
+            "twitter_url": "https://twitter.com/alexandberg"
+          },
+          {
             "title": "Alexander Weiß’s Blog (Teabyte)",
             "author": "Alexander Weiß",
             "site_url": "https://alexanderweiss.dev",
@@ -259,6 +266,13 @@
             "site_url": "https://amiantos.net/tags/swift/",
             "feed_url": "https://amiantos.net/rss.xml",
             "twitter_url": "https://twitter.com/amiantos"
+          },
+          {
+            "title": "Ampersand Softworks",
+            "author": "brett ohland",
+            "site_url": "https://ampersandsoftworks.com/",
+            "feed_url": "https://ampersandsoftworks.com/tags/development/index.xml",
+            "twitter_url": "https://twitter.com/bretto"
           },
           {
             "title": "Anastasiia Vixentael on Medium",
@@ -830,7 +844,7 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
-            "title": "Cihat Gündüz on Medium",
+            "title": "Jeehut on Medium",
             "author": "Cihat Gündüz",
             "site_url": "https://jeehut.medium.com",
             "feed_url": "https://jeehut.medium.com/feed",
@@ -3567,8 +3581,8 @@
           {
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
-            "site_url": "https://mynameisstuart.com/blog/",
-            "feed_url": "https://mynameisstuart.com/blog/rss/",
+            "site_url": "https://stuartbreckenridge.net/",
+            "feed_url": "https://stuartbreckenridge.net/blog/rss/",
             "twitter_url": "https://twitter.com/stuarticus"
           },
           {
@@ -4999,6 +5013,13 @@
             "twitter_url": "https://twitter.com/steamclocksw"
           },
           {
+            "title": "GetStream.io Blog",
+            "author": "Stream Blog",
+            "site_url": "https://getstream.io/blog/",
+            "feed_url": "https://getstream.io/blog/rss.xml",
+            "twitter_url": "https://twitter.com/getstream_io"
+          },
+          {
             "title": "Super Easy Apps",
             "author": "Super Easy Apps Team",
             "site_url": "http://blog.supereasyapps.com/",
@@ -5365,6 +5386,13 @@
             "twitter_url": "https://twitter.com/swiftdevmnts"
           },
           {
+            "title": "Swift Evolution Monthly",
+            "author": "Cihat Gündüz",
+            "site_url": "http://se-monthly.flinedev.com/",
+            "feed_url": "http://se-monthly.flinedev.com/?format=rss",
+            "twitter_url": "https://twitter.com/Jeehut"
+          },
+          {
             "title": "Swift Weekly",
             "author": "Sascha Schwabbauer",
             "site_url": "https://swiftweekly.com",
@@ -5619,6 +5647,13 @@
             "site_url": "https://www.youtube.com/channel/UCOWdR4sFkmolWkU2fg669Gg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOWdR4sFkmolWkU2fg669Gg",
             "twitter_url": "https://twitter.com/StewartLynch"
+          },
+          {
+            "title": "Stream Developers on YouTube",
+            "author": "GetStream.io",
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xOn0xQj1HIpHJpOy5tvpA",
+            "twitter_url": "https://twitter.com/getstream_io"
           },
           {
             "title": "Swift and Tips",
