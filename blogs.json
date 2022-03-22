@@ -5050,8 +5050,8 @@
           {
             "title": "The Waldo Blog",
             "author": "Waldo Team",
-            "site_url": "https://blog.waldo.io/",
-            "feed_url": "https://blog.waldo.io/feed/",
+            "site_url": "https://www.waldo.com/blog",
+            "feed_url": "https://www.waldo.com/blog/rss.xml",
             "twitter_url": "https://twitter.com/UseWaldo"
           },
           {
