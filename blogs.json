@@ -6150,7 +6150,7 @@
             "title": "Caffè Swift",
             "author": "Arturo Rivas & Julio César Fernández",
             "site_url": "https://cuonda.com/caffe-swift",
-            "twitter_url": "https://twitter.com/caffeswift,
+            "twitter_url": "https://twitter.com/caffeswift",
             "feed_url": "https://cuonda.com/caffe-swift/feed"
           },
           {
@@ -6182,11 +6182,32 @@
             "twitter_url": "https://twitter.com/dfreniche"
           },
           {
+            "title": "MoureDev en Twitch",
+            "author": "MoureDev",
+            "site_url": "https://www.twitch.tv/mouredev",
+            "twitter_url": "https://twitter.com/mouredev",
+            "feed_url": "https://twitchrss.appspot.com/vod/mouredev"
+          },
+          {                    
             "title": "Los Directos de Apple Coding",
             "author": "Julio César Fernández",
             "site_url": "https://www.twitch.tv/applecoding",
             "feed_url": "https://twitchrss.appspot.com/vod/applecoding",
             "twitter_url": "https://twitter.com/jcfmunoz"
+          }
+        ]
+      },
+      {
+        "title": "Canales en YouTube",
+        "slug": "youtube",
+        "description": "Canales en YouTube que cubren una variedad de temas relacionados con desarrollo en plataformas de Apple.",
+        "sites": [
+          {
+            "title": "MoureDev by Brais Moure en YouTube",
+            "author": "MoureDev",
+            "site_url": "https://youtube.com/mouredevapps",
+            "twitter_url": "https://twitter.com/mouredev",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxPD7bsocoAMq8Dj18kmGyQ"
           }
         ]
       }
