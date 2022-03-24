@@ -6152,6 +6152,25 @@
             "site_url": "https://www.twitch.tv/dfreniche",
             "feed_url": "https://twitchrss.appspot.com/vod/dfreniche",
             "twitter_url": "https://twitter.com/dfreniche"
+          },
+          {
+            "title": "MoureDev en Twitch",
+            "author": "MoureDev",
+            "site_url": "https://www.twitch.tv/mouredev",
+            "twitter_url": "https://twitter.com/mouredev"
+          }
+        ]
+      },
+      {
+        "title": "Canales en YouTube",
+        "slug": "youtube",
+        "description": "Canales en YouTube que cubren una variedad de temas relacionados con desarrollo en plataformas de Apple.",
+        "sites": [
+          {
+            "title": "MoureDev by Brais Moure en YouTube",
+            "author": "MoureDev",
+            "site_url": "https://youtube.com/mouredevapps",
+            "twitter_url": "https://twitter.com/mouredev"
           }
         ]
       }
