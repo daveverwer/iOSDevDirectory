@@ -6124,6 +6124,13 @@
             "site_url": "https://www.swiftbeta.com",
             "feed_url": "https://www.swiftbeta.com/rss",
             "twitter_url": "https://twitter.com/SwiftBeta_"
+          },
+          {
+            "title": "Apple Coding",
+            "author": "Julio César Fernández",
+            "site_url": "https://www.applecoding.com",
+            "feed_url": "https://www.applecoding.com/rss",
+            "twitter_url": "https://twitter.com/apple_coding"
           }
         ]
       },
@@ -6138,6 +6145,27 @@
             "site_url": "https://anchor.fm/let-swift-podcast",
             "twitter_url": "https://twitter.com/letswiftpodcast",
             "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
+          },
+          {
+            "title": "Caffè Swift",
+            "author": "Arturo Rivas & Julio César Fernández",
+            "site_url": "https://cuonda.com/caffe-swift",
+            "twitter_url": "https://twitter.com/caffeswift",
+            "feed_url": "https://cuonda.com/caffe-swift/feed"
+          },
+          {
+            "title": "Apple Coding",
+            "author": "Julio César Fernández",
+            "site_url": "https://cuonda.com/apple-coding",
+            "twitter_url": "https://twitter.com/apple_coding",
+            "feed_url": "https://cuonda.com/apple-coding/feed"
+          },
+          {
+            "title": "Apple Coding Daily",
+            "author": "Julio César Fernández",
+            "site_url": "https://cuonda.com/apple-coding-daily",
+            "twitter_url": "https://twitter.com/apple_coding",
+            "feed_url": "https://cuonda.com/apple-coding-daily/feed"
           }
         ]
       },
@@ -6159,6 +6187,13 @@
             "site_url": "https://www.twitch.tv/mouredev",
             "twitter_url": "https://twitter.com/mouredev",
             "feed_url": "https://twitchrss.appspot.com/vod/mouredev"
+          },
+          {                    
+            "title": "Los Directos de Apple Coding",
+            "author": "Julio César Fernández",
+            "site_url": "https://www.twitch.tv/applecoding",
+            "feed_url": "https://twitchrss.appspot.com/vod/applecoding",
+            "twitter_url": "https://twitter.com/jcfmunoz"
           }
         ]
       },
