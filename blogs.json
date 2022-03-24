@@ -6157,7 +6157,8 @@
             "title": "MoureDev en Twitch",
             "author": "MoureDev",
             "site_url": "https://www.twitch.tv/mouredev",
-            "twitter_url": "https://twitter.com/mouredev"
+            "twitter_url": "https://twitter.com/mouredev",
+            "feed_url": "https://twitchrss.appspot.com/vod/mouredev"
           }
         ]
       },
@@ -6170,7 +6171,8 @@
             "title": "MoureDev by Brais Moure en YouTube",
             "author": "MoureDev",
             "site_url": "https://youtube.com/mouredevapps",
-            "twitter_url": "https://twitter.com/mouredev"
+            "twitter_url": "https://twitter.com/mouredev",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxPD7bsocoAMq8Dj18kmGyQ"
           }
         ]
       }
