@@ -1556,6 +1556,13 @@
             "twitter_url": "https://twitter.com/qqefy"
           },
           {
+            "title": "Geri Borbás's Blog",
+            "author": "Geri Borbás",
+            "site_url": "https://blog.eppz.eu",
+            "feed_url": "https://blog.eppz.eu/feed/",
+            "twitter_url": "https://twitter.com/Geri_Borbas"
+          },          
+          {
             "title": "Get on the Store",
             "author": "David Olesch",
             "site_url": "https://getonthestore.com/",
@@ -4074,8 +4081,7 @@
             "title": "Warp your mobile development",
             "author": "Thibault Wittemberg",
             "site_url": "https://twittemb.github.io",
-            "feed_url": "https://twittemb.github.io/feed.rss",
-            "twitter_url": "https://twitter.com/thwittem"
+            "feed_url": "https://twittemb.github.io/feed.rss"
           },
           {
             "title": "We ❤ Swift",
