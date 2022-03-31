@@ -1806,10 +1806,10 @@
           },
           {
             "title": "iOS Dev Tools",
-            "author": "Adam Swinden",
+            "author": "Max Ott",
             "site_url": "https://iosdev.tools/",
-            "feed_url": "https://iosdev.tools/rss.php",
-            "twitter_url": "https://twitter.com/adamswinden"
+            "feed_url": "https://iosdev.tools/atom",
+            "twitter_url": "https://twitter.com/iOSDevTools"
           },
           {
             "title": "iOS Divine",
