@@ -1924,6 +1924,13 @@
             "twitter_url": "https://twitter.com/jeffwatkins"
           },
           {
+            "title": "Jeremy Gale's Blog",
+            "author": "Jeremy Gale",
+            "site_url": "https://dev.jeremygale.com",
+            "feed_url": "https://dev.jeremygale.com/rss.xml",
+            "twitter_url": "https://twitter.com/jgale_ios"
+          },
+          {
             "title": "Jeremy W. Sherman’s Blog",
             "author": "Jeremy W. Sherman",
             "site_url": "https://jeremywsherman.com/",
