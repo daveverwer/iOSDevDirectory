@@ -1812,13 +1812,6 @@
             "twitter_url": "https://twitter.com/iosdevrecipes"
           },
           {
-            "title": "iOS Dev Tools",
-            "author": "Max Ott",
-            "site_url": "https://iosdev.tools/",
-            "feed_url": "https://iosdev.tools/atom",
-            "twitter_url": "https://twitter.com/iOSDevTools"
-          },
-          {
             "title": "iOS Divine",
             "author": "Ruslan Alikhamov",
             "site_url": "https://iosdivin.blog",
