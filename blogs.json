@@ -6371,7 +6371,77 @@
       "language": "ar",
       "title": "Arabic Language",
       "categories": [
-        
+          {
+            "title": "Youtube Channels",
+            "slug": "youtube",
+            "description": "Channels on YouTube that cover a variety of topics around Apple platform development."
+            "sites": [
+              {
+                "title": "Swift Cairo",
+                "author": "Abdo & Attia & El-Nagger",
+                "site_url": "https://www.youtube.com/c/SwiftCairo",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC35fDS6vgZSdHol5WguMqEg",
+                "twitter_url": "https://twitter.com/swiftcairo"
+              },
+              {
+                "title": "SwiftZilla",
+                "author": "Osama Gamal",
+                "site_url": "https://www.youtube.com/c/SwiftZillaEgypt",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7mlUgYRjZDTHc94MGFNPA",
+                "twitter_url": "https://twitter.com/https://twitter.com/i0sa"
+              },
+              {
+                "title": "Menaim Academy",
+                "author": "Ahmad Menaim",
+                "site_url": "https://www.youtube.com/channel/UCGHYazzPlhbliWo5ifPm3YQ",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHYazzPlhbliWo5ifPm3YQ"
+              },
+              {
+                "title": "Tarek Sabry on Youtube",
+                "author": "Tarek Sabry",
+                "site_url": "https://www.youtube.com/channel/UCbdxuYXdL3wnzmA9I9DmdOQ",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbdxuYXdL3wnzmA9I9DmdOQ"
+              },
+              {
+                "title": "Karim Ebrahem on Youtube",
+                "author": "Karim Ebrahem",
+                "site_url": "https://www.youtube.com/c/KarimEbrahem",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4LFCwgzybDAQLryVvW9m3w",
+                "twitter_url": "https://twitter.com/k_ebrahem_"
+              },
+              {
+                "title": "Ahmed Masoud on Youtube",
+                "author": "Ahmed Masoud",
+                "site_url": "https://www.youtube.com/channel/UCNIBWcgInW7YV0Xtljfb5jA",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNIBWcgInW7YV0Xtljfb5jA"
+              },
+              {
+                "title": "Kajocode",
+                "author": "Muhamed Alkhatib",
+                "site_url": "https://www.youtube.com/c/Kajocode",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHjrF3gKM-SJ1kNMzYPyv0w",
+                "twitter_url": "https://twitter.com/kajocode"
+              },
+              {
+                "title": "Hassan Mostafa on Youtube",
+                "author": "Hassan Mostafa",
+                "site_url": "https://www.youtube.com/channel/UCG1exD_QUnnOxS8NRmEfvPg",
+                "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG1exD_QUnnOxS8NRmEfvPg"
+              },
+              {
+               "title": "Technicalisto FCI",
+               "author": "Aya Baghdadi",
+               "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
+               "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
+              },
+              {
+               "title": "Anas Almomany on Youtube",
+               "author": "Anas Almomany",
+               "site_url": "https://www.youtube.com/channel/UCpAsEjCAo8yrz2x8puX6LjA",
+               "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpAsEjCAo8yrz2x8puX6LjA"
+              }
+            ]
+          }
       ]
   }
 ]
