@@ -5462,6 +5462,12 @@
             "twitter_url": "https://twitter.com/alexito4"
           },
           {
+            "title": "Amr on YouTube",
+            "author": "Amr Hossam",
+            "site_url": "https://www.youtube.com/c/AmrCodes",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIGbW54bABLekk_RYlwnAzg"
+          },
+          {
             "title": "Appfigures on YouTube",
             "author": "Appfigures",
             "site_url": "https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg",
@@ -5736,12 +5742,6 @@
             "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
             "twitter_url": "https://twitter.com/alfianlosari"
-          },
-          {
-            "title": "Amr on YouTube",
-            "author": "Amr",
-            "site_url": "https://www.youtube.com/c/AmrCodes",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIGbW54bABLekk_RYlwnAzg"
           }
         ]
       },
