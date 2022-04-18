@@ -934,6 +934,13 @@
             "twitter_url": "https://twitter.com/mattstevens"
           },
           {
+            "title": "Coffee. Code. Tech. and more",
+            "author": "Maegan Wilson",
+            "site_url": "https://cctplus.dev",
+            "feed_url": "https://cctplus.dev/rss/",
+            "twitter_url": "https://twitter.com/cctplus_"
+          },
+          {
             "title": "CODE. COOK. READ.",
             "author": "Greg Scown",
             "site_url": "https://codecookread.com/",
@@ -5597,6 +5604,13 @@
             "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuP2vJ6kRutQBfRmdcI92mA",
             "twitter_url": "https://twitter.com/buildthatapp"
+          },
+          {
+            "title": "maeganwilson_",
+            "author": "Maegan Wilson",
+            "site_url": "https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6na4Lq0ozPBjHD1X42szEQ",
+            "twitter_url": "https://twitter.com/maeganwilson_"
           },
           {
             "title": "Mark Moeykens on YouTube",
