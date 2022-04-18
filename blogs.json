@@ -753,6 +753,13 @@
             "twitter_url": "https://twitter.com/cassiuspacheco"
           },
           {
+            "title": "Coffee. Code. Tech. and more",
+            "author": "Maegan Wilson",
+            "site_url": "https://cctplus.dev",
+            "feed_url": "https://cctplus.dev/rss/",
+            "twitter_url": "https://twitter.com/cctplus_"
+          },
+          {
             "title": "cdf1982 blog",
             "author": "Cesare Forelli",
             "site_url": "https://cdf1982.com/blog",
