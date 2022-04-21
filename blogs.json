@@ -3062,6 +3062,13 @@
             "twitter_url": "https://twitter.com/peterfriese"
           },
           {
+            "title": "Peter Ringset’s Blog",
+            "author": "Peter Ringset",
+            "site_url": "https://peterringset.dev",
+            "feed_url": "https://peterringset.dev/feed.rss",
+            "twitter_url": "https://twitter.com/PRingset"
+          },
+          {
             "title": "Peter Steinberger’s Blog",
             "author": "Peter Steinberger",
             "site_url": "https://steipete.com",
