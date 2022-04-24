@@ -3586,6 +3586,13 @@
             "twitter_url": "https://twitter.com/StavrosSchizas"
           },
           {
+            "title": "Stefan Blos's Blog",
+            "author": "Stefan Blos",
+            "site_url": "https://stefanblos.com",
+            "feed_url": "https://stefanblos.com/feed.rss",
+            "twitter_url": "https://twitter.com/stefanjblos"
+          },
+          {
             "title": "Stephen Celis blogs",
             "author": "Stephen Celis",
             "site_url": "http://www.stephencelis.com",
