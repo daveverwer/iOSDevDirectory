@@ -934,13 +934,6 @@
             "twitter_url": "https://twitter.com/mattstevens"
           },
           {
-            "title": "Coffee. Code. Tech. and more",
-            "author": "Maegan Wilson",
-            "site_url": "https://cctplus.dev",
-            "feed_url": "https://cctplus.dev/rss/",
-            "twitter_url": "https://twitter.com/cctplus_"
-          },
-          {
             "title": "CODE. COOK. READ.",
             "author": "Greg Scown",
             "site_url": "https://codecookread.com/",
@@ -959,6 +952,13 @@
             "author": "Jeff Merola",
             "site_url": "https://www.codingwithjeff.org",
             "feed_url": "https://www.codingwithjeff.org/feed.xml"
+          },
+          {
+            "title": "Coffee. Code. Tech. and more",
+            "author": "Maegan Wilson",
+            "site_url": "https://cctplus.dev",
+            "feed_url": "https://cctplus.dev/rss/",
+            "twitter_url": "https://twitter.com/cctplus_"
           },
           {
             "title": "Conrad Stoll’s Blog",
