@@ -2534,6 +2534,13 @@
             "feed_url": "https://theswiftdeveloper.com/feed"
           },
           {
+            "title": "Megi Sila on Medium",
+            "author": "Megi Sila",
+            "site_url": "https://medium.com/@meggsila",
+            "feed_url": "https://medium.com/feed/@meggsila",
+            "twitter_url": "https://twitter.com/meggsila"
+          },
+          {
             "title": "The Mental Blog",
             "author": "Drew McCormack",
             "site_url": "http://mentalfaculty.tumblr.com",
