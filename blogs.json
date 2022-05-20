@@ -510,6 +510,13 @@
             "twitter_url": "https://twitter.com/audiokitpro"
           },
           {
+            "title": "Augmented Code Blog",
+            "author": "Toomas Vahter",
+            "site_url": "https://augmentedcode.io/blog/",
+            "feed_url": "https://augmentedcode.io/blog/feed/",
+            "twitter_url": "https://twitter.com/toomasvahter"
+          },
+          {
             "title": "Aymen Rebouh on Medium",
             "author": "Aymen Rebouh",
             "site_url": "https://medium.com/@aymen.rebouh",
@@ -4570,13 +4577,6 @@
             "author": "ASOS",
             "site_url": "https://medium.com/asos-techblog/tagged/ios",
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
-          },
-          {
-            "title": "Augmented Code Blog",
-            "author": "Toomas Vahter",
-            "site_url": "https://augmentedcode.io/blog/",
-            "feed_url": "https://augmentedcode.io/blog/feed/",
-            "twitter_url": "https://twitter.com/toomasvahter"
           },
           {
             "title": "Basil Salad Software",
