@@ -2816,6 +2816,13 @@
             "twitter_url": "https://twitter.com/bigmotor"
           },
           {
+            "title": "Nil Coalescing",
+            "author": "Natalia Panferova and Matthaus Woolard",
+            "site_url": "https://nilcoalescing.com",
+            "feed_url": "https://nilcoalescing.com/feed.rss",
+            "twitter_url": "https://twitter.com/nilcoalescing"
+          },
+          {
             "title": "Noah Gilmore’s Blog",
             "author": "Noah Gilmore",
             "site_url": "https://noahgilmore.com/blog/tags/ios/",
