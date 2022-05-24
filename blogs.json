@@ -3390,6 +3390,13 @@
             "twitter_url": "https://twitter.com/ryanashcraft"
           },
           {
+             "title": "Sakun Labs blog",
+             "author": "Raheel Ahmad",
+             "site_url": "https://sakunlabs.com/blog/",
+             "feed_url": "https://sakunlabs.com/atom.xml",
+             "twitter_url": "https://twitter.com/raheel"
+          },
+          {
             "title": "Sam Dods’s Blog",
             "author": "Sam Dods",
             "site_url": "https://medium.com/@sdods",
