@@ -3676,6 +3676,13 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
+            "title": "SüdRocket",
+            "author": "Matthias Maurberger",
+            "site_url": "https://sudrocket.de/",
+            "feed_url": "https://sudrocket.de/index.xml",
+            "twitter_url": "https://twitter.com/mcmaurberger"
+          },
+          {
             "title": "Sunset Lake Software",
             "author": "Brad Larson",
             "site_url": "http://www.sunsetlakesoftware.com/blog",
