@@ -264,7 +264,7 @@
             "title": "Ampersand Softworks",
             "author": "brett ohland",
             "site_url": "https://ampersandsoftworks.com/",
-            "feed_url": "https://ampersandsoftworks.com/tags/development/index.xml",
+            "feed_url": "https://ampersandsoftworks.com/feed/by_tag/development.xml",
             "twitter_url": "https://twitter.com/bretto"
           },
           {
