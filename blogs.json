@@ -3033,18 +3033,18 @@
             "twitter_url": "https://twitter.com/BalestraPatrick"
           },
           {
-            "title": "Paul Samuels’ Blog",
-            "author": "Paul Samuels",
-            "site_url": "http://paul-samuels.com/",
-            "feed_url": "http://paul-samuels.com/atom.xml",
-            "twitter_url": "https://twitter.com/paulio87"
-          },
-          {
             "title": "Paul Peelen.com",
             "author": "Paul Peelen",
             "site_url": "https://paulpeelen.com/tag/ios",
             "feed_url": "https://paulpeelen.com/feed.xml",
             "twitter_url": "https://twitter.com/ppeelen"
+          },
+          {
+            "title": "Paul Samuels’ Blog",
+            "author": "Paul Samuels",
+            "site_url": "http://paul-samuels.com/",
+            "feed_url": "http://paul-samuels.com/atom.xml",
+            "twitter_url": "https://twitter.com/paulio87"
           },
           {
             "title": "Paulo Andrade’s Blog",
@@ -3404,11 +3404,11 @@
             "twitter_url": "https://twitter.com/ryanashcraft"
           },
           {
-             "title": "Sakun Labs blog",
-             "author": "Raheel Ahmad",
-             "site_url": "https://sakunlabs.com/blog/",
-             "feed_url": "https://sakunlabs.com/atom.xml",
-             "twitter_url": "https://twitter.com/raheel"
+            "title": "Sakun Labs blog",
+            "author": "Raheel Ahmad",
+            "site_url": "https://sakunlabs.com/blog/",
+            "feed_url": "https://sakunlabs.com/atom.xml",
+            "twitter_url": "https://twitter.com/raheel"
           },
           {
             "title": "Sam Dods’s Blog",
@@ -3690,13 +3690,6 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
-            "title": "SüdRocket",
-            "author": "Matthias Maurberger",
-            "site_url": "https://sudrocket.de/",
-            "feed_url": "https://sudrocket.de/index.xml",
-            "twitter_url": "https://twitter.com/mcmaurberger"
-          },
-          {
             "title": "Sunset Lake Software",
             "author": "Brad Larson",
             "site_url": "http://www.sunsetlakesoftware.com/blog",
@@ -3888,6 +3881,13 @@
             "site_url": "http://swiftyjimmy.com",
             "feed_url": "http://swiftyjimmy.com/feed/",
             "twitter_url": "https://twitter.com/jussisuojanen"
+          },
+          {
+            "title": "SüdRocket",
+            "author": "Matthias Maurberger",
+            "site_url": "https://sudrocket.de/",
+            "feed_url": "https://sudrocket.de/index.xml",
+            "twitter_url": "https://twitter.com/mcmaurberger"
           },
           {
             "title": "Tammo Freese on Medium",
@@ -5075,6 +5075,13 @@
             "twitter_url": "https://twitter.com/Runtastic"
           },
           {
+            "title": "The Runway Blog",
+            "author": "The Runway Team",
+            "site_url": "https://www.runway.team/blog",
+            "feed_url": "https://www.runway.team/blog/rss.xml",
+            "twitter_url": "https://twitter.com/RunwayTeam_"
+          },
+          {
             "title": "Shake Blog",
             "author": "Shake",
             "site_url": "https://www.shakebugs.com/blog/",
@@ -5177,13 +5184,6 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
-          },
-          {
-            "title": "The Runway Blog",
-            "author": "The Runway Team",
-            "site_url": "https://www.runway.team/blog",
-            "feed_url": "https://www.runway.team/blog/rss.xml",
-            "twitter_url": "https://twitter.com/RunwayTeam_"
           }
         ]
       },
