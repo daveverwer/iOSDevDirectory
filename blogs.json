@@ -5177,6 +5177,13 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
+          },
+          {
+            "title": "The Runway Blog",
+            "author": "The Runway Team",
+            "site_url": "https://www.runway.team/blog",
+            "feed_url": "https://www.runway.team/blog/rss.xml",
+            "twitter_url": "https://twitter.com/RunwayTeam_"
           }
         ]
       },
