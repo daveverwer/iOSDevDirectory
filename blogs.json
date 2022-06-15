@@ -240,6 +240,13 @@
             "twitter_url": "https://www.twitter.com/aliatraces"
           },
           {
+            "title": "All The Code Blog",
+            "author": "Simon Barker",
+            "site_url": "https://www.allthecode.co/",
+            "feed_url": "https://www.allthecode.co/feed.xml",
+            "twitter_url": "https://twitter.com/allthecode_"
+          },
+          {
             "title": "Allen Pike’s Blog",
             "author": "Allen Pike",
             "site_url": "http://www.allenpike.com/",
