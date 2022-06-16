@@ -5529,6 +5529,13 @@
             "site_url": "https://uidesignerweekly.curated.co",
             "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
+          },
+          {
+            "title": "Indie Watch",
+            "author": "Aryaman Sharda",
+            "site_url": "http://indie.watch/",
+            "feed_url": "http://indie.watch/rss",
+            "twitter_url": "https://twitter.com/aryamansharda"
           }
         ]
       },
