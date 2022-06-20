@@ -671,6 +671,12 @@
             "microblog_url": "https://micro.blog/danielpunkass"
           },
           {
+            "title": "Blueground's Engineering Blog",
+            "author": "iOS Engineers @ Blueground",
+            "site_url": "https://engineering.theblueground.com/categories/ios-development/",
+            "feed_url": "https://engineering.theblueground.com/categories/ios-development/index.xml"
+          },
+          {
             "title": "BontoJR",
             "author": "Junior Bonto",
             "site_url": "https://www.bonto.ch/",
@@ -4309,12 +4315,6 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Blueground's Engineering Blog",
-            "author": "iOS Engineers @ Blueground",
-            "site_url": "https://engineering.theblueground.com/categories/ios-development/",
-            "feed_url": "https://engineering.theblueground.com/categories/ios-development/index.xml"
           }
         ]
       },
@@ -5453,6 +5453,13 @@
             "twitter_url": "https://twitter.com/IndieDevMonday"
           },
           {
+            "title": "Indie Watch",
+            "author": "Aryaman Sharda",
+            "site_url": "http://indie.watch/",
+            "feed_url": "http://indie.watch/rss",
+            "twitter_url": "https://twitter.com/aryamansharda"
+          },
+          {
             "title": "iOS Code Review Tips",
             "author": "Marina Gornostaeva",
             "site_url": "https://newsletter.ioscodereview.com/",
@@ -5535,13 +5542,6 @@
             "site_url": "https://uidesignerweekly.curated.co",
             "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
-          },
-          {
-            "title": "Indie Watch",
-            "author": "Aryaman Sharda",
-            "site_url": "http://indie.watch/",
-            "feed_url": "http://indie.watch/rss",
-            "twitter_url": "https://twitter.com/aryamansharda"
           }
         ]
       },
