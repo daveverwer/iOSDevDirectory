@@ -724,6 +724,13 @@
             "twitter_url": "https://twitter.com/brycepauken"
           },
           {
+            "title": "Build.ms",
+            "author": "Joe Fabisevich",
+            "site_url": "https://build.ms",
+            "feed_url": "https://build.ms/feed.xml",
+            "twitter_url": "https://twitter.com/mergesort"
+          },
+          {
             "title": "Build and Run",
             "author": "Thomas Zoechling",
             "site_url": "https://thomas.zoechling.me/journal/",
