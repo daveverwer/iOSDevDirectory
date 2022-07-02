@@ -4290,6 +4290,13 @@
             "twitter_url": "https://twitter.com/yonaskolb"
           },
           {
+            "title": "Yono Mittlefehldt’s Blog",
+            "author": "Yono Mittlefehldt",
+            "site_url": "https://yono.ai/",
+            "feed_url": "https://yono.ai/feed.rss",
+            "twitter_url": "https://twitter.com/yonomitt"
+          },
+          {
             "title": "YoSwift",
             "author": "Manoj Karki",
             "site_url": "https://yoswift.dev",
