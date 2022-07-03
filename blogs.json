@@ -2530,7 +2530,7 @@
             "title": "Matthew’s Dev Blog",
             "author": "Matthew Flint",
             "site_url": "https://daringsnowball.net/articles/",
-            "feed_url": "https://daringsnowball.net/articles/feed.rss",
+            "feed_url": "https://daringsnowball.net/feed.rss",
             "twitter_url": "https://twitter.com/mkflint"
           },
           {
@@ -3824,7 +3824,7 @@
             "title": "Swift Tom",
             "author": "Tommy Prezioso",
             "site_url": "https://www.swifttom.com",
-            "feed_url": "https://swifttom.com/blog-feed/",
+            "feed_url": "https://swifttom.com/feed/",
             "twitter_url": "https://twitter.com/tommyprezioso"
           },
           {
