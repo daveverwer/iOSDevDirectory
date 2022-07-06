@@ -6146,6 +6146,13 @@
             "site_url": "https://medium.com/whoknows-swift",
             "feed_url": "https://medium.com/feed/whoknows-swift",
             "twitter_url": "https://twitter.com/whoknowsswift"
+          },
+          {
+            "title": "Varol Aksoy on HashNode",
+            "author": "Varol Aksoy",
+            "site_url": "https://varol.hashnode.dev",
+            "feed_url": "https://varol.hashnode.dev/rss.xml",
+            "twitter_url": "https://twitter.com/aksoy"
           }
         ]
       }
