@@ -3762,7 +3762,8 @@
             "title": "Swift Cloud Blog",
             "author": "Andrew Barba",
             "site_url": "https://swift.cloud/blog",
-            "feed_url": "https://swift.cloud/blog/feed.xml"
+            "feed_url": "https://swift.cloud/blog/feed.xml",
+            "twitter_url": "https://twitter.com/SwiftCloudApp"
           },
           {
             "title": "Swift Dev Journal",
