@@ -1515,6 +1515,13 @@
             "twitter_url": "https://twitter.com/zntfdr"
           },
           {
+            "title": "FlineDev – Apps & developer content by Cihat Gündüz",
+            "author": "Cihat Gündüz",
+            "site_url": "https://fline.dev",
+            "feed_url": "https://fline.dev/rss",
+            "twitter_url": "https://twitter.com/Jeehut"
+          },
+          {
             "title": "Floating little leaves of code",
             "author": "Maxwell Anselm",
             "site_url": "https://silverhammermba.github.io/blog/",
@@ -1928,13 +1935,6 @@
             "site_url": "https://medium.com/@jhandguy",
             "feed_url": "https://medium.com/feed/@jhandguy",
             "twitter_url": "https://twitter.com/jhandguy"
-          },
-          {
-            "title": "Jeehut on Medium",
-            "author": "Cihat Gündüz",
-            "site_url": "https://jeehut.medium.com",
-            "feed_url": "https://jeehut.medium.com/feed",
-            "twitter_url": "https://twitter.com/Jeehut"
           },
           {
             "title": "Jeff Johnson’s Blog",
@@ -5667,9 +5667,9 @@
             "twitter_url": "https://twitter.com/martinho_t"
           },
           {
-            "title": "FlineDev",
+            "title": "FlineDev – Apps & developer content by Cihat Gündüz",
             "author": "Cihat Gündüz",
-            "site_url": "https://www.youtube.com/channel/UCtg6Ck7oYa_9k1oSTmFGNRw",
+            "site_url": "https://www.youtube.com/c/FlineDev",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtg6Ck7oYa_9k1oSTmFGNRw",
             "twitter_url": "https://twitter.com/Jeehut"
           },
@@ -5928,7 +5928,7 @@
             "author": "Cihat Gündüz",
             "site_url": "https://www.twitch.tv/jeehut",
             "feed_url": "https://twitchrss.appspot.com/vod/jeehut",
-            "twitter_url": "https://twitter.com/jeehut"
+            "twitter_url": "https://twitter.com/Jeehut"
           },
           {
             "title": "MaeganWilson_ on Twitch",
@@ -6495,7 +6495,7 @@
         "sites": [
           {
             "title": "Appstore Tagebuch",
-            "author": "Nicolo Stanciu & Holger Krupp",
+            "author": "Nicolo Stanciu, Holger Krupp & Cihat Gündüz",
             "site_url": "https://appstore-tagebuch.de",
             "twitter_url": "https://twitter.com/AppTagebuch",
             "feed_url": "https://appstore-tagebuch.de/feed/"
