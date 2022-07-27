@@ -6604,6 +6604,13 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
+          },
+           {
+            "title": "WutuSwift",
+            "author": "Wouter Dijks",
+            "site_url": "https://www.wouterdijks.com",
+            "feed_url": "https://www.wouterdijks.com/feed/",
+            "twitter_url": "https://twitter.com/AdvocadoJager"
           }
         ]
       }
