@@ -6620,6 +6620,13 @@
             "feed_url": "https://www.wouterdijks.com/feed/",
             "twitter_url": "https://twitter.com/AdvocadoJager"
           }
+          {
+            "title": "DoorDash Engineering Blog",
+            "author": "DoorDash Engineering Team",
+            "site_url": "https://doordash.engineering/category/mobile/",
+            "feed_url": "https://doordash.engineering/category/mobile/feed/",
+            "twitter_url": "https://twitter.com/doordasheng"
+          }
         ]
       }
     ]
