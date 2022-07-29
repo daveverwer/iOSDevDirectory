@@ -2549,6 +2549,13 @@
             "twitter_url": "https://twitter.com/mxcl"
           },
           {
+            "title": "Max Kalik on Medium",
+            "author": "Max Kalik",
+            "site_url": "https://medium.com/@maxkalik",
+            "feed_url": "https://medium.com/feed/@maxkalik",
+            "twitter_url": "https://twitter.com/maxkalik"
+          },
+          {
             "title": "Maxim Smirnov on Medium",
             "author": "Maxim Smirnov",
             "site_url": "https://medium.com/@atimca",
@@ -3978,6 +3985,13 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
+          },
+          {
+            "title": "The Product Engineer",
+            "author": "Manu Herrera",
+            "site_url": "https://mdb1.github.io/",
+            "feed_url": "https://mdb1.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/manuherrera1"
           },
           {
             "title": "Think & Build",
@@ -6598,6 +6612,13 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
+          },
+           {
+            "title": "WutuSwift",
+            "author": "Wouter Dijks",
+            "site_url": "https://www.wouterdijks.com",
+            "feed_url": "https://www.wouterdijks.com/feed/",
+            "twitter_url": "https://twitter.com/AdvocadoJager"
           }
         ]
       }
