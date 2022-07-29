@@ -541,7 +541,8 @@
             "title": "AzamSharp Blog",
             "author": "Mohammad Azam",
             "site_url": "https://azamsharp.com/",
-            "feed_url": "https://azamsharp.com/feed.xml"
+            "feed_url": "https://azamsharp.com/feed.xml",
+            "twitter_url": "https://twitter.com/azamsharp"
           },
           {
             "title": "Badarinath Venkatnarayansetty on Medium",
