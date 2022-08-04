@@ -2755,6 +2755,13 @@
             "twitter_url": "https://twitter.com/mortenditlevsen"
           },
           {
+            "title": "MTLDoc",
+            "author": "Peter Tretyakov",
+            "site_url": "https://mtldoc.com/",
+            "feed_url": "https://mtldoc.com/feed.xml",
+            "twitter_url": "https://twitter.com/petertretyakov"
+          },
+          {
             "title": "MultiColourPixel",
             "author": "Eddy Gammon",
             "site_url": "https://multicolourpixel.com/",
