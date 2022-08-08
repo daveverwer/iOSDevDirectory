@@ -5545,6 +5545,13 @@
             "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
+            "title": "Open Source Updates for Swift Projects",
+            "author": "Marco Eidinger",
+            "site_url": "https://www.getrevue.co/profile/ossp_updates",
+            "feed_url": "https://www.getrevue.co/profile/ossp_updates/?format=rss",
+            "twitter_url": "https://twitter.com/ossp_updates"
+          },          
+          {
             "title": "Swift Developments",
             "author": "Andy Bargh",
             "site_url": "https://andybargh.com/swiftdevelopments/",
