@@ -191,6 +191,13 @@
             "feed_url": "https://medium.com/feed/@dn070287gav"
           },
           {
+            "title": "Alex Lee's Dev Blog",
+            "author": "Alex Lee",
+            "site_url": "https://www.thealexanderlee.com/blog",
+            "feed_url": "https://www.thealexanderlee.com/blog?format=rss",
+            "twitter_url": "https://twitter.com/alex_lee97"
+          },
+          {
             "title": "Alexander Grebenyuk’s Blog",
             "author": "Alexander Grebenyuk",
             "site_url": "https://kean.blog/",
