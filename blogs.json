@@ -5550,7 +5550,7 @@
             "site_url": "https://www.getrevue.co/profile/ossp_updates",
             "feed_url": "https://www.getrevue.co/profile/ossp_updates/?format=rss",
             "twitter_url": "https://twitter.com/ossp_updates"
-          },          
+          },
           {
             "title": "Swift Developments",
             "author": "Andy Bargh",
@@ -5689,8 +5689,8 @@
             "twitter_url": "https://twitter.com/davejacobseniOS"
           },
           {
-            "title": "DesignCode",
-            "author": "Meng",
+            "title": "Design+Code",
+            "author": "Meng To and the Design+Code Team",
             "site_url": "https://www.youtube.com/channel/UCTIhfOopxukTIRkbXJ3kN-g",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTIhfOopxukTIRkbXJ3kN-g",
             "twitter_url": "https://twitter.com/designcodeio"
@@ -6647,7 +6647,7 @@
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
           },
-           {
+          {
             "title": "WutuSwift",
             "author": "Wouter Dijks",
             "site_url": "https://www.wouterdijks.com",
