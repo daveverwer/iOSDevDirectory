@@ -732,18 +732,18 @@
             "twitter_url": "https://twitter.com/brycepauken"
           },
           {
-            "title": "Build.ms",
-            "author": "Joe Fabisevich",
-            "site_url": "https://build.ms",
-            "feed_url": "https://build.ms/feed.xml",
-            "twitter_url": "https://twitter.com/mergesort"
-          },
-          {
             "title": "Build and Run",
             "author": "Thomas Zoechling",
             "site_url": "https://thomas.zoechling.me/journal/",
             "feed_url": "https://thomas.zoechling.me/journal/feed.xml",
             "twitter_url": "https://twitter.com/weichsel"
+          },
+          {
+            "title": "Build.ms",
+            "author": "Joe Fabisevich",
+            "site_url": "https://build.ms",
+            "feed_url": "https://build.ms/feed.xml",
+            "twitter_url": "https://twitter.com/mergesort"
           },
           {
             "title": "Cabel.me",
@@ -3215,6 +3215,13 @@
             "twitter_url": "https://twitter.com/spidey_vitamins"
           },
           {
+            "title": "The Product Engineer",
+            "author": "Manu Herrera",
+            "site_url": "https://mdb1.github.io/",
+            "feed_url": "https://mdb1.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/manuherrera1"
+          },
+          {
             "title": "Programming With Swift",
             "author": "Darren Leak",
             "site_url": "https://programmingwithswift.com",
@@ -3999,13 +4006,6 @@
             "site_url": "http://theocacao.com",
             "feed_url": "http://theocacao.com/index.rss",
             "twitter_url": "https://twitter.com/scottstevenson"
-          },
-          {
-            "title": "The Product Engineer",
-            "author": "Manu Herrera",
-            "site_url": "https://mdb1.github.io/",
-            "feed_url": "https://mdb1.github.io/feed.xml",
-            "twitter_url": "https://twitter.com/manuherrera1"
           },
           {
             "title": "Think & Build",
@@ -5689,18 +5689,18 @@
             "twitter_url": "https://twitter.com/davejacobseniOS"
           },
           {
-            "title": "Design+Code",
-            "author": "Meng To and the Design+Code Team",
-            "site_url": "https://www.youtube.com/channel/UCTIhfOopxukTIRkbXJ3kN-g",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTIhfOopxukTIRkbXJ3kN-g",
-            "twitter_url": "https://twitter.com/designcodeio"
-          },
-          {
             "title": "Deep Dojo",
             "author": "Otto Schnurr",
             "site_url": "https://www.youtube.com/channel/UCpHWi_dxxTReXW6Bxab-ikQ",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpHWi_dxxTReXW6Bxab-ikQ",
             "twitter_url": "https://twitter.com/deepdojo"
+          },
+          {
+            "title": "Design+Code",
+            "author": "Meng To and the Design+Code Team",
+            "site_url": "https://www.youtube.com/channel/UCTIhfOopxukTIRkbXJ3kN-g",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTIhfOopxukTIRkbXJ3kN-g",
+            "twitter_url": "https://twitter.com/designcodeio"
           },
           {
             "title": "FastBike",
@@ -5863,12 +5863,6 @@
             "twitter_url": "https://twitter.com/getstream_io"
           },
           {
-            "title": "Swiftful Thinking",
-            "author": "Nick Sarno",
-            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp25X4LzOLaksp5qY0YMUzg"
-          },
-          {
             "title": "Swift and Tips",
             "author": "Pitt",
             "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw",
@@ -5894,6 +5888,12 @@
             "author": "The Bay Area Swift Community",
             "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
+          },
+          {
+            "title": "Swiftful Thinking",
+            "author": "Nick Sarno",
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp25X4LzOLaksp5qY0YMUzg"
           },
           {
             "title": "Tom Baranowicz",
@@ -6197,18 +6197,18 @@
             "twitter_url": "https://twitter.com/NS_Istanbul"
           },
           {
-            "title": "WHOKNOWS Blog",
-            "author": "WHOKNOWS Community",
-            "site_url": "https://medium.com/whoknows-swift",
-            "feed_url": "https://medium.com/feed/whoknows-swift",
-            "twitter_url": "https://twitter.com/whoknowsswift"
-          },
-          {
             "title": "Varol Aksoy on HashNode",
             "author": "Varol Aksoy",
             "site_url": "https://varol.hashnode.dev",
             "feed_url": "https://varol.hashnode.dev/rss.xml",
             "twitter_url": "https://twitter.com/aksoy"
+          },
+          {
+            "title": "WHOKNOWS Blog",
+            "author": "WHOKNOWS Community",
+            "site_url": "https://medium.com/whoknows-swift",
+            "feed_url": "https://medium.com/feed/whoknows-swift",
+            "twitter_url": "https://twitter.com/whoknowsswift"
           }
         ]
       }
@@ -6596,6 +6596,13 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpAsEjCAo8yrz2x8puX6LjA"
           },
           {
+            "title": "DoorDash Engineering Blog",
+            "author": "DoorDash Engineering Team",
+            "site_url": "https://doordash.engineering/category/mobile/",
+            "feed_url": "https://doordash.engineering/category/mobile/feed/",
+            "twitter_url": "https://twitter.com/doordasheng"
+          },
+          {
             "title": "Hassan Mostafa on Youtube",
             "author": "Hassan Mostafa",
             "site_url": "https://www.youtube.com/channel/UCG1exD_QUnnOxS8NRmEfvPg",
@@ -6653,13 +6660,6 @@
             "site_url": "https://www.wouterdijks.com",
             "feed_url": "https://www.wouterdijks.com/feed/",
             "twitter_url": "https://twitter.com/AdvocadoJager"
-          },
-          {
-            "title": "DoorDash Engineering Blog",
-            "author": "DoorDash Engineering Team",
-            "site_url": "https://doordash.engineering/category/mobile/",
-            "feed_url": "https://doordash.engineering/category/mobile/feed/",
-            "twitter_url": "https://twitter.com/doordasheng"
           }
         ]
       }
