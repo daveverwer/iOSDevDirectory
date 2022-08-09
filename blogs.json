@@ -5689,6 +5689,13 @@
             "twitter_url": "https://twitter.com/davejacobseniOS"
           },
           {
+            "title": "DesignCode",
+            "author": "Meng",
+            "site_url": "https://www.youtube.com/channel/UCTIhfOopxukTIRkbXJ3kN-g",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTIhfOopxukTIRkbXJ3kN-g",
+            "twitter_url": "https://twitter.com/designcodeio"
+          },
+          {
             "title": "Deep Dojo",
             "author": "Otto Schnurr",
             "site_url": "https://www.youtube.com/channel/UCpHWi_dxxTReXW6Bxab-ikQ",
@@ -5854,6 +5861,12 @@
             "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xOn0xQj1HIpHJpOy5tvpA",
             "twitter_url": "https://twitter.com/getstream_io"
+          },
+          {
+            "title": "Swiftful Thinking",
+            "author": "Nick Sarno",
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp25X4LzOLaksp5qY0YMUzg"
           },
           {
             "title": "Swift and Tips",
