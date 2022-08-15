@@ -2479,6 +2479,13 @@
             "twitter_url": "https://twitter.com/mitrevski"
           },
           {
+            "title": "Mastering Swift",
+            "author": "Jon Hoffman",
+            "site_url": "https://www.mastering-swift.com",
+            "feed_url": "https://www.mastering-swift.com/blog-feed.xml",
+            "twitter_url": "https://twitter.com/pop_swift_dev/"
+          },
+          {
             "title": "Mateusz Matrejek's Blog",
             "author": "Mateusz Matrejek",
             "site_url": "https://matrejek.eu/",
