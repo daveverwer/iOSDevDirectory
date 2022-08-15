@@ -4312,6 +4312,13 @@
             "twitter_url": "https://twitter.com/alfianlosari"
           },
           {
+            "title": "Yaacoub",
+            "author": "Peter Yaacoub",
+            "site_url": "https://yaacoub.github.io/articles/",
+            "feed_url": "https://yaacoub.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/yaapete/"
+          },
+          {
             "title": "YASB - Yet Another Swift Blog",
             "author": "Vadim Bulavin",
             "site_url": "https://www.vadimbulavin.com/",
