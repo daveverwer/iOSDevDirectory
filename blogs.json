@@ -1612,6 +1612,13 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
+            "title": "Geor's blog",
+            "author": "Geor Kasapidi",
+            "site_url": "https://geor.blog/",
+            "feed_url": "https://geor.blog/feed.xml",
+            "twitter_url": "https://twitter.com/mood_tuna"
+          },
+          {
             "title": "Georgios Sotiropoulos on Medium",
             "author": "Georgios Sotiropoulos",
             "site_url": "https://medium.com/@ge.sotiropoulos",
