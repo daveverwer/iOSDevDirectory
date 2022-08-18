@@ -6331,6 +6331,13 @@
             "feed_url": "https://nshipster.fr/feed.xml",
             "twitter_url": "https://twitter.com/NSHipster"
           }
+          {
+            "title": "Blog de Walid SASSI",
+            "author": "Walid SASSI",
+            "site_url": "https://www.walidsassi.com",
+            "feed_url": "https://www.walidsassi.com/feed",
+            "twitter_url": "https://twitter.com/sassiwalid8"
+          }
         ]
       }
     ]
