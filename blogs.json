@@ -3333,6 +3333,12 @@
             "twitter_url": "https://twitter.com/RedQueenCoder"
           },
           {
+            "title": "Rens Breur's Blog",
+            "author": "Rens Breur",
+            "site_url": "https://rensbr.eu/blog/",
+            "feed_url": "https://rensbr.eu/blog/rss.xml"
+          },
+          {
             "title": "Rentzsch",
             "author": "Jonathan Rentzsch",
             "site_url": "http://rentzsch.tumblr.com/",
@@ -5115,12 +5121,6 @@
             "site_url": "https://www.raizlabs.com/dev",
             "feed_url": "https://www.raizlabs.com/dev/feed/",
             "twitter_url": "https://twitter.com/raizlabs"
-          },
-          {
-            "title": "Rens Breur's Blog",
-            "author": "Rens Breur",
-            "site_url": "https://rensbr.eu/blog/",
-            "feed_url": "https://rensbr.eu/blog/rss.xml"
           },
           {
             "title": "Reveal Blog",
