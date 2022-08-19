@@ -5827,6 +5827,13 @@
             "twitter_url": "https://twitter.com/matthias_code"
           },
           {
+            "title": "Mike Mikina on YouTube",
+            "author": "Mike Mikina",
+            "site_url": "https://www.youtube.com/channel/UCZVk_jOoXCPL9c6YKuMDJjA",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZVk_jOoXCPL9c6YKuMDJjA",
+            "twitter_url": "https://twitter.com/mikemikina"
+          },
+          {
             "title": "Paul Hudson on YouTube",
             "author": "Paul Hudson",
             "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ",
@@ -5962,13 +5969,6 @@
             "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
             "twitter_url": "https://twitter.com/alfianlosari"
-          },
-          {
-            "title": "Mike Mikina on YouTube",
-            "author": "Mike Mikina",
-            "site_url": "https://www.youtube.com/channel/UCZVk_jOoXCPL9c6YKuMDJjA",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZVk_jOoXCPL9c6YKuMDJjA",
-            "twitter_url": "https://twitter.com/mikemikina"
           }
         ]
       },
@@ -6331,18 +6331,18 @@
             "twitter_url": "https://twitter.com/vtourraine"
           },
           {
-            "title": "NSHipster en français",
-            "author": "NSHipster",
-            "site_url": "https://nshipster.fr",
-            "feed_url": "https://nshipster.fr/feed.xml",
-            "twitter_url": "https://twitter.com/NSHipster"
-          },
-          {
             "title": "Blog de Walid SASSI",
             "author": "Walid SASSI",
             "site_url": "https://www.walidsassi.com",
             "feed_url": "https://www.walidsassi.com/feed",
             "twitter_url": "https://twitter.com/sassiwalid8"
+          },
+          {
+            "title": "NSHipster en français",
+            "author": "NSHipster",
+            "site_url": "https://nshipster.fr",
+            "feed_url": "https://nshipster.fr/feed.xml",
+            "twitter_url": "https://twitter.com/NSHipster"
           }
         ]
       }
