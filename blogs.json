@@ -475,6 +475,13 @@
             "feed_url": "http://www.akpdev.com/feed.xml"
           },
           {
+            "title": "Art and Science of Coding",
+            "author": "Derek Lee",
+            "site_url": "https://artandscienceofcoding.com/",
+            "feed_url": "https://artandscienceofcoding.com/feed.xml",
+            "twitter_url": "https://twitter.com/derekleerock"
+          },
+          {
             "title": "Artem Novichkov’s Blog",
             "author": "Artem Novichkov",
             "site_url": "https://artemnovichkov.com",
