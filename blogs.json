@@ -5280,6 +5280,13 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
+          },
+          {
+            "title": "mobile.dev Blog",
+            "author": "mobile.dev Engineering team",
+            "site_url": "https://blog.mobile.dev/",
+            "feed_url": "https://blog.mobile.dev/feed",
+            "twitter_url": "https://twitter.com/mobile__dev"
           }
         ]
       },
