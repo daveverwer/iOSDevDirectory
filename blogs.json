@@ -5916,6 +5916,13 @@
             "twitter_url": "https://twitter.com/getstream_io"
           },
           {
+            "title": "Swift Arcade",
+            "author": "Jonathan Rasmusson",
+            "site_url": "https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxnCA5FBYRCFgIZWD0CKCVg",
+            "twitter_url": "https://www.twitter.com/jrasmusson"
+          },
+          {
             "title": "Swift and Tips",
             "author": "Pitt",
             "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw",
