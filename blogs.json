@@ -4636,6 +4636,13 @@
             "twitter_url": "https://twitter.com/jcieplinski"
           },
           {
+            "title": "Matt Massicotte's Blog",
+            "author": "Matt Massicotte",
+            "site_url": "https://massicotte.org/",
+            "feed_url": "https://massicotte.org/feed.xml",
+            "twitter_url": "https://twitter.com/mattie"
+          },
+          {
             "title": "Mobile Ad.ventures",
             "author": "Thomas Petit",
             "site_url": "https://madv.substack.com/",
@@ -4820,6 +4827,13 @@
             "site_url": "https://www.cossacklabs.com/tags/mobile/",
             "feed_url": "https://www.cossacklabs.com/blog/index.xml",
             "twitter_url": "https://twitter.com/cossacklabs"
+          },
+          {
+            "title": "Chime Blog",
+            "author": "Chime Team",
+            "site_url": "https://www.chimehq.com/blog",
+            "feed_url": "https://www.chimehq.com/feed.xml",
+            "twitter_url": "https://twitter.com/chimehq"
           },
           {
             "title": "The Craft",
