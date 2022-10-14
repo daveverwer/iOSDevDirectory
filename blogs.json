@@ -1132,17 +1132,24 @@
             "twitter_url": "https://twitter.com/danielctull"
           },
           {
-            "title": "Danijela Vrzan's Blog",
-            "author": "Danijela Vrzan",
-            "site_url": "https://danijelavrzan.com",
-            "feed_url": "https://danijelavrzan.com/feed.rss",
-            "twitter_url": "https://twitter.com/dvrzan"
+            "title": "Daniele Margutti's Blog",
+            "author": "Daniele Margutti",
+            "site_url": "https://danielemargutti.com",
+            "feed_url": "https://danielemargutti.com",
+            "twitter_url": "https://twitter.com/danielemargutti"
           },
           {
             "title": "DanielT1263’s Blog mostly about RxSwift",
             "author": "Daniel Tartaglia",
             "site_url": "https://medium.com/@danielt1263",
             "feed_url": "https://medium.com/feed/@danielt1263"
+          },
+          {
+            "title": "Danijela Vrzan's Blog",
+            "author": "Danijela Vrzan",
+            "site_url": "https://danijelavrzan.com",
+            "feed_url": "https://danijelavrzan.com/feed.rss",
+            "twitter_url": "https://twitter.com/dvrzan"
           },
           {
             "title": "Dasdom Dev Blog",
@@ -2983,13 +2990,6 @@
             "twitter_url": "https://twitter.com/obscured_pixels"
           },
           {
-            "title": "Daniele Margutti's Blog",
-            "author": "Daniele Margutti",
-            "site_url": "https://danielemargutti.com",
-            "feed_url": "https://danielemargutti.com",
-            "twitter_url": "https://twitter.com/danielemargutti"
-          },
-          {
             "title": "Oh my Swift",
             "author": "Rizwan Ahmed",
             "site_url": "https://ohmyswift.com",
@@ -4809,6 +4809,13 @@
             "microblog_url": "https://micro.blog/davewoodx"
           },
           {
+            "title": "Chime Blog",
+            "author": "Chime Team",
+            "site_url": "https://www.chimehq.com/blog",
+            "feed_url": "https://www.chimehq.com/feed.xml",
+            "twitter_url": "https://twitter.com/chimehq"
+          },
+          {
             "title": "Code as Craft from Etsy",
             "author": "Etsy Engineering Team",
             "site_url": "https://codeascraft.com",
@@ -4834,13 +4841,6 @@
             "site_url": "https://www.cossacklabs.com/tags/mobile/",
             "feed_url": "https://www.cossacklabs.com/blog/index.xml",
             "twitter_url": "https://twitter.com/cossacklabs"
-          },
-          {
-            "title": "Chime Blog",
-            "author": "Chime Team",
-            "site_url": "https://www.chimehq.com/blog",
-            "feed_url": "https://www.chimehq.com/feed.xml",
-            "twitter_url": "https://twitter.com/chimehq"
           },
           {
             "title": "The Craft",
@@ -5039,6 +5039,13 @@
             "site_url": "http://martiancraft.com/blog.html",
             "feed_url": "http://martiancraft.com/feed.xml",
             "twitter_url": "https://twitter.com/martiancraft"
+          },
+          {
+            "title": "mobile.dev Blog",
+            "author": "mobile.dev Engineering team",
+            "site_url": "https://blog.mobile.dev/",
+            "feed_url": "https://blog.mobile.dev/feed",
+            "twitter_url": "https://twitter.com/mobile__dev"
           },
           {
             "title": "Monstarlab Engineering Blog",
@@ -5295,13 +5302,6 @@
             "site_url": "https://zonneveld.dev",
             "feed_url": "https://zonneveld.dev/feed/",
             "twitter_url": "https://twitter.com/j_zonneveld"
-          },
-          {
-            "title": "mobile.dev Blog",
-            "author": "mobile.dev Engineering team",
-            "site_url": "https://blog.mobile.dev/",
-            "feed_url": "https://blog.mobile.dev/feed",
-            "twitter_url": "https://twitter.com/mobile__dev"
           }
         ]
       },
@@ -5931,18 +5931,18 @@
             "twitter_url": "https://twitter.com/getstream_io"
           },
           {
-            "title": "Swift Arcade",
-            "author": "Jonathan Rasmusson",
-            "site_url": "https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxnCA5FBYRCFgIZWD0CKCVg",
-            "twitter_url": "https://www.twitter.com/jrasmusson"
-          },
-          {
             "title": "Swift and Tips",
             "author": "Pitt",
             "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrLSw5I775hSQQtXOLjq0Vw",
             "twitter_url": "https://twitter.com/swiftandtips"
+          },
+          {
+            "title": "Swift Arcade",
+            "author": "Jonathan Rasmusson",
+            "site_url": "https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxnCA5FBYRCFgIZWD0CKCVg",
+            "twitter_url": "https://www.twitter.com/jrasmusson"
           },
           {
             "title": "Swift by Sundell",
