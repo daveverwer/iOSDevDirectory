@@ -1132,6 +1132,13 @@
             "twitter_url": "https://twitter.com/danielctull"
           },
           {
+            "title": "Danijela Vrzan's Blog",
+            "author": "Danijela Vrzan",
+            "site_url": "https://danijelavrzan.com",
+            "feed_url": "https://danijelavrzan.com/feed.rss",
+            "twitter_url": "https://twitter.com/dvrzan"
+          },
+          {
             "title": "DanielT1263’s Blog mostly about RxSwift",
             "author": "Daniel Tartaglia",
             "site_url": "https://medium.com/@danielt1263",
