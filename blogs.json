@@ -1882,6 +1882,13 @@
             "feed_url": "https://diamantidis.github.io/feed.xml"
           },
           {
+            "title": "iOS App Templates Blog",
+            "author": "Florian Marcu",
+            "site_url": "https://iosapptemplates.com/blog",
+            "feed_url": "https://iosapptemplates.com/blog/feed",
+            "twitter_url": "https://twitter.com/0xflorian"
+          },
+          {
             "title": "iOS Creator",
             "author": "Arthur Knopper",
             "site_url": "https://www.ioscreator.com/",
