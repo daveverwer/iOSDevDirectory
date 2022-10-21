@@ -2831,6 +2831,13 @@
             "twitter_url": "https://twitter.com/musakkcn"
           },
           {
+            "title": "MyCodeTips",
+            "author": "Ranjan",
+            "site_url": "https://mycodetips.com/",
+            "feed_url": "https://mycodetips.com/feed",
+            "twitter_url": "https://twitter.com/mycodetips"
+          },
+          {
             "title": "myeyesareblind's Blog",
             "author": "Max",
             "site_url": "http://myeyesareblind.com/",
