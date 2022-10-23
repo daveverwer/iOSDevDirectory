@@ -4419,6 +4419,13 @@
             "site_url": "https://zoesmith.io",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Wojciech Kulik’s blog",
+            "author": "Wojciech Kulik",
+            "site_url": "https://wojciechkulik.pl",
+            "feed_url": "https://wojciechkulik.pl/feed",
+            "twitter_url": "https://twitter.com/kulik_wojciech"
           }
         ]
       },
