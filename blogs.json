@@ -4877,6 +4877,13 @@
             "twitter_url": "https://twitter.com/_delightfulapps"
           },
           {
+            "title": "Details Pro Blog",
+            "author": "Sahand Nayebaziz",
+            "site_url": "https://detailspro.app/blog/",
+            "feed_url": "https://detailspro.app/rss.xml",
+            "twitter_url": "https://twitter.com/detailsproapp"
+          },
+          {
             "title": "The Distance – iOS Posts",
             "author": "The Distance",
             "site_url": "https://thedistance.co.uk/category/ios/",
