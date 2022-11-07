@@ -3979,6 +3979,13 @@
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
           {
+            "title": "Swift with Vincent",
+            "author": "Vincent Pradeilles",
+            "site_url": "https://www.swiftwithvincent.com/",
+            "feed_url": "https://www.swiftwithvincent.com/?format=rss",
+            "twitter_url": "https://twitter.com/v_pradeilles"
+          },
+          {
             "title": "SüdRocket",
             "author": "Matthias Maurberger",
             "site_url": "https://sudrocket.de/",
