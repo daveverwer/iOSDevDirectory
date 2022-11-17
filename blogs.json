@@ -3862,6 +3862,13 @@
             "twitter_url": "https://twitter.com/eremenko_maxim"
           },
           {
+            "title": "Swift Package Index Blog",
+            "author": "Dave Verwer and Sven A. Schmidt",
+            "site_url": "https://blog.swiftpackageindex.com",
+            "feed_url": "https://blog.swiftpackageindex.com/feed.rss",
+            "twitter_url": "https://twitter.com/SwiftPackages"
+          },
+          {
             "title": "Swift Ramen",
             "author": "Azhar Anwar",
             "site_url": "https://swiftramen.com/",
@@ -5524,6 +5531,13 @@
             "feed_url": "https://anchor.fm/s/572fc68/podcast/rss"
           },
           {
+            "title": "Swift Package Indexing",
+            "author": "Dave Verwer and Sven A. Schmidt",
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "feed_url": "https://feeds.transistor.fm/swift-package-indexing",
+            "twitter_url": "https://twitter.com/SwiftPackages"
+          },
+          {
             "title": "The Swift Teacher Podcast",
             "author": "Brian Foutty",
             "site_url": "https://www.swiftteacher.org/podcast/",
@@ -5984,6 +5998,13 @@
             "author": "The Bay Area Swift Community",
             "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
+          },
+          {
+            "title": "Swift Package Indexing Live Streams",
+            "author": "Dave Verwer and Sven A. Schmidt",
+            "site_url": "https://www.youtube.com/channel/UCeJvtSFr3cnnNhYwRlLZoSw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeJvtSFr3cnnNhYwRlLZoSw",
+            "twitter_url": "https://twitter.com/SwiftPackages"
           },
           {
             "title": "Swiftful Thinking",
