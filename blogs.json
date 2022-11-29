@@ -5600,10 +5600,10 @@
             "twitter_url": "https://twitter.com/aryamansharda"
           },
           {
-            "title": "iOS Code Review Tips",
+            "title": "iOS Code Review - Curated code improvement tips",
             "author": "Marina Gornostaeva",
-            "site_url": "https://newsletter.ioscodereview.com/",
-            "feed_url": "https://newsletter.ioscodereview.com/?format=rss",
+            "site_url": "https://ioscodereview.com",
+            "feed_url": "https://ioscodereview.com/feed.xml",
             "twitter_url": "https://twitter.com/ios_code_review"
           },
           {
