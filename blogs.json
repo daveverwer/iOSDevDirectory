@@ -282,6 +282,12 @@
             "twitter_url": "https://twitter.com/bretto"
           },
           {
+            "title": "Amy Worrall’s Blog",
+            "author": "Amy Worrall",
+            "site_url": "https://www.amyworrall.com",
+            "feed_url": "https://www.amyworrall.com/blog?format=rss"
+          },
+          {
             "title": "Anastasiia Vixentael on Medium",
             "author": "Anastasiia Vixentael",
             "site_url": "https://medium.com/@vixentael/",
