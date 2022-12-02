@@ -5688,6 +5688,13 @@
             "site_url": "https://uidesignerweekly.curated.co",
             "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
+          },
+          {
+            "title": "iOS CI Newsletter",
+            "author": "Pol Piella Abadia",
+            "site_url": "https://polpiella.dev/newsletter",
+            "feed_url": "https://sendy.polpiella.dev/campaigns-rss?a=I8YAOkQbYijtGLtK0H9GbAHucrwltO&i=1",
+            "twitter_url": "https://twitter.com/polpielladev"
           }
         ]
       },
