@@ -1331,6 +1331,13 @@
             "twitter_url": "https://twitter.com/holtwick"
           },
           {
+            "title": "The Dodo Developer",
+            "author": "Ben Dodson",
+            "site_url": "https://www.thedododeveloper.com/",
+            "feed_url": "https://www.thedododeveloper.com/feed",
+            "twitter_url": "https://twitter.com/bendodson"
+          },
+          {
             "title": "Dodo Games Development Log",
             "author": "Ben Dodson",
             "site_url": "https://dodogames.io/devlog/",
