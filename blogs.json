@@ -3938,6 +3938,13 @@
             "twitter_url": "https://twitter.com/pjechris"
           },
           {
+            "title": "Swift with Vincent",
+            "author": "Vincent Pradeilles",
+            "site_url": "https://www.swiftwithvincent.com/",
+            "feed_url": "https://www.swiftwithvincent.com/?format=rss",
+            "twitter_url": "https://twitter.com/v_pradeilles"
+          },
+          {
             "title": "SwiftBlade",
             "author": "Thongchai Kolyutsakul",
             "site_url": "https://medium.com/swiftblade",
@@ -3997,13 +4004,6 @@
             "site_url": "http://swiftyjimmy.com",
             "feed_url": "http://swiftyjimmy.com/feed/",
             "twitter_url": "https://twitter.com/jussisuojanen"
-          },
-          {
-            "title": "Swift with Vincent",
-            "author": "Vincent Pradeilles",
-            "site_url": "https://www.swiftwithvincent.com/",
-            "feed_url": "https://www.swiftwithvincent.com/?format=rss",
-            "twitter_url": "https://twitter.com/v_pradeilles"
           },
           {
             "title": "SüdRocket",
@@ -5606,6 +5606,13 @@
             "twitter_url": "https://twitter.com/aryamansharda"
           },
           {
+            "title": "iOS CI Newsletter",
+            "author": "Pol Piella Abadia",
+            "site_url": "https://polpiella.dev/newsletter",
+            "feed_url": "https://sendy.polpiella.dev/campaigns-rss?a=I8YAOkQbYijtGLtK0H9GbAHucrwltO&i=1",
+            "twitter_url": "https://twitter.com/polpielladev"
+          },
+          {
             "title": "iOS Code Review - Curated code improvement tips",
             "author": "Marina Gornostaeva",
             "site_url": "https://ioscodereview.com",
@@ -5695,13 +5702,6 @@
             "site_url": "https://uidesignerweekly.curated.co",
             "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
-          },
-          {
-            "title": "iOS CI Newsletter",
-            "author": "Pol Piella Abadia",
-            "site_url": "https://polpiella.dev/newsletter",
-            "feed_url": "https://sendy.polpiella.dev/campaigns-rss?a=I8YAOkQbYijtGLtK0H9GbAHucrwltO&i=1",
-            "twitter_url": "https://twitter.com/polpielladev"
           }
         ]
       },
