@@ -73,6 +73,10 @@
                   "microblog_url": {
                     "type": "string",
                     "format": "uri"
+                  },
+                  "mastodon_url": {
+                    "type": "string",
+                    "format": "uri"
                   }
                 }
               }
