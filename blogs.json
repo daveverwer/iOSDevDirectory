@@ -126,7 +126,8 @@
             "site_url": "https://adrian.schoenig.me",
             "feed_url": "https://adrian.schoenig.me/feed.xml",
             "twitter_url": "https://twitter.com/nhawk",
-            "microblog_url": "https://micro.blog/nighthawk"
+            "microblog_url": "https://micro.blog/nighthawk",
+            "mastodon_url": "https://aus.social/@nighthawk"
           },
           {
             "title": "Adrian Śliwa on Medium",
