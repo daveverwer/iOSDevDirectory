@@ -4705,20 +4705,6 @@
         "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
           {
-            "title": "Flutter Medium",
-            "author": "Flutter Team",
-            "site_url": "https://medium.com/flutter",
-            "feed_url": "https://medium.com/feed/flutter",
-            "twitter_url": "https://twitter.com/flutterdev"
-          },
-          {
-            "title": "gSkinner Blog",
-            "author": "gSkinner",
-            "site_url": "https://www.gskinner.com/blog/",
-            "feed_url": "https://www.gskinner.com/blog/feed/",
-            "twitter_url": "https://twitter.com/gskinner_team"          
-          },
-          {
             "title": "47 Degrees Blog",
             "author": "47 Degrees",
             "site_url": "https://www.47deg.com/blog/",
@@ -4960,6 +4946,13 @@
             "twitter_url": "https://twitter.com/flightdotschool"
           },
           {
+            "title": "Flutter Medium",
+            "author": "Flutter Team",
+            "site_url": "https://medium.com/flutter",
+            "feed_url": "https://medium.com/feed/flutter",
+            "twitter_url": "https://twitter.com/flutterdev"
+          },
+          {
             "title": "Foresight Mobile Blog",
             "author": "Gareth Reese",
             "site_url": "https://foresightmobile.com/blog",
@@ -4985,6 +4978,13 @@
             "site_url": "https://medium.com/engineering-at-goodnotes",
             "feed_url": "https://medium.com/feed/engineering-at-goodnotes",
             "twitter_url": "https://twitter.com/goodnotesapp"
+          },
+          {
+            "title": "gSkinner Blog",
+            "author": "gSkinner",
+            "site_url": "https://www.gskinner.com/blog/",
+            "feed_url": "https://www.gskinner.com/blog/feed/",
+            "twitter_url": "https://twitter.com/gskinner_team"
           },
           {
             "title": "Helftone Blog",
