@@ -1534,7 +1534,8 @@
             "author": "Filip Němeček",
             "site_url": "https://nemecek.be/blog/swift-and-ios",
             "feed_url": "https://nemecek.be/blog/feed/rss",
-            "twitter_url": "https://twitter.com/nemecek_f"
+            "twitter_url": "https://twitter.com/nemecek_f",
+            "mastodon_url": "https://iosdev.space/@nemecek_f"
           },
           {
             "title": "finestructure",
