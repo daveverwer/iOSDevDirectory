@@ -4703,7 +4703,7 @@
       {
         "title": "Company Blogs",
         "slug": "companies",
-        "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to Apple platform development. This is where you’ll find it!",
+        "description": "If a blog is published by a company rather than an individual (or group of individuals), but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
           {
             "title": "47 Degrees Blog",
@@ -5247,6 +5247,13 @@
             "site_url": "http://codeblog.shape.dk/",
             "feed_url": "http://codeblog.shape.dk/atom.xml",
             "twitter_url": "https://twitter.com/shapedk"
+          },
+          {
+            "title": "Sidetrack",
+            "author": "James Sherlock",
+            "site_url": "https://blog.sidetrack.app/",
+            "feed_url": "https://blog.sidetrack.app/feed.xml",
+            "twitter_url": "https://twitter.com/GetSidetrack"
           },
           {
             "title": "Sketch Blog",
