@@ -2556,6 +2556,13 @@
             "twitter_url": "https://twitter.com/mdiep"
           },
           {
+            "title": "Matt Massicotte's Blog",
+            "author": "Matt Massicotte",
+            "site_url": "https://massicotte.org/",
+            "feed_url": "https://massicotte.org/feed.xml",
+            "twitter_url": "https://twitter.com/mattie"
+          },
+          {
             "title": "Matt Reagan's Blog",
             "author": "Matt Reagan",
             "site_url": "http://mattreagandev.com",
@@ -4656,13 +4663,6 @@
             "site_url": "https://joecieplinski.com/blog/",
             "feed_url": "http://www.joecieplinski.com/blog/rss/",
             "twitter_url": "https://twitter.com/jcieplinski"
-          },
-          {
-            "title": "Matt Massicotte's Blog",
-            "author": "Matt Massicotte",
-            "site_url": "https://massicotte.org/",
-            "feed_url": "https://massicotte.org/feed.xml",
-            "twitter_url": "https://twitter.com/mattie"
           },
           {
             "title": "Mobile Ad.ventures",
