@@ -1177,7 +1177,8 @@
             "author": "Dave Verwer",
             "site_url": "https://daveverwer.com/",
             "feed_url": "https://daveverwer.com/feed.xml",
-            "twitter_url": "https://twitter.com/daveverwer"
+            "twitter_url": "https://twitter.com/daveverwer",
+            "mastodon_url": "https://mastodon.social/@daveverwer"
           },
           {
             "title": "David Cordero’s Blog",
@@ -5640,7 +5641,8 @@
             "author": "Dave Verwer",
             "site_url": "https://iosdevweekly.com/",
             "feed_url": "https://iosdevweekly.com/issues.rss",
-            "twitter_url": "https://twitter.com/iosdevweekly"
+            "twitter_url": "https://twitter.com/iosdevweekly",
+            "mastodon_url": "https://iosdev.space/@iosdevweekly"
           },
           {
             "title": "iOS Goodies",
