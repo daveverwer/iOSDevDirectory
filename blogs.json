@@ -62,14 +62,16 @@
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/packages.rss",
-            "twitter_url": "https://twitter.com/SwiftPackages"
+            "twitter_url": "https://twitter.com/SwiftPackages",
+            "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
           {
             "title": "Swift Package Index – Recent Releases",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/releases.rss",
-            "twitter_url": "https://twitter.com/SwiftPkgUpdates"
+            "twitter_url": "https://twitter.com/SwiftPkgUpdates",
+            "mastodon_url": "https://mas.to/@SwiftPackageUpdates"
           }
         ]
       },
@@ -3875,7 +3877,8 @@
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://blog.swiftpackageindex.com",
             "feed_url": "https://blog.swiftpackageindex.com/feed.rss",
-            "twitter_url": "https://twitter.com/SwiftPackages"
+            "twitter_url": "https://twitter.com/SwiftPackages",
+            "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
           {
             "title": "Swift Ramen",
@@ -5551,7 +5554,8 @@
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindexing.transistor.fm",
             "feed_url": "https://feeds.transistor.fm/swift-package-indexing",
-            "twitter_url": "https://twitter.com/SwiftPackages"
+            "twitter_url": "https://twitter.com/SwiftPackages",
+            "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
           {
             "title": "The Swift Teacher Podcast",
@@ -6035,7 +6039,8 @@
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://www.youtube.com/channel/UCeJvtSFr3cnnNhYwRlLZoSw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeJvtSFr3cnnNhYwRlLZoSw",
-            "twitter_url": "https://twitter.com/SwiftPackages"
+            "twitter_url": "https://twitter.com/SwiftPackages",
+            "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
           {
             "title": "Swiftful Thinking",
