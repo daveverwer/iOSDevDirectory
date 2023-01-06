@@ -4412,7 +4412,7 @@
             "author": "Yono Mittlefehldt",
             "site_url": "https://yono.ai/",
             "feed_url": "https://yono.ai/feed.rss",
-            "twitter_url": "https://twitter.com/yonomitt"
+            "mastodon_url": "https://sigmoid.social/@yonomitt"
           },
           {
             "title": "YoSwift",
