@@ -878,7 +878,8 @@
             "author": "Chris Wu",
             "site_url": "http://chriswu.com/categories/development/",
             "feed_url": "http://chriswu.com/index.xml",
-            "twitter_url": "https://twitter.com/MuseumShuffle"
+            "twitter_url": "https://twitter.com/MuseumShuffle",
+            "mastodon_url": "https://mastodon.social/@MuseumShuffle"
           },
           {
             "title": "Christian Selig's Blog",
