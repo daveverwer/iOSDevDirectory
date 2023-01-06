@@ -3627,6 +3627,13 @@
             "twitter_url": "https://twitter.com/iwasleeg"
           },
           {
+            "title": "Side Effect",
+            "author": "Thibault Wittemberg",
+            "site_url": "https://www.sideeffect.io",
+            "feed_url": "https://www.sideeffect.io/index.xml",
+            "twitter_url": "https://twitter.com/nakodark"
+          },
+          {
             "title": "Simon Fairbairn’s Blog",
             "author": "Simon Fairbairn",
             "site_url": "http://simonfairbairn.com/tag/swift/",
@@ -4295,12 +4302,6 @@
             "site_url": "https://medium.com/@vojto",
             "feed_url": "https://medium.com/feed/@vojto",
             "twitter_url": "https://twitter.com/_vojto"
-          },
-          {
-            "title": "Warp your mobile development",
-            "author": "Thibault Wittemberg",
-            "site_url": "https://twittemb.github.io",
-            "feed_url": "https://twittemb.github.io/feed.rss"
           },
           {
             "title": "We ❤ Swift",
