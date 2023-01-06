@@ -5485,6 +5485,12 @@
             "twitter_url": "https://twitter.com/iphreaks"
           },
           {
+            "title": "Kodeco Podcast",
+            "author": "Dru Freeman and Susannah Skyer Gupta",
+            "site_url": "https://www.kodeco.com/podcast/",
+            "feed_url": "https://www.kodeco.com:443/feed/podcast"
+          },
+          {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "http://www.mtjc.fm",
@@ -5492,10 +5498,11 @@
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
           {
-            "title": "Ray Wenderlich Podcast",
-            "author": "Dru Freeman and Janie Clayton",
-            "site_url": "https://www.raywenderlich.com/podcast/",
-            "feed_url": "https://www.raywenderlich.com/feed/podcast"
+            "title": "Race Condition",
+            "author": "Josh Adams",
+            "site_url": "https://racecondition.software",
+            "feed_url": "https://feeds.buzzsprout.com/2077882.rss",
+            "twitter_url": "https://twitter.com/vermont42"
           },
           {
             "title": "Release Notes Podcast",
