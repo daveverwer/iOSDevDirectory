@@ -1226,6 +1226,12 @@
             "twitter_url": "https://twitter.com/_davidsmith"
           },
           {
+            "title": "David v.Knobelsdorff's Blog",
+            "author": "David v.Knobelsdorff",
+            "site_url": "https://davidvonk.dev",
+            "feed_url": "https://davidvonk.dev/atom.xml"
+          }
+          {
             "title": "David Yang’s Blog’",
             "author": "David Yang",
             "site_url": "https://david.y4ng.fr/",
