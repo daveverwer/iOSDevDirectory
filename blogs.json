@@ -2507,6 +2507,14 @@
             "twitter_url": "https://twitter.com/ski081"
           },
           {
+            "title": "Martin Grider's Blog",
+            "author": "Martin Grider",
+            "site_url": "http://chesstris.com/category/apple/",
+            "feed_url": "http://chesstris.com/category/apple/feed/",
+            "mastodon_url": "https://hachyderm.io/@grid",
+            "twitter_url": "https://twitter.com/livingtech"
+          },
+          {
             "title": "Martin Höller's Blog",
             "author": "Martin Höller",
             "site_url": "https://blog.martinhoeller.net/development.html",
