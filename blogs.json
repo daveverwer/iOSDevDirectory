@@ -2397,8 +2397,9 @@
             "title": "MacKuba",
             "author": "Kuba Suder",
             "site_url": "https://mackuba.eu",
-            "feed_url": "https://feeds.feedburner.com/psionides-eu",
-            "twitter_url": "https://twitter.com/kuba_suder"
+            "feed_url": "https://mackuba.eu/feed.xml",
+            "twitter_url": "https://twitter.com/kuba_suder",
+            "mastodon_url": "https://bitcoinhackers.org/@mackuba"
           },
           {
             "title": "magnuskahr writing code",
