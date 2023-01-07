@@ -1229,7 +1229,8 @@
             "title": "David v.Knobelsdorff's Blog",
             "author": "David v.Knobelsdorff",
             "site_url": "https://davidvonk.dev",
-            "feed_url": "https://davidvonk.dev/atom.xml"
+            "feed_url": "https://davidvonk.dev/atom.xml",
+            "mastodon_url": "https://chaos.social/@dvk"
           },
           {
             "title": "David Yang’s Blog’",
