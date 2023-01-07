@@ -2044,7 +2044,8 @@
             "author": "Jesse Squires",
             "site_url": "https://www.jessesquires.com",
             "feed_url": "https://www.jessesquires.com/feed.xml",
-            "twitter_url": "https://twitter.com/jesse_squires"
+            "twitter_url": "https://twitter.com/jesse_squires",
+            "mastodon_url": "https://mastodon.social/@jsq"
           },
           {
             "title": "Jille van der Weerd on Medium",
