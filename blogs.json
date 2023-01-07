@@ -5837,6 +5837,14 @@
             "twitter_url": "https://twitter.com/Jeehut"
           },
           {
+            "title": "Full Queue Developer",
+            "author": "Full Queue Developer",
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ4mrrpAXbzA-KaZ8f_aMg",
+            "twitter_url": "https://twitter.com/FullQueueDev",
+            "mastodon_url": "https://mastodon.online/@FullQueueDeveloper"
+          },
+          {
             "title": "Gary Tokman on YouTube",
             "author": "Gary Tokman",
             "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
@@ -6133,6 +6141,14 @@
             "site_url": "https://www.twitch.tv/compileswift",
             "feed_url": "https://twitchrss.appspot.com/vod/compileswift",
             "twitter_url": "https://twitter.com/CompileSwift"
+          },
+          {
+            "title": "Full Queue Developer",
+            "author": "Full Queue Developer",
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "feed_url": "https://twitchrss.appspot.com/vod/FullQueueDeveloper",
+            "twitter_url": "https://twitter.com/FullQueueDev",
+            "mastodon_url": "https://mastodon.online/@FullQueueDeveloper"
           },
           {
             "title": "Jeehut on Twitch",
