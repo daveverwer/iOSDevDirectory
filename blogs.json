@@ -1560,7 +1560,8 @@
             "author": "Cihat Gündüz",
             "site_url": "https://fline.dev",
             "feed_url": "https://fline.dev/rss",
-            "twitter_url": "https://twitter.com/Jeehut"
+            "twitter_url": "https://twitter.com/Jeehut",
+            "mastodon_url": "https://iosdev.space/@Jeehut"
           },
           {
             "title": "Floating little leaves of code",
@@ -5681,9 +5682,10 @@
           {
             "title": "Swift Evolution Monthly",
             "author": "Cihat Gündüz",
-            "site_url": "http://se-monthly.flinedev.com/",
-            "feed_url": "http://se-monthly.flinedev.com/?format=rss",
-            "twitter_url": "https://twitter.com/Jeehut"
+            "site_url": "https://swiftevolution.substack.com",
+            "feed_url": "https://swiftevolution.substack.com/feed",
+            "twitter_url": "https://twitter.com/Jeehut",
+            "mastodon_url": "https://iosdev.space/@Jeehut"
           },
           {
             "title": "Swift Weekly",
@@ -5834,7 +5836,8 @@
             "author": "Cihat Gündüz",
             "site_url": "https://www.youtube.com/c/FlineDev",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtg6Ck7oYa_9k1oSTmFGNRw",
-            "twitter_url": "https://twitter.com/Jeehut"
+            "twitter_url": "https://twitter.com/Jeehut",
+            "mastodon_url": "https://iosdev.space/@Jeehut"
           },
           {
             "title": "Gary Tokman on YouTube",
@@ -6139,7 +6142,8 @@
             "author": "Cihat Gündüz",
             "site_url": "https://www.twitch.tv/jeehut",
             "feed_url": "https://twitchrss.appspot.com/vod/jeehut",
-            "twitter_url": "https://twitter.com/Jeehut"
+            "twitter_url": "https://twitter.com/Jeehut",
+            "mastodon_url": "https://iosdev.space/@Jeehut"
           },
           {
             "title": "MaeganWilson_ on Twitch",
@@ -6716,6 +6720,7 @@
             "author": "Nicolo Stanciu, Holger Krupp & Cihat Gündüz",
             "site_url": "https://appstore-tagebuch.de",
             "twitter_url": "https://twitter.com/AppTagebuch",
+            "mastodon_url": "https://iosdev.space/@AppTagebuch@podcasts.social",
             "feed_url": "https://appstore-tagebuch.de/feed/"
           }
         ]
