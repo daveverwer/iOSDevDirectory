@@ -6875,6 +6875,12 @@
             "site_url": "https://www.wouterdijks.com",
             "feed_url": "https://www.wouterdijks.com/feed/",
             "twitter_url": "https://twitter.com/AdvocadoJager"
+          },
+          {
+            "title": "Thermal Corner",
+            "author": "Jonathan Ruiz",
+            "site_url": "https://www.thermalcorner.net",
+            "feed_url": "https://thermalcorner.net/index.xml"
           }
         ]
       }
