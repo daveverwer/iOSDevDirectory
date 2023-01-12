@@ -6881,6 +6881,13 @@
             "author": "Jonathan Ruiz",
             "site_url": "https://www.thermalcorner.net",
             "feed_url": "https://thermalcorner.net/index.xml"
+          },
+          {
+            "title": "Fleksy Engineering",
+            "author": "Fleksy",
+            "site_url": "https://www.fleksy.com/blog/category/engineering/",
+            "feed_url": "https://www.fleksy.com/blog/category/engineering/feed"
+            "twitter_url": "https://twitter.com/FleksySDK"
           }
         ]
       }
