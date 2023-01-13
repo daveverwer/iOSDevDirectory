@@ -4076,7 +4076,8 @@
             "title": "Testable Apple",
             "author": "Alexey Alter-Pesotskiy",
             "site_url": "https://testableapple.com",
-            "feed_url": "https://testableapple.com/feed.xml"
+            "feed_url": "https://testableapple.com/feed.xml",
+            "twitter_url": "https://twitter.com/testableapple"
           },
           {
             "title": "that thing in swift",
