@@ -468,7 +468,8 @@
             "author": "Arnaud Joubay",
             "site_url": "https://sowenjub.me/",
             "feed_url": "https://sowenjub.me/writes/rss/",
-            "twitter_url": "https://twitter.com/sowenjub"
+            "twitter_url": "https://twitter.com/sowenjub",
+            "mastodon_url": "https://mastodon.social/@sowenjub"
           },
           {
             "title": "Arseniy Kuznetsov’s Blog",
