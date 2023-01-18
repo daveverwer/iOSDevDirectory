@@ -3264,7 +3264,8 @@
             "author": "Pol Piella Abadia",
             "site_url": "https://www.polpiella.dev",
             "feed_url": "https://www.polpiella.dev/rss.xml",
-            "twitter_url": "https://twitter.com/polpielladev"
+            "twitter_url": "https://twitter.com/polpielladev",
+            "mastodon_url": "https://iosdev.space/@polpielladev"
           },
           {
             "title": "Pranav Kasetti's Blog",
