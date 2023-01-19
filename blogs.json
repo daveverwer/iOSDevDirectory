@@ -212,7 +212,8 @@
             "author": "Alexander Weiß",
             "site_url": "https://alexanderweiss.dev",
             "feed_url": "https://alexanderweiss.dev/blog/feed/rss.xml",
-            "twitter_url": "https://twitter.com/_al_we"
+            "twitter_url": "https://twitter.com/_al_we",
+            "mastodon_url": "https://mastodon.online/@alexanderwe"
           },
           {
             "title": "Alexandros Salazar’s Blog",
