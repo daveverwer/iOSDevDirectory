@@ -468,7 +468,8 @@
             "author": "Arnaud Joubay",
             "site_url": "https://sowenjub.me/",
             "feed_url": "https://sowenjub.me/writes/rss/",
-            "twitter_url": "https://twitter.com/sowenjub"
+            "twitter_url": "https://twitter.com/sowenjub",
+            "mastodon_url": "https://mastodon.social/@sowenjub"
           },
           {
             "title": "Arseniy Kuznetsov’s Blog",
@@ -1615,6 +1616,7 @@
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=developer",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
+            "mastodon_url": "https://mastodon.cloud/@ortwingentz",
             "twitter_url": "https://twitter.com/ortwingentz"
           },
           {
@@ -3262,7 +3264,8 @@
             "author": "Pol Piella Abadia",
             "site_url": "https://www.polpiella.dev",
             "feed_url": "https://www.polpiella.dev/rss.xml",
-            "twitter_url": "https://twitter.com/polpielladev"
+            "twitter_url": "https://twitter.com/polpielladev",
+            "mastodon_url": "https://iosdev.space/@polpielladev"
           },
           {
             "title": "Pranav Kasetti's Blog",
@@ -4209,7 +4212,7 @@
             "author": "Sarah Reichelt",
             "site_url": "https://troz.net/",
             "feed_url": "https://troz.net/index.xml",
-            "twitter_url": "https://twitter.com/trozware"
+            "mastodon_url": "https://mastodon.social/@troz"
           },
           {
             "title": "try Combine",
@@ -4300,6 +4303,13 @@
             "site_url": "https://www.virtualsanity.com/",
             "feed_url": "https://www.virtualsanity.com/feed/",
             "twitter_url": "https://twitter.com/johnbrayton"
+          },
+          {
+            "title": "Feedback Loop",
+            "author": "Vicente Garcia",
+            "site_url": "https://vicegax.substack.com",
+            "feed_url": "https://vicegax.substack.com/feed",
+            "twitter_url": "https://twitter.com/vicegax"
           },
           {
             "title": "Vlad Iacob on Medium",
@@ -4395,7 +4405,7 @@
             "author": "Dominik Hauser",
             "site_url": "https://xcode.tips",
             "feed_url": "https://xcode.tips/feed.xml",
-            "twitter_url": "https://twitter.com/dasdom"
+            "mastodon_url": "https://chaos.social/@dasdom"
           },
           {
             "title": "Xcoding with Alfian",
