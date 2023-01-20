@@ -4334,6 +4334,13 @@
             "twitter_url": "https://twitter.com/_vojto"
           },
           {
+            "title": "Warren Moore on Medium",
+            "author": "Warren Moore",
+            "site_url": "https://medium.com/@warrenm",
+            "feed_url": "https://medium.com/feed/@warrenm",
+            "twitter_url": "https://twitter.com/warrenm"
+          },
+          {
             "title": "We ❤ Swift",
             "author": "Andrei Puni, Catalin Perticas and Cazoni Robert",
             "site_url": "https://www.weheartswift.com",
