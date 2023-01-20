@@ -5341,6 +5341,14 @@
             "twitter_url": "https://twitter.com/ChrisMarshallNY"
           },
           {
+            "title": "Tact engineering blog",
+            "author": "Tact team",
+            "site_url": "https://blog.justtact.com/",
+            "feed_url": "https://blog.justtact.com/feed.xml",
+            "twitter_url": "https://twitter.com/justtact",
+            "mastodon_url": "https://mastodon.justtact.com/@tact"
+          },
+          {
             "title": "thoughtbot: iOS posts",
             "author": "thoughtbot Team",
             "site_url": "https://robots.thoughtbot.com/tags/ios",
