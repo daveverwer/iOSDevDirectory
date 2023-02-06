@@ -2467,7 +2467,8 @@
             "author": "Marco Eidinger",
             "site_url": "https://blog.eidinger.info/",
             "feed_url": "https://blog.eidinger.info/rss.xml",
-            "twitter_url": "https://twitter.com/MarcoEidinger"
+            "twitter_url": "https://twitter.com/MarcoEidinger",
+            "mastodon_url": "https://fosstodon.org/@MarcoEidinger"
           },
           {
             "title": "Marco Santa Dev",
