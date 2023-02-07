@@ -1642,6 +1642,14 @@
             "twitter_url": "https://twitter.com/levantAJ"
           },
           {
+            "title": "Geeking with Mauri",
+            "author": "Mauricio Chirino",
+            "site_url": "https://geekingwithmauri.com",
+            "feed_url": "https://geekingwithmauri.com/feed.xml",
+            "twitter_url": "https://twitter.com/MChirino89",
+            "mastodon_url": "https://fosstodon.org/@mchirino89"
+          },
+          {
             "title": "Gene De Lisa’s Blog",
             "author": "Gene De Lisa",
             "site_url": "https://rockhoppertech.com/blog",
