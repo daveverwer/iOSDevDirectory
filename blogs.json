@@ -4138,9 +4138,10 @@
           {
             "title": "Thomas Hanning's Blog",
             "author": "Thomas Hanning",
-            "site_url": "http://www.thomashanning.com",
-            "feed_url": "http://www.thomashanning.com/feed/",
-            "twitter_url": "https://twitter.com/hanning_thomas"
+            "site_url": "https://www.thomashanning.com",
+            "feed_url": "https://www.thomashanning.com/rss/",
+            "twitter_url": "https://twitter.com/hanning_thomas",
+            "mastodon_url": "https://mastodon.world/@thomashanning"
           },
           {
             "title": "Thomas Ricouard on Medium",
