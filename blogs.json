@@ -1255,6 +1255,13 @@
             "feed_url": "https://deprogrammaticaipsum.com/feed/"
           },
           {
+            "title": "Deurell Labs Blog",
+            "author": "Mikael Deurell",
+            "site_url": "https://deurell.github.io/",
+            "feed_url": "https://deurell.github.io/index.xml",
+            "twitter_url": "https://twitter.com/deurell"
+          },
+          {
             "title": "dealloc",
             "author": "Jordan Rose",
             "site_url": "https://belkadan.com/blog/",
