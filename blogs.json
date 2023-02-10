@@ -1649,6 +1649,14 @@
             "twitter_url": "https://twitter.com/levantAJ"
           },
           {
+            "title": "Geeking with Mauri",
+            "author": "Mauricio Chirino",
+            "site_url": "https://geekingwithmauri.com",
+            "feed_url": "https://geekingwithmauri.com/feed.xml",
+            "twitter_url": "https://twitter.com/MChirino89",
+            "mastodon_url": "https://fosstodon.org/@mchirino89"
+          },
+          {
             "title": "Gene De Lisa’s Blog",
             "author": "Gene De Lisa",
             "site_url": "https://rockhoppertech.com/blog",
@@ -2474,7 +2482,8 @@
             "author": "Marco Eidinger",
             "site_url": "https://blog.eidinger.info/",
             "feed_url": "https://blog.eidinger.info/rss.xml",
-            "twitter_url": "https://twitter.com/MarcoEidinger"
+            "twitter_url": "https://twitter.com/MarcoEidinger",
+            "mastodon_url": "https://fosstodon.org/@MarcoEidinger"
           },
           {
             "title": "Marco Santa Dev",
@@ -3041,7 +3050,8 @@
             "author": "Ole Begemann",
             "site_url": "https://oleb.net/blog/",
             "feed_url": "http://oleb.net/blog/atom.xml",
-            "twitter_url": "https://twitter.com/olebegemann"
+            "twitter_url": "https://twitter.com/olebegemann",
+            "mastodon_url": "https://chaos.social/@ole" 
           },
           {
             "title": "Oleg Dreyman’s Blog",
@@ -4135,9 +4145,10 @@
           {
             "title": "Thomas Hanning's Blog",
             "author": "Thomas Hanning",
-            "site_url": "http://www.thomashanning.com",
-            "feed_url": "http://www.thomashanning.com/feed/",
-            "twitter_url": "https://twitter.com/hanning_thomas"
+            "site_url": "https://www.thomashanning.com",
+            "feed_url": "https://www.thomashanning.com/rss/",
+            "twitter_url": "https://twitter.com/hanning_thomas",
+            "mastodon_url": "https://mastodon.world/@thomashanning"
           },
           {
             "title": "Thomas Ricouard on Medium",
