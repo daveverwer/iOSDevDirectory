@@ -2172,6 +2172,13 @@
             "twitter_url": "https://twitter.com/maisterjuli"
           },
           {
+            "title": "Julian Iaccopucci's Blog",
+            "author": "Julian Iaccopucci",
+            "site_url": "https://medium.com/@julian.iaccopucci",
+            "feed_url": "https://medium.com/feed/@julian.iaccopucci",
+            "twitter_url": "https://twitter.com/Jiaccopucci"
+          },
+          {
             "title": "Julian Schiavo’s Blog",
             "author": "Julian Schiavo",
             "site_url": "https://blog.schiavo.me",
