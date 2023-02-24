@@ -6393,6 +6393,13 @@
             "site_url": "https://www.fatbobman.com",
             "feed_url": "https://www.fatbobman.com/feed.rss",
             "twitter_url": "https://twitter.com/fatbobman"
+          },
+          {
+            "title": "SketchK‘s Studio",
+            "author": "SketchK",
+            "site_url": "https://www.sketchk.xyz/",
+            "feed_url": "https://www.sketchk.xyz/atom.xml",
+            "twitter_url": "https://twitter.com/SketchK_47"
           }
         ]
       }
