@@ -15,12 +15,6 @@
             "feed_url": "http://appstorereviewguidelineshistory.com/feed.xml"
           },
           {
-            "title": "VSCollectionKit: Swift Component based lib for UICollectionView",
-            "author": "Vinodh Swamy",
-            "site_url": "https://medium.com/@vinodhswamy/vscollectionkit-f33f30f4757e",
-            "feed_url": "https://medium.com/@vinodhswamy"
-          },
-          {
             "title": "Apple Platform SDK API Differences",
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/objc-diff/sdkdiffs/",
@@ -4337,6 +4331,12 @@
             "site_url": "https://vmanot.com",
             "feed_url": "https://vmanot.com/feed",
             "twitter_url": "https://twitter.com/vatsal_manot"
+          },
+          {
+            "title": "Vinodh Swamy on Medium",
+            "author": "Vinodh Swamy",
+            "site_url": "https://medium.com/@vinodhswamy",
+            "feed_url": "https://medium.com/feed/@vinodhswamy"
           },
           {
             "title": "Virtual Sanity",
