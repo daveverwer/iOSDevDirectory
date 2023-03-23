@@ -6561,6 +6561,13 @@
             "author": "tucan.dev",
             "site_url": "http://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
+          },
+          {
+            "title": "Marcel Voss' Blog",
+            "author": "Marcel Voss",
+            "site_url": "https://marcelvoss.com/blog/",
+            "feed_url": "https://marcelvoss.com/blog/rss.xml",
+            "mastodon_url": "https://chaos.social/@marcelvoss"
           }
         ]
       }
