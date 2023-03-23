@@ -88,6 +88,13 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
+            "title": "AlwaysProcessing",
+            "author": "Brian T. Kelley",
+            "site_url": "https://alwaysprocessing.blog/",
+            "feed_url": "https://alwaysprocessing.blog/feed.xml",
+            "twitter_url": "https://www.twitter.com/briantkelley07"
+          },
+          {
             "title": "A Swift Misadventure",
             "author": "Claudio Cannino",
             "site_url": "https://medium.com/a-swift-misadventure",
