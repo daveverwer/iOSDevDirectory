@@ -268,7 +268,7 @@
             "title": "Allen Pike’s Blog",
             "author": "Allen Pike",
             "site_url": "https://allenpike.com/",
-            "feed_url": "https://allenpike.com/feed/",
+            "feed_url": "https://feeds.allenpike.com/feed/",
             "twitter_url": "https://twitter.com/apike"
           },
           {
@@ -3104,8 +3104,8 @@
           {
             "title": "Oliver Binns’ Blog",
             "author": "Oliver Binns",
-            "site_url": "https://www.oliverbinns.co.uk/index.php",
-            "feed_url": "https://www.oliverbinns.co.uk/index.php",
+            "site_url": "https://www.oliverbinns.co.uk/",
+            "feed_url": "https://www.oliverbinns.co.uk/",
             "twitter_url": "https://twitter.com/oliver_binns"
           },
           {
@@ -4203,7 +4203,7 @@
             "title": "Tiago Lopes' Blog",
             "author": "Tiago Lopes",
             "site_url": "https://tiagolopes.blog/",
-            "feed_url": "http://tiagolopes.blog/feed/",
+            "feed_url": "https://tiagolopes.blog/feed/",
             "twitter_url": "https://twitter.com/TiagoMaiaLopes"
           },
           {
@@ -5099,8 +5099,8 @@
           {
             "title": "gSkinner Blog",
             "author": "gSkinner",
-            "site_url": "http://blog.gskinner.com//",
-            "feed_url": "http://blog.gskinner.com//feed/",
+            "site_url": "https://blog.gskinner.com/",
+            "feed_url": "https://blog.gskinner.com/feed/",
             "twitter_url": "https://twitter.com/gskinner_team"
           },
           {
@@ -5182,7 +5182,7 @@
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://lickability.com/blog/",
-            "feed_url": "http://lickability.com/blog/feed/",
+            "feed_url": "https://lickability.com/blog/feed/",
             "twitter_url": "https://twitter.com/lickability"
           },
           {
@@ -5599,7 +5599,7 @@
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://topenddevs.com/podcasts/iphreaks",
-            "feed_url": "https://topenddevs.com/podcasts/iphreaks/rss",
+            "feed_url": "https://feeds.redcircle.com/10388ad5-937c-49ef-a8ff-fc59f8214fbe",
             "twitter_url": "https://twitter.com/iphreaks"
           },
           {
@@ -5696,7 +5696,7 @@
             "author": "JP Simard and Jesse Squires",
             "site_url": "https://spec.fm/podcasts/swift-unwrapped",
             "twitter_url": "https://twitter.com/swift_unwrapped",
-            "feed_url": "https://rss.simplecast.com/podcasts/2693/rss"
+            "feed_url": "https://feeds.simplecast.com/3pGv88mm"
           },
           {
             "title": "This Week in Apps",
