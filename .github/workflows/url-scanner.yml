@@ -1,8 +1,8 @@
-name: URL Scanner
+name: Redirect Scan
 
 on:
   schedule:
-    - cron:  '0 4 * * 2'
+    - cron: "0 18 * * 5"
 
 jobs:
   validate:
@@ -30,9 +30,9 @@ jobs:
         with:
           add-paths: |
             blogs.json
-          commit-message: "Weekly URL cleanup automation"
-          title: "Weekly URL cleanup automation"
-          branch: spi-auto-${{ github.run_id }}
+          commit-message: "URL redirect scan."
+          title: "URL redirect scan"
+          branch: auto-${{ github.run_id }}
           delete-branch: true
           body: "${{ steps.mutate.outputs.stdout }}"
           committer: GitHub <noreply@github.com>
