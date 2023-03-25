@@ -23,6 +23,9 @@ namespace :validate do
             if response.status.between?(300, 399)
               new_uri = URI(response.headers['location'])
 
+              # There are lots of incorrect redirects for YouTube channels.
+              next if new_uri.host == 'consent.youtube.com'
+
               unless new_uri.is_a?(URI::HTTP) || new_uri.is_a?(URI::HTTPS)
                 path = new_uri.path
                 new_uri = URI(site[field])
