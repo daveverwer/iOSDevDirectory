@@ -1708,8 +1708,8 @@
           {
             "title": "Geri Borbás's Blog",
             "author": "Geri Borbás",
-            "site_url": "https://blog.eppz.eu",
-            "feed_url": "https://blog.eppz.eu/feed/",
+            "site_url": "http://blog.eppz.eu/wp-admin/setup-config.php",
+            "feed_url": "http://blog.eppz.eu/feed/wp-admin/setup-config.php",
             "twitter_url": "https://twitter.com/Geri_Borbas"
           },
           {
@@ -2854,8 +2854,8 @@
           {
             "title": "Monica's Compilation",
             "author": "Monica Pandey",
-            "site_url": "http://monicascompilation.com",
-            "feed_url": "http://monicascompilation.com/feed/",
+            "site_url": "http://www.monicascompilation.com/index.php",
+            "feed_url": "http://www.monicascompilation.com/feed/",
             "twitter_url": "https://twitter.com/m_compilation"
           },
           {
