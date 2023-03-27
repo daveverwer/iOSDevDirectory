@@ -5093,7 +5093,7 @@
             "title": "gSkinner Blog",
             "author": "gSkinner",
             "site_url": "https://blog.gskinner.com/",
-            "feed_url": "https://blog.gskinner.com/feed/",
+            "feed_url": "https://blog.gskinner.com/feed",
             "twitter_url": "https://twitter.com/gskinner_team"
           },
           {
@@ -5689,7 +5689,7 @@
             "author": "JP Simard and Jesse Squires",
             "site_url": "https://spec.fm/podcasts/swift-unwrapped",
             "twitter_url": "https://twitter.com/swift_unwrapped",
-            "feed_url": "https://feeds.simplecast.com/3pGv88mm"
+            "feed_url": "https://swiftunwrapped.github.io/feed.xml"
           },
           {
             "title": "This Week in Apps",
