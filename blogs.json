@@ -4726,8 +4726,8 @@
           {
             "title": "Apptentive",
             "author": "Ashley Sefferman, Robi Ganguly",
-            "site_url": "https://www.apptentive.com/blog/",
-            "feed_url": "https://www.apptentive.com/blog/feed/",
+            "site_url": "https://www.alchemer.com/resources/blog/category/alchemer-mobile/",
+            "feed_url": "https://www.alchemer.com/resources/blog/category/alchemer-mobile/",
             "twitter_url": "https://twitter.com/apptentive"
           },
           {
@@ -5306,7 +5306,7 @@
             "title": "Raizlabs Developer Blog",
             "author": "Raizlabs Team",
             "site_url": "https://www.rightpoint.com/dev",
-            "feed_url": "https://www.rightpoint.com/dev/feed/",
+            "feed_url": "https://www.rightpoint.com/dev/feed",
             "twitter_url": "https://twitter.com/raizlabs"
           },
           {
@@ -5326,8 +5326,8 @@
           {
             "title": "Rightpoint Labs Blog",
             "author": "Rightpoint Team",
-            "site_url": "https://www.rightpoint.com/rplabs/category/development/ios-mac",
-            "feed_url": "https://www.rightpoint.com/rplabs/category/development/ios-mac/feed",
+            "site_url": "https://www.rightpoint.com/thought",
+            "feed_url": "https://www.rightpoint.com/thought",
             "twitter_url": "https://twitter.com/rightpoint"
           },
           {
@@ -5828,8 +5828,8 @@
           {
             "title": "Swift Weekly Brief",
             "author": "Jesse Squires, Bas Broek, Kristaps Grinbergs",
-            "site_url": "https://swiftweeklybrief.com/",
-            "feed_url": "https://swiftweeklybrief.com/feed.xml",
+            "site_url": "https://www.swiftweeklybrief.com/",
+            "feed_url": "https://www.swiftweeklybrief.com/feed.xml",
             "twitter_url": "https://twitter.com/swiftlybrief"
           },
           {
