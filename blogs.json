@@ -4724,13 +4724,6 @@
             "twitter_url": "https://twitter.com/appmanagerhq"
           },
           {
-            "title": "Apptentive",
-            "author": "Ashley Sefferman, Robi Ganguly",
-            "site_url": "https://www.alchemer.com/resources/blog/category/alchemer-mobile/",
-            "feed_url": "https://www.alchemer.com/resources/blog/category/alchemer-mobile/",
-            "twitter_url": "https://twitter.com/apptentive"
-          },
-          {
             "title": "ASO Blog",
             "author": "I WANT AN ELEPHANT",
             "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
@@ -5303,13 +5296,6 @@
             "twitter_url": "https://twitter.com/quicktypeio"
           },
           {
-            "title": "Raizlabs Developer Blog",
-            "author": "Raizlabs Team",
-            "site_url": "https://www.rightpoint.com/dev",
-            "feed_url": "https://www.rightpoint.com/dev/feed",
-            "twitter_url": "https://twitter.com/raizlabs"
-          },
-          {
             "title": "Reveal Blog",
             "author": "Reveal Team",
             "site_url": "https://revealapp.com",
@@ -5322,13 +5308,6 @@
             "site_url": "https://www.revenuecat.com/blog/",
             "feed_url": "https://www.revenuecat.com/blog/rss.xml",
             "twitter_url": "https://twitter.com/revenuecat"
-          },
-          {
-            "title": "Rightpoint Labs Blog",
-            "author": "Rightpoint Team",
-            "site_url": "https://www.rightpoint.com/thought",
-            "feed_url": "https://www.rightpoint.com/thought",
-            "twitter_url": "https://twitter.com/rightpoint"
           },
           {
             "title": "Roadfire Software",
@@ -5824,13 +5803,6 @@
             "site_url": "https://swiftweekly.com",
             "feed_url": "http://digest.swiftweekly.com/?format=rss",
             "twitter_url": "https://twitter.com/swift_weekly"
-          },
-          {
-            "title": "Swift Weekly Brief",
-            "author": "Jesse Squires, Bas Broek, Kristaps Grinbergs",
-            "site_url": "https://www.swiftweeklybrief.com/",
-            "feed_url": "https://www.swiftweeklybrief.com/feed.xml",
-            "twitter_url": "https://twitter.com/swiftlybrief"
           },
           {
             "title": "Swift World",
