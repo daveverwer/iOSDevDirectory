@@ -237,6 +237,13 @@
             "mastodon_url": "https://mastodon.online/@alexanderwe"
           },
           {
+            "title": "SwiftDigest",
+            "author": "Tornike Gomareli",
+            "site_url": "https://tgomareli.medium.com",
+            "feed_url": "https://tgomareli.medium.com/feed",
+            "twitter_url": "https://twitter.com/tornikegomareli"
+          },
+          {
             "title": "Alexandros Salazar’s Blog",
             "author": "Alexandros Salazar",
             "site_url": "https://nomothetis.svbtle.com",
