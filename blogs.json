@@ -5450,6 +5450,13 @@
             "twitter_url": "https://twitter.com/UseWaldo"
           },
           {
+            "title": "Tramline Blog",
+            "author": "Tramline Team",
+            "site_url": "https://www.tramline.app/blog",
+            "feed_url": "https://www.tramline.app/blog/rss.xml",
+            "twitter_url": "https://twitter.com/tramlinehq"
+          },
+          {
             "title": "Xmartlabs Blog",
             "author": "Xmartlabs Team",
             "site_url": "https://blog.xmartlabs.com/category/ios-development/",
