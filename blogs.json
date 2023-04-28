@@ -1990,6 +1990,13 @@
             "twitter_url": "https://twitter.com/stevemykytyn"
           },
           {
+            "title": "Ivan: Thinking",
+            "author": "Ivan Tse",
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "feed_url": "https://ivanthinking.net/tags/ios-development/index.xml",
+            "twitter_url": "https://twitter.com/ivantse"
+          },
+          {
             "title": "Jack Newcombe's Blog",
             "author": "Jack Newcombe",
             "site_url": "https://newcombe.io/tag/ios/",
