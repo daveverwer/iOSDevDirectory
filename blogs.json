@@ -919,8 +919,8 @@
           {
             "title": "Chris Wu's Blog",
             "author": "Chris Wu",
-            "site_url": "http://chriswu.com/categories/development/",
-            "feed_url": "http://chriswu.com/index.xml",
+            "site_url": "https://chriswu.com/categories/development/",
+            "feed_url": "https://chriswu.com/index.xml",
             "twitter_url": "https://twitter.com/MuseumShuffle",
             "mastodon_url": "https://mastodon.social/@MuseumShuffle"
           },
