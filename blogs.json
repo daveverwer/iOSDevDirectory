@@ -5757,7 +5757,7 @@
             "title": "iOS CI Newsletter",
             "author": "Pol Piella Abadia",
             "site_url": "https://www.polpiella.dev/newsletter",
-            "feed_url": "https://sendy.polpiella.dev/campaigns-rss?a=I8YAOkQbYijtGLtK0H9GbAHucrwltO&i=1",
+            "feed_url": "https://www.polpiella.dev/newsletter/rss.xml",
             "twitter_url": "https://twitter.com/polpielladev"
           },
           {
