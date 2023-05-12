@@ -45,3 +45,21 @@ namespace :validate do
     File.write('new_blogs.json', JSON.pretty_generate(data))
   end
 end
+
+namespace :sort do
+  desc 'Re-sort the sites in all categories'
+  task :blogs do
+    data = JSON.parse(File.read('blogs.json'))
+
+    # Sort sites in each category by title
+    data.each do |language|
+      language['categories'].each do |category|
+        category['sites'].sort_by! { |site| site['title'] }
+      end
+    end
+
+    File.open('blogs.json', 'w') do |f|
+      f.write(JSON.pretty_generate(data))
+    end
+  end
+end
