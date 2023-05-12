@@ -54,7 +54,7 @@ namespace :sort do
     # Sort sites in each category by title
     data.each do |language|
       language['categories'].each do |category|
-        category['sites'].sort_by! { |site| site['title'] }
+        category['sites'].sort_by! { |site| site['title'].delete_prefix('The ').downcase }
       end
     end
 
