@@ -137,6 +137,14 @@
             "twitter_url": "https://twitter.com/adam_wareing1"
           },
           {
+            "title": "Adam Wulf's Blog",
+            "author": "Adam Wulf",
+            "site_url": "https://adamwulf.me/",
+            "feed_url": "https://adamwulf.me/feed/",
+            "twitter_url": "https://twitter.com/adamwulf",
+            "mastodon_url": "https://mstdn.social/@adamwulf"
+          },
+          {
             "title": "Adrian Schönig's Blog",
             "author": "Adrian Schönig",
             "site_url": "https://adrian.schoenig.me",
