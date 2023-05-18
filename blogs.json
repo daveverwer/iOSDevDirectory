@@ -2513,6 +2513,13 @@
             "twitter_url": "https://twitter.com/bthdonohue"
           },
           {
+            "title": "Makwan's Blog",
+            "author": "Makwan Barzan",
+            "site_url": "https://blog.makwanbk.com",
+            "feed_url": "https://blog.makwanbk.com/rss.xml",
+            "twitter_url": "https://twitter.com/makwanbk"
+          },
+          {
             "title": "Marc Palmer’s Blog",
             "author": "Marc Palmer",
             "site_url": "https://marcpalmer.net/category/ios/",
