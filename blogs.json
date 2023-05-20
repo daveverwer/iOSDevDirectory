@@ -6195,6 +6195,13 @@
             "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
           {
+            "title": "Swift Reality XR on YouTube",
+            "author": "Joe Crotchett",
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6V4Ww-axQEGtyFDcqwDMlg",
+            "twitter_url": "https://twitter.com/SwiftRealityXR"
+          },
+          {
             "title": "Swiftful Thinking",
             "author": "Nick Sarno",
             "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg",
