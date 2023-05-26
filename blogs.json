@@ -4415,6 +4415,13 @@
             "twitter_url": "https://twitter.com/johnbrayton"
           },
           {
+            "title": "Vlad Butko's Blog",
+            "author": "Vlad Butko",
+            "site_url": "https://www.vbutko.com",
+            "feed_url": "https://www.vbutko.com/feed.rss",
+            "twitter_url": "https://twitter.com/vbutko88"
+          },
+          {
             "title": "Vlad Iacob on Medium",
             "author": "Vlad Iacob",
             "site_url": "https://vladiacob.medium.com",
