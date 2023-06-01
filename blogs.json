@@ -5332,6 +5332,13 @@
             "twitter_url": "https://twitter.com/quicktypeio"
           },
           {
+            "title": "Remotion Blog",
+            "author": "Remotion Team",
+            "site_url": "https://remotion.com/blog",
+            "feed_url": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "twitter_url": "https://twitter.com/remotionco"
+          },
+          {
             "title": "Reveal Blog",
             "author": "Reveal Team",
             "site_url": "https://revealapp.com",
