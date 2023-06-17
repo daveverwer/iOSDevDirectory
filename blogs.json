@@ -3159,6 +3159,14 @@
             "twitter_url": "https://twitter.com/o_aberration"
           },
           {
+            "title": "Optimistic Closures",
+            "author": "Chris Free",
+            "site_url": "https://www.optimistic-closures.com",
+            "feed_url": "https://www.optimistic-closures.com/rss",
+            "twitter_url": "https://twitter.com/chrisfree",
+            "mastodon_url": "https://mastodon.xyz/@chrisfree"
+          },
+          {
             "title": "Orange Juice Liberation Front",
             "author": "Uli Kusterer",
             "site_url": "https://orangejuiceliberationfront.com",
