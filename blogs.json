@@ -1043,6 +1043,14 @@
             "twitter_url": "https://twitter.com/cctplus_"
           },
           {
+            "title": "Collin Donnell’s Blog",
+            "author": "Collin Donnell",
+            "site_url": "https://collindonnell.com/",
+            "feed_url": "https://collindonnell.com/feed/",
+            "twitter_url": "https://twitter.com/collindonnell",
+            "mastodon_url": "https://ruby.social/@collin"
+          },
+          {
             "title": "Conrad Stoll’s Blog",
             "author": "Conrad Stoll",
             "site_url": "http://conradstoll.com/",
