@@ -3046,6 +3046,14 @@
             "twitter_url": "https://twitter.com/sond813"
           },
           {
+            "title": "Nonstrict Engineering Blog",
+            "author": "Tom Lokhorst & Mathijs Kadijk",
+            "site_url": "https://nonstrict.eu/blog/",
+            "feed_url": "https://nonstrict.eu/feed.rss",
+            "twitter_url": "https://twitter.com/nonstrict_hq",
+            "mastodon_url": "https://mastodon.social/@nonstrict"
+          },
+          {
             "title": "NSBlog",
             "author": "Mike Ash",
             "site_url": "https://www.mikeash.com/pyblog/",
