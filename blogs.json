@@ -4859,6 +4859,13 @@
             "author": "Zachary Shakked",
             "site_url": "https://blog.zach.so",
             "feed_url": "https://blog.zach.so/feed"
+          },
+          {
+            "title": "Fatbobman's Blog",
+            "author": "fatbobman",
+            "site_url": "https://fatbobman.medium.com",
+            "feed_url": "https://fatbobman.medium.com/feed",
+            "twitter_url": "https://twitter.com/fatbobman"
           }
         ]
       },
