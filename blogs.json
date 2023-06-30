@@ -1546,6 +1546,13 @@
             "twitter_url": "https://twitter.com/ftchirou"
           },
           {
+            "title": "Fatbobman's Blog",
+            "author": "fatbobman",
+            "site_url": "https://fatbobman.medium.com",
+            "feed_url": "https://fatbobman.medium.com/feed",
+            "twitter_url": "https://twitter.com/fatbobman"
+          },
+          {
             "title": "Federico Jordan’s Blog",
             "author": "Federico Jordan",
             "site_url": "https://federicojordan.github.io/",
@@ -4790,13 +4797,6 @@
             "site_url": "https://blog.curtisherbert.com/",
             "feed_url": "https://blog.curtisherbert.com/rss/",
             "twitter_url": "https://twitter.com/parrots"
-          },
-          {
-            "title": "Fatbobman's Blog",
-            "author": "fatbobman",
-            "site_url": "https://fatbobman.medium.com",
-            "feed_url": "https://fatbobman.medium.com/feed",
-            "twitter_url": "https://twitter.com/fatbobman"
           },
           {
             "title": "The FutureBlog – For App Marketers",
