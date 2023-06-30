@@ -3549,18 +3549,18 @@
             "twitter_url": "https://twitter.com/rekerrsive"
           },
           {
-            "title": "roger.ml",
-            "author": "Roger Oba",
-            "site_url": "https://www.roger.ml",
-            "feed_url": "https://www.roger.ml/feed.xml",
-            "twitter_url": "https://twitter.com/rogerluan_"
-          },
-          {
             "title": "Roger Molas’s Blog",
             "author": "Roger Molas",
             "site_url": "https://blog.rogermolas.com/",
             "feed_url": "https://blog.rogermolas.com/index.xml",
             "twitter_url": "https://twitter.com/roger_molas"
+          },
+          {
+            "title": "roger.ml",
+            "author": "Roger Oba",
+            "site_url": "https://www.roger.ml",
+            "feed_url": "https://www.roger.ml/feed.xml",
+            "twitter_url": "https://twitter.com/rogerluan_"
           },
           {
             "title": "Roland Leth’s Blog",
@@ -4792,6 +4792,13 @@
             "twitter_url": "https://twitter.com/parrots"
           },
           {
+            "title": "Fatbobman's Blog",
+            "author": "fatbobman",
+            "site_url": "https://fatbobman.medium.com",
+            "feed_url": "https://fatbobman.medium.com/feed",
+            "twitter_url": "https://twitter.com/fatbobman"
+          },
+          {
             "title": "The FutureBlog – For App Marketers",
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
@@ -4853,13 +4860,6 @@
             "author": "Zachary Shakked",
             "site_url": "https://blog.zach.so",
             "feed_url": "https://blog.zach.so/feed"
-          },
-          {
-            "title": "Fatbobman's Blog",
-            "author": "fatbobman",
-            "site_url": "https://fatbobman.medium.com",
-            "feed_url": "https://fatbobman.medium.com/feed",
-            "twitter_url": "https://twitter.com/fatbobman"
           }
         ]
       },
