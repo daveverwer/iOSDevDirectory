@@ -1891,7 +1891,7 @@
           {
             "title": "ignore the code",
             "author": "Lukas Mathis",
-            "site_url": "http://ignorethecode.net/blog/",
+            "site_url": "https://ignorethecode.net/blog/",
             "feed_url": "http://feeds.feedburner.com/IgnoreTheCode"
           },
           {
@@ -4914,13 +4914,6 @@
             "author": "ASOS",
             "site_url": "https://medium.com/asos-techblog/tagged/ios",
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
-          },
-          {
-            "title": "Basil Salad Software",
-            "author": "Basil Salad Team",
-            "site_url": "https://basilsalad.com/tag/ios/",
-            "feed_url": "https://basilsalad.com/tag/ios/feed/",
-            "twitter_url": "https://twitter.com/BasilSalad"
           },
           {
             "title": "Big Nerd Ranch",
