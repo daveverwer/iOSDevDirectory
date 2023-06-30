@@ -719,12 +719,6 @@
             "microblog_url": "https://micro.blog/danielpunkass"
           },
           {
-            "title": "Blueground's Engineering Blog",
-            "author": "iOS Engineers @ Blueground",
-            "site_url": "https://engineering.theblueground.com/categories/ios-development/",
-            "feed_url": "https://engineering.theblueground.com/categories/ios-development/index.xml/"
-          },
-          {
             "title": "BontoJR",
             "author": "Junior Bonto",
             "site_url": "https://www.bonto.ch/",
@@ -4948,6 +4942,12 @@
             "site_url": "https://blackpixel.com/writing/",
             "feed_url": "https://blackpixel.com/writing/atom.xml",
             "twitter_url": "https://twitter.com/blackpixel"
+          },
+          {
+            "title": "Blueground's Engineering Blog",
+            "author": "iOS Engineers @ Blueground",
+            "site_url": "https://engineering.theblueground.com/categories/ios-development/",
+            "feed_url": "https://engineering.theblueground.com/categories/ios-development/index.xml/"
           },
           {
             "title": "BPXL Craft",
