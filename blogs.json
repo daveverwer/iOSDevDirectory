@@ -1891,7 +1891,7 @@
           {
             "title": "ignore the code",
             "author": "Lukas Mathis",
-            "site_url": "http://ignorethecode.net/blog/",
+            "site_url": "https://ignorethecode.net/blog/",
             "feed_url": "http://feeds.feedburner.com/IgnoreTheCode"
           },
           {
@@ -4918,8 +4918,8 @@
           {
             "title": "Basil Salad Software",
             "author": "Basil Salad Team",
-            "site_url": "https://basilsalad.com/tag/ios/",
-            "feed_url": "https://basilsalad.com/tag/ios/feed/",
+            "site_url": "https://basilsalad.com/wp-admin/install.php",
+            "feed_url": "https://basilsalad.com/wp-admin/install.php",
             "twitter_url": "https://twitter.com/BasilSalad"
           },
           {
