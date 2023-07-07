@@ -2468,7 +2468,7 @@
             "title": "Luke Smith’s Blog",
             "author": "Luke Smith",
             "site_url": "https://www.lukecsmith.co.uk/",
-            "feed_url": "http://www.lukecsmith.co.uk/feed/",
+            "feed_url": "https://www.lukecsmith.co.uk/feed/",
             "twitter_url": "https://twitter.com/lukesmithapps"
           },
           {
@@ -4851,7 +4851,7 @@
           {
             "title": "TIL with Mohammad",
             "author": "Mohammad Faani",
-            "site_url": "https://www.mfaani.com",
+            "site_url": "https://mfaani.com/",
             "feed_url": "https://mfaani.com/index.xml",
             "twitter_url": "https://twitter.com/mfaani"
           },
