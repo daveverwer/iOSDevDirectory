@@ -1017,13 +1017,6 @@
             "twitter_url": "https://twitter.com/macgreg"
           },
           {
-            "title": "Coding Explorer Blog",
-            "author": "Nick Hanan",
-            "site_url": "https://www.codingexplorer.com/",
-            "feed_url": "https://www.codingexplorer.com/feed/",
-            "twitter_url": "https://twitter.com/codingexplorer"
-          },
-          {
             "title": "Coding with Jeff",
             "author": "Jeff Merola",
             "site_url": "https://www.codingwithjeff.org",
@@ -2010,7 +2003,7 @@
             "title": "Jack Newcombe's Blog",
             "author": "Jack Newcombe",
             "site_url": "https://newcombe.io/tag/ios/",
-            "feed_url": "https://newcombe.io/tag/ios/feed",
+            "feed_url": "https://newcombe.io/tag/ios/feed/",
             "twitter_url": "https://twitter.com/jacknewc"
           },
           {
@@ -5351,7 +5344,7 @@
           {
             "title": "Remotion Blog",
             "author": "Remotion Team",
-            "site_url": "https://remotion.com/blog",
+            "site_url": "http://multi.app/blog",
             "feed_url": "https://updates.remotion.com/rss/blog.xml",
             "twitter_url": "https://twitter.com/remotionco"
           },
