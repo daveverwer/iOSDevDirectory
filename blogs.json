@@ -1017,6 +1017,12 @@
             "twitter_url": "https://twitter.com/macgreg"
           },
           {
+            "title": "Coding with Jeff",
+            "author": "Jeff Merola",
+            "site_url": "https://www.codingwithjeff.org",
+            "feed_url": "https://www.codingwithjeff.org/feed.xml"
+          },
+          {
             "title": "Coffee. Code. Tech. and more",
             "author": "Maegan Wilson",
             "site_url": "https://cctplus.dev",
@@ -1538,12 +1544,6 @@
             "site_url": "https://fatbobman.medium.com",
             "feed_url": "https://fatbobman.medium.com/feed",
             "twitter_url": "https://twitter.com/fatbobman"
-          },
-          {
-            "title": "Coding with Jeff",
-            "author": "Jeff Merola",
-            "site_url": "https://www.codingwithjeff.org",
-            "feed_url": "https://www.codingwithjeff.org/feed.xml"
           },
           {
             "title": "Federico Jordan’s Blog",
@@ -6253,18 +6253,18 @@
             "twitter_url": "https://twitter.com/tundsdev"
           },
           {
-            "title": "Vojta Stavik on YouTube",
-            "author": "Vojta Stavik",
-            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "twitter_url": "https://twitter.com/vojtastavik"
-          },
-          {
             "title": "Vincent Pradeilles on YouTube",
             "author": "Vincent Pradeilles",
             "site_url": "https://www.youtube.com/channel/UCjkoQk5fOk6lH-shlm53vlw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjkoQk5fOk6lH-shlm53vlw",
             "twitter_url": "https://twitter.com/v_pradeilles"
+          },
+          {
+            "title": "Vojta Stavik on YouTube",
+            "author": "Vojta Stavik",
+            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
+            "twitter_url": "https://twitter.com/vojtastavik"
           },
           {
             "title": "Xcoding with Alfian",
