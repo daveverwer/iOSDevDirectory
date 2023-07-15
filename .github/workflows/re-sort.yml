@@ -6,7 +6,8 @@ on:
     - cron: "0 7 * * 1" # At 07:00 every Monday
 
 jobs:
-  validate:
+  sort:
+    name: Re-sort Blogs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
