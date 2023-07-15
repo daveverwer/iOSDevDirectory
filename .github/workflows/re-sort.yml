@@ -1,4 +1,4 @@
-name: Redirect Scan
+name: Re-sort Blogs
 
 on:
   workflow_dispatch:
