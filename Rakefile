@@ -58,8 +58,6 @@ namespace :sort do
       end
     end
 
-    File.open('blogs.json', 'w') do |f|
-      f.write(JSON.pretty_generate(data))
-    end
+    File.write('new_blogs.json', JSON.pretty_generate(data))
   end
 end
