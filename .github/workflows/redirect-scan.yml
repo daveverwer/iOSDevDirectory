@@ -3,13 +3,14 @@ name: Redirect Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 7 * * 5"
+    - cron: "0 7 * * 1,4" # At 07:00 on Monday and Thursday
 
 jobs:
-  validate:
+  scan:
+    name: Redirect Scan
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
@@ -25,9 +26,8 @@ jobs:
         if: steps.check.outputs.changes == 'true'
         run: mv new_blogs.json blogs.json
       - name: Create Pull Request
-        id: cpr
         if: steps.check.outputs.changes == 'true'
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v5
         with:
           add-paths: |
             blogs.json
