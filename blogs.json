@@ -4835,18 +4835,18 @@
             "twitter_url": "https://twitter.com/nielsmouthaan"
           },
           {
-            "title": "Vini Leal's Blog",
-            "author": "Vinicius Leal",
-            "site_url": "https://vinileal.com",
-            "feed_url": "https://vinileal.com/feed.xml",
-            "twitter_url": "https://twitter.com/Vini__leal"
-          },
-          {
             "title": "TIL with Mohammad",
             "author": "Mohammad Faani",
             "site_url": "https://mfaani.com/",
             "feed_url": "https://mfaani.com/index.xml",
             "twitter_url": "https://twitter.com/mfaani"
+          },
+          {
+            "title": "Vini Leal's Blog",
+            "author": "Vinicius Leal",
+            "site_url": "https://vinileal.com",
+            "feed_url": "https://vinileal.com/feed.xml",
+            "twitter_url": "https://twitter.com/Vini__leal"
           },
           {
             "title": "Yvz Digital Lab",
