@@ -4461,6 +4461,13 @@
             "twitter_url": "https://twitter.com/_vojto"
           },
           {
+            "title": "Wan Ahmad Lutfi's blog",
+            "author": "Wan Ahmad Lutfi",
+            "site_url": "https://wanlutfi.dev/blog/",
+            "feed_url": "https://wanlutfi.dev/blog/feed/",
+            "twitter_url": "https://twitter.com/wlufi"
+          },
+          {
             "title": "Warren Moore on Medium",
             "author": "Warren Moore",
             "site_url": "https://medium.com/@warrenm",
@@ -4734,13 +4741,6 @@
             "site_url": "https://www.useronboard.com",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
-          },
-          {
-            "title": "Wan Ahmad Lutfi's blog",
-            "author": "Wan Ahmad Lutfi",
-            "site_url": "https://wanlutfi.dev/blog/",
-            "feed_url": "https://wanlutfi.dev/blog/feed/",
-            "twitter_url": "https://twitter.com/wlufi"
           }
         ]
       },
