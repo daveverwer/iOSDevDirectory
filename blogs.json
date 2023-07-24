@@ -3347,8 +3347,8 @@
           {
             "title": "Pietro Rea’s Blog",
             "author": "Pietro Rea",
-            "site_url": "https://www.pietrorea.com",
-            "feed_url": "https://www.pietrorea.com/rss.xml",
+            "site_url": "https://pietrorea.com/",
+            "feed_url": "https://pietrorea.com/rss.xml",
             "twitter_url": "https://twitter.com/pietrorea"
           },
           {
@@ -5241,8 +5241,8 @@
           {
             "title": "MartianCraft: The Syndicate",
             "author": "MartianCraft Team",
-            "site_url": "http://martiancraft.com/blog.html",
-            "feed_url": "http://martiancraft.com/feed.xml",
+            "site_url": "https://martiancraft.com/blog.html",
+            "feed_url": "https://martiancraft.com/feed.xml",
             "twitter_url": "https://twitter.com/martiancraft"
           },
           {
