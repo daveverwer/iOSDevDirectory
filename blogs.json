@@ -1353,7 +1353,8 @@
             "author": "Daniel Steinberg",
             "site_url": "https://dimsumthinking.com",
             "feed_url": "https://dimsumthinking.com/rss.xml",
-            "twitter_url": "https://twitter.com/dimsumthinking"
+            "twitter_url": "https://twitter.com/dimsumthinking",
+            "mastodon_url": "https://mastodon.social/@dimsumthinking"
           },
           {
             "title": "Dino Bozic on Medium",
@@ -5972,6 +5973,14 @@
             "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCboYE6brY0HjojFqkg936mw",
             "twitter_url": "https://twitter.com/CodeCompletion"
+          },
+          {
+            "title": "Daniel Steinberg on YouTube",
+            "author": "Daniel Steinberg",
+            "site_url": "https://www.youtube.com/@dimsumthinking",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxe6o0bBS_aIf1IlWE30Uug",
+            "twitter_url": "https://twitter.com/dimsumthinking",
+            "mastodon_url": "https://mastodon.social/@dimsumthinking"
           },
           {
             "title": "Dave Jacobsen on YouTube",
