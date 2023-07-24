@@ -4275,6 +4275,13 @@
             "twitter_url": "https://twitter.com/TiagoMaiaLopes"
           },
           {
+            "title": "TIL with Mohammad",
+            "author": "Mohammad Faani",
+            "site_url": "https://www.mfaani.com",
+            "feed_url": "https://mfaani.com/index.xml",
+            "twitter_url": "https://twitter.com/mfaani"
+          },
+          {
             "title": "Tim Ekl’s Blog",
             "author": "Tim Ekl",
             "site_url": "https://www.timekl.com",
@@ -4308,13 +4315,6 @@
             "site_url": "https://blog.timac.org",
             "feed_url": "https://blog.timac.org/index.xml",
             "twitter_url": "https://twitter.com/timacfr"
-          },
-          {
-            "title": "TIL with Mohammad",
-            "author": "Mohammad Faani",
-            "site_url": "https://www.mfaani.com",
-            "feed_url": "https://mfaani.com/index.xml",
-            "twitter_url": "https://twitter.com/mfaani"
           },
           {
             "title": "Toby O'Connell on Medium",
