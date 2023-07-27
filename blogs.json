@@ -399,7 +399,7 @@
           {
             "title": "annema.me",
             "author": "Klaas Pieter Annema",
-            "site_url": "http://www.annema.me/",
+            "site_url": "https://annema.me/",
             "feed_url": "https://annema.me/feed.xml",
             "twitter_url": "https://twitter.com/klaaspieter"
           },
@@ -3930,7 +3930,7 @@
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
             "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/blog/rss/",
+            "feed_url": "https://stuartbreckenridge.net/index.xml",
             "twitter_url": "https://twitter.com/stuarticus"
           },
           {
