@@ -131,6 +131,14 @@
             "mastodon_url": "https://mstdn.social/@adamwulf"
           },
           {
+            "title": "Adin Cebic's Blog",
+            "author": "Adin Cebic",
+            "site_url": "https://adincebic.com",
+            "feed_url": "https://adincebic.com/feed.xml",
+            "twitter_url": "https://twitter.com/adincebic",
+            "mastodon_url": "https://mastodon.social/@adincebic"
+          },
+          {
             "title": "Adrian Schönig's Blog",
             "author": "Adrian Schönig",
             "site_url": "https://adrian.schoenig.me",
