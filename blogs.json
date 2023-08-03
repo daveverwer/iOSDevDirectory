@@ -5264,8 +5264,8 @@
           {
             "title": "Monstarlab Engineering Blog",
             "author": "Monstarlab",
-            "site_url": "https://engineering.monstar-lab.com/",
-            "feed_url": "https://engineering.monstar-lab.com/feed.xml"
+            "site_url": "https://engineering.monstar-lab.com/en/",
+            "feed_url": "https://engineering.monstar-lab.com/rss/feed_en.xml"
           },
           {
             "title": "Montana Floss Co. Blog",
