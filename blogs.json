@@ -1828,12 +1828,6 @@
             "twitter_url": "https://twitter.com/hebertialmeida"
           },
           {
-            "title": "Helix Apps Blog",
-            "author": "Simon Edwardes",
-            "site_url": "https://www.helixapps.co.uk/",
-            "feed_url": "https://www.helixapps.co.uk/blog?format=rss"
-          },
-          {
             "title": "Hesham Abd-Elmegid’s Blog",
             "author": "Hesham Abd-Elmegid",
             "site_url": "https://hesh.am",
@@ -5177,6 +5171,12 @@
             "site_url": "https://blog.helftone.com",
             "feed_url": "https://blog.helftone.com/feed.xml",
             "twitter_url": "https://twitter.com/helftone"
+          },
+          {
+            "title": "Helix Apps Blog",
+            "author": "Simon Edwardes",
+            "site_url": "https://www.helixapps.co.uk/",
+            "feed_url": "https://www.helixapps.co.uk/blog?format=rss"
           },
           {
             "title": "Hobbyist Software",
