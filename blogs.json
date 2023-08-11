@@ -740,6 +740,12 @@
             "feed_url": "https://bootstragram.com/feed/by_tag/ios.xml"
           },
           {
+            "title": "Brad Root’s Blog",
+            "author": "Brad Root",
+            "site_url": "https://amiantos.net/tags/programming/",
+            "feed_url": "https://amiantos.net/tags/programming/feed/"
+          },
+          {
             "title": "Bret Victor’s Blog",
             "author": "Bret Victor",
             "site_url": "http://worrydream.com/",
