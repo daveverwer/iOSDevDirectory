@@ -3428,7 +3428,7 @@
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
             "feed_url": "http://feeds.feedburner.com/qualitycoding",
-            "twitter_url": "https://twitter.com/qcoding"
+            "mastodon_url": "https://iosdev.space/@qcoding"
           },
           {
             "title": "Race Condition",
@@ -6174,7 +6174,7 @@
           {
             "title": "Quality Coding on YouTube",
             "author": "Jon Reid",
-            "site_url": "https://www.youtube.com/channel/UC69XtVGLRydpG7o1nkdQs8Q",
+            "site_url": "https://www.youtube.com/c/qualitycoding",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC69XtVGLRydpG7o1nkdQs8Q",
             "twitter_url": "https://twitter.com/qcoding"
           },
@@ -6407,7 +6407,7 @@
             "author": "Jon Reid",
             "site_url": "https://www.twitch.tv/qcoding",
             "feed_url": "https://twitchrss.appspot.com/vod/qcoding",
-            "twitter_url": "https://twitter.com/qcoding"
+            "mastodon_url": "https://iosdev.space/@qcoding"
           },
           {
             "title": "subdigital on Twitch",
