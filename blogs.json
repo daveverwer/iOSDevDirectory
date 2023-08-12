@@ -81,12 +81,11 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            John Appleseed's Blog
             "title": "minimal swift",
             "author": "laurent brusa",
             "site_url": "https://laurentbrusa.hashnode.dev",
             "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
-            "twitter_url": "https://bsky.app/profile/laurentbrusa.bsky.social"
+            "mastodon_url": "https://iosdev.space/@multitudes"
           },
           {
             "title": "/var/log/journal",
