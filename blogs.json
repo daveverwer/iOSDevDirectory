@@ -6892,6 +6892,12 @@
             "feed_url": "https://swiftbook.ru/feed/"
           },
           {
+            "title": "Обучающий курс по разработке iOS+Swift приложений.",
+            "author": "Татьяна Корнилова",
+            "site_url": "https://bestkora.com/",
+            "feed_url": "https://bestkora.com/IosDeveloper/feedback/"
+          },
+          {
             "title": "Swifty Finch",
             "author": "Хорьков Вячеслав",
             "site_url": "https://swiftyfinch.github.io",
