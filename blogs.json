@@ -81,6 +81,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
+            "title": "minimal swift",
+            "author": "laurent brusa",
+            "site_url": "https://laurentbrusa.hashnode.dev",
+            "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
+            "mastodon_url": "https://iosdev.space/@multitudes"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -3428,7 +3435,7 @@
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
             "feed_url": "http://feeds.feedburner.com/qualitycoding",
-            "twitter_url": "https://twitter.com/qcoding"
+            "mastodon_url": "https://iosdev.space/@qcoding"
           },
           {
             "title": "Race Condition",
@@ -6174,7 +6181,7 @@
           {
             "title": "Quality Coding on YouTube",
             "author": "Jon Reid",
-            "site_url": "https://www.youtube.com/channel/UC69XtVGLRydpG7o1nkdQs8Q",
+            "site_url": "https://www.youtube.com/c/qualitycoding",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC69XtVGLRydpG7o1nkdQs8Q",
             "twitter_url": "https://twitter.com/qcoding"
           },
@@ -6407,7 +6414,7 @@
             "author": "Jon Reid",
             "site_url": "https://www.twitch.tv/qcoding",
             "feed_url": "https://twitchrss.appspot.com/vod/qcoding",
-            "twitter_url": "https://twitter.com/qcoding"
+            "mastodon_url": "https://iosdev.space/@qcoding"
           },
           {
             "title": "subdigital on Twitch",
