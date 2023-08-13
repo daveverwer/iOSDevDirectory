@@ -81,6 +81,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
+            "title": "Exploration of Apple's Vision Pro",
+            "author": "Stuart Varrall",
+            "site_url": "https://varrall.substack.com",
+            "feed_url": "https://varrall.substack.com/feed",
+            "mastodon_url": "https://aus.social/@stuart"
+          },
+          {
             "title": "minimal swift",
             "author": "laurent brusa",
             "site_url": "https://laurentbrusa.hashnode.dev",
