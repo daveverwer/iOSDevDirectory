@@ -81,13 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "minimal swift",
-            "author": "laurent brusa",
-            "site_url": "https://laurentbrusa.hashnode.dev",
-            "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
-            "mastodon_url": "https://iosdev.space/@multitudes"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -1529,6 +1522,13 @@
             "twitter_url": "https://twitter.com/EKazaev"
           },
           {
+            "title": "Exploration of Apple's Vision Pro",
+            "author": "Stuart Varrall",
+            "site_url": "https://varrall.substack.com",
+            "feed_url": "https://varrall.substack.com/feed",
+            "mastodon_url": "https://aus.social/@stuart"
+          },
+          {
             "title": "Fabian Fett's Blog",
             "author": "Fabian Fett",
             "site_url": "https://fabianfett.de",
@@ -2869,6 +2869,13 @@
             "site_url": "https://milen.me/",
             "feed_url": "https://milen.me/writings/feed.xml",
             "twitter_url": "https://twitter.com/milend"
+          },
+          {
+            "title": "minimal swift",
+            "author": "laurent brusa",
+            "site_url": "https://laurentbrusa.hashnode.dev",
+            "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
+            "mastodon_url": "https://iosdev.space/@multitudes"
           },
           {
             "title": "miqu.me",
@@ -6908,17 +6915,17 @@
             "feed_url": "https://swiftbook.ru/feed/"
           },
           {
-            "title": "Обучающий курс по разработке iOS+Swift приложений.",
-            "author": "Татьяна Корнилова",
-            "site_url": "https://bestkora.com/",
-            "feed_url": "https://bestkora.com/IosDeveloper/feed/"
-          },
-          {
             "title": "Swifty Finch",
             "author": "Хорьков Вячеслав",
             "site_url": "https://swiftyfinch.github.io",
             "feed_url": "https://swiftyfinch.github.io/feed.rss",
             "twitter_url": "https://twitter.com/swiftyfinch"
+          },
+          {
+            "title": "Обучающий курс по разработке iOS+Swift приложений.",
+            "author": "Татьяна Корнилова",
+            "site_url": "https://bestkora.com/",
+            "feed_url": "https://bestkora.com/IosDeveloper/feed/"
           }
         ]
       }
