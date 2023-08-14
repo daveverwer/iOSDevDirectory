@@ -4312,6 +4312,14 @@
             "twitter_url": "https://twitter.com/mfaani"
           },
           {
+            "title": "Tim Condon's Blog",
+            "author": "Tim Condon",
+            "site_url": "https://www.timc.dev",
+            "feed_url": "https://www.timc.dev/feed.rss",
+            "mastodon_url": "https://hachyderm.io/@0xTim",
+            "twitter_url": "https://twitter.com/0xTim"
+          },
+          {
             "title": "Tim Ekl’s Blog",
             "author": "Tim Ekl",
             "site_url": "https://www.timekl.com",
@@ -4443,10 +4451,11 @@
             "twitter_url": "https://twitter.com/valzevul"
           },
           {
-            "title": "Vapor on Medium",
-            "author": "Vapor Team",
-            "site_url": "https://medium.com/@codevapor",
-            "feed_url": "https://medium.com/feed/@codevapor",
+            "title": "Vapor Blog",
+            "author": "Vapor",
+            "site_url": "https://blog.vapor.codes",
+            "feed_url": "https://blog.vapor.codes/feed.rss",
+            "mastodon_url": "https://hachyderm.io/@codevapor",
             "twitter_url": "https://twitter.com/codevapor"
           },
           {
