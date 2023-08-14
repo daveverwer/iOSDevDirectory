@@ -1165,7 +1165,8 @@
             "author": "Daniel Saidi",
             "site_url": "https://danielsaidi.com/blog/",
             "feed_url": "https://danielsaidi.com/feed.xml",
-            "twitter_url": "https://twitter.com/danielsaidi"
+            "twitter_url": "https://twitter.com/danielsaidi",
+            "mastodon_url": "https://mastodon.social/@danielsaidi"
           },
           {
             "title": "Daniel Tavares’s Blog",
@@ -6357,6 +6358,14 @@
             "site_url": "https://www.twitch.tv/compileswift",
             "feed_url": "https://twitchrss.appspot.com/vod/compileswift",
             "twitter_url": "https://twitter.com/CompileSwift"
+          },
+          {
+            "title": "Daniel Saidi on Twitch",
+            "author": "Daniel Saidi",
+            "site_url": "https://www.twitch.tv/danielsaidi",
+            "feed_url": "https://twitchrss.appspot.com/vod/danielsaidi",
+            "twitter_url": "https://twitter.com/danielsaidi",
+            "mastodon_url": "https://mastodon.social/@danielsaidi"
           },
           {
             "title": "Full Queue Developer",
