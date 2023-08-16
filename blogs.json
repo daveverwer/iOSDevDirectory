@@ -4761,6 +4761,13 @@
             "twitter_url": "https://twitter.com/pasql"
           },
           {
+            "title": "Sahand Nayebaziz's Blog",
+            "author": "Sahand Nayebaziz",
+            "site_url": "https://www.sahandnayebaziz.org",
+            "feed_url": "https://www.sahandnayebaziz.org/rss.xml",
+            "twitter_url": "https://twitter.com/sahandnayebaziz"
+          },
+          {
             "title": "Scott Hurff’s Blog",
             "author": "Scott Hurff",
             "site_url": "https://www.scotthurff.com/posts/",
@@ -5086,7 +5093,7 @@
             "twitter_url": "https://twitter.com/_delightfulapps"
           },
           {
-            "title": "Details Pro Blog",
+            "title": "DetailsPro Blog",
             "author": "Sahand Nayebaziz",
             "site_url": "https://detailspro.app/blog/",
             "feed_url": "https://detailspro.app/rss.xml",
@@ -5929,13 +5936,6 @@
             "site_url": "https://www.swiftlyrush.com/",
             "feed_url": "https://swiftlyrush.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/adam9rush"
-          },
-          {
-            "title": "UI Designer Weekly",
-            "author": "Sahand Nayebaziz",
-            "site_url": "https://uidesignerweekly.curated.co",
-            "feed_url": "https://uidesignerweekly.curated.co/issues.rss",
-            "twitter_url": "https://twitter.com/sahandnayebaziz"
           }
         ]
       },
