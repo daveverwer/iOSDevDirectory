@@ -41,14 +41,14 @@
           {
             "title": "Official Swift Blog",
             "author": "Apple",
-            "site_url": "https://developer.apple.com/swift/blog/",
-            "feed_url": "https://developer.apple.com/swift/blog/news.rss"
+            "site_url": "https://www.swift.org/blog",
+            "feed_url": "https://www.swift.org/atom.xml"
           },
           {
             "title": "Swift Evolution",
             "author": "Apple",
-            "site_url": "https://github.com/apple/swift-evolution/tree/main/proposals",
-            "feed_url": "https://github.com/apple/swift-evolution/commits/master.atom"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "feed_url": "https://github.com/apple/swift-evolution/commits/main.atom"
           }
         ]
       },
