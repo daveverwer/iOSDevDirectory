@@ -3998,6 +3998,12 @@
             "twitter_url": "https://twitter.com/5sw_de"
           },
           {
+            "title": "Swift and Memes",
+            "author": "Pawel Kozielecki",
+            "site_url": "https://swiftandmemes.com/",
+            "feed_url": "http://swiftandmemes.com/feed/"
+          },
+          {
             "title": "Swift and Painless",
             "author": "Dominik Hauser",
             "site_url": "https://swiftandpainless.com/",
@@ -4656,12 +4662,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Swift and Memes",
-            "author": "Pawel Kozielecki",
-            "site_url": "https://swiftandmemes.com/",
-            "feed_url": "http://swiftandmemes.com/feed/"
           }
         ]
       },
