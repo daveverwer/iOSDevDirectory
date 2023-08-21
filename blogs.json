@@ -41,7 +41,7 @@
           {
             "title": "Official Swift Blog",
             "author": "Apple",
-            "site_url": "https://www.swift.org/blog",
+            "site_url": "https://www.swift.org/blog/",
             "feed_url": "https://www.swift.org/atom.xml"
           },
           {
