@@ -3420,8 +3420,8 @@
           {
             "title": "manu.show",
             "author": "Manu Herrera",
-            "site_url": "https://manu.show/",
-            "feed_url": "https://manu.show/feed.xml",
+            "site_url": "https://www.manu.show/",
+            "feed_url": "https://www.manu.show/feed.xml",
             "twitter_url": "https://twitter.com/manuherrera1"
           },
           {
@@ -4028,7 +4028,7 @@
             "title": "Swift Cloud Blog",
             "author": "Andrew Barba",
             "site_url": "https://swift.cloud/blog",
-            "feed_url": "https://swift-cloud.ghost.io/6d87cde911175df4ea627f086758fc/rss/",
+            "feed_url": "https://offline.ghost.org",
             "twitter_url": "https://twitter.com/SwiftCloudApp"
           },
           {
