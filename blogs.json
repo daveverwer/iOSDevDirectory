@@ -2545,6 +2545,13 @@
             "twitter_url": "https://twitter.com/makwanbk"
           },
           {
+            "title": "manu.show",
+            "author": "Manu Herrera",
+            "site_url": "https://manu.show/",
+            "feed_url": "https://manu.show/feed.xml",
+            "twitter_url": "https://twitter.com/manuherrera1"
+          },
+          {
             "title": "Marc Palmer’s Blog",
             "author": "Marc Palmer",
             "site_url": "https://marcpalmer.net/category/ios/",
@@ -3416,13 +3423,6 @@
             "site_url": "https://medium.com/@pranav.kasetti",
             "feed_url": "https://medium.com/feed/@pranav.kasetti",
             "twitter_url": "https://twitter.com/spidey_vitamins"
-          },
-          {
-            "title": "manu.show",
-            "author": "Manu Herrera",
-            "site_url": "https://manu.show/",
-            "feed_url": "https://manu.show/feed.xml",
-            "twitter_url": "https://twitter.com/manuherrera1"
           },
           {
             "title": "Programming With Swift",
