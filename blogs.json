@@ -4662,6 +4662,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "iOS Development in the Wild",
+            "author": "Sam Stone",
+            "site_url": "https://samst.one/",
+            "feed_url": "https://samst.one/feed/",
+            "twitter_url": "https://twitter.com/iOSDevInTheWild"
           }
         ]
       },
@@ -6338,6 +6345,13 @@
             "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
             "twitter_url": "https://twitter.com/alfianlosari"
+          },
+          {
+            "title": "iOS Development in the Wild",
+            "author": "Sam Stone",
+            "site_url": "https://www.youtube.com/@iOSDevelopmentInTheWild",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy4eosaaw8MeaJG-5IF5DKQ",
+            "twitter_url": "https://twitter.com/iOSDevInTheWild"
           }
         ]
       },
