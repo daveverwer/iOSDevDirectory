@@ -1301,6 +1301,13 @@
             "twitter_url": "https://twitter.com/UINT_MIN"
           },
           {
+            "title": "Dean’s blog",
+            "author": "Thomas Durand",
+            "site_url": "https://blog.thomasdurand.fr",
+            "feed_url": "https://blog.thomasdurand.fr/feed.xml",
+            "mastodon_url": "https://mastodon.social/@deanatoire"
+          },
+          {
             "title": "Denis Poifol’s Blog",
             "author": "Denis Poifol",
             "site_url": "https://denispoifol.github.io/",
