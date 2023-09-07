@@ -1304,7 +1304,7 @@
             "title": "Dean’s blog",
             "author": "Thomas Durand",
             "site_url": "https://blog.thomasdurand.fr",
-            "feed_url": "https://blog.thomasdurand.fr/feed.xml",
+            "feed_url": "https://blog.thomasdurand.fr/index.xml",
             "mastodon_url": "https://mastodon.social/@deanatoire"
           },
           {
@@ -3588,8 +3588,8 @@
           {
             "title": "Rob Kerr’s Weblog",
             "author": "Rob Kerr",
-            "site_url": "http://www.robkerr.com/",
-            "feed_url": "https://www.robkerr.com/rss",
+            "site_url": "https://www.robkerr.com/",
+            "feed_url": "https://robkerr.com/rss",
             "twitter_url": "https://twitter.com/rekerrsive"
           },
           {
@@ -5300,7 +5300,7 @@
             "title": "LearnAppMaking",
             "author": "Reinder de Vries",
             "site_url": "https://www.appypie.com/app-builder/appmaker",
-            "feed_url": "https://learnappmaking.com/feed",
+            "feed_url": "https://www.appypie.com/app-builder/appmaker",
             "twitter_url": "https://twitter.com/reinder42"
           },
           {
