@@ -4289,6 +4289,12 @@
             "twitter_url": "https://twitter.com/scottstevenson"
           },
           {
+            "title": "Thermal Corner",
+            "author": "Jonathan Ruiz",
+            "site_url": "https://www.thermalcorner.net",
+            "feed_url": "https://www.thermalcorner.net/index.xml"
+          },
+          {
             "title": "Think & Build",
             "author": "Yari D’areglia",
             "site_url": "https://www.thinkandbuild.it/",
@@ -4587,6 +4593,13 @@
             "site_url": "https://wojciechkulik.pl",
             "feed_url": "https://wojciechkulik.pl/feed",
             "twitter_url": "https://twitter.com/kulik_wojciech"
+          },
+          {
+            "title": "WutuSwift",
+            "author": "Wouter Dijks",
+            "site_url": "https://wouterdijks.com/",
+            "feed_url": "https://wouterdijks.com/feed/",
+            "twitter_url": "https://twitter.com/AdvocadoJager"
           },
           {
             "title": "Writing on Tablets",
@@ -7121,19 +7134,6 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },
-          {
-            "title": "Thermal Corner",
-            "author": "Jonathan Ruiz",
-            "site_url": "https://www.thermalcorner.net",
-            "feed_url": "https://www.thermalcorner.net/index.xml"
-          },
-          {
-            "title": "WutuSwift",
-            "author": "Wouter Dijks",
-            "site_url": "https://wouterdijks.com/",
-            "feed_url": "https://wouterdijks.com/feed/",
-            "twitter_url": "https://twitter.com/AdvocadoJager"
           }
         ]
       }
