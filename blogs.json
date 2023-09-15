@@ -4012,6 +4012,14 @@
             "twitter_url": "https://twitter.com/paulsolt"
           },
           {
+            "title": "Suyash Srijan on Medium",
+            "author": "Suyash Srijan",
+            "site_url": "https://suyash-srijan.medium.com/",
+            "feed_url": "https://medium.com/feed/@suyash-srijan",
+            "twitter_url": "https://twitter.com/suyashsrijan",
+            "mastodon_url": "https://mastodon.social/@suyashsrijan"
+          },
+          {
             "title": "Sven Weidauer’s Blog",
             "author": "Sven Weidauer",
             "site_url": "https://5sw.de/",
