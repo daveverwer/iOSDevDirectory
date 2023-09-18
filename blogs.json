@@ -3305,6 +3305,13 @@
             "twitter_url": "https://twitter.com/volbap"
           },
           {
+            "title": "Pastey’s blog",
+            "author": "Pavlo Shkrabliuk",
+            "site_url": "https://pastey.github.io/",
+            "feed_url": "https://pastey.github.io/feed.xml",
+            "twitter_url": "https://twitter.com/pastey_12"
+          },
+          {
             "title": "Patrick Balestra’s Blog",
             "author": "Patrick Balestra",
             "site_url": "https://patrickbalestra.com/blog/",
