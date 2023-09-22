@@ -4297,6 +4297,13 @@
             "twitter_url": "https://twitter.com/nickoneill"
           },
           {
+            "title": "thatvirtualboy",
+            "author": "Ryan Klumph",
+            "site_url": "https://thatvirtualboy.com/",
+            "feed_url": "https://thatvirtualboy.com/feed",
+            "mastodon_url": "https://techhub.social/@thatvirtualboy"
+          },
+          {
             "title": "thegoodalright.dev",
             "author": "Egor Mihnevich",
             "site_url": "https://thegoodalright.dev/",
