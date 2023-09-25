@@ -2461,6 +2461,14 @@
             "twitter_url": "https://twitter.com/lewismakesapps"
           },
           {
+            "title": "liamOS",
+            "author": "Liam Nichols",
+            "site_url": "https://liamnichols.eu",
+            "feed_url": "https://liamnichols.eu/feed.xml",
+            "twitter_url": "https://twitter.com/liamnichols_",
+            "mastodon_url": "https://mastodon.social/@liamn"
+          },
+          {
             "title": "Little Bites of Cocoa",
             "author": "Jake Marsh",
             "site_url": "https://littlebitesofcocoa.com",
