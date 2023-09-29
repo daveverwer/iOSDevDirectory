@@ -4404,6 +4404,14 @@
             "twitter_url": "https://twitter.com/timothymiko"
           },
           {
+            "title": "Tim Mitra’s Blog",
+            "author": "Tim Mitra",
+            "site_url": "https://www.it-guy.com/wp-new/blog/",
+            "feed_url": "https://www.it-guy.com/wp-new/feed/",
+            "twitter_url": "https://twitter.com/timmitra",
+            "mastodon_url": "https://mastodon.social/@timmitra"
+          },
+          {
             "title": "Tim Oliver’s Blog",
             "author": "Tim Oliver",
             "site_url": "https://timoliver.blog/",
