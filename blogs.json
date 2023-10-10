@@ -2037,6 +2037,13 @@
             "twitter_url": "https://twitter.com/ivantse"
           },
           {
+            "title": "Jack Morris's Blog",
+            "author": "Jack Morris",
+            "site_url": "https://jackmorris.xyz",
+            "feed_url": "https://jackmorris.xyz/feed-ios.rss",
+            "mastodon_url": "https://mastodon.social/@jackmorris"
+          },
+          {
             "title": "Jack Newcombe's Blog",
             "author": "Jack Newcombe",
             "site_url": "https://newcombe.io/tag/ios/",
