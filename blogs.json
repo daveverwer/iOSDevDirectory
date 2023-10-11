@@ -1098,6 +1098,12 @@
             "twitter_url": "https://twitter.com/dcutting"
           },
           {
+            "title": "Cyndi Chin's Blog",
+            "author": "Cyndi Chin",
+            "site_url": "https://cyndichin.github.io/blog/",
+            "feed_url": "https://cyndichin.github.io/blog/feed.xml"
+          },
+          {
             "title": "César Vargas on Medium",
             "author": "César Vargas Casaseca",
             "site_url": "https://toupper.medium.com",
