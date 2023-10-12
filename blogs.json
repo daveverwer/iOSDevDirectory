@@ -651,8 +651,8 @@
           {
             "title": "Becky Hansmeyer’s Blog",
             "author": "Becky Hansmeyer",
-            "site_url": "http://www.beckyhansmeyer.com/",
-            "feed_url": "http://www.beckyhansmeyer.com/category/general/feed/",
+            "site_url": "https://beckyhansmeyer.com/",
+            "feed_url": "https://beckyhansmeyer.com/category/general/feed/",
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
@@ -5862,7 +5862,7 @@
             "title": "The Swift Community Podcast",
             "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
             "site_url": "https://www.swiftcommunitypodcast.org/",
-            "feed_url": "https://swiftcommunitypodcast.org/?format=rss",
+            "feed_url": "https://www.swiftcommunitypodcast.org/?format=rss",
             "twitter_url": "https://twitter.com/theswiftpodcast"
           },
           {
