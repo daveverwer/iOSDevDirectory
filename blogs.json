@@ -4262,6 +4262,13 @@
             "twitter_url": "https://twitter.com/jussisuojanen"
           },
           {
+            "title": "SwiftyPlace",
+            "author": "Karin Prater",
+            "site_url": "https://www.swiftyplace.com",
+            "feed_url": "https://www.swiftyplace.com/feed/",
+            "twitter_url": "https://twitter.com/swiftyplace"
+          },
+          {
             "title": "SüdRocket",
             "author": "Matthias Maurberger",
             "site_url": "https://sudrocket.de/",
