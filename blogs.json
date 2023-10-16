@@ -651,8 +651,8 @@
           {
             "title": "Becky Hansmeyer’s Blog",
             "author": "Becky Hansmeyer",
-            "site_url": "https://beckyhansmeyer.com/",
-            "feed_url": "https://beckyhansmeyer.com/category/general/feed/",
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "feed_url": "https://www.beckyhansmeyer.com/category/general/feed/",
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
@@ -3852,7 +3852,7 @@
             "title": "SICPERS",
             "author": "Graham Lee",
             "site_url": "https://www.sicpers.info/",
-            "feed_url": "http://www.sicpers.info/feed/",
+            "feed_url": "https://sicpers.info/feed/",
             "twitter_url": "https://twitter.com/iwasleeg"
           },
           {
@@ -4264,8 +4264,8 @@
           {
             "title": "SwiftyPlace",
             "author": "Karin Prater",
-            "site_url": "http://www.swiftyplace.com",
-            "feed_url": "http://www.swiftyplace.com/feed/",
+            "site_url": "https://www.swiftyplace.com/",
+            "feed_url": "https://www.swiftyplace.com/feed/",
             "twitter_url": "https://twitter.com/swiftyplace"
           },
           {
@@ -5869,7 +5869,7 @@
             "title": "The Swift Community Podcast",
             "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
             "site_url": "https://www.swiftcommunitypodcast.org/",
-            "feed_url": "https://www.swiftcommunitypodcast.org/?format=rss",
+            "feed_url": "https://www.swiftcommunitypodcast.org/",
             "twitter_url": "https://twitter.com/theswiftpodcast"
           },
           {
