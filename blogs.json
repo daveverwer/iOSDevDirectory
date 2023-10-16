@@ -5866,13 +5866,6 @@
             "feed_url": "https://swiftbysundell.com/podcast/feed.rss"
           },
           {
-            "title": "The Swift Community Podcast",
-            "author": "Community and John Sundell, Garric Nahapetian, Chris Lattner ",
-            "site_url": "https://www.swiftcommunitypodcast.org/",
-            "feed_url": "https://www.swiftcommunitypodcast.org/",
-            "twitter_url": "https://twitter.com/theswiftpodcast"
-          },
-          {
             "title": "Swift over Coffee",
             "author": "Paul Hudson and Sean Allen",
             "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
