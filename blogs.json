@@ -870,6 +870,12 @@
             "twitter_url": "https://twitter.com/chuckyc17"
           },
           {
+            "title": "Chase's Blog",
+            "author": "Chase Lewis",
+            "site_url": "https://medium.com/@jpmtech",
+            "feed_url": "https://medium.com/feed/@jpmtech"
+          },
+          {
             "title": "Chris Downie's Blog",
             "author": "Chris Downie",
             "site_url": "https://chrisdownie.net/",
