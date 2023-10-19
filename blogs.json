@@ -1870,8 +1870,8 @@
           {
             "title": "Hi, I’m Sam",
             "author": "Sam Soffes",
-            "site_url": "https://soffes.com/blog/",
-            "feed_url": "https://soffes.com/blog/rss/",
+            "site_url": "https://soff.es/blog/",
+            "feed_url": "https://soff.es/blog/rss/",
             "twitter_url": "https://twitter.com/soffes"
           },
           {
@@ -3858,7 +3858,7 @@
             "title": "SICPERS",
             "author": "Graham Lee",
             "site_url": "https://www.sicpers.info/",
-            "feed_url": "https://sicpers.info/feed/",
+            "feed_url": "https://www.sicpers.info/feed/",
             "twitter_url": "https://twitter.com/iwasleeg"
           },
           {
@@ -4271,7 +4271,7 @@
             "title": "SwiftyPlace",
             "author": "Karin Prater",
             "site_url": "https://www.swiftyplace.com/",
-            "feed_url": "https://www.swiftyplace.com/feed/",
+            "feed_url": "https://www.swiftyplace.com/feed",
             "twitter_url": "https://twitter.com/swiftyplace"
           },
           {
