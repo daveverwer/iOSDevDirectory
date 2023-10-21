@@ -1317,7 +1317,8 @@
             "author": "Thomas Durand",
             "site_url": "https://blog.thomasdurand.fr",
             "feed_url": "https://blog.thomasdurand.fr/index.xml",
-            "mastodon_url": "https://mastodon.social/@deanatoire"
+            "mastodon_url": "https://mastodon.social/@deanatoire",
+            "twitter_url": "https://twitter.com/deanatoire"
           },
           {
             "title": "Denis Poifol’s Blog",
