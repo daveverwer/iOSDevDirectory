@@ -4140,8 +4140,8 @@
           {
             "title": "Swift Ramen",
             "author": "Azhar Anwar",
-            "site_url": "https://swiftramen.com/",
-            "feed_url": "https://swiftramen.com/home?format=rss",
+            "site_url": "http://swiftramen.com/",
+            "feed_url": "http://swiftramen.com/home?format=rss",
             "twitter_url": "https://twitter.com/azhar_dev"
           },
           {
