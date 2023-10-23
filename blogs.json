@@ -4138,13 +4138,6 @@
             "mastodon_url": "https://mas.to/@SwiftPackageIndex"
           },
           {
-            "title": "Swift Ramen",
-            "author": "Azhar Anwar",
-            "site_url": "http://swiftramen.com/",
-            "feed_url": "http://swiftramen.com/home?format=rss",
-            "twitter_url": "https://twitter.com/azhar_dev"
-          },
-          {
             "title": "Swift Rocks",
             "author": "Bruno Rocha",
             "site_url": "https://swiftrocks.com/",
