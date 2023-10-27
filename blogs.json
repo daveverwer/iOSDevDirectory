@@ -740,13 +740,6 @@
             "feed_url": "https://bootstragram.com/feed/by_tag/ios.xml"
           },
           {
-            "title": "Boris Bugor's Blog",
-            "author": "Boris Bugor",
-            "site_url": "https://bugorbn.medium.com",
-            "feed_url": "https://medium.com/feed/@bugorbn",
-            "twitter_url": "https://twitter.com/bugorbn"
-          },
-          {
             "title": "Brad Root’s Blog",
             "author": "Brad Root",
             "site_url": "https://amiantos.net/tags/programming/",
@@ -5911,9 +5904,10 @@
           {
             "title": "iOS Development Tips and Tricks",
             "author": "Boris Bugor",
-            "site_url": "https://bugorbn.medium.com/subscribe",
+            "site_url": "https://bugorbn.medium.com",
             "feed_url": "https://medium.com/feed/@bugorbn",
-            "twitter_url": "https://twitter.com/bugorbn"
+            "twitter_url": "https://twitter.com/bugorbn",
+            "mastodon_url": "https://me.dm/@bugorbn"
           },
           {
             "title": "Indie Dev Monday",
