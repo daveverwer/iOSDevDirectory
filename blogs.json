@@ -740,6 +740,13 @@
             "feed_url": "https://bootstragram.com/feed/by_tag/ios.xml"
           },
           {
+            "title": "Boris Bugor's Blog",
+            "author": "Boris Bugor",
+            "site_url": "https://bugorbn.medium.com",
+            "feed_url": "https://medium.com/feed/@bugorbn",
+            "twitter_url": "https://twitter.com/bugorbn"
+          },
+          {
             "title": "Brad Root’s Blog",
             "author": "Brad Root",
             "site_url": "https://amiantos.net/tags/programming/",
@@ -5901,6 +5908,13 @@
         "slug": "newsletters",
         "description": "Newsletters or round up blogs covering Swift or Apple platform Development.",
         "sites": [
+          {
+            "title": "iOS Development Tips and Tricks",
+            "author": "Boris Bugor",
+            "site_url": "https://bugorbn.medium.com/subscribe",
+            "feed_url": "https://medium.com/feed/@bugorbn",
+            "twitter_url": "https://twitter.com/bugorbn"
+          },
           {
             "title": "Indie Dev Monday",
             "author": "Josh Holtz",
