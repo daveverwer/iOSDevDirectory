@@ -5745,25 +5745,11 @@
             "twitter_url": "https://twitter.com/brightdigit"
           },
           {
-            "title": "Everyday robots",
-            "author": "Jonathan Ruiz",
-            "site_url": "https://everydayrobots.tech/",
-            "feed_url": "https://everydayrobots.libsyn.com/rss",
-            "twitter_url": "https://twitter.com/_everydayrobots"
-          },
-          {
             "title": "Fatal Error",
             "author": "Soroush Khanlou and Chris Dzombak",
             "site_url": "https://fatalerror.fm",
             "feed_url": "https://fatalerror.fm/rss.xml",
             "twitter_url": "https://twitter.com/fatalerrorfm"
-          },
-          {
-            "title": "Fireside Swift",
-            "author": "Steven Berard, Ben Sullivan, Chris Hefferman, Jordan Muncrief",
-            "site_url": "https://www.firesideswift.com",
-            "twitter_url": "https://twitter.com/fireside_swift",
-            "feed_url": "https://www.firesideswift.com/episodes?format=RSS"
           },
           {
             "title": "iDeveloper Podcast",
@@ -5831,12 +5817,6 @@
             "site_url": "https://releasenotes.tv/",
             "feed_url": "https://releasenotes.tv/feed/",
             "twitter_url": "https://twitter.com/release_notes"
-          },
-          {
-            "title": "SharedInstance",
-            "author": "Alex Argo, Alex Robinson and Sam Corder",
-            "site_url": "http://sharedinstance.com",
-            "feed_url": "https://anchor.fm/s/b293550/podcast/rss"
           },
           {
             "title": "Stacktrace Podcast",
@@ -5922,13 +5902,6 @@
         "description": "Newsletters or round up blogs covering Swift or Apple platform Development.",
         "sites": [
           {
-            "title": "Cocoa Delights",
-            "author": "Exyte",
-            "site_url": "https://exyte.com/cocoa-delights",
-            "feed_url": "https://exyte.com/feed/rss/cocoa-delights",
-            "twitter_url": "https://twitter.com/ExyteHQ"
-          },
-          {
             "title": "Indie Dev Monday",
             "author": "Josh Holtz",
             "site_url": "https://indiedevmonday.com",
@@ -5957,13 +5930,6 @@
             "twitter_url": "https://twitter.com/ios_code_review"
           },
           {
-            "title": "iOS Dev Tools",
-            "author": "Max Ott",
-            "site_url": "https://iosdev.tools/",
-            "feed_url": "https://iosdev.tools/rss/",
-            "twitter_url": "https://twitter.com/iOSDevTools"
-          },
-          {
             "title": "iOS Dev Weekly",
             "author": "Dave Verwer",
             "site_url": "https://iosdevweekly.com/",
@@ -5984,13 +5950,6 @@
             "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
             "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
             "twitter_url": "https://twitter.com/canopassoftware"
-          },
-          {
-            "title": "Open Source Updates for Swift Projects",
-            "author": "Marco Eidinger",
-            "site_url": "https://www.getrevue.co/profile/ossp_updates",
-            "feed_url": "https://www.getrevue.co/profile/ossp_updates/?format=rss",
-            "twitter_url": "https://twitter.com/ossp_updates"
           },
           {
             "title": "Swift Developments",
