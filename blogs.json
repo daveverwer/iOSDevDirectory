@@ -5902,14 +5902,6 @@
         "description": "Newsletters or round up blogs covering Swift or Apple platform Development.",
         "sites": [
           {
-            "title": "iOS Development Tips and Tricks",
-            "author": "Boris Bugor",
-            "site_url": "https://bugorbn.medium.com",
-            "feed_url": "https://medium.com/feed/@bugorbn",
-            "twitter_url": "https://twitter.com/bugorbn",
-            "mastodon_url": "https://me.dm/@bugorbn"
-          },
-          {
             "title": "Indie Dev Monday",
             "author": "Josh Holtz",
             "site_url": "https://indiedevmonday.com",
@@ -5944,6 +5936,14 @@
             "feed_url": "https://iosdevweekly.com/issues.rss",
             "twitter_url": "https://twitter.com/iosdevweekly",
             "mastodon_url": "https://iosdev.space/@iosdevweekly"
+          },
+          {
+            "title": "iOS Development Tips and Tricks",
+            "author": "Boris Bugor",
+            "site_url": "https://bugorbn.medium.com",
+            "feed_url": "https://medium.com/feed/@bugorbn",
+            "twitter_url": "https://twitter.com/bugorbn",
+            "mastodon_url": "https://me.dm/@bugorbn"
           },
           {
             "title": "iOS Goodies",
