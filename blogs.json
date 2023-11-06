@@ -4845,10 +4845,10 @@
           },
           {
             "title": "Lemona Tech Blog",
-            "author": “Mohammad Ihmouda“,
+            "author": "Mohammad Ihmouda",
             "site_url": "https://blog.lemona.tech/",
-            "feed_url": "https://blog.lemona.tech/",
-            "twitter_url": "https://twitter.com/MIhmouda"
+            "feed_url": "https://blog.lemona.tech/rss.xml",
+            "twitter_url": "https://twitter.com/mihmouda"
           },
           {
             "title": "Nathan Gitter on Medium",
