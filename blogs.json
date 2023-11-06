@@ -2467,6 +2467,13 @@
             "twitter_url": "https://twitter.com/leogdion"
           },
           {
+            "title": "Lemona Tech Blog",
+            "author": "Mohammad Ihmouda",
+            "site_url": "https://blog.lemona.tech/",
+            "feed_url": "https://blog.lemona.tech/rss.xml",
+            "twitter_url": "https://twitter.com/mihmouda"
+          },
+          {
             "title": "Leonardo Diaz's Blog",
             "author": "Leonardo Diaz",
             "site_url": "https://leonardodiaz.medium.com",
@@ -4760,13 +4767,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Lemona Tech Blog",
-            "author": "Mohammad Ihmouda",
-            "site_url": "https://blog.lemona.tech/",
-            "feed_url": "https://blog.lemona.tech/rss.xml",
-            "twitter_url": "https://twitter.com/mihmouda"
           }
         ]
       },
