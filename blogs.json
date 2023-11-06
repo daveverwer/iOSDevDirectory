@@ -4844,6 +4844,13 @@
             "feed_url": "https://medium.com/feed/movingui"
           },
           {
+            "title": "Lemona Tech Blog",
+            "author": “Mohammad Ihmouda“,
+            "site_url": "https://blog.lemona.tech/",
+            "feed_url": "https://blog.lemona.tech/",
+            "twitter_url": "https://twitter.com/MIhmouda"
+          },
+          {
             "title": "Nathan Gitter on Medium",
             "author": "Nathan Gitter",
             "site_url": "https://medium.com/@nathangitter",
