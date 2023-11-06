@@ -5931,6 +5931,14 @@
             "mastodon_url": "https://iosdev.space/@iosdevweekly"
           },
           {
+            "title": "iOS Development Tips and Tricks",
+            "author": "Boris Bugor",
+            "site_url": "https://bugorbn.medium.com",
+            "feed_url": "https://medium.com/feed/@bugorbn",
+            "twitter_url": "https://twitter.com/bugorbn",
+            "mastodon_url": "https://me.dm/@bugorbn"
+          },
+          {
             "title": "iOS Goodies",
             "author": "Marius Constantinescu",
             "site_url": "https://ios-goodies.com/",
@@ -5972,6 +5980,13 @@
             "site_url": "https://medium.com/@NilStack",
             "feed_url": "https://medium.com/feed/@NilStack",
             "twitter_url": "https://twitter.com/NilStack"
+          },
+          {
+            "title": "SwiftLee Weekly",
+            "author": "Antoine van der Lee",
+            "site_url": "https://www.avanderlee.com/swiftlee-weekly/",
+            "feed_url": "https://www.avanderlee.com/sendy/campaigns-rss?a=BsnOknY7S8XzvliyWwb8v741UnHIbq&i=1",
+            "twitter_url": "https://twitter.com/twannl"
           },
           {
             "title": "SwiftlyRush Weekly",
