@@ -1759,6 +1759,12 @@
             "twitter_url": "https://twitter.com/qqefy"
           },
           {
+            "title": "Geraint Davies' Blog",
+            "author": "Geraint Davies",
+            "site_url": "https://gdcl.co.uk/posts/",
+            "feed_url": "https://gdcl.co.uk/posts/feed/"
+          },
+          {
             "title": "Get on the Store",
             "author": "David Olesch",
             "site_url": "https://getonthestore.com/",
