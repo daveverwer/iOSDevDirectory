@@ -4760,7 +4760,14 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          }
+          },
+          {
+            "title": "Lemona Tech Blog",
+            "author": "Mohammad Ihmouda",
+            "site_url": "https://blog.lemona.tech/",
+            "feed_url": "https://blog.lemona.tech/rss.xml",
+            "twitter_url": "https://twitter.com/mihmouda"
+          },
         ]
       },
       {
@@ -4842,13 +4849,6 @@
             "author": "Adam Bognar",
             "site_url": "https://medium.com/movingui",
             "feed_url": "https://medium.com/feed/movingui"
-          },
-          {
-            "title": "Lemona Tech Blog",
-            "author": "Mohammad Ihmouda",
-            "site_url": "https://blog.lemona.tech/",
-            "feed_url": "https://blog.lemona.tech/rss.xml",
-            "twitter_url": "https://twitter.com/mihmouda"
           },
           {
             "title": "Nathan Gitter on Medium",
