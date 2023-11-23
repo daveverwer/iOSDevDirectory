@@ -4140,7 +4140,8 @@
             "author": "Alex Ozun",
             "site_url": "https://swiftology.io/",
             "feed_url": "https://swiftology.io/feed.rss",
-            "twitter_url": "https://twitter.com/AlexOzun"
+            "twitter_url": "https://twitter.com/AlexOzun",
+            "mastodon_url": "https://mastodon.social/@alexozun"
           },
           {
             "title": "Swift Package Index Blog",
