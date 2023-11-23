@@ -5415,13 +5415,6 @@
             "feed_url": "https://engineering.monstar-lab.com/rss/feed_en.xml"
           },
           {
-            "title": "Montana Floss Co. Blog",
-            "author": "Montana Floss Team",
-            "site_url": "http://montanafloss.co/blog/?category=Technical",
-            "feed_url": "http://montanafloss.co/blog/?category=Technical",
-            "twitter_url": "https://twitter.com/montanafloss"
-          },
-          {
             "title": "Moove it Blog",
             "author": "Moove it Team",
             "site_url": "https://blog.moove-it.com",
