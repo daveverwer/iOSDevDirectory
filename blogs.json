@@ -1899,7 +1899,7 @@
             "title": "Human Friendly Blog",
             "author": "Joseph Lord",
             "site_url": "https://blog.human-friendly.com",
-            "feed_url": "http://blog.human-friendly.com/posts.atom",
+            "feed_url": "https://blog.human-friendly.com/posts.atom",
             "twitter_url": "https://twitter.com/jl_hfl"
           },
           {
@@ -5415,13 +5415,6 @@
             "feed_url": "https://engineering.monstar-lab.com/rss/feed_en.xml"
           },
           {
-            "title": "Montana Floss Co. Blog",
-            "author": "Montana Floss Team",
-            "site_url": "https://www.montanafloss.co/blog/?category=Technical",
-            "feed_url": "https://www.montanafloss.co/blog/?format=RSS&category=Technical",
-            "twitter_url": "https://twitter.com/montanafloss"
-          },
-          {
             "title": "Moove it Blog",
             "author": "Moove it Team",
             "site_url": "https://blog.moove-it.com",
@@ -6621,8 +6614,8 @@
           {
             "title": "肘子的Swift记事本",
             "author": "东坡肘子(@fatbobman)",
-            "site_url": "https://www.fatbobman.com",
-            "feed_url": "https://www.fatbobman.com/feed.rss",
+            "site_url": "https://fatbobman.com/",
+            "feed_url": "https://fatbobman.com/feed.rss",
             "twitter_url": "https://twitter.com/fatbobman"
           }
         ]
