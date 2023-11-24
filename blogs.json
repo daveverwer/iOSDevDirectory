@@ -4136,14 +4136,6 @@
             "twitter_url": "https://twitter.com/eremenko_maxim"
           },
           {
-            "title": "Swiftology.io",
-            "author": "Alex Ozun",
-            "site_url": "https://swiftology.io/",
-            "feed_url": "https://swiftology.io/feed.rss",
-            "twitter_url": "https://twitter.com/AlexOzun",
-            "mastodon_url": "https://mastodon.social/@alexozun"
-          },
-          {
             "title": "Swift Package Index Blog",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://blog.swiftpackageindex.com",
@@ -4253,6 +4245,14 @@
             "site_url": "https://www.swiftlyrush.com/",
             "feed_url": "https://www.swiftlyrush.com/feed/",
             "twitter_url": "https://twitter.com/Adam9Rush"
+          },
+          {
+            "title": "Swiftology.io",
+            "author": "Alex Ozun",
+            "site_url": "https://swiftology.io/",
+            "feed_url": "https://swiftology.io/feed.rss",
+            "twitter_url": "https://twitter.com/AlexOzun",
+            "mastodon_url": "https://mastodon.social/@alexozun"
           },
           {
             "title": "The SwiftUI Lab",
