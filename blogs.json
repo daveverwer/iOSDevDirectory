@@ -6715,6 +6715,13 @@
             "site_url": "https://medium.com/whoknows-swift",
             "feed_url": "https://medium.com/feed/whoknows-swift",
             "twitter_url": "https://twitter.com/whoknowsswift"
+          },
+          {
+            "title": "Eyüp Mert on Medium",
+            "author": "Eyüp Mert",
+            "site_url": "https://medium.com/@eupmrt",
+            "feed_url": "https://medium.com/feed/@eupmrt",
+            "twitter_url": "https://twitter.com/eupmrt"
           }
         ]
       }
