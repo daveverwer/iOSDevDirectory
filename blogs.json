@@ -4957,13 +4957,6 @@
             "twitter_url": "https://twitter.com/IWA_ELEPHANT"
           },
           {
-            "title": "ASO Stack on Medium",
-            "author": "ASO Stack team",
-            "site_url": "https://phiture.com/asostack/",
-            "feed_url": "https://phiture.com/asostack/feed/",
-            "twitter_url": "https://twitter.com/phituregrowth"
-          },
-          {
             "title": "Curtis Herbert’s Blog",
             "author": "Curtis Herbert",
             "site_url": "https://blog.curtisherbert.com/",
@@ -6729,6 +6722,13 @@
             "site_url": "https://medium.com/whoknows-swift",
             "feed_url": "https://medium.com/feed/whoknows-swift",
             "twitter_url": "https://twitter.com/whoknowsswift"
+          },
+          {
+            "title": "Eyüp Mert on Medium",
+            "author": "Eyüp Mert",
+            "site_url": "https://eupmrt.medium.com/",
+            "feed_url": "https://medium.com/feed/@eupmrt",
+            "twitter_url": "https://twitter.com/eupmrt"
           }
         ]
       }
