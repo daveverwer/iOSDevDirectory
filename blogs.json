@@ -6371,18 +6371,18 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp25X4LzOLaksp5qY0YMUzg"
           },
           {
-            "title": "Tom Baranowicz",
-            "author": "Tom Baranowicz",
-            "site_url": "https://www.youtube.com/c/tombaranowicz",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8xpCahU1OhBnPyWuX9kcKQ",
-            "twitter_url": "https://twitter.com/tombaranowicz"
-          },
-          {
             "title": "Tim Mitra (MTJC) on Youtube",
             "author": "Tim Mitra",
             "site_url": "https://www.youtube.com/timmitra",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfyMBCEYh0CjsiKuFlJh3A",
             "twitter_url": "https://twitter.com/timmitra"
+          },
+          {
+            "title": "Tom Baranowicz",
+            "author": "Tom Baranowicz",
+            "site_url": "https://www.youtube.com/c/tombaranowicz",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8xpCahU1OhBnPyWuX9kcKQ",
+            "twitter_url": "https://twitter.com/tombaranowicz"
           },
           {
             "title": "tundsdev on YouTube",
@@ -6668,6 +6668,13 @@
             "twitter_url": "https://twitter.com/eupmrt"
           },
           {
+            "title": "Eyüp Mert on Medium",
+            "author": "Eyüp Mert",
+            "site_url": "https://eupmrt.medium.com/",
+            "feed_url": "https://medium.com/feed/@eupmrt",
+            "twitter_url": "https://twitter.com/eupmrt"
+          },
+          {
             "title": "Gokhan Topcu on Medium",
             "author": "Gokhan Topcu",
             "site_url": "https://medium.com/@ifndefgt",
@@ -6722,13 +6729,6 @@
             "site_url": "https://medium.com/whoknows-swift",
             "feed_url": "https://medium.com/feed/whoknows-swift",
             "twitter_url": "https://twitter.com/whoknowsswift"
-          },
-          {
-            "title": "Eyüp Mert on Medium",
-            "author": "Eyüp Mert",
-            "site_url": "https://eupmrt.medium.com/",
-            "feed_url": "https://medium.com/feed/@eupmrt",
-            "twitter_url": "https://twitter.com/eupmrt"
           }
         ]
       }
