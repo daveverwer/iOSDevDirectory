@@ -6378,6 +6378,13 @@
             "twitter_url": "https://twitter.com/tombaranowicz"
           },
           {
+            "title": "Tim Mitra (MTJC) on Youtube",
+            "author": "Tim Mitra",
+            "site_url": "https://www.youtube.com/timmitra",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfyMBCEYh0CjsiKuFlJh3A",
+            "twitter_url": "https://twitter.com/timmitra"
+          },
+          {
             "title": "tundsdev on YouTube",
             "author": "Tunde Adegoroye",
             "site_url": "https://www.youtube.com/c/tundsdev",
@@ -6652,6 +6659,13 @@
             "site_url": "https://duruldalkanat.medium.com/",
             "feed_url": "https://medium.com/feed/@duruldalkanat",
             "twitter_url": "https://twitter.com/duruldalkanat"
+          },
+          {
+            "title": "Eyüp Mert on Medium",
+            "author": "Eyüp Mert",
+            "site_url": "https://medium.com/@eupmrt",
+            "feed_url": "https://medium.com/feed/@eupmrt",
+            "twitter_url": "https://twitter.com/eupmrt"
           },
           {
             "title": "Gokhan Topcu on Medium",
