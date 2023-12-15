@@ -4578,6 +4578,14 @@
             "twitter_url": "https://twitter.com/vatsal_manot"
           },
           {
+            "title": "Vidu Glöck's Blog",
+            "author": "Vidu Gloeck",
+            "site_url": "https://www.vidugloeck.com",
+            "feed_url": "https://www.vidugloeck.com/tag/app-development/rss",
+            "mastodon_url": "https://mastodon.social/@vidugloeck",
+            "twitter_url": "https://twitter.com/vidugloeck"
+          },
+          {
             "title": "Vinodh Swamy on Medium",
             "author": "Vinodh Swamy",
             "site_url": "https://vinodhswamy.medium.com/",
