@@ -2697,14 +2697,6 @@
             "twitter_url": "https://twitter.com/ski081"
           },
           {
-            "title": "Martin's Tech Journal",
-            "author": "Martin Pfundmair",
-            "site_url": "https://blog.martinp7r.com/",
-            "feed_url": "https://blog.martinp7r.com/feed.xml",
-            "mastodon_url": "https://mastodon.social/@MartinP7r",
-            "twitter_url": "https://twitter.com/MartinP7r"
-          },
-          {
             "title": "Martin Grider's Blog",
             "author": "Martin Grider",
             "site_url": "http://chesstris.com/category/apple/",
@@ -2725,6 +2717,14 @@
             "site_url": "https://martinmitrevski.com/",
             "feed_url": "https://martinmitrevski.com/feed/",
             "twitter_url": "https://twitter.com/mitrevski"
+          },
+          {
+            "title": "Martin's Tech Journal",
+            "author": "Martin Pfundmair",
+            "site_url": "https://blog.martinp7r.com/",
+            "feed_url": "https://blog.martinp7r.com/feed.xml",
+            "mastodon_url": "https://mastodon.social/@MartinP7r",
+            "twitter_url": "https://twitter.com/MartinP7r"
           },
           {
             "title": "Mastering Swift",
