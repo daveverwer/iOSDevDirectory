@@ -4589,7 +4589,7 @@
             "title": "Vidu Glöck's Blog",
             "author": "Vidu Gloeck",
             "site_url": "https://www.vidugloeck.com",
-            "feed_url": "https://www.vidugloeck.com/tag/app-development/rss",
+            "feed_url": "https://www.vidugloeck.com/tag/app-development/rss/",
             "mastodon_url": "https://mastodon.social/@vidugloeck",
             "twitter_url": "https://twitter.com/vidugloeck"
           },
