@@ -2069,6 +2069,13 @@
             "feed_url": "https://jacobzivandesign.com/feed.rss"
           },
           {
+            "title": "Jacob’s Tech Tavern",
+            "author": "Jacob Bartlett",
+            "site_url": "https://jacobbartlett.substack.com",
+            "feed_url": "https://jacobbartlett.substack.com/feed",
+            "twitter_url": "https://twitter.com/jacobs_handle"
+          },
+          {
             "title": "James Dempsey’s Blog",
             "author": "James Dempsey",
             "site_url": "https://jamesdempsey.net",
