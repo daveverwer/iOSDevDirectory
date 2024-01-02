@@ -2530,6 +2530,13 @@
             "twitter_url": "https://twitter.com/lordcodes"
           },
           {
+            "title": "Lucas van Dongen dot Dev",
+            "author": "Lucas van Dongen",
+            "site_url": "https://lucasvandongen.dev",
+            "feed_url": "https://lucasvandongen.dev/rss/",
+            "twitter_url": "https://twitter.com/lucasvandongen"
+          },
+          {
             "title": "Lucas Oliveira dot Tech",
             "author": "Lucas Oliveira",
             "site_url": "https://www.lucasoliveira.tech/",
