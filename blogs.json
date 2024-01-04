@@ -4905,8 +4905,8 @@
           {
             "title": "Sahand Nayebaziz's Blog",
             "author": "Sahand Nayebaziz",
-            "site_url": "https://www.sahandnayebaziz.org",
-            "feed_url": "https://www.sahandnayebaziz.org/rss.xml",
+            "site_url": "https://sahandnayebaziz.org/",
+            "feed_url": "https://sahandnayebaziz.org/rss.xml",
             "twitter_url": "https://twitter.com/sahandnayebaziz"
           },
           {
@@ -5804,7 +5804,7 @@
             "title": "iOS Dev Break",
             "author": "Evan K. Stone",
             "site_url": "https://www.iosdevbreak.com/",
-            "feed_url": "https://iosdevbreak.libsyn.com/rss",
+            "feed_url": "https://feeds.transistor.fm/ios-dev-break",
             "twitter_url": "https://twitter.com/iosdevbreak"
           },
           {
