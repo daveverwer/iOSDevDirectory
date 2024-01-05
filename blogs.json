@@ -81,6 +81,14 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
+            "title": "Finn Voorhees' Blog",
+            "author": "Finn Voorhees",
+            "site_url": "https://finnvoorhees.com/words",
+            "feed_url": "https://finnvoorhees.com/rss.xml",
+            "twitter_url": "https://twitter.com/finnvoorhees",
+            "mastodon_url": "https://mastodon.social/@finnvoorhees"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
