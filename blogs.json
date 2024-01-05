@@ -316,6 +316,12 @@
             "twitter_url": "https://twitter.com/bretto"
           },
           {
+            "title": "Amy Delves’ Blog",
+            "author": "Amy Delves",
+            "site_url": "https://cuteios.dev/",
+            "feed_url": "https://cuteios.dev/feed.xml"
+          },
+          {
             "title": "Amy Worrall’s Blog",
             "author": "Amy Worrall",
             "site_url": "https://www.amyworrall.com",
@@ -2767,13 +2773,6 @@
             "site_url": "https://quintero.io/blog/",
             "feed_url": "https://quintero.io/feed.rss",
             "twitter_url": "https://twitter.com/nerdsupremacist"
-          },
-          {
-            "title": "Matt Delves’ Blog",
-            "author": "Matt Delves",
-            "site_url": "https://mattdelves.com",
-            "feed_url": "https://mattdelves.com/feed.xml",
-            "twitter_url": "https://twitter.com/mattdelves"
           },
           {
             "title": "Matt Diephouse’s Blog",
