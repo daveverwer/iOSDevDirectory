@@ -1582,9 +1582,9 @@
           },
           {
             "title": "Fatbobman's Blog",
-            "author": "fatbobman",
-            "site_url": "https://fatbobman.medium.com",
-            "feed_url": "https://fatbobman.medium.com/feed",
+            "author": "Fatbobman",
+            "site_url": "https://fatbobman.com/en/",
+            "feed_url": "https://fatbobman.com/rss.xml",
             "twitter_url": "https://twitter.com/fatbobman"
           },
           {
@@ -6652,8 +6652,8 @@
           {
             "title": "肘子的Swift记事本",
             "author": "东坡肘子(@fatbobman)",
-            "site_url": "https://fatbobman.com/",
-            "feed_url": "https://fatbobman.com/feed.rss",
+            "site_url": "https://fatbobman.com/zh/",
+            "feed_url": "https://fatbobman.com/zh/rss.xml",
             "twitter_url": "https://twitter.com/fatbobman"
           }
         ]
