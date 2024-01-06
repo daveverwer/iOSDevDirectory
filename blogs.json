@@ -1766,6 +1766,12 @@
             "twitter_url": "https://twitter.com/geoffhackworth"
           },
           {
+            "title": "Geoff Pado’s Blog",
+            "author": "Geoff Pado",
+            "site_url": "https://pado.name/blog/",
+            "feed_url": "https://pado.name/blog/feed.xml"
+          },
+          {
             "title": "Geor Kasapidi on Medium",
             "author": "Geor Kasapidi",
             "site_url": "https://medium.com/@geor.kasapidi",
