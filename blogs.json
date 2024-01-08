@@ -1654,8 +1654,8 @@
           {
             "title": "Finn Voorhees' Blog",
             "author": "Finn Voorhees",
-            "site_url": "https://finnvoorhees.com/words",
-            "feed_url": "https://finnvoorhees.com/rss.xml",
+            "site_url": "https://www.finnvoorhees.com/words",
+            "feed_url": "https://www.finnvoorhees.com/rss.xml",
             "twitter_url": "https://twitter.com/finnvoorhees",
             "mastodon_url": "https://mastodon.social/@finnvoorhees"
           },
@@ -5955,8 +5955,8 @@
           {
             "title": "iOS CI Newsletter",
             "author": "Pol Piella Abadia",
-            "site_url": "https://www.polpiella.dev/newsletter",
-            "feed_url": "https://www.polpiella.dev/newsletter/rss.xml",
+            "site_url": "https://www.ioscinewsletter.com",
+            "feed_url": "https://www.ioscinewsletter.com/issues/rss.xml",
             "twitter_url": "https://twitter.com/polpielladev"
           },
           {
