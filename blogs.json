@@ -4825,6 +4825,12 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Bartosz Kunat’s Blog",
+            "author": "Bartosz Kunat",
+            "site_url": "https://kunat.dev/notes/",
+            "feed_url": "https://kunat.dev/index.xml"
           }
         ]
       },
