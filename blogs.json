@@ -9,13 +9,6 @@
         "description": "Whether it’s an official Apple blog, or a community blog that keeps us up to date with what’s going on with the platform it’ll be here.",
         "sites": [
           {
-            "title": "Copious Notes",
-            "author": "Mark Townsend",
-            "site_url": "https://www.markltownsend.com",
-            "feed_url": "https://www.markltownsend.com/feed.xml",
-            "mastodon_url": "https://iosdev.space/@markltownsend"
-          },
-          {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
             "site_url": "http://www.appstorereviewguidelineshistory.com/",
@@ -26,6 +19,13 @@
             "author": "Matt Stevens",
             "site_url": "http://codeworkshop.net/objc-diff/sdkdiffs/",
             "feed_url": "http://codeworkshop.net/feed"
+          },
+          {
+            "title": "Copious Notes",
+            "author": "Mark Townsend",
+            "site_url": "https://www.markltownsend.com",
+            "feed_url": "https://www.markltownsend.com/feed.xml",
+            "mastodon_url": "https://iosdev.space/@markltownsend"
           },
           {
             "title": "Design News",
