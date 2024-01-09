@@ -634,6 +634,12 @@
             "twitter_url": "https://twitter.com/bciechanowski"
           },
           {
+            "title": "Bartosz Kunat’s Blog",
+            "author": "Bartosz Kunat",
+            "site_url": "https://kunat.dev/notes/",
+            "feed_url": "https://kunat.dev/index.xml"
+          },
+          {
             "title": "Bartosz Polaczyk on Medium",
             "author": "Bartosz Polaczyk",
             "site_url": "https://medium.com/@londeix",
@@ -4228,18 +4234,18 @@
             "twitter_url": "https://twitter.com/pjechris"
           },
           {
-            "title": "Swift with Vincent",
-            "author": "Vincent Pradeilles",
-            "site_url": "https://www.swiftwithvincent.com/",
-            "feed_url": "https://www.swiftwithvincent.com/?format=rss",
-            "twitter_url": "https://twitter.com/v_pradeilles"
-          },
-          {
             "title": "Swift with Rohan",
             "author": "Rohan De Silva",
             "site_url": "https://swiftwithrohan.com/",
             "feed_url": "https://swiftwithrohan.com/rss.xml",
             "twitter_url": "https://twitter.com/rohandsilva8"
+          },
+          {
+            "title": "Swift with Vincent",
+            "author": "Vincent Pradeilles",
+            "site_url": "https://www.swiftwithvincent.com/",
+            "feed_url": "https://www.swiftwithvincent.com/?format=rss",
+            "twitter_url": "https://twitter.com/v_pradeilles"
           },
           {
             "title": "SwiftBlade",
@@ -4825,12 +4831,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Bartosz Kunat’s Blog",
-            "author": "Bartosz Kunat",
-            "site_url": "https://kunat.dev/notes/",
-            "feed_url": "https://kunat.dev/index.xml"
           }
         ]
       },
