@@ -1660,7 +1660,7 @@
           {
             "title": "Finn Voorhees' Blog",
             "author": "Finn Voorhees",
-            "site_url": "https://www.finnvoorhees.com/words",
+            "site_url": "https://www.finnvoorhees.com/",
             "feed_url": "https://www.finnvoorhees.com/rss.xml",
             "twitter_url": "https://twitter.com/finnvoorhees",
             "mastodon_url": "https://mastodon.social/@finnvoorhees"
@@ -4237,7 +4237,7 @@
             "title": "Swift with Rohan",
             "author": "Rohan De Silva",
             "site_url": "https://swiftwithrohan.com/",
-            "feed_url": "https://swiftwithrohan.com/rss.xml",
+            "feed_url": "https://swiftwithrohan.com/rss.xml/",
             "twitter_url": "https://twitter.com/rohandsilva8"
           },
           {
