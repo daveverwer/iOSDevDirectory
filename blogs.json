@@ -6057,6 +6057,13 @@
             "site_url": "https://www.swiftlyrush.com/",
             "feed_url": "https://swiftlyrush.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/adam9rush"
+          },
+          {
+            "title": "Curated iOS",
+            "author": "Artjoms Vorona",
+            "site_url": "https://curatedios.substack.com",
+            "feed_url": "https://curatedios.substack.com/feed",
+            "twitter_url": "https://twitter.com/artjomsvorona"
           }
         ]
       },
