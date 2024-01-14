@@ -6801,32 +6801,7 @@
     "language": "ko",
     "title": "Korean Language",
     "categories": [
-			{
-				"title": "YouTube Channels",
-				"slug": "youtube",
-				"description": "Apple 플랫폼 개발과 관련된 다양한 주제를 다루는 YouTube 채널입니다.",
-				"sites": [
-					{
-						"title": "yagom",
-						"author": "yagom",
-						"site_url": "https://www.youtube.com/@yagom",
-						"feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkwWWEv3C-3ToeO57r5LCHQ",
-					},
-					{
-						"title": "KxCoding",
-						"author": "KxCoding",
-						"site_url": "https://www.youtube.com/@KxCoding",
-						"feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtVacbJccQlQL_FP5XSEQMQ",
-					},
-					{
-						"title": "개발하는 정대리",
-						"author": "dev_jeongdaeri",
-						"site_url": "https://www.youtube.com/@dev_jeongdaeri",
-						"feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCutO2H_AVmWHbzvE92rpxjA",
-					},
-				]
-			},
-			{
+      {
         "title": "iOS Development Blogs",
         "slug": "development",
         "description": "앱 아키텍쳐부터 UI 코딩까지 Swift, Objective-C에 상관없이 iOS 개발과 관련된 블로그라면 모두 여기에 속합니다.",
@@ -6863,6 +6838,31 @@
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
+          }
+        ]
+      },
+      {
+        "title": "YouTube Channels",
+        "slug": "youtube",
+        "description": "Apple 플랫폼 개발과 관련된 다양한 주제를 다루는 YouTube 채널입니다.",
+        "sites": [
+          {
+            "title": "yagom",
+            "author": "yagom",
+            "site_url": "https://www.youtube.com/@yagom",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkwWWEv3C-3ToeO57r5LCHQ"
+          },
+          {
+            "title": "KxCoding",
+            "author": "KxCoding",
+            "site_url": "https://www.youtube.com/@KxCoding",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtVacbJccQlQL_FP5XSEQMQ"
+          },
+          {
+            "title": "개발하는 정대리",
+            "author": "dev_jeongdaeri",
+            "site_url": "https://www.youtube.com/@dev_jeongdaeri",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCutO2H_AVmWHbzvE92rpxjA"
           }
         ]
       }
