@@ -6847,16 +6847,16 @@
         "description": "Apple 플랫폼 개발과 관련된 다양한 주제를 다루는 YouTube 채널입니다.",
         "sites": [
           {
-            "title": "yagom",
-            "author": "yagom",
-            "site_url": "https://www.youtube.com/@yagom",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkwWWEv3C-3ToeO57r5LCHQ"
-          },
-          {
             "title": "KxCoding",
             "author": "KxCoding",
             "site_url": "https://www.youtube.com/@KxCoding",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtVacbJccQlQL_FP5XSEQMQ"
+          },
+          {
+            "title": "yagom",
+            "author": "yagom",
+            "site_url": "https://www.youtube.com/@yagom",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkwWWEv3C-3ToeO57r5LCHQ"
           },
           {
             "title": "개발하는 정대리",
