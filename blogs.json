@@ -4837,7 +4837,8 @@
             "author": "Tuist",
             "site_url": "https://tuist.io/",
             "feed_url": "https://tuist.io/rss.xml",
-            "twitter_url": "https://twitter.com/tuistio"
+            "twitter_url": "https://twitter.com/tuistio",
+            "mastodon_url": "https://fosstodon.org/@tuist"
           }
         ]
       },
