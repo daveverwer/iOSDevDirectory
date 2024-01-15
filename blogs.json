@@ -4831,6 +4831,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Tuist's blog",
+            "author": "Tuist",
+            "site_url": "https://tuist.io/",
+            "feed_url": "https://tuist.io/rss.xml",
+            "twitter_url": "https://twitter.com/tuistio"
           }
         ]
       },
