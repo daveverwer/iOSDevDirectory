@@ -3450,6 +3450,13 @@
             "twitter_url": "https://twitter.com/superpeteblaze"
           },
           {
+            "title": "Peter Cammeraat's Blog",
+            "author": "Peter Cammeraat",
+            "site_url": "https://petercammeraat.net",
+            "feed_url": "https://petercammeraat.net/index.xml",
+            "mastodon_url": "https://defcon.social/@petercammeraat"
+          },
+          {
             "title": "Peter Friese’s Blog",
             "author": "Peter Friese",
             "site_url": "https://peterfriese.dev",
