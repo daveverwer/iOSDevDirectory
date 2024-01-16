@@ -4556,6 +4556,14 @@
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
+            "title": "Tuist's blog",
+            "author": "Tuist",
+            "site_url": "https://tuist.io/",
+            "feed_url": "https://tuist.io/rss.xml",
+            "twitter_url": "https://twitter.com/tuistio",
+            "mastodon_url": "https://fosstodon.org/@tuist"
+          },
+          {
             "title": "Tung Fam on Medium",
             "author": "Tung Fam",
             "site_url": "https://medium.com/@tungfam",
@@ -4831,14 +4839,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Tuist's blog",
-            "author": "Tuist",
-            "site_url": "https://tuist.io/",
-            "feed_url": "https://tuist.io/rss.xml",
-            "twitter_url": "https://twitter.com/tuistio",
-            "mastodon_url": "https://fosstodon.org/@tuist"
           }
         ]
       },
