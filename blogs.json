@@ -6836,23 +6836,24 @@
             "twitter_url": "https://twitter.com/SungdooYoo"
           },
           {
-            "title": "Joohee Kim's Blog",
-            "author": "Joohee Kim",
-            "site_url": "https://imjhk03.github.io",
-            "feed_url": "https://imjhk03.github.io/feed.xml",
-            "twitter_url": "http://twitter.com/_jooheekim_"
-          },
-          {
-            "title": "tucan’s blog",
-            "author": "tucan.dev",
-            "site_url": "https://blog.canapio.com/",
-            "feed_url": "http://blog.canapio.com/rss"
+            "title": "iOYES",
+            "author": "Chanwoo Cho",
+            "site_url": "https://green1229.tistory.com/",
+            "feed_url": "https://green1229.tistory.com/rss",
+            "twitter_url": "https://twitter.com/GR22EEN"
           },
           {
             "title": "Jager-yoo's Medium",
             "author": "Jaeho Yoo",
             "site_url": "https://medium.com/@Jager-yoo",
             "feed_url": "medium.com/feed/@Jager-yoo"
+          },
+          {
+            "title": "Joohee Kim's Blog",
+            "author": "Joohee Kim",
+            "site_url": "https://imjhk03.github.io",
+            "feed_url": "https://imjhk03.github.io/feed.xml",
+            "twitter_url": "http://twitter.com/_jooheekim_"
           },
           {
             "title": "Kobe blog",
@@ -6862,11 +6863,10 @@
             "twitter_url": "https://twitter.com/devkobe24"
           },
           {
-            "title": "iOYES",
-            "author": "Chanwoo Cho",
-            "site_url": "https://green1229.tistory.com/",
-            "feed_url": "https://green1229.tistory.com/rss",
-            "twitter_url": "https://twitter.com/GR22EEN"
+            "title": "tucan’s blog",
+            "author": "tucan.dev",
+            "site_url": "https://blog.canapio.com/",
+            "feed_url": "http://blog.canapio.com/rss"
           }
         ]
       },
