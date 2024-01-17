@@ -6912,7 +6912,19 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCutO2H_AVmWHbzvE92rpxjA"
           }
         ]
-      }
+      },
+			{
+				"title": "Newsletters",
+				"slug": "newsletters",
+				"description": "Swift 또는 Apple 플랫폼 개발을 다루는 뉴스레터 또는 라운드업 블로그.",
+				"sites": [
+					{
+						"title": "야아한잔",
+						"author": "Yagom",
+						"site_url": "https://page.stibee.com/subscriptions/181267",
+					}
+				]
+			}
     ]
   },
   {
