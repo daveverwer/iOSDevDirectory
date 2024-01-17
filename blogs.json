@@ -6867,7 +6867,25 @@
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
-          }
+          },
+					{
+						"title": "ZeddiOS",
+						"author": "Zedd",
+						"site_url": "https://zeddios.tistory.com/",
+						"feed_url": "https://zeddios.tistory.com/rss"
+					},
+					{
+						"title": "개발자 소들이",
+						"author": "소들이",
+						"site_url": "https://babbab2.tistory.com/",
+						"feed_url": "https://babbab2.tistory.com/rss"
+					},
+					{
+						"title": "Serena's Blog",
+						"author": "Serena",
+						"site_url": "https://serena.co.kr/",
+						"feed_url": "https://serena.co.kr/rss"
+					}
         ]
       },
       {
