@@ -6867,7 +6867,25 @@
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
-          }
+          },
+					{
+						"title": "ZeddiOS",
+						"author": "Zedd",
+						"site_url": "https://zeddios.tistory.com/",
+						"feed_url": "https://zeddios.tistory.com/rss"
+					},
+					{
+						"title": "개발자 소들이",
+						"author": "소들이",
+						"site_url": "https://babbab2.tistory.com/",
+						"feed_url": "https://babbab2.tistory.com/rss"
+					},
+					{
+						"title": "Serena's Blog",
+						"author": "Serena",
+						"site_url": "https://serena.co.kr/",
+						"feed_url": "https://serena.co.kr/rss"
+					}
         ]
       },
       {
@@ -6894,7 +6912,19 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCutO2H_AVmWHbzvE92rpxjA"
           }
         ]
-      }
+      },
+			{
+				"title": "Newsletters",
+				"slug": "newsletters",
+				"description": "Swift 또는 Apple 플랫폼 개발을 다루는 뉴스레터 또는 라운드업 블로그.",
+				"sites": [
+					{
+						"title": "야아한잔",
+						"author": "Yagom",
+						"site_url": "https://page.stibee.com/subscriptions/181267",
+					}
+				]
+			}
     ]
   },
   {
