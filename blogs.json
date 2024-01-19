@@ -4241,6 +4241,12 @@
             "twitter_url": "https://twitter.com/pjechris"
           },
           {
+            "title": "Swift on server",
+            "author": "Joannis Orlandos and Tibor Bödecs",
+            "site_url": "https://swiftonserver.com/",
+            "feed_url": "https://swiftonserver.com/rss.xml"
+          },
+          {
             "title": "Swift with Rohan",
             "author": "Rohan De Silva",
             "site_url": "https://swiftwithrohan.com/",
