@@ -3869,6 +3869,13 @@
             "twitter_url": "https://twitter.com/scotteg"
           },
           {
+            "title": "Scott Smith's Blog",
+            "author": "Scott Smith",
+            "site_url": "https://scottsmithdev.com/",
+            "feed_url": "https://scottsmithdev.com/rss.xml",
+            "twitter_url": "https://twitter.com/ScottSmithDev"
+          },
+          {
             "title": "Sebastian Osiński’s Blog",
             "author": "Sebastian Osiński",
             "site_url": "https://osinski.dev",
@@ -5845,7 +5852,7 @@
           {
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
-            "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
+            "site_url": "https://www.spreaker.com/show/ios-building-blocks",
             "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
