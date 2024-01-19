@@ -4191,6 +4191,12 @@
             "twitter_url": "https://twitter.com/eremenko_maxim"
           },
           {
+            "title": "Swift on server",
+            "author": "Joannis Orlandos and Tibor Bödecs",
+            "site_url": "https://swiftonserver.com/",
+            "feed_url": "https://swiftonserver.com/rss.xml"
+          },
+          {
             "title": "Swift Package Index Blog",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://blog.swiftpackageindex.com",
@@ -4246,12 +4252,6 @@
             "site_url": "https://swiftunwrap.com",
             "feed_url": "https://swiftunwrap.com/feed.rss",
             "twitter_url": "https://twitter.com/pjechris"
-          },
-          {
-            "title": "Swift on server",
-            "author": "Joannis Orlandos and Tibor Bödecs",
-            "site_url": "https://swiftonserver.com/",
-            "feed_url": "https://swiftonserver.com/rss.xml"
           },
           {
             "title": "Swift with Rohan",
