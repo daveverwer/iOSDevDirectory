@@ -1554,13 +1554,6 @@
             "twitter_url": "https://twitter.com/EKazaev"
           },
           {
-            "title": "Exploration of Apple's Vision Pro",
-            "author": "Stuart Varrall",
-            "site_url": "https://varrall.substack.com",
-            "feed_url": "https://varrall.substack.com/feed",
-            "mastodon_url": "https://aus.social/@stuart"
-          },
-          {
             "title": "Fabian Fett's Blog",
             "author": "Fabian Fett",
             "site_url": "https://fabianfett.de",
@@ -3869,6 +3862,13 @@
             "twitter_url": "https://twitter.com/scotteg"
           },
           {
+            "title": "Scott Smith's Blog",
+            "author": "Scott Smith",
+            "site_url": "https://scottsmithdev.com/",
+            "feed_url": "https://scottsmithdev.com/rss.xml",
+            "twitter_url": "https://twitter.com/ScottSmithDev"
+          },
+          {
             "title": "Sebastian Osiński’s Blog",
             "author": "Sebastian Osiński",
             "site_url": "https://osinski.dev",
@@ -4085,6 +4085,13 @@
             "site_url": "http://stuartkhall.com/",
             "feed_url": "http://feeds.feedburner.com/stuartkhall",
             "twitter_url": "https://twitter.com/stuartkhall"
+          },
+          {
+            "title": "StuVision an Exploration of Apple Vision Pro",
+            "author": "Stuart Varrall",
+            "site_url": "https://buttondown.email/varrall/archive",
+            "feed_url": "https://buttondown.email/varrall/rss",
+            "mastodon_url": "https://aus.social/@stuart"
           },
           {
             "title": "Sunset Lake Software",
@@ -5851,7 +5858,7 @@
           {
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
-            "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
+            "site_url": "https://www.spreaker.com/show/ios-building-blocks",
             "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
@@ -6869,6 +6876,12 @@
             "twitter_url": "https://twitter.com/devkobe24"
           },
           {
+            "title": "Serena's Blog",
+            "author": "Serena",
+            "site_url": "https://serena.co.kr/",
+            "feed_url": "https://serena.co.kr/rss"
+          },
+          {
             "title": "tucan’s blog",
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
@@ -6885,12 +6898,6 @@
             "author": "소들이",
             "site_url": "https://babbab2.tistory.com/",
             "feed_url": "https://babbab2.tistory.com/rss"
-          },
-          {
-            "title": "Serena's Blog",
-            "author": "Serena",
-            "site_url": "https://serena.co.kr/",
-            "feed_url": "https://serena.co.kr/rss"
           }
         ]
       },
