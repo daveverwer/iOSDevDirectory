@@ -6863,6 +6863,12 @@
             "twitter_url": "https://twitter.com/devkobe24"
           },
           {
+            "title": "Serena's Blog",
+            "author": "Serena",
+            "site_url": "https://serena.co.kr/",
+            "feed_url": "https://serena.co.kr/rss"
+          },
+          {
             "title": "tucan’s blog",
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
@@ -6879,12 +6885,6 @@
             "author": "소들이",
             "site_url": "https://babbab2.tistory.com/",
             "feed_url": "https://babbab2.tistory.com/rss"
-          },
-          {
-            "title": "Serena's Blog",
-            "author": "Serena",
-            "site_url": "https://serena.co.kr/",
-            "feed_url": "https://serena.co.kr/rss"
           }
         ]
       },
