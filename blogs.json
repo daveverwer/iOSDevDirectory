@@ -1554,13 +1554,6 @@
             "twitter_url": "https://twitter.com/EKazaev"
           },
           {
-            "title": "StuVision an Exploration of Apple Vision Pro",
-            "author": "Stuart Varrall",
-            "site_url": "https://buttondown.email/varrall/archive",
-            "feed_url": "https://buttondown.email/varrall/rss",
-            "mastodon_url": "https://aus.social/@stuart"
-          },
-          {
             "title": "Fabian Fett's Blog",
             "author": "Fabian Fett",
             "site_url": "https://fabianfett.de",
@@ -4092,6 +4085,13 @@
             "site_url": "http://stuartkhall.com/",
             "feed_url": "http://feeds.feedburner.com/stuartkhall",
             "twitter_url": "https://twitter.com/stuartkhall"
+          },
+          {
+            "title": "StuVision an Exploration of Apple Vision Pro",
+            "author": "Stuart Varrall",
+            "site_url": "https://buttondown.email/varrall/archive",
+            "feed_url": "https://buttondown.email/varrall/rss",
+            "mastodon_url": "https://aus.social/@stuart"
           },
           {
             "title": "Sunset Lake Software",
@@ -6870,6 +6870,12 @@
             "twitter_url": "https://twitter.com/devkobe24"
           },
           {
+            "title": "Serena's Blog",
+            "author": "Serena",
+            "site_url": "https://serena.co.kr/",
+            "feed_url": "https://serena.co.kr/rss"
+          },
+          {
             "title": "tucan’s blog",
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
@@ -6886,12 +6892,6 @@
             "author": "소들이",
             "site_url": "https://babbab2.tistory.com/",
             "feed_url": "https://babbab2.tistory.com/rss"
-          },
-          {
-            "title": "Serena's Blog",
-            "author": "Serena",
-            "site_url": "https://serena.co.kr/",
-            "feed_url": "https://serena.co.kr/rss"
           }
         ]
       },
