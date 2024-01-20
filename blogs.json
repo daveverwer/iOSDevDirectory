@@ -5371,6 +5371,14 @@
             "feed_url": "https://foresightmobile.com/blog?format=rss"
           },
           {
+            "title": "Furnace Creek Software Blog",
+            "author": "Furnace Creek Team",
+            "site_url": "https://furnacecreek.org/blog/",
+            "feed_url": "https://furnacecreek.org/blog/rss.xml",
+            "twitter_url": "https://twitter.com/TheFurnaceCreek",
+            "mastodon_url": "https://mastodon.social/@furnacecreek"
+          },
+          {
             "title": "GetStream.io Blog",
             "author": "Stream Blog",
             "site_url": "https://getstream.io/blog/",
