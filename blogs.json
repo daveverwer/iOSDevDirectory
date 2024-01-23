@@ -1554,13 +1554,6 @@
             "twitter_url": "https://twitter.com/EKazaev"
           },
           {
-            "title": "Exploration of Apple's Vision Pro",
-            "author": "Stuart Varrall",
-            "site_url": "https://varrall.substack.com",
-            "feed_url": "https://varrall.substack.com/feed",
-            "mastodon_url": "https://aus.social/@stuart"
-          },
-          {
             "title": "Fabian Fett's Blog",
             "author": "Fabian Fett",
             "site_url": "https://fabianfett.de",
@@ -3869,6 +3862,13 @@
             "twitter_url": "https://twitter.com/scotteg"
           },
           {
+            "title": "Scott Smith's Blog",
+            "author": "Scott Smith",
+            "site_url": "https://scottsmithdev.com/",
+            "feed_url": "https://scottsmithdev.com/rss.xml",
+            "twitter_url": "https://twitter.com/ScottSmithDev"
+          },
+          {
             "title": "Sebastian Osiński’s Blog",
             "author": "Sebastian Osiński",
             "site_url": "https://osinski.dev",
@@ -4087,6 +4087,13 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
+            "title": "StuVision an Exploration of Apple Vision Pro",
+            "author": "Stuart Varrall",
+            "site_url": "https://buttondown.email/varrall/archive",
+            "feed_url": "https://buttondown.email/varrall/rss",
+            "mastodon_url": "https://aus.social/@stuart"
+          },
+          {
             "title": "Sunset Lake Software",
             "author": "Brad Larson",
             "site_url": "http://www.sunsetlakesoftware.com/blog/index.html",
@@ -4182,6 +4189,12 @@
             "site_url": "https://maximeremenko.com/",
             "feed_url": "https://maximeremenko.com/feed.xml",
             "twitter_url": "https://twitter.com/eremenko_maxim"
+          },
+          {
+            "title": "Swift on server",
+            "author": "Joannis Orlandos and Tibor Bödecs",
+            "site_url": "https://swiftonserver.com/",
+            "feed_url": "https://swiftonserver.com/rss.xml"
           },
           {
             "title": "Swift Package Index Blog",
@@ -5358,6 +5371,14 @@
             "feed_url": "https://foresightmobile.com/blog?format=rss"
           },
           {
+            "title": "Furnace Creek Software Blog",
+            "author": "Furnace Creek Team",
+            "site_url": "https://furnacecreek.org/blog/",
+            "feed_url": "https://furnacecreek.org/blog/rss.xml",
+            "twitter_url": "https://twitter.com/TheFurnaceCreek",
+            "mastodon_url": "https://mastodon.social/@furnacecreek"
+          },
+          {
             "title": "GetStream.io Blog",
             "author": "Stream Blog",
             "site_url": "https://getstream.io/blog/",
@@ -5845,7 +5866,7 @@
           {
             "title": "iOS Building Blocks",
             "author": "Scott Smith",
-            "site_url": "https://podcasters.spotify.com/pod/show/scottsmithdev",
+            "site_url": "https://www.spreaker.com/podcast/ios-building-blocks--5865659",
             "feed_url": "https://www.spreaker.com/show/5865659/episodes/feed"
           },
           {
@@ -5871,7 +5892,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "http://www.mtjc.fm",
+            "site_url": "https://www.mtjc.fm/",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -6863,6 +6884,12 @@
             "twitter_url": "https://twitter.com/devkobe24"
           },
           {
+            "title": "Serena's Blog",
+            "author": "Serena",
+            "site_url": "https://serena.co.kr/",
+            "feed_url": "https://serena.co.kr/rss"
+          },
+          {
             "title": "tucan’s blog",
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
@@ -6918,19 +6945,7 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCutO2H_AVmWHbzvE92rpxjA"
           }
         ]
-      },
-			{
-				"title": "Newsletters",
-				"slug": "newsletters",
-				"description": "Swift 또는 Apple 플랫폼 개발을 다루는 뉴스레터 또는 라운드업 블로그.",
-				"sites": [
-					{
-						"title": "야아한잔",
-						"author": "Yagom",
-						"site_url": "https://page.stibee.com/subscriptions/181267",
-					}
-				]
-			}
+      }
     ]
   },
   {
