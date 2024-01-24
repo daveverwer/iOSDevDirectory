@@ -6895,30 +6895,24 @@
             "site_url": "https://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
           },
-					{
-						"title": "ZeddiOS",
-						"author": "Zedd",
-						"site_url": "https://zeddios.tistory.com/",
-						"feed_url": "https://zeddios.tistory.com/rss"
-					},
-					{
-						"title": "개발자 소들이",
-						"author": "소들이",
-						"site_url": "https://babbab2.tistory.com/",
-						"feed_url": "https://babbab2.tistory.com/rss"
-					},
-					{
-						"title": "Serena's Blog",
-						"author": "Serena",
-						"site_url": "https://serena.co.kr/",
-						"feed_url": "https://serena.co.kr/rss"
-					},
-					{
-						"title": "Som's velog",
-						"author": "Som",
-						"site_url": "https://velog.io/@som24/posts",
-						"feed_url": "https://v2.velog.io/rss/som24"
-					}
+          {
+            "title": "ZeddiOS",
+            "author": "Zedd",
+            "site_url": "https://zeddios.tistory.com/",
+            "feed_url": "https://zeddios.tistory.com/rss"
+          },
+          {
+            "title": "개발자 소들이",
+            "author": "소들이",
+            "site_url": "https://babbab2.tistory.com/",
+            "feed_url": "https://babbab2.tistory.com/rss"
+          },
+          {
+            "title": "Som's velog",
+            "author": "Som",
+            "site_url": "https://velog.io/@som24/posts",
+            "feed_url": "https://v2.velog.io/rss/som24"
+          }
         ]
       },
       {
