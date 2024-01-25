@@ -6918,6 +6918,12 @@
 						"author": "Som",
 						"site_url": "https://velog.io/@som24/posts",
 						"feed_url": "https://v2.velog.io/rss/som24"
+					},
+					{
+						"title": "MINTraum",
+						"author": "Mint",
+						"site_url": "https://mintraum.tistory.com/",
+						"feed_url": "https://mintraum.tistory.com/rss"
 					}
         ]
       },
