@@ -3768,8 +3768,8 @@
           {
             "title": "rx_marin",
             "author": "Marin Todorov",
-            "site_url": "http://rx-marin.com/",
-            "feed_url": "http://rx-marin.com/index.xml",
+            "site_url": "https://rx-marin.com/",
+            "feed_url": "https://rx-marin.com/index.xml",
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
@@ -6890,6 +6890,12 @@
             "feed_url": "https://serena.co.kr/rss"
           },
           {
+            "title": "Som's velog",
+            "author": "Som",
+            "site_url": "https://velog.io/@som24/posts",
+            "feed_url": "https://v2.velog.io/rss/som24"
+          },
+          {
             "title": "tucan’s blog",
             "author": "tucan.dev",
             "site_url": "https://blog.canapio.com/",
@@ -6906,18 +6912,6 @@
 						"author": "소들이",
 						"site_url": "https://babbab2.tistory.com/",
 						"feed_url": "https://babbab2.tistory.com/rss"
-					},
-					{
-						"title": "Serena's Blog",
-						"author": "Serena",
-						"site_url": "https://serena.co.kr/",
-						"feed_url": "https://serena.co.kr/rss"
-					},
-					{
-						"title": "Som's velog",
-						"author": "Som",
-						"site_url": "https://velog.io/@som24/posts",
-						"feed_url": "https://v2.velog.io/rss/som24"
 					},
 					{
 						"title": "MINTraum",
