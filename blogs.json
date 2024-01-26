@@ -6901,24 +6901,30 @@
             "site_url": "https://blog.canapio.com/",
             "feed_url": "http://blog.canapio.com/rss"
           },
-					{
-						"title": "ZeddiOS",
-						"author": "Zedd",
-						"site_url": "https://zeddios.tistory.com/",
-						"feed_url": "https://zeddios.tistory.com/rss"
-					},
-					{
-						"title": "개발자 소들이",
-						"author": "소들이",
-						"site_url": "https://babbab2.tistory.com/",
-						"feed_url": "https://babbab2.tistory.com/rss"
-					},
-					{
-						"title": "MINTraum",
-						"author": "Mint",
-						"site_url": "https://mintraum.tistory.com/",
-						"feed_url": "https://mintraum.tistory.com/rss"
-					}
+          {
+            "title": "ZeddiOS",
+            "author": "Zedd",
+            "site_url": "https://zeddios.tistory.com/",
+            "feed_url": "https://zeddios.tistory.com/rss"
+          },
+          {
+            "title": "개발자 소들이",
+            "author": "소들이",
+            "site_url": "https://babbab2.tistory.com/",
+            "feed_url": "https://babbab2.tistory.com/rss"
+          },
+          {
+            "title": "MINTraum",
+            "author": "Mint",
+            "site_url": "https://mintraum.tistory.com/",
+            "feed_url": "https://mintraum.tistory.com/rss"
+          },
+          {
+            "title": "Danny.log",
+            "author": "Danny",
+            "site_url": "https://velog.io/@minzami1215/posts",
+            "feed_url": "https://v2.velog.io/rss/@minzami1215"
+          }
         ]
       },
       {
