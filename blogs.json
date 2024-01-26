@@ -6884,6 +6884,12 @@
             "twitter_url": "https://twitter.com/devkobe24"
           },
           {
+            "title": "MINTraum",
+            "author": "Mint",
+            "site_url": "https://mintraum.tistory.com/",
+            "feed_url": "https://mintraum.tistory.com/rss"
+          },
+          {
             "title": "Serena's Blog",
             "author": "Serena",
             "site_url": "https://serena.co.kr/",
@@ -6912,12 +6918,6 @@
             "author": "소들이",
             "site_url": "https://babbab2.tistory.com/",
             "feed_url": "https://babbab2.tistory.com/rss"
-          },
-          {
-            "title": "MINTraum",
-            "author": "Mint",
-            "site_url": "https://mintraum.tistory.com/",
-            "feed_url": "https://mintraum.tistory.com/rss"
           }
         ]
       },
