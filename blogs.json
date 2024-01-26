@@ -4199,7 +4199,7 @@
           {
             "title": "Swift Package Index Blog",
             "author": "Dave Verwer and Sven A. Schmidt",
-            "site_url": "https://blog.swiftpackageindex.com",
+            "site_url": "https://swiftpackageindex.com/blog",
             "feed_url": "https://blog.swiftpackageindex.com/feed.rss",
             "twitter_url": "https://twitter.com/SwiftPackages",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex"
