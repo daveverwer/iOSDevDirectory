@@ -6918,6 +6918,12 @@
             "author": "Mint",
             "site_url": "https://mintraum.tistory.com/",
             "feed_url": "https://mintraum.tistory.com/rss"
+          },
+          {
+            "title": "Danny.log",
+            "author": "Danny",
+            "site_url": "https://velog.io/@minzami1215/posts",
+            "feed_url": "https://v2.velog.io/rss/@minzami1215"
           }
         ]
       },
