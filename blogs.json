@@ -1444,6 +1444,13 @@
             "feed_url": "https://dev.to/feed/donniejp"
           },
           {
+            "title": "Donovan’s Vision Blog",
+            "author": "Donovan Hutchinson",
+            "site_url": "https://vision.rodeo",
+            "feed_url": "https://vision.rodeo/feed/feed.xml",
+            "mastodon_url": "https://mastodon.ie/@donovanh"
+          },
+          {
             "title": "Donny Wals’ Blog",
             "author": "Donny Wals",
             "site_url": "https://www.donnywals.com",
@@ -6625,13 +6632,6 @@
             "site_url": "https://www.twitch.tv/subdigital",
             "feed_url": "https://twitchrss.appspot.com/vod/subdigital",
             "twitter_url": "https://twitter.com/subdigital"
-          },
-          {
-            "title": "Donovan’s Vision Blog",
-            "author": "Donovan Hutchinson",
-            "site_url": "https://vision.rodeo",
-            "feed_url": "https://vision.rodeo/feed/feed.xml",
-            "mastodon_url": "https://mastodon.ie/@donovanh"
           }
         ]
       }
