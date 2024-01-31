@@ -3992,13 +3992,6 @@
             "twitter_url": "https://twitter.com/novinfard"
           },
           {
-            "title": "Soumya Mahunt on Medium",
-            "author": "Soumya Mahunt",
-            "site_url": "https://soumyamahunt.medium.com/",
-            "feed_url": "https://soumyamahunt.medium.com/feed",
-            "twitter_url": "https://twitter.com/soumya_mahunt"
-          },
-          {
             "title": "Soroush Khanlou’s Blog",
             "author": "Soroush Khanlou",
             "site_url": "https://khanlou.com/",
@@ -4010,6 +4003,13 @@
             "author": "Adam Fowler",
             "site_url": "https://soto.codes",
             "feed_url": "https://soto.codes/feed.xml"
+          },
+          {
+            "title": "Soumya Mahunt on Medium",
+            "author": "Soumya Mahunt",
+            "site_url": "https://soumyamahunt.medium.com/",
+            "feed_url": "https://soumyamahunt.medium.com/feed",
+            "twitter_url": "https://twitter.com/soumya_mahunt"
           },
           {
             "title": "Source Diving",
