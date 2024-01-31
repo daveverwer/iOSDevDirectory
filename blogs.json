@@ -4590,6 +4590,13 @@
             "twitter_url": "https://twitter.com/icanzilb"
           },
           {
+            "title": "trycatchswift",
+            "author": "Bryan Dubno",
+            "site_url": "https://trycatchswift.com/",
+            "feed_url": "https://trycatchswift.com/rss/",
+            "twitter_url": "https://twitter.com/bryandubno"
+          },
+          {
             "title": "Tuist's blog",
             "author": "Tuist",
             "site_url": "https://tuist.io/",
