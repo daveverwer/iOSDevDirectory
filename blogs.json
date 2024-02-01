@@ -5139,13 +5139,6 @@
         "description": "If a blog is published by a company rather than an individual (or group of individuals), but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
           {
-            "title": "47 Degrees Blog",
-            "author": "47 Degrees",
-            "site_url": "https://xebia.com/blog/?utm_source=47deg&utm_medium=redirect&utm_campaign=consolidation&utm_content=blog",
-            "feed_url": "https://www.47deg.com/feed.xml",
-            "twitter_url": "https://twitter.com/47deg"
-          },
-          {
             "title": "all about apps",
             "author": "all about apps Team",
             "site_url": "https://code.allaboutapps.at/categories/ios/",
