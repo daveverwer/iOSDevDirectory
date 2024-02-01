@@ -5141,7 +5141,7 @@
           {
             "title": "47 Degrees Blog",
             "author": "47 Degrees",
-            "site_url": "https://www.47deg.com/blog/",
+            "site_url": "https://xebia.com/blog/?utm_source=47deg&utm_medium=redirect&utm_campaign=consolidation&utm_content=blog",
             "feed_url": "https://www.47deg.com/feed.xml",
             "twitter_url": "https://twitter.com/47deg"
           },
@@ -5449,7 +5449,7 @@
           {
             "title": "Ideamotive Blog - iOS",
             "author": "Ideamotive Team",
-            "site_url": "https://www.ideamotive.co/blog/tag/ios-development",
+            "site_url": "https://www.ideamotive.co/blog",
             "feed_url": "https://www.ideamotive.co/blog/tag/ios-development/rss.xml",
             "twitter_url": "https://twitter.com/ideamotive_co"
           },
@@ -5655,8 +5655,8 @@
           {
             "title": "Runtastic Tech Blog",
             "author": "Runtastic iOS Devs",
-            "site_url": "https://www.runtastic.com/blog/en/tag/ios/",
-            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed/",
+            "site_url": "https://www.runtastic.com/blog/en/tag/ios",
+            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed",
             "twitter_url": "https://twitter.com/Runtastic"
           },
           {
