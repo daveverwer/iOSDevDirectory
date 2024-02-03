@@ -1598,7 +1598,8 @@
             "author": "Fatbobman",
             "site_url": "https://fatbobman.com/en/",
             "feed_url": "https://fatbobman.com/rss.xml",
-            "twitter_url": "https://twitter.com/fatbobman"
+            "twitter_url": "https://twitter.com/fatbobman",
+            "mastodon_url": "https://mastodon.social/@fatbobman"
           },
           {
             "title": "Federico Jordan’s Blog",
@@ -4880,6 +4881,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "XReality.Zone's Blog EN",
+            "author": "张思琦(@SketchK_47)",
+            "site_url": "https://xreality.zone/en",
+            "feed_url": "https://xreality.zone/feed.xml",
+            "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
       },
@@ -6107,6 +6115,13 @@
             "site_url": "https://www.swiftlyrush.com/",
             "feed_url": "https://swiftlyrush.curated.co/issues.rss",
             "twitter_url": "https://twitter.com/adam9rush"
+          },
+          {
+            "title": "XR World Weekly",
+            "author": "张思琦(@SketchK_47)",
+            "site_url": "https://xreality.zone/en/tags/newsletter/",
+            "feed_url": "https://xreality.zone/feed.xml",
+            "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
       },
@@ -6706,10 +6721,12 @@
           },
           {
             "title": "SketchK‘s Studio",
-            "author": "SketchK",
+            "author": "张思琦(@SketchK_47)",
             "site_url": "https://sketchk.xyz/",
-            "feed_url": "https://sketchk.xyz/atom.xml",
-            "twitter_url": "https://twitter.com/SketchK_47"
+            "feed_url": "https://sketchk.xyz/feed.xml",
+            "twitter_url": "https://twitter.com/SketchK_47",
+            "mastodon_url": "https://mastodon.social/@sketchk",
+            "weibo_url": "https://www.weibo.com/1673935657"
           },
           {
             "title": "Sunnyxx",
@@ -6730,7 +6747,15 @@
             "author": "东坡肘子(@fatbobman)",
             "site_url": "https://fatbobman.com/zh/",
             "feed_url": "https://fatbobman.com/zh/rss.xml",
-            "twitter_url": "https://twitter.com/fatbobman"
+            "twitter_url": "https://twitter.com/fatbobman",
+            "mastodon_url": "https://mastodon.social/@fatbobman"
+          },
+          {
+            "title": "XReality.Zone 中文版",
+            "author": "XR 基地(@XRealityZone)",
+            "site_url": "https://xreality.zone/zh/",
+            "feed_url": "https://xreality.zone/feed.xml",
+            "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
       }
