@@ -1273,7 +1273,7 @@
             "title": "David Seek’s Blog",
             "author": "David Seek and Ting Becker",
             "site_url": "https://www.davidseek.com",
-            "feed_url": "https://www.davidseek.com/rss/",
+            "feed_url": "https://www.davidseek.com/_feather/rss.xml",
             "twitter_url": "https://twitter.com/davidseek"
           },
           {
@@ -4823,7 +4823,7 @@
           {
             "title": "XReality.Zone's Blog EN",
             "author": "张思琦(@SketchK_47)",
-            "site_url": "https://xreality.zone/en",
+            "site_url": "https://xreality.zone/en/",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
           },
