@@ -4821,6 +4821,13 @@
             "twitter_url": "https://twitter.com/alfianlosari"
           },
           {
+            "title": "XReality.Zone's Blog EN",
+            "author": "张思琦(@SketchK_47)",
+            "site_url": "https://xreality.zone/en",
+            "feed_url": "https://xreality.zone/feed.xml",
+            "twitter_url": "https://twitter.com/XRealityZone"
+          },
+          {
             "title": "Yaacoub",
             "author": "Peter Yaacoub",
             "site_url": "https://yaacoub.github.io/articles/",
@@ -4881,13 +4888,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "XReality.Zone's Blog EN",
-            "author": "张思琦(@SketchK_47)",
-            "site_url": "https://xreality.zone/en",
-            "feed_url": "https://xreality.zone/feed.xml",
-            "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
       },
@@ -6743,19 +6743,19 @@
             "weibo_url": "https://weibo.com/swiftguide"
           },
           {
+            "title": "XReality.Zone 中文版",
+            "author": "XR 基地(@XRealityZone)",
+            "site_url": "https://xreality.zone/zh/",
+            "feed_url": "https://xreality.zone/feed.xml",
+            "twitter_url": "https://twitter.com/XRealityZone"
+          },
+          {
             "title": "肘子的Swift记事本",
             "author": "东坡肘子(@fatbobman)",
             "site_url": "https://fatbobman.com/zh/",
             "feed_url": "https://fatbobman.com/zh/rss.xml",
             "twitter_url": "https://twitter.com/fatbobman",
             "mastodon_url": "https://mastodon.social/@fatbobman"
-          },
-          {
-            "title": "XReality.Zone 中文版",
-            "author": "XR 基地(@XRealityZone)",
-            "site_url": "https://xreality.zone/zh/",
-            "feed_url": "https://xreality.zone/feed.xml",
-            "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
       }
