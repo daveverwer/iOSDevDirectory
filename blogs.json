@@ -2577,6 +2577,14 @@
             "twitter_url": "https://twitter.com/lucasvandongen"
           },
           {
+            "title": "Luda Fux’s Blog",
+            "author": "Luda Fux",
+            "site_url": "https://www.ludafux.com/",
+            "feed_url": "https://www.ludafux.com/blog-feed.xml",
+            "mastodon_url": "https://mastodon.world/@fuxlud",
+            "twitter_url": "https://twitter.com/FuxLuda"
+          },
+          {
             "title": "Luis Ascorbe's Blog",
             "author": "Luis Ascorbe",
             "site_url": "https://lascorbe.com",
