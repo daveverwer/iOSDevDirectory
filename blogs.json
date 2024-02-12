@@ -6902,13 +6902,6 @@
             "twitter_url": "http://twitter.com/_jooheekim_"
           },
           {
-            "title": "Kobe blog",
-            "author": "Minseong Kang",
-            "site_url": "https://www.devkobe24.com/",
-            "feed_url": "https://www.devkobe24.com/feed.xml",
-            "twitter_url": "https://twitter.com/devkobe24"
-          },
-          {
             "title": "MINTraum",
             "author": "Mint",
             "site_url": "https://mintraum.tistory.com/",
@@ -6943,13 +6936,7 @@
             "author": "소들이",
             "site_url": "https://babbab2.tistory.com/",
             "feed_url": "https://babbab2.tistory.com/rss"
-          },
-          {
-            "title": "Evans Library",
-            "author": "문동욱",
-            "site_url": "https://evan-moon.github.io/",
-            "feed_url": "https://evan-moon.github.io/feed.xml"
-          },
+          }
         ]
       },
       {
