@@ -630,7 +630,7 @@
             "title": "Bartosz Kunat’s Blog",
             "author": "Bartosz Kunat",
             "site_url": "https://kunat.dev/notes/",
-            "feed_url": "https://kunat.dev/index.xml"
+            "feed_url": "https://kunat.dev/tags/ios/index.xml"
           },
           {
             "title": "Bartosz Polaczyk on Medium",
@@ -5474,13 +5474,6 @@
             "site_url": "https://www.instabug.com/blog",
             "feed_url": "https://www.instabug.com/blog/feed",
             "twitter_url": "https://twitter.com/instabug"
-          },
-          {
-            "title": "Itty Bitty Apps Blog",
-            "author": "Itty Bitty Apps Team",
-            "site_url": "https://www.ittybittyapps.com/blog/",
-            "feed_url": "https://www.ittybittyapps.com/blog/index.xml",
-            "twitter_url": "https://twitter.com/ittybittyapps"
           },
           {
             "title": "Kaleidoscope Blog",
