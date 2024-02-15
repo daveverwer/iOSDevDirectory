@@ -760,8 +760,8 @@
           {
             "title": "Bret Victor’s Blog",
             "author": "Bret Victor",
-            "site_url": "http://worrydream.com/",
-            "feed_url": "http://worrydream.com/feed.xml",
+            "site_url": "https://worrydream.com/",
+            "feed_url": "https://worrydream.com/feed.xml",
             "twitter_url": "https://twitter.com/worrydream"
           },
           {
@@ -1939,8 +1939,8 @@
           {
             "title": "Hwee-Boon Yar’s Blog",
             "author": "Hwee-Boon Yar",
-            "site_url": "http://hboon.com",
-            "feed_url": "http://hboon.com/feed/",
+            "site_url": "https://hboon.com/",
+            "feed_url": "https://hboon.com/feed/",
             "twitter_url": "https://twitter.com/hboon"
           },
           {
