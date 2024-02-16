@@ -5538,6 +5538,13 @@
             "twitter_url": "https://twitter.com/movingpartsio"
           },
           {
+            "title": "Multi Blog",
+            "author": "Multi Team",
+            "site_url": "http://multi.app/blog",
+            "feed_url": "https://rss.app/feeds/rIZouKQYTe0f4QTb.xml",
+            "twitter_url": "https://twitter.com/with_multi"
+          },
+          {
             "title": "Netguru iOS Codestories",
             "author": "Netguru Team",
             "site_url": "https://www.netguru.com/blog/topic/ios",
@@ -5598,13 +5605,6 @@
             "site_url": "https://blog.quicktype.io/",
             "feed_url": "https://blog.quicktype.io/rss/",
             "twitter_url": "https://twitter.com/quicktypeio"
-          },
-          {
-            "title": "Multi Blog",
-            "author": "Multi Team",
-            "site_url": "http://multi.app/blog",
-            "feed_url": "https://rss.app/feeds/rIZouKQYTe0f4QTb.xml",
-            "twitter_url": "https://twitter.com/with_multi"
           },
           {
             "title": "Reveal Blog",
