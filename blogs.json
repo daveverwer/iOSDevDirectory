@@ -3628,6 +3628,13 @@
             "twitter_url": "https://twitter.com/rayfix"
           },
           {
+            "title": "Ray Kim's Blog",
+            "author": "Ray Kim",
+            "site_url": "https://medium.com/@rckim77",
+            "feed_url": "https://medium.com/feed/@rckim77",
+            "twitter_url": "https://twitter.com/rckim77"
+          },
+          {
             "title": "Ray Wenderlich",
             "author": "Ray Wenderlich and Team",
             "site_url": "https://www.kodeco.com/",
