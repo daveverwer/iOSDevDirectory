@@ -81,13 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "Alex Knows's Blog",
-            "author": "Alex Cruz",
-            "site_url": "https://alexknows.biz/",
-            "feed_url": "https://alexknows.biz/feed.xml",
-            "twitter_url": "https://twitter.com/alexknowsbiz"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -215,6 +208,13 @@
             "author": "Alex Gurin",
             "site_url": "https://medium.com/@dn070287gav",
             "feed_url": "https://medium.com/feed/@dn070287gav"
+          },
+          {
+            "title": "Alex Knows's Blog",
+            "author": "Alex Cruz",
+            "site_url": "https://alexknows.biz/",
+            "feed_url": "https://alexknows.biz/feed.xml",
+            "twitter_url": "https://twitter.com/alexknowsbiz"
           },
           {
             "title": "Alex Lee's Dev Blog",
