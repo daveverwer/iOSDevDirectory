@@ -5002,6 +5002,13 @@
             "twitter_url": "https://twitter.com/101babich"
           },
           {
+            "title": "Nuberodesign Blog",
+            "author": "Niko Kitsakis",
+            "site_url": "https://www.nubero.ch/",
+            "feed_url": "https://www.nubero.ch/rss/feed.xml",
+            "twitter_url": "https://twitter.com/nuberodesign"
+          },
+          {
             "title": "Pasquale D’Silva on Medium",
             "author": "Pasquale D’Silva",
             "site_url": "https://medium.com/@pasql",
