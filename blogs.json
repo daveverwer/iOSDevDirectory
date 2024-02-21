@@ -3707,9 +3707,10 @@
           {
             "title": "Rizwan's blog",
             "author": "Rizwan Mohamed Ibrahim",
-            "site_url": "https://blog.rizwan.dev",
-            "feed_url": "https://blog.rizwan.dev/rss.xml",
-            "twitter_url": "https://twitter.com/rizzu26"
+            "site_url": "https://rizwan.dev",
+            "feed_url": "https://rizwan.dev/rss.xml",
+            "twitter_url": "https://twitter.com/rizzu26",
+            "mastodon_url": "https://mastodon.social/@rizwan"
           },
           {
             "title": "Rob Kerr’s Weblog",
