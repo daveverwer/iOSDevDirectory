@@ -4508,6 +4508,13 @@
             "twitter_url": "https://twitter.com/TiagoMaiaLopes"
           },
           {
+            "title": "Tiago Henriques' Blog",
+            "author": "Tiago Henriques",
+            "site_url": "https://tiagohenriques.vercel.app/",
+            "feed_url": "https://tiagohenriques.vercel.app/rss/feed.json",
+            "twitter_url": "https://twitter.com/tiagodhenriques"
+          },
+          {
             "title": "TIL with Mohammad",
             "author": "Mohammad Faani",
             "site_url": "https://mfaani.com",
