@@ -4501,18 +4501,18 @@
             "twitter_url": "https://twitter.com/Dimillian"
           },
           {
-            "title": "Tiago Lopes' Blog",
-            "author": "Tiago Lopes",
-            "site_url": "https://tiagolopes.blog/",
-            "feed_url": "https://tiagolopes.blog/feed/",
-            "twitter_url": "https://twitter.com/TiagoMaiaLopes"
-          },
-          {
             "title": "Tiago Henriques' Blog",
             "author": "Tiago Henriques",
             "site_url": "https://tiagohenriques.vercel.app/",
             "feed_url": "https://tiagohenriques.vercel.app/rss/feed.json",
             "twitter_url": "https://twitter.com/tiagodhenriques"
+          },
+          {
+            "title": "Tiago Lopes' Blog",
+            "author": "Tiago Lopes",
+            "site_url": "https://tiagolopes.blog/",
+            "feed_url": "https://tiagolopes.blog/feed/",
+            "twitter_url": "https://twitter.com/TiagoMaiaLopes"
           },
           {
             "title": "TIL with Mohammad",
