@@ -2550,6 +2550,13 @@
             "mastodon_url": "https://mastodon.social/@liamn"
           },
           {
+            "title": "liman.io",
+            "author": "Daniel Fürst",
+            "site_url": "https://liman.io",
+            "feed_url": "https://liman.io/blog/feed",
+            "twitter_url": "https://twitter.com/DnlFrst"
+          },
+          {
             "title": "Little Bites of Cocoa",
             "author": "Jake Marsh",
             "site_url": "https://littlebitesofcocoa.com",
