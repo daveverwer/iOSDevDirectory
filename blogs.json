@@ -6119,6 +6119,13 @@
             "mastodon_url": "https://iosdev.space/@Jeehut"
           },
           {
+            "title": "Mobile Automation Newsletter",
+            "author": "Alexey Alter-Pesotskiy",
+            "site_url": "https://testableapple.com/newsletter/",
+            "feed_url": "https://testableapple.com/feed/newsletter.xml",
+            "twitter_url": "https://twitter.com/testableapple"
+          },
+          {
             "title": "Swift Weekly",
             "author": "Sascha Schwabbauer",
             "site_url": "https://swiftweekly.com",
