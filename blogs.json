@@ -6097,6 +6097,13 @@
             "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
+            "title": "Mobile Automation Newsletter",
+            "author": "Alexey Alter-Pesotskiy",
+            "site_url": "https://testableapple.com/newsletter/",
+            "feed_url": "https://testableapple.com/feed/newsletter.xml",
+            "twitter_url": "https://twitter.com/testableapple"
+          },
+          {
             "title": "Swift Developments",
             "author": "Andy Bargh",
             "site_url": "https://andybargh.com/swiftdevelopments/",
@@ -6110,13 +6117,6 @@
             "feed_url": "https://swiftevolution.substack.com/feed",
             "twitter_url": "https://twitter.com/Jeehut",
             "mastodon_url": "https://iosdev.space/@Jeehut"
-          },
-          {
-            "title": "Mobile Automation Newsletter",
-            "author": "Alexey Alter-Pesotskiy",
-            "site_url": "https://testableapple.com/newsletter/",
-            "feed_url": "https://testableapple.com/feed/newsletter.xml",
-            "twitter_url": "https://twitter.com/testableapple"
           },
           {
             "title": "Swift Weekly",
