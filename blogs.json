@@ -316,6 +316,13 @@
             "twitter_url": "https://www.twitter.com/briantkelley07"
           },
           {
+            "title": "Amanjeet's Blog",
+            "author": "Amanjeet Singh",
+            "site_url": "https://www.amanjeet.me",
+            "feed_url": "https://www.amanjeet.me/rss",
+            "twitter_url": "https://twitter.com/droid_singh"
+          },
+          {
             "title": "Ampersand Softworks",
             "author": "brett ohland",
             "site_url": "https://ampersandsoftworks.com/",
