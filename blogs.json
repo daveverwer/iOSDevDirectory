@@ -7300,6 +7300,21 @@
           }
         ]
       }
+    ],
+    "categories": [
+      {
+        "title": "Youtube Channels",
+        "slug": "youtube",
+        "description": "Canais no YouTube que abordam diversos tópicos relacionados ao desenvolvimento da plataforma Apple.",
+        "sites": [
+          {
+            "title": "CocoaHeads Brasil",
+            "author": "CocoaHeads Brasil",
+            "site_url": "https://www.youtube.com/channel/UCxN-_poBEXynC7YPE_394LQ",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxN-_poBEXynC7YPE_394LQ"
+          }
+        ]
+      }
     ]
   },
   {
