@@ -4139,18 +4139,18 @@
             "twitter_url": "https://twitter.com/stuartkhall"
           },
           {
-            "title": "StuVision an Exploration of Apple Vision Pro",
-            "author": "Stuart Varrall",
-            "site_url": "https://buttondown.email/varrall/archive",
-            "feed_url": "https://buttondown.email/varrall/rss",
-            "mastodon_url": "https://aus.social/@stuart"
-          },
-          {
             "title": "Studiolanes Blog - Apple Vision Pro",
             "author": "Studiolanes",
             "site_url": "https://blog.studiolanes.com/spatial",
             "feed_url": "https://blog.studiolanes.com/rss.xml",
             "twitter_url": "https://twitter.com/studiolanes"
+          },
+          {
+            "title": "StuVision an Exploration of Apple Vision Pro",
+            "author": "Stuart Varrall",
+            "site_url": "https://buttondown.email/varrall/archive",
+            "feed_url": "https://buttondown.email/varrall/rss",
+            "mastodon_url": "https://aus.social/@stuart"
           },
           {
             "title": "Sunset Lake Software",
