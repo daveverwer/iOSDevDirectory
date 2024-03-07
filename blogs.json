@@ -5199,6 +5199,14 @@
         "description": "If a blog is published by a company rather than an individual (or group of individuals), but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
           {
+            "title": "Applaud Studio",
+            "author": "Max Rudberg and Simon Ljungberg",
+            "site_url": "https://blog.applaudstud.io/",
+            "feed_url": "https://blog.applaudstud.io/rss/",
+            "twitter_url": "https://twitter.com/applaudstudio",
+            "mastodon_url": "https://mastodon.social/@applaud"
+          },
+          {
             "title": "all about apps",
             "author": "all about apps Team",
             "site_url": "https://code.allaboutapps.at/categories/ios/",
