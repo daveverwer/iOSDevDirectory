@@ -2630,7 +2630,7 @@
             "title": "Lunar Skydiving",
             "author": "Drew Olbrich",
             "site_url": "https://www.lunarskydiving.com/blog/",
-            "feed_url": "------------------------------------",
+            "feed_url": "https://www.lunarskydiving.com/blog/feed",
             "twitter_url": "https://twitter.com/drewolbrich",
             "mastodon_url": "https://mastodon.social/@drewolbrich"
           },
