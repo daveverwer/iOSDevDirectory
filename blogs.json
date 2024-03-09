@@ -4933,6 +4933,14 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Darryl Bayliss's Blog",
+            "author": "Darryl Bayliss",
+            "site_url": "https://darrylbayliss.net",
+            "feed_url": "https://www.darrylbayliss.net/feeds/ios.xml",
+            "twitter_url": "https://twitter.com/darryl_bayliss",
+            "mastodon_url": "https://mastodon.social/@darryl_bayliss"
           }
         ]
       },
@@ -7466,15 +7474,6 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },
-          {
-            "title": "Darryl Bayliss Blog",
-            "author": "Darryl Bayliss",
-            "site_url": "https://darrylbayliss.net",
-            "feed_url": "https://www.darrylbayliss.net/feeds/ios.xml",
-            "twitter_url": "https://twitter.com/darryl_bayliss",
-            "mastodon_url": "https://mastodon.social/@darryl_bayliss"
-
           }
         ]
       }
