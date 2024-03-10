@@ -4933,6 +4933,14 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Darryl Bayliss's Blog",
+            "author": "Darryl Bayliss",
+            "site_url": "https://darrylbayliss.net",
+            "feed_url": "https://www.darrylbayliss.net/feeds/ios.xml",
+            "twitter_url": "https://twitter.com/darryl_bayliss",
+            "mastodon_url": "https://mastodon.social/@darryl_bayliss"
           }
         ]
       },
