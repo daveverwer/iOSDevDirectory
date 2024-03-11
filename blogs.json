@@ -144,7 +144,6 @@
             "site_url": "https://medium.com/@paritoshraval100",
             "feed_url": "https://medium.com/feed/@paritoshraval100"
           },
-
           {
             "title": "Adrian Schönig's Blog",
             "author": "Adrian Schönig",
@@ -539,8 +538,8 @@
           {
             "title": "Arseniy Kuznetsov’s Blog",
             "author": "Arseniy Kuznetsov",
-            "site_url": "http://www.akpdev.com/",
-            "feed_url": "http://www.akpdev.com/feed.xml"
+            "site_url": "https://www.akpdev.com/",
+            "feed_url": "https://www.akpdev.com/feed.xml"
           },
           {
             "title": "Art and Science of Coding",
@@ -2637,7 +2636,7 @@
             "title": "Lunar Skydiving",
             "author": "Drew Olbrich",
             "site_url": "https://www.lunarskydiving.com/blog/",
-            "feed_url": "https://www.lunarskydiving.com/blog/feed",
+            "feed_url": "https://www.lunarskydiving.com/blog/feed/",
             "twitter_url": "https://twitter.com/drewolbrich",
             "mastodon_url": "https://mastodon.social/@drewolbrich"
           },
