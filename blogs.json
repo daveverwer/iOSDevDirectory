@@ -959,6 +959,13 @@
             "twitter_url": "https://twitter.com/ctietze"
           },
           {
+              "title": "Chris Saez Medium",
+              "author": "Chris Saez",
+              "site_url": "https://medium.com/@SaezChristopher/",
+              "feed_url": "https://medium.com/@SaezChristopher/feed",
+              "twitter_url": "https://twitter.com/SaezChristopher"
+          },
+          {
             "title": "Coach Frank",
             "author": "Frank Courville",
             "site_url": "http://ioscoachfrank.com/",
