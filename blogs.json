@@ -2043,6 +2043,13 @@
             "microblog_url": "https://micro.blog/brentsimmons"
           },
           {
+            "title": "Inner Machinations of a Starfish",
+            "author": "Patrick",
+            "site_url": "https://blog.ptrkstr.com/",
+            "feed_url": "https://blog.ptrkstr.com/rss.xml",
+            "twitter_url": "https://twitter.com/ptrykstr"
+          },
+          {
             "title": "Ioannis Diamantidis",
             "author": "Ioannis Diamantidis",
             "site_url": "https://diamantidis.github.io",
