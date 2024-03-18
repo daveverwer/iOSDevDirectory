@@ -930,6 +930,13 @@
             "twitter_url": "https://twitter.com/cjmash"
           },
           {
+            "title": "Chris Saez Medium",
+            "author": "Chris Saez",
+            "site_url": "https://medium.com/@SaezChristopher",
+            "feed_url": "https://medium.com/@SaezChristopher/feed",
+            "twitter_url": "https://twitter.com/SaezChristopher"
+          },
+          {
             "title": "Chris Winstanley on Medium",
             "author": "Chris Winstanley",
             "site_url": "https://medium.com/@CWinstanley90",
@@ -957,13 +964,6 @@
             "site_url": "https://christiantietze.de/",
             "feed_url": "https://christiantietze.de/feed.atom",
             "twitter_url": "https://twitter.com/ctietze"
-          },
-          {
-            "title": "Chris Saez Medium",
-            "author": "Chris Saez",
-            "site_url": "https://medium.com/@SaezChristopher",
-            "feed_url": "https://medium.com/@SaezChristopher/feed",
-            "twitter_url": "https://twitter.com/SaezChristopher"
           },
           {
             "title": "Coach Frank",
