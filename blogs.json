@@ -139,13 +139,6 @@
             "mastodon_url": "https://mastodon.social/@adincebic"
           },
           {
-            "title": "Paritosh Raval on Medium",
-            "author": "Paritosh Raval",
-            "site_url": "https://medium.com/@paritoshraval100",
-            "feed_url": "https://medium.com/feed/@paritoshraval100"
-          },
-
-          {
             "title": "Adrian Schönig's Blog",
             "author": "Adrian Schönig",
             "site_url": "https://adrian.schoenig.me",
@@ -539,8 +532,8 @@
           {
             "title": "Arseniy Kuznetsov’s Blog",
             "author": "Arseniy Kuznetsov",
-            "site_url": "http://www.akpdev.com/",
-            "feed_url": "http://www.akpdev.com/feed.xml"
+            "site_url": "https://www.akpdev.com/",
+            "feed_url": "https://www.akpdev.com/feed.xml"
           },
           {
             "title": "Art and Science of Coding",
@@ -937,6 +930,13 @@
             "twitter_url": "https://twitter.com/cjmash"
           },
           {
+            "title": "Chris Saez Medium",
+            "author": "Chris Saez",
+            "site_url": "https://medium.com/@SaezChristopher",
+            "feed_url": "https://medium.com/@SaezChristopher/feed",
+            "twitter_url": "https://twitter.com/SaezChristopher"
+          },
+          {
             "title": "Chris Winstanley on Medium",
             "author": "Chris Winstanley",
             "site_url": "https://medium.com/@CWinstanley90",
@@ -1239,6 +1239,14 @@
             "site_url": "https://www.danijelavrzan.com/",
             "feed_url": "https://www.danijelavrzan.com/feed.rss",
             "twitter_url": "https://twitter.com/dvrzan"
+          },
+          {
+            "title": "Darryl Bayliss's Blog",
+            "author": "Darryl Bayliss",
+            "site_url": "https://darrylbayliss.net",
+            "feed_url": "https://www.darrylbayliss.net/feeds/ios.xml",
+            "twitter_url": "https://twitter.com/darryl_bayliss",
+            "mastodon_url": "https://mastodon.social/@darryl_bayliss"
           },
           {
             "title": "Dasdom Dev Blog",
@@ -2049,6 +2057,13 @@
             "microblog_url": "https://micro.blog/brentsimmons"
           },
           {
+            "title": "Inner Machinations of a Starfish",
+            "author": "Patrick",
+            "site_url": "https://blog.ptrkstr.com/",
+            "feed_url": "https://blog.ptrkstr.com/rss.xml",
+            "twitter_url": "https://twitter.com/ptrykstr"
+          },
+          {
             "title": "Ioannis Diamantidis",
             "author": "Ioannis Diamantidis",
             "site_url": "https://diamantidis.github.io",
@@ -2644,7 +2659,7 @@
             "title": "Lunar Skydiving",
             "author": "Drew Olbrich",
             "site_url": "https://www.lunarskydiving.com/blog/",
-            "feed_url": "https://www.lunarskydiving.com/blog/feed",
+            "feed_url": "https://www.lunarskydiving.com/blog/feed/",
             "twitter_url": "https://twitter.com/drewolbrich",
             "mastodon_url": "https://mastodon.social/@drewolbrich"
           },
@@ -3430,6 +3445,12 @@
             "site_url": "https://medium.com/@volbap",
             "feed_url": "https://medium.com/feed/@volbap",
             "twitter_url": "https://twitter.com/volbap"
+          },
+          {
+            "title": "Paritosh Raval on Medium",
+            "author": "Paritosh Raval",
+            "site_url": "https://medium.com/@paritoshraval100",
+            "feed_url": "https://medium.com/feed/@paritoshraval100"
           },
           {
             "title": "Pastey’s blog",
@@ -4947,14 +4968,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Darryl Bayliss's Blog",
-            "author": "Darryl Bayliss",
-            "site_url": "https://darrylbayliss.net",
-            "feed_url": "https://www.darrylbayliss.net/feeds/ios.xml",
-            "twitter_url": "https://twitter.com/darryl_bayliss",
-            "mastodon_url": "https://mastodon.social/@darryl_bayliss"
           }
         ]
       },
