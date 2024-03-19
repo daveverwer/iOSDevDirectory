@@ -1192,6 +1192,13 @@
             "twitter_url": "https://twitter.com/ikenndac"
           },
           {
+            "title": "Daniel Leivers on Medium",
+            "author": "Daniel Leivers",
+            "site_url": "https://medium.com/@sofaracing",
+            "feed_url": "https://medium.com/feed/@sofaracing",
+            "twitter_url": "https://twitter.com/SofaRacing"
+          },
+          {
             "title": "Daniel Saidi’s Blog",
             "author": "Daniel Saidi",
             "site_url": "https://danielsaidi.com/blog/",
