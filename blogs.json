@@ -5735,13 +5735,6 @@
             "feed_url": "https://roundwallsoftware.com/rss.xml"
           },
           {
-            "title": "Runtastic Tech Blog",
-            "author": "Runtastic iOS Devs",
-            "site_url": "https://www.runtastic.com/blog/en/tag/ios",
-            "feed_url": "https://www.runtastic.com/blog/en/tag/ios/feed",
-            "twitter_url": "https://twitter.com/Runtastic"
-          },
-          {
             "title": "The Runway Blog",
             "author": "The Runway Team",
             "site_url": "https://www.runway.team/blog",
