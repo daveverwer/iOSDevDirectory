@@ -3312,13 +3312,6 @@
             "twitter_url": "https://twitter.com/NSProgrammer"
           },
           {
-            "title": "Objective Tidbits",
-            "author": "Ilter Cengiz",
-            "site_url": "https://www.ilter.dev/blog/",
-            "feed_url": "https://www.ilter.dev/blog/",
-            "twitter_url": "https://twitter.com/objtidbits"
-          },
-          {
             "title": "Objective-See’s Blog",
             "author": "Patrick Wardle",
             "site_url": "https://objective-see.org/blog.html",
@@ -5976,7 +5969,7 @@
             "title": "iPhreaks",
             "author": "Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo",
             "site_url": "https://topenddevs.com/podcasts/iphreaks",
-            "feed_url": "https://feeds.redcircle.com/10388ad5-937c-49ef-a8ff-fc59f8214fbe",
+            "feed_url": "https://www.spreaker.com/show/6102052/episodes/feed",
             "twitter_url": "https://twitter.com/iphreaks"
           },
           {
