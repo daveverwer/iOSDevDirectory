@@ -4335,6 +4335,14 @@
             "twitter_url": "https://twitter.com/tommyprezioso"
           },
           {
+            "title": "Swift Toolkit",
+            "author": "Natan Rolnik",
+            "site_url": "https://swifttoolkit.dev/",
+            "feed_url": "https://swifttoolkit.dev/feed.xml",
+            "twitter_url": "https://twitter.com/swifttoolkit",
+            "mastodon_url": "https://mastodon.social/@swifttoolkit"
+          },
+          {
             "title": "Swift Unboxed",
             "author": "Greg Heo",
             "site_url": "https://swiftunboxed.com/",
