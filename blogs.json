@@ -4221,7 +4221,7 @@
             "title": "Sven Weidauer’s Blog",
             "author": "Sven Weidauer",
             "site_url": "https://5sw.de/",
-            "feed_url": "https://5sw.de/feed/",
+            "feed_url": "http://5sw.de/feed.xml",
             "twitter_url": "https://twitter.com/5sw_de"
           },
           {
