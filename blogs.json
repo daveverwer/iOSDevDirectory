@@ -5353,6 +5353,13 @@
             "twitter_url": "https://twitter.com/chimehq"
           },
           {
+            "title": "Coding With Vera",
+            "author": "Vera Dias",
+            "site_url": "https://codingwithvera.com",
+            "feed_url": "https://codingwithvera.com/rss",
+            "twitter_url": "https://twitter.com/CodingWithVera"
+          },
+          {
             "title": "Code as Craft from Etsy",
             "author": "Etsy Engineering Team",
             "site_url": "https://www.etsy.com/codeascraft",
