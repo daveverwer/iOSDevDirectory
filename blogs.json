@@ -86,7 +86,7 @@
             "site_url": "https://calincrist.com/",
             "feed_url": "https://calincrist.com/feed.atom",
             "twitter_url": "https://twitter.com/calin_crist"
-          }
+          },
           {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
