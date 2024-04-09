@@ -4970,6 +4970,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Emre Havan on Medium",
+            "author": "Emre Havan",
+            "site_url": "https://medium.com/@emrehavan",
+            "feed_url": "https://medium.com/feed/@emrehavan",
+            "twitter_url": "https://twitter.com/emrehavan"
           }
         ]
       },
