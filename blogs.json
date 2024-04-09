@@ -81,13 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "calin.crist()",
-            "author": "Calin Cristian Ciubotariu",
-            "site_url": "https://calincrist.com/",
-            "feed_url": "https://calincrist.com/feed.atom",
-            "twitter_url": "https://twitter.com/calin_crist"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -831,6 +824,13 @@
             "site_url": "https://cabel.com/",
             "feed_url": "https://cabel.com/feed/",
             "twitter_url": "https://twitter.com/cabel"
+          },
+          {
+            "title": "calin.crist()",
+            "author": "Calin Cristian Ciubotariu",
+            "site_url": "https://calincrist.com/",
+            "feed_url": "https://calincrist.com/feed.atom",
+            "twitter_url": "https://twitter.com/calin_crist"
           },
           {
             "title": "Call Me Fishmeal",
@@ -5361,13 +5361,6 @@
             "twitter_url": "https://twitter.com/chimehq"
           },
           {
-            "title": "Coding With Vera",
-            "author": "Vera Dias",
-            "site_url": "https://codingwithvera.com",
-            "feed_url": "https://codingwithvera.com/rss",
-            "twitter_url": "https://twitter.com/CodingWithVera"
-          },
-          {
             "title": "Code as Craft from Etsy",
             "author": "Etsy Engineering Team",
             "site_url": "https://www.etsy.com/codeascraft",
@@ -5379,6 +5372,13 @@
             "site_url": "https://blog.codemagic.io",
             "feed_url": "https://blog.codemagic.io/index.xml",
             "twitter_url": "https://twitter.com/codemagicio"
+          },
+          {
+            "title": "Coding With Vera",
+            "author": "Vera Dias",
+            "site_url": "https://codingwithvera.com",
+            "feed_url": "https://codingwithvera.com/rss",
+            "twitter_url": "https://twitter.com/CodingWithVera"
           },
           {
             "title": "Coletiv Studio Blog",
