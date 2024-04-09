@@ -5096,6 +5096,13 @@
             "twitter_url": "https://twitter.com/sdw"
           },
           {
+            "title": "Swifty Lion",
+            "author": "Francesco Leoni",
+            "site_url": "https://swiftylion.com",
+            "feed_url": "https://swiftylion.com/rss.xml",
+            "twitter_url": "https://twitter.com/franceleonidev"
+          },
+          {
             "title": "Tap to Dismiss",
             "author": "Linzi Berry",
             "site_url": "https://medium.com/tap-to-dismiss",
