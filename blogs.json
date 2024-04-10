@@ -1569,6 +1569,13 @@
             "feed_url": "https://emptytheory.com/feed/"
           },
           {
+            "title": "Emre Havan on Medium",
+            "author": "Emre Havan",
+            "site_url": "https://medium.com/@emrehavan",
+            "feed_url": "https://medium.com/feed/@emrehavan",
+            "twitter_url": "https://twitter.com/emrehavan"
+          },
+          {
             "title": "Eneko Alonso's Blog",
             "author": "Eneko Alonso",
             "site_url": "https://www.enekoalonso.com/",
@@ -1971,6 +1978,13 @@
             "site_url": "https://blog.human-friendly.com",
             "feed_url": "https://blog.human-friendly.com/posts.atom",
             "twitter_url": "https://twitter.com/jl_hfl"
+          },
+          {
+            "title": "Huy Pham's Blog",
+            "author": "Huy Pham",
+            "site_url": "https://huypham85.medium.com/",
+            "feed_url": "https://medium.com/feed/@huypham85",
+            "twitter_url": "https://twitter.com/iamhuypham85"
           },
           {
             "title": "Hwee-Boon Yar’s Blog",
@@ -4970,20 +4984,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Emre Havan on Medium",
-            "author": "Emre Havan",
-            "site_url": "https://medium.com/@emrehavan",
-            "feed_url": "https://medium.com/feed/@emrehavan",
-            "twitter_url": "https://twitter.com/emrehavan"
-          },
-          {
-            "title": "Huy Pham's Blog",
-            "author": "Huy Pham",
-            "site_url": "https://huypham85.medium.com/",
-            "feed_url": "https://medium.com/feed/@huypham85",
-            "twitter_url": "https://twitter.com/iamhuypham85"
           }
         ]
       },
