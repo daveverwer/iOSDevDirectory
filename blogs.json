@@ -1069,6 +1069,13 @@
             "feed_url": "https://www.codingwithjeff.org/feed.xml"
           },
           {
+            "title": "Coding With Vera",
+            "author": "Vera Dias",
+            "site_url": "https://codingwithvera.com",
+            "feed_url": "https://codingwithvera.com/rss",
+            "twitter_url": "https://twitter.com/CodingWithVera"
+          },
+          {
             "title": "Coffee. Code. Tech. and more",
             "author": "Maegan Wilson",
             "site_url": "https://cctplus.dev",
@@ -5386,13 +5393,6 @@
             "site_url": "https://blog.codemagic.io",
             "feed_url": "https://blog.codemagic.io/index.xml",
             "twitter_url": "https://twitter.com/codemagicio"
-          },
-          {
-            "title": "Coding With Vera",
-            "author": "Vera Dias",
-            "site_url": "https://codingwithvera.com",
-            "feed_url": "https://codingwithvera.com/rss/",
-            "twitter_url": "https://twitter.com/CodingWithVera"
           },
           {
             "title": "Coletiv Studio Blog",
