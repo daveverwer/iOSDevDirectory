@@ -1072,7 +1072,7 @@
             "title": "Coding With Vera",
             "author": "Vera Dias",
             "site_url": "https://codingwithvera.com",
-            "feed_url": "https://codingwithvera.com/rss",
+            "feed_url": "https://codingwithvera.com/rss/",
             "twitter_url": "https://twitter.com/CodingWithVera"
           },
           {
@@ -3771,8 +3771,8 @@
           {
             "title": "Riley Testut’s Blog",
             "author": "Riley Testut",
-            "site_url": "http://rileytestut.com/blog/",
-            "feed_url": "http://rileytestut.com/feed.xml",
+            "site_url": "https://rileytestut.com/blog/",
+            "feed_url": "https://rileytestut.com/feed.xml",
             "twitter_url": "https://twitter.com/rileytestut"
           },
           {
@@ -6807,13 +6807,6 @@
             "site_url": "https://limboy.me/",
             "feed_url": "http://feeds.feedburner.com/lzyy",
             "twitter_url": "https://twitter.com/lzyy"
-          },
-          {
-            "title": "MrPeak杂货铺",
-            "author": "MrPeak",
-            "site_url": "http://mrpeak.cn/",
-            "feed_url": "http://mrpeak.cn/feed.xml",
-            "twitter_url": "https://twitter.com/MrPeak_"
           },
           {
             "title": "OneV’s Den",
