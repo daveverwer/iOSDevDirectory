@@ -7174,6 +7174,13 @@
             "site_url": "https://www.swiftbeta.com",
             "feed_url": "https://www.swiftbeta.com/rss/",
             "twitter_url": "https://twitter.com/SwiftBeta_"
+          },
+          {
+            "title": "Blog de Óscar Moreno",
+            "author": "Óscar Moreno",
+            "site_url": "https://www.oscarmoreno.com/blog/",
+            "feed_url": "https://www.oscarmoreno.com/blog/index.xml",
+            "twitter_url": "https://twitter.com/oscarmorenodev"
           }
         ]
       },
@@ -7209,6 +7216,13 @@
             "site_url": "https://podcasters.spotify.com/pod/show/let-swift-podcast",
             "twitter_url": "https://twitter.com/letswiftpodcast",
             "feed_url": "https://anchor.fm/s/138e2bb0/podcast/rss"
+          },
+          {
+            "title": "Programando para Apple",
+            "author": "Óscar Moreno",
+            "site_url": "https://oscarmoreno.com/podcast/",
+            "twitter_url": "https://twitter.com/oscarmorenodev",
+            "feed_url": "https://anchor.fm/s/f3f23458/podcast/rss"
           }
         ]
       },
@@ -7251,6 +7265,13 @@
             "site_url": "https://www.youtube.com/mouredevapps",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxPD7bsocoAMq8Dj18kmGyQ",
             "twitter_url": "https://twitter.com/mouredev"
+          },
+          {
+            "title": "Óscar Moreno en Youtube",
+            "author": "Óscar Moreno",
+            "site_url": "https://www.youtube.com/@oscarmorenodev",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu_kDSoTw2KcXfek-zADLYA",
+            "twitter_url": "https://twitter.com/oscarmorenodev"
           }
         ]
       },
