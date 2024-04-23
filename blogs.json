@@ -7148,6 +7148,13 @@
             "twitter_url": "https://twitter.com/apple_coding"
           },
           {
+            "title": "Blog de Óscar Moreno",
+            "author": "Óscar Moreno",
+            "site_url": "https://www.oscarmoreno.com/blog/",
+            "feed_url": "https://www.oscarmoreno.com/blog/index.xml",
+            "twitter_url": "https://twitter.com/oscarmorenodev"
+          },
+          {
             "title": "CFE Apps",
             "author": "Sergio Becerril",
             "site_url": "https://cfeapps.com",
@@ -7174,13 +7181,6 @@
             "site_url": "https://www.swiftbeta.com",
             "feed_url": "https://www.swiftbeta.com/rss/",
             "twitter_url": "https://twitter.com/SwiftBeta_"
-          },
-          {
-            "title": "Blog de Óscar Moreno",
-            "author": "Óscar Moreno",
-            "site_url": "https://www.oscarmoreno.com/blog/",
-            "feed_url": "https://www.oscarmoreno.com/blog/index.xml",
-            "twitter_url": "https://twitter.com/oscarmorenodev"
           }
         ]
       },
