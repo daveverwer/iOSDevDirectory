@@ -3798,6 +3798,14 @@
             "twitter_url": "https://twitter.com/rekerrsive"
           },
           {
+            "title": "Rod Schmidt: Thoughts on Software Development",
+            "author": "Rod Schmidt",
+            "site_url": "https://rodschmidt.com/",
+            "feed_url": "https://rodschmidt.com/index.xml",
+            "twitter_url": "https://twitter.com/rodschmidt",
+            "github_url": "https://github.com/infinitenil"
+          },
+          {
             "title": "Roger Molas’s Blog",
             "author": "Roger Molas",
             "site_url": "https://blog.rogermolas.com/",
