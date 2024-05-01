@@ -2,11 +2,7 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": [
-      "language",
-      "title",
-      "categories"
-    ],
+    "required": ["language", "title", "categories"],
     "additionalProperties": false,
     "properties": {
       "language": {
@@ -19,12 +15,7 @@
         "type": "array",
         "items": {
           "type": "object",
-          "required": [
-            "title",
-            "slug",
-            "description",
-            "sites"
-          ],
+          "required": ["title", "slug", "description", "sites"],
           "additionalProperties": false,
           "properties": {
             "title": {
@@ -40,12 +31,7 @@
               "type": "array",
               "items": {
                 "type": "object",
-                "required": [
-                  "title",
-                  "author",
-                  "site_url",
-                  "feed_url"
-                ],
+                "required": ["title", "author", "site_url", "feed_url"],
                 "additionalProperties": false,
                 "properties": {
                   "title": {
@@ -62,11 +48,19 @@
                     "type": "string",
                     "format": "uri"
                   },
-                  "twitter_url": {
+                  "bluesky_url": {
                     "type": "string",
                     "format": "uri"
                   },
-                  "weibo_url": {
+                  "github_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "linkedin_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "mastodon_url": {
                     "type": "string",
                     "format": "uri"
                   },
@@ -74,7 +68,15 @@
                     "type": "string",
                     "format": "uri"
                   },
-                  "mastodon_url": {
+                  "threads_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "twitter_url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "weibo_url": {
                     "type": "string",
                     "format": "uri"
                   }
