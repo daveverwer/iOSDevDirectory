@@ -5049,6 +5049,15 @@
             "twitter_url": "https://twitter.com/lmjabreu"
           },
           {
+            "title": "Louie Mantia’s Blog",
+            "author": "Louie Mantia",
+            "site_url": "https://lmnt.me/",
+            "feed_url": "https://lmnt.me/feed.xml",
+            "github_url": "https://github.com/mantia",
+            "mastodon_url": "https://pdx.social/@louie",
+            "twitter_url": "https://twitter.com/Mantia"
+          },
+          {
             "title": "Luke Wroblewski’s Blog",
             "author": "Luke Wroblewski",
             "site_url": "https://www.lukew.com/",
