@@ -3001,6 +3001,14 @@
             "twitter_url": "https://twitter.com/EiselMichael"
           },
           {
+            "title": "Michael Freiwald’s Blog",
+            "author": "Michael Freiwald",
+            "site_url": "https://freiwald.dev",
+            "feed_url": "https://freiwald.dev/feed.rss",
+            "mastodon_url": "https://hachyderm.io/@freiwald",
+            "twitter_url": "https://twitter.com/freiwaldDev"
+          },
+          {
             "title": "michael s.",
             "author": "Michael Sprindzuikate",
             "site_url": "https://michaelsprindzuikate.github.io",
