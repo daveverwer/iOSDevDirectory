@@ -785,13 +785,6 @@
             "feed_url": "https://briancoyner.github.io/feed.rss"
           },
           {
-            "title": "Bright Inventions’ Blog",
-            "author": "Bright Inventions’ Team",
-            "site_url": "https://brightinventions.pl/blog/programming/ios/1/",
-            "feed_url": "https://brightinventions.pl/blog/programming/ios/rss.xml",
-            "twitter_url": "https://twitter.com/BrightDevs"
-          },
-          {
             "title": "Bryan Irace’s Blog",
             "author": "Bryan Irace",
             "site_url": "https://irace.me/",
@@ -5383,6 +5376,13 @@
             "site_url": "https://medium.com/bpxl-craft",
             "feed_url": "https://medium.com/feed/bpxl-craft",
             "twitter_url": "https://twitter.com/blackpixel"
+          },
+          {
+            "title": "Bright Inventions’ Blog",
+            "author": "Bright Inventions’ Team",
+            "site_url": "https://brightinventions.pl/blog/programming/ios/1/",
+            "feed_url": "https://brightinventions.pl/blog/programming/ios/rss.xml",
+            "twitter_url": "https://twitter.com/BrightDevs"
           },
           {
             "title": "BrightDigit",
