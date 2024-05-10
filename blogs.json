@@ -39,6 +39,12 @@
             "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
           },
           {
+            "title": "Developer Site Updates",
+            "author": "Apple",
+            "site_url": "https://developer.apple.com/news/site-updates/",
+            "feed_url": "feed://developer.apple.com/news/site-updates/rss/site-updates.rss"
+          },
+          {
             "title": "Official Swift Blog",
             "author": "Apple",
             "site_url": "https://www.swift.org/blog/",
