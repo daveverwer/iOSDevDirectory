@@ -3897,13 +3897,6 @@
             "twitter_url": "https://twitter.com/xenadu02"
           },
           {
-            "title": "rx_marin",
-            "author": "Marin Todorov",
-            "site_url": "https://rx-marin.com/",
-            "feed_url": "https://rx-marin.com/index.xml",
-            "twitter_url": "https://twitter.com/icanzilb"
-          },
-          {
             "title": "Ryan Ashcraft's Blog",
             "author": "Ryan Ashcraft",
             "site_url": "https://ryanashcraft.com",
@@ -4412,13 +4405,6 @@
             "site_url": "https://swiftunwrap.com",
             "feed_url": "https://swiftunwrap.com/feed.rss",
             "twitter_url": "https://twitter.com/pjechris"
-          },
-          {
-            "title": "Swift with Rohan",
-            "author": "Rohan De Silva",
-            "site_url": "https://swiftwithrohan.com/",
-            "feed_url": "https://swiftwithrohan.com/rss.xml/",
-            "twitter_url": "https://twitter.com/rohandsilva8"
           },
           {
             "title": "SwiftBlade",
