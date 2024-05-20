@@ -591,18 +591,18 @@
             "twitter_url": "https://twitter.com/_asif0312"
           },
           {
-            "title": "AttributedStrings",
-            "author": "Scott Anguish",
-            "site_url": "https://www.attributedstrings.com/",
-            "feed_url": "https://www.attributedstrings.com/rss/",
-			"mastodon_url": "https://iosdev.space/@sanguish"
-          },
-          {
             "title": "The Atomic Birdhouse",
             "author": "Tom Harrington",
             "site_url": "https://atomicbird.com/",
             "feed_url": "https://atomicbird.com/index.xml",
             "twitter_url": "https://twitter.com/atomicbird"
+          },
+          {
+            "title": "AttributedStrings",
+            "author": "Scott Anguish",
+            "site_url": "https://www.attributedstrings.com/",
+            "feed_url": "https://www.attributedstrings.com/rss/",
+            "mastodon_url": "https://iosdev.space/@sanguish"
           },
           {
             "title": "AudioKit Blog",
