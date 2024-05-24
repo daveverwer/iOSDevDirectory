@@ -3132,6 +3132,13 @@
             "twitter_url": "https://twitter.com/MobileA11y"
           },
           {
+            "title": "Mobile System Design",
+            "author": "Tjeerd in ’t Veen",
+            "site_url": "https://www.mobilesystemdesign.com/",
+            "feed_url": "https://www.mobilesystemdesign.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/tjeerdintveen"
+          },
+          {
             "title": "Modern AppKit",
             "author": "Pádraig Ó Cinnéide",
             "site_url": "https://padraig.org/",
@@ -6522,6 +6529,13 @@
             "site_url": "https://www.youtube.com/channel/UCZVk_jOoXCPL9c6YKuMDJjA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZVk_jOoXCPL9c6YKuMDJjA",
             "twitter_url": "https://twitter.com/mikemikina"
+          },
+          {
+            "title": "Mobile System Design",
+            "author": "Tjeerd in ’t Veen",
+            "site_url": "https://www.youtube.com/@mobilesystemdesign",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH6xYsGDJ0RJ9qege9zGVYw",
+            "twitter_url": "https://twitter.com/tjeerdintveen"
           },
           {
             "title": "Paul Hudson on YouTube",
