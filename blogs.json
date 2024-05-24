@@ -2125,6 +2125,13 @@
             "twitter_url": "https://twitter.com/ioscreator"
           },
           {
+            "title": "iOS Dev Library",
+            "author": "Frank Thamel",
+            "site_url": "https://iosdevlibrary.com/",
+            "feed_url": "https://iosdevlibrary.com/feed/",
+            "twitter_url": "https://x.com/frankthamel"
+          },
+          {
             "title": "iOS Dev Recipes",
             "author": "Dave Lyon",
             "site_url": "https://www.iosdev.recipes/",
