@@ -3135,7 +3135,8 @@
             "title": "Mobile System Design",
             "author": "Tjeerd in ’t Veen",
             "site_url": "https://www.mobilesystemdesign.com/",
-            "feed_url": "https://www.mobilesystemdesign.com/blog/feed.xml"
+            "feed_url": "https://www.mobilesystemdesign.com/blog/feed.xml",
+            "twitter_url": "https://twitter.com/tjeerdintveen"
           },
           {
             "title": "Modern AppKit",
