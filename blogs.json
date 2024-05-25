@@ -811,11 +811,12 @@
             "twitter_url": "https://twitter.com/irace"
           },
           {
-            "title": "Bryce Pauken’s Blog",
-            "author": "Bryce Pauken",
+            "title": "Bryce Bostwick’s Blog",
+            "author": "Bryce Bostwick",
             "site_url": "https://bryce.co/",
             "feed_url": "https://bryce.co/index.xml",
-            "twitter_url": "https://twitter.com/brycepauken"
+            "twitter_url": "https://twitter.com/brycebostwick1",
+            "mastodon_url": "https://mastodon.bryce.co/@bryce"
           },
           {
             "title": "Build and Run",
