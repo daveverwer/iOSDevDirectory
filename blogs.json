@@ -9,12 +9,6 @@
         "description": "Whether it’s an official Apple blog, or a community blog that keeps us up to date with what’s going on with the platform it’ll be here.",
         "sites": [
           {
-            "title": "Alex Cohen's Blog",
-            "author": "Alex Cohen",
-            "site_url": "https://medium.com/@alexandercohen",
-            "feed_url": "https://medium.com/@alexandercohen/feed"
-          },
-          {
             "title": "App Store Review Guidelines History",
             "author": "The Shape Team",
             "site_url": "http://www.appstorereviewguidelineshistory.com/",
@@ -92,6 +86,12 @@
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
+          {
+            "title": "Alex Cohen's Blog",
+            "author": "Alex Cohen",
+            "site_url": "https://medium.com/@alexandercohen",
+            "feed_url": "https://medium.com/@alexandercohen/feed"
+          },
           {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
