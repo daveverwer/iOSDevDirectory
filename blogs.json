@@ -6214,6 +6214,13 @@
             "twitter_url": "https://twitter.com/ios_code_review"
           },
           {
+            "title": "iOS Coffee Break",
+            "author": "Tiago Henriques",
+            "site_url": "https://www.ioscoffeebreak.com",
+            "feed_url": "https://www.ioscoffeebreak.com/rss.xml",
+            "twitter_url": "https://x.com/tiagodhenriques"
+          },
+          {
             "title": "iOS Dev Weekly",
             "author": "Dave Verwer",
             "site_url": "https://iosdevweekly.com/",
