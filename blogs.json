@@ -1147,7 +1147,8 @@
             "title": "Create with Swift",
             "author": "Giovanni Monaco, Tiago Gomes Pereira, and Moritz Philip Recke",
             "site_url": "https://www.createwithswift.com/",
-            "feed_url": "https://www.createwithswift.com/rss/"
+            "feed_url": "https://www.createwithswift.com/rss/",
+            "twitter_url": "https://twitter.com/createwithswift"
           },
           {
             "title": "Crunchy Development",
