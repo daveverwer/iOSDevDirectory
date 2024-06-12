@@ -3272,6 +3272,13 @@
             "twitter_url": "https://twitter.com/Neil3079"
           },
           {
+            "title": "Neil Macy's Blog",
+            "author": "Neil Macy",
+            "site_url": "https://www.neilmacy.co.uk/",
+            "feed_url": "https://www.neilmacy.co.uk/feed.rss",
+            "mastodon_url": "https://mastodon.social/@neilgmacy"
+          },
+          {
             "title": "Neil Smith’s Blog",
             "author": "Neil Smith",
             "site_url": "https://www.neilsmithdesign.com",
