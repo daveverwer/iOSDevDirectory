@@ -54,7 +54,7 @@
             "title": "Swift Evolution",
             "author": "Apple",
             "site_url": "https://www.swift.org/swift-evolution/",
-            "feed_url": "https://github.com/apple/swift-evolution/commits/main.atom"
+            "feed_url": "https://github.com/swiftlang/swift-evolution/commits/main.atom"
           }
         ]
       },
