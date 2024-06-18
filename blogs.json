@@ -6622,6 +6622,13 @@
             "twitter_url": "https://twitter.com/freak4pc"
           },
           {
+            "title": "Shubham Singh on YouTube",
+            "author": "Shubham Singh",
+            "site_url": "https://www.youtube.com/@shubham_iosdev",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2SjFVR9T2hHWO6Ae6tIO2A",
+            "twitter_url": "https://twitter.com/shubham_iosdev"
+          },
+          {
             "title": "Stewart Lynch on YouTube",
             "author": "Stewart Lynch",
             "site_url": "https://www.youtube.com/channel/UCOWdR4sFkmolWkU2fg669Gg",
@@ -6634,13 +6641,6 @@
             "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2xOn0xQj1HIpHJpOy5tvpA",
             "twitter_url": "https://twitter.com/getstream_io"
-          },
-          {
-            "title": "Shubham Singh on YouTube",
-            "author": "Shubham Singh",
-            "site_url": "https://www.youtube.com/@shubham_iosdev",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2SjFVR9T2hHWO6Ae6tIO2A",
-            "twitter_url": "https://twitter.com/shubham_iosdev"
           },
           {
             "title": "Swift and Tips",
