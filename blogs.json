@@ -7619,7 +7619,39 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          }
+          },
+          {
+            "title": "elkraneo's Blog — Accessibility",
+            "author": "Cristian Díaz",
+            "site_url": "https://www.elkraneo.com/tag/accessibility/",
+            "feed_url": "https://www.elkraneo.com/tag/accessibility/rss/",
+            "mastodon_url": "http://mastodon.social/@elkraneo",
+            "twitter_url": "https://twitter.com/elkraneo"
+          },
+          {
+            "title": "elkraneo's Blog — iOS",
+            "author": "Cristian Díaz",
+            "site_url": "https://www.elkraneo.com/tag/ios/",
+            "feed_url": "https://www.elkraneo.com/tag/ios/rss/",
+            "mastodon_url": "http://mastodon.social/@elkraneo",
+            "twitter_url": "https://twitter.com/elkraneo"
+          },
+          {
+            "title": "elkraneo's Blog — Spatial Computing",
+            "author": "Cristian Díaz",
+            "site_url": "https://www.elkraneo.com/tag/spatial-computing/",
+            "feed_url": "https://www.elkraneo.com/tag/spatial-computing/rss/",
+            "mastodon_url": "http://mastodon.social/@elkraneo",
+            "twitter_url": "https://twitter.com/elkraneo"
+          },
+          {
+            "title": "elkraneo's Blog — visionOS",
+            "author": "Cristian Díaz",
+            "site_url": "https://www.elkraneo.com/tag/visionos/",
+            "feed_url": "https://www.elkraneo.com/tag/visionos/rss/",
+            "mastodon_url": "http://mastodon.social/@elkraneo",
+            "twitter_url": "https://twitter.com/elkraneo"
+          },
         ]
       }
     ]
