@@ -7619,6 +7619,14 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
+          },
+          {
+            "title": "elkraneo",
+            "author": "Cristian Díaz",
+            "site_url": "https://www.elkraneo.com/",
+            "feed_url": "https://www.elkraneo.com/rss/",
+            "mastodon_url": "http://mastodon.social/@elkraneo",
+            "twitter_url": "https://twitter.com/elkraneo"
           }
         ]
       }
