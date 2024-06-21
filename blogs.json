@@ -1584,6 +1584,14 @@
             "twitter_url": "https://twitter.com/_eliperkins"
           },
           {
+            "title": "elkraneo",
+            "author": "Cristian Díaz",
+            "site_url": "https://www.elkraneo.com/",
+            "feed_url": "https://www.elkraneo.com/rss/",
+            "mastodon_url": "http://mastodon.social/@elkraneo",
+            "twitter_url": "https://twitter.com/elkraneo"
+          },
+          {
             "title": "Emilio Peláez’s Blog",
             "author": "Emilio Peláez",
             "site_url": "https://medium.com/@Pelaez",
@@ -5049,14 +5057,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "elkraneo",
-            "author": "Cristian Díaz",
-            "site_url": "https://www.elkraneo.com/",
-            "feed_url": "https://www.elkraneo.com/rss/",
-            "mastodon_url": "http://mastodon.social/@elkraneo",
-            "twitter_url": "https://twitter.com/elkraneo"
           }
         ]
       },
