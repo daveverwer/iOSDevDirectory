@@ -4991,7 +4991,7 @@
           },
           {
             "title": "XReality.Zone's Blog EN",
-            "author": "张思琦(@SketchK_47)",
+            "author": "思琦(@SwiftSIQI)",
             "site_url": "https://xreality.zone/en/",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
@@ -6318,7 +6318,7 @@
           },
           {
             "title": "XR World Weekly",
-            "author": "张思琦(@SketchK_47)",
+            "author": "思琦(@SwiftSIQI)",
             "site_url": "https://xreality.zone/en/tags/newsletter/",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
@@ -6913,12 +6913,12 @@
             "weibo_url": "http://weibo.com/onevcat"
           },
           {
-            "title": "SketchK‘s Studio",
-            "author": "张思琦(@SketchK_47)",
-            "site_url": "https://sketchk.xyz/",
-            "feed_url": "https://sketchk.xyz/feed.xml",
-            "twitter_url": "https://twitter.com/SketchK_47",
-            "mastodon_url": "https://mastodon.social/@sketchk",
+            "title": "SwiftSIQI的技术博客",
+            "author": "思琦(@SwiftSIQI)",
+            "site_url": "https://swiftsiqi.xyz/",
+            "feed_url": "https://swiftsiqi.com/feed.xml",
+            "twitter_url": "https://twitter.com/SwiftSIQI",
+            "mastodon_url": "https://mastodon.social/@SwiftSIQI",
             "weibo_url": "https://www.weibo.com/1673935657"
           },
           {
