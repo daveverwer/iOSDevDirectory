@@ -5958,13 +5958,6 @@
             "site_url": "https://blog.xmartlabs.com/category/ios-development/",
             "feed_url": "https://blog.xmartlabs.com/feed.xml",
             "twitter_url": "https://twitter.com/xmartlabs"
-          },
-          {
-            "title": "Zonneveld Dev Blog",
-            "author": "Jeroen Zonneveld",
-            "site_url": "https://zonneveld.dev",
-            "feed_url": "https://zonneveld.dev/feed/",
-            "twitter_url": "https://twitter.com/j_zonneveld"
           }
         ]
       },
