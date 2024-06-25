@@ -6906,15 +6906,6 @@
             "weibo_url": "http://weibo.com/onevcat"
           },
           {
-            "title": "SwiftSIQI的技术博客",
-            "author": "思琦(@SwiftSIQI)",
-            "site_url": "https://swiftsiqi.com/",
-            "feed_url": "https://swiftsiqi.com/feed.xml",
-            "twitter_url": "https://x.com/SwiftSIQI",
-            "mastodon_url": "https://mastodon.social/@SwiftSIQI",
-            "weibo_url": "https://www.weibo.com/1673935657"
-          },
-          {
             "title": "Sunnyxx",
             "author": "我就叫Sunny怎么了",
             "site_url": "http://blog.sunnyxx.com",
@@ -6927,6 +6918,15 @@
             "site_url": "https://swift.gg/",
             "feed_url": "https://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
+          },
+          {
+            "title": "SwiftSIQI的技术博客",
+            "author": "思琦(@SwiftSIQI)",
+            "site_url": "https://swiftsiqi.com/",
+            "feed_url": "https://swiftsiqi.com/feed.xml",
+            "twitter_url": "https://x.com/SwiftSIQI",
+            "mastodon_url": "https://mastodon.social/@SwiftSIQI",
+            "weibo_url": "https://www.weibo.com/1673935657"
           },
           {
             "title": "XReality.Zone 中文版",
