@@ -5323,6 +5323,14 @@
             "author": "Zachary Shakked",
             "site_url": "https://blog.zach.so",
             "feed_url": "https://blog.zach.so/feed"
+          },
+          {
+            "title": "Swifty Ship",
+            "author": "Valentin Mille",
+            "site_url": "https://valentinmille.com/newsletter/",
+            "feed_url": "https://valentinmille.com/newsletter/rss",
+            "twitter_url": "https://x.com/valentin_mll",
+            "mastodon_url": "https://mastodon.social/@valentin_mll"
           }
         ]
       },
@@ -6315,6 +6323,14 @@
             "site_url": "https://xreality.zone/en/tags/newsletter/",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
+          },
+          {
+            "title": "Swifty Ship Weekly",
+            "author": "Valentin Mille",
+            "site_url": "https://valentinmille.com/newsletter/",
+            "feed_url": "https://valentinmille.com/newsletter/rss",
+            "twitter_url": "https://x.com/valentin_mll",
+            "mastodon_url": "https://mastodon.social/@valentin_mll"
           }
         ]
       },
