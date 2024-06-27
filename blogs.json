@@ -6320,7 +6320,7 @@
             "title": "Swifty Ship Weekly",
             "author": "Valentin Mille",
             "site_url": "https://valentinmille.com/newsletter/",
-            "feed_url": "https://valentinmille.com/newsletter/rss",
+            "feed_url": "https://valentinmille.com/newsletter/rss/",
             "twitter_url": "https://x.com/valentin_mll",
             "mastodon_url": "https://mastodon.social/@valentin_mll"
           }
