@@ -1599,6 +1599,13 @@
             "twitter_url": "https://twitter.com/emiliopelaez"
           },
           {
+            "title": "The empathic dev",
+            "author": "Christian Braun",
+            "site_url": "https://theempathicdev.de/blog",
+            "feed_url": "https://theempathicdev.de/rss.xml",
+            "twitter_url": "https://x.com/NorbiBraun"
+          },
+          {
             "title": "eMpTy Theory",
             "author": "Mark Thormann",
             "site_url": "https://emptytheory.com",
@@ -4604,13 +4611,6 @@
             "twitter_url": "https://twitter.com/leg_of_guldan"
           },
           {
-            "title": "The empathic dev",
-            "author": "Christian Braun",
-            "site_url": "https://theempathicdev.de/blog",
-            "feed_url": "https://theempathicdev.de/rss.xml",
-            "twitter_url": "https://x.com/NorbiBraun"
-          },
-          {
             "title": "Theocacao",
             "author": "Scott Stevenson",
             "site_url": "http://theocacao.com",
@@ -6317,19 +6317,19 @@
             "twitter_url": "https://twitter.com/adam9rush"
           },
           {
-            "title": "XR World Weekly",
-            "author": "思琦(@SwiftSIQI)",
-            "site_url": "https://xreality.zone/en/tags/newsletter/",
-            "feed_url": "https://xreality.zone/feed.xml",
-            "twitter_url": "https://twitter.com/XRealityZone"
-          },
-          {
             "title": "Swifty Ship Weekly",
             "author": "Valentin Mille",
             "site_url": "https://valentinmille.com/newsletter/",
             "feed_url": "https://valentinmille.com/newsletter/rss/",
             "twitter_url": "https://x.com/valentin_mll",
             "mastodon_url": "https://mastodon.social/@valentin_mll"
+          },
+          {
+            "title": "XR World Weekly",
+            "author": "思琦(@SwiftSIQI)",
+            "site_url": "https://xreality.zone/en/tags/newsletter/",
+            "feed_url": "https://xreality.zone/feed.xml",
+            "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
       },
