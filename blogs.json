@@ -6195,6 +6195,13 @@
             "twitter_url": "https://twitter.com/artjomsvorona"
           },
           {
+            "title": "Fatbobman's Swift Weekly",
+            "author": "Fatbobman",
+            "site_url": "https://weekly.fatbobman.com",
+            "feed_url": "https://weekly.fatbobman.com/feed",
+            "twitter_url": "https://x.com/fatbobman"
+          },
+          {
             "title": "Indie Dev Monday",
             "author": "Josh Holtz",
             "site_url": "https://indiedevmonday.com",
@@ -6323,13 +6330,6 @@
             "site_url": "https://xreality.zone/en/tags/newsletter/",
             "feed_url": "https://xreality.zone/feed.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
-          },
-          {
-            "title": "Fatbobman's Swift Weekly",
-            "author": "Fatbobman",
-            "site_url": "https://weekly.fatbobman.com",
-            "feed_url": "https://weekly.fatbobman.com/feed",
-            "twitter_url": "https://x.com/fatbobman"
           }
         ]
       },
