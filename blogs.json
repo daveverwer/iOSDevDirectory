@@ -4339,13 +4339,6 @@
             "twitter_url": "https://twitter.com/johnsundell"
           },
           {
-            "title": "Swift Cloud Blog",
-            "author": "Andrew Barba",
-            "site_url": "https://swift.cloud/blog",
-            "feed_url": "https://offline.ghost.org",
-            "twitter_url": "https://twitter.com/SwiftCloudApp"
-          },
-          {
             "title": "Swift Dev Journal",
             "author": "Mark Szymczyk",
             "site_url": "https://www.swiftdevjournal.com/",
