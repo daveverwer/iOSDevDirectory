@@ -328,13 +328,6 @@
             "twitter_url": "https://www.twitter.com/briantkelley07"
           },
           {
-            "title": "Amanjeet's Blog",
-            "author": "Amanjeet Singh",
-            "site_url": "https://www.amanjeet.me",
-            "feed_url": "https://www.amanjeet.me/rss/",
-            "twitter_url": "https://twitter.com/droid_singh"
-          },
-          {
             "title": "Ampersand Softworks",
             "author": "brett ohland",
             "site_url": "https://ampersandsoftworks.com/",
@@ -4344,13 +4337,6 @@
             "site_url": "https://www.swiftbysundell.com/",
             "feed_url": "https://swiftbysundell.com/feed.rss",
             "twitter_url": "https://twitter.com/johnsundell"
-          },
-          {
-            "title": "Swift Cloud Blog",
-            "author": "Andrew Barba",
-            "site_url": "https://swift.cloud/blog",
-            "feed_url": "https://offline.ghost.org",
-            "twitter_url": "https://twitter.com/SwiftCloudApp"
           },
           {
             "title": "Swift Dev Journal",
