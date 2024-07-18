@@ -4904,7 +4904,7 @@
             "title": "We ❤ Swift",
             "author": "Andrei Puni, Catalin Perticas and Cazoni Robert",
             "site_url": "https://www.weheartswift.com",
-            "feed_url": "https://www.weheartswift.com/feed/"
+            "feed_url": "https://www.weheartswift.com/"
           },
           {
             "title": "Weaponized Fluff",
@@ -7219,7 +7219,7 @@
           {
             "title": "alexruperez.com",
             "author": "Alex Rupérez",
-            "site_url": "http://www.alexruperez.com/entries",
+            "site_url": "https://www.alexruperez.com/entries",
             "feed_url": "http://feeds.alexruperez.com/alexruperez",
             "twitter_url": "https://twitter.com/alexruperez"
           },
