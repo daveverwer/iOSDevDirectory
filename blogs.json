@@ -4901,12 +4901,6 @@
             "twitter_url": "https://twitter.com/warrenm"
           },
           {
-            "title": "We ❤ Swift",
-            "author": "Andrei Puni, Catalin Perticas and Cazoni Robert",
-            "site_url": "https://www.weheartswift.com",
-            "feed_url": "https://www.weheartswift.com/feed/"
-          },
-          {
             "title": "Weaponized Fluff",
             "author": "Andrew Pontious",
             "site_url": "https://apontious.com",
@@ -7216,13 +7210,6 @@
         "slug": "development",
         "description": "Blogs de desarrollo en plataformas de Apple en español. Sin importar si están centrados en Swift u Objective-C, en arquitectura de aplicaciones o desarrollo de UI.",
         "sites": [
-          {
-            "title": "alexruperez.com",
-            "author": "Alex Rupérez",
-            "site_url": "http://www.alexruperez.com/entries",
-            "feed_url": "http://feeds.alexruperez.com/alexruperez",
-            "twitter_url": "https://twitter.com/alexruperez"
-          },
           {
             "title": "Apple Coding",
             "author": "Julio César Fernández",
