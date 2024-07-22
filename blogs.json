@@ -5303,6 +5303,13 @@
             "author": "Zachary Shakked",
             "site_url": "https://blog.zach.so",
             "feed_url": "https://blog.zach.so/feed"
+          },
+          {
+            "title": "GoMarketMe Blog",
+            "author": "Toni Peinoit",
+            "site_url": "https://gomarketme.co/blog",
+            "feed_url": "https://gomarketme.co/feed",
+            "twitter_url": "https://x.com/gomarketmetech"
           }
         ]
       },
@@ -7601,13 +7608,6 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },
-          {
-            "title": "GoMarketMe Blog",
-            "author": "Toni Peinoit",
-            "site_url": "https://gomarketme.co/blog",
-            "feed_url": "https://gomarketme.co/feed",
-            "twitter_url": "https://x.com/gomarketmetech"
           }
         ]
       }
