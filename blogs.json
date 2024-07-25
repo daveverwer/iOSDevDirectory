@@ -5245,8 +5245,8 @@
           {
             "title": "GoMarketMe Blog",
             "author": "Toni Peinoit",
-            "site_url": "https://gomarketme.co/blog",
-            "feed_url": "https://gomarketme.co/feed",
+            "site_url": "https://gomarketme.co/blog/",
+            "feed_url": "https://gomarketme.co/feed/",
             "twitter_url": "https://x.com/gomarketmetech"
           },
           {
