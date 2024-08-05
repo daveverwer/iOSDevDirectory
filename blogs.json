@@ -416,6 +416,13 @@
             "twitter_url": "https://twitter.com/AndyIbanezK"
           },
           {
+            "title": "Andy Iakovlev's Blog",
+            "author": "Andrei (Andy) Iakovlev",
+            "site_url": "https://qstrnd.github.io/",
+            "feed_url": "https://qstrnd.github.io/feed.xml",
+            "mastodon_url": "https://mastodon.social/@qstrnd"
+          },
+          {
             "title": "Andy Matuschak’s Blog",
             "author": "Andy Matuschak",
             "site_url": "https://blog.andymatuschak.org/",
