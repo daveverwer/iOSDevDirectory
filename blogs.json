@@ -4767,6 +4767,14 @@
             "twitter_url": "https://twitter.com/TyHnec"
           },
           {
+            "title": "twocentstudios",
+            "author": "Chris Trott",
+            "site_url": "https://twocentstudios.com/blog/tags/apple/index.html",
+            "feed_url": "https://twocentstudios.com/blog/tags/apple/feed.xml",
+            "twitter_url": "https://twitter.com/twocentstudios",
+            "mastodon_url": "https://hackyderm.io/@twocentstudios"
+          },
+          {
             "title": "Two Minute iOS",
             "author": "Damien Laughton",
             "site_url": "https://medium.com/@dfplaughton",
