@@ -409,18 +409,18 @@
             "twitter_url": "https://twitter.com/s1ddok"
           },
           {
-            "title": "Andy Ibanez’s Blog",
-            "author": "Andy Ibanez",
-            "site_url": "https://www.andyibanez.com/tags/apple/",
-            "feed_url": "https://www.andyibanez.com/tags/apple/index.xml",
-            "twitter_url": "https://twitter.com/AndyIbanezK"
-          },
-          {
             "title": "Andy Iakovlev's Blog",
             "author": "Andrei (Andy) Iakovlev",
             "site_url": "https://qstrnd.github.io/",
             "feed_url": "https://qstrnd.github.io/feed.xml",
             "mastodon_url": "https://mastodon.social/@qstrnd"
+          },
+          {
+            "title": "Andy Ibanez’s Blog",
+            "author": "Andy Ibanez",
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "feed_url": "https://www.andyibanez.com/tags/apple/index.xml",
+            "twitter_url": "https://twitter.com/AndyIbanezK"
           },
           {
             "title": "Andy Matuschak’s Blog",
@@ -4774,19 +4774,19 @@
             "twitter_url": "https://twitter.com/TyHnec"
           },
           {
+            "title": "Two Minute iOS",
+            "author": "Damien Laughton",
+            "site_url": "https://medium.com/@dfplaughton",
+            "feed_url": "https://medium.com/feed/@dfplaughton",
+            "twitter_url": "https://twitter.com/dfplaughton"
+          },
+          {
             "title": "twocentstudios",
             "author": "Chris Trott",
             "site_url": "https://twocentstudios.com/blog/tags/apple/index.html",
             "feed_url": "https://twocentstudios.com/blog/tags/apple/feed.xml",
             "twitter_url": "https://twitter.com/twocentstudios",
             "mastodon_url": "https://hackyderm.io/@twocentstudios"
-          },
-          {
-            "title": "Two Minute iOS",
-            "author": "Damien Laughton",
-            "site_url": "https://medium.com/@dfplaughton",
-            "feed_url": "https://medium.com/feed/@dfplaughton",
-            "twitter_url": "https://twitter.com/dfplaughton"
           },
           {
             "title": "Umberto Raimondi’s Blog",
