@@ -2294,6 +2294,12 @@
             "twitter_url": "https://twitter.com/jeffmorhous"
           },
           {
+            "title": "Jeff Verkoeyen’s Blog",
+            "author": "Jeff Verkoeyen",
+            "site_url": "https://jeffverkoeyen.com/",
+            "feed_url": "http://jeffverkoeyen.com/feed.atom"
+          },
+          {
             "title": "Jeff Watkins’ Blog",
             "author": "Jeff Watkins",
             "site_url": "https://jeffwatkins.dev/articles",
