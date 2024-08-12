@@ -2297,7 +2297,7 @@
             "title": "Jeff Verkoeyen’s Blog",
             "author": "Jeff Verkoeyen",
             "site_url": "https://jeffverkoeyen.com/",
-            "feed_url": "http://jeffverkoeyen.com/feed.atom"
+            "feed_url": "https://jeffverkoeyen.com/feed.atom"
           },
           {
             "title": "Jeff Watkins’ Blog",
@@ -4263,8 +4263,8 @@
           {
             "title": "StuVision an Exploration of Apple Vision Pro",
             "author": "Stuart Varrall",
-            "site_url": "https://buttondown.email/varrall/archive",
-            "feed_url": "https://buttondown.email/varrall/rss",
+            "site_url": "https://buttondown.com/varrall/archive",
+            "feed_url": "https://buttondown.com/varrall/rss",
             "mastodon_url": "https://aus.social/@stuart"
           },
           {
