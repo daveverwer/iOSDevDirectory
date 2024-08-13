@@ -4781,6 +4781,12 @@
             "mastodon_url": "https://hackyderm.io/@twocentstudios"
           },
           {
+            "title": "Ufuk's Blog",
+            "author": "Ufuk Canlı",
+            "site_url": "https://ufukcanli.com",
+            "feed_url": "https://ufukcanli.com/feed"
+          },
+          {
             "title": "Umberto Raimondi’s Blog",
             "author": "Umberto Raimondi",
             "site_url": "https://www.uraimo.com",
@@ -4807,12 +4813,6 @@
             "site_url": "https://useyourloaf.com/blog/",
             "feed_url": "https://useyourloaf.com/blog/rss.xml",
             "twitter_url": "https://twitter.com/kharrison"
-          },
-          {
-            "title": "Ufuk's Blog",
-            "author": "Ufuk Canlı",
-            "site_url": "https://ufukcanli.com",
-            "feed_url": "https://ufukcanli.com/feed"
           },
           {
             "title": "Vadim Drobinin’s Blog",
