@@ -5680,7 +5680,7 @@
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://lickability.com/blog/",
-            "feed_url": "https://lickability.com/blog/feed/",
+            "feed_url": "https://lickability.com/feed.xml",
             "twitter_url": "https://twitter.com/lickability"
           },
           {
