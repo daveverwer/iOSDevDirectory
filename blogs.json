@@ -3470,19 +3470,19 @@
             "twitter_url": "https://twitter.com/OrestisPapadop8"
           },
           {
+            "title": "Otbivnoe's Blog",
+            "author": "Nikita Ermolenko",
+            "site_url": "https://otbivnoe.ru",
+            "feed_url": "https://otbivnoe.ru/feed.xml",
+            "twitter_url": "https://twitter.com/otbivnoe"
+          },
+          {
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
             "feed_url": "https://otavio.cc/categories/swift/feed.xml",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
-          },
-          {
-            "title": "Otbivnoe's Blog",
-            "author": "Nikita Ermolenko",
-            "site_url": "https://otbivnoe.ru",
-            "feed_url": "https://otbivnoe.ru/feed.xml",
-            "twitter_url": "https://twitter.com/otbivnoe"
           },
           {
             "title": "Overdesigned Blog",
