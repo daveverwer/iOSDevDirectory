@@ -6916,13 +6916,6 @@
             "weibo_url": "http://weibo.com/1364395395/"
           },
           {
-            "title": "SwiftGG",
-            "author": "SwiftGG翻译组",
-            "site_url": "https://swift.gg/",
-            "feed_url": "https://swift.gg/atom.xml",
-            "weibo_url": "https://weibo.com/swiftguide"
-          },
-          {
             "title": "SwiftSIQI的技术博客",
             "author": "思琦(@SwiftSIQI)",
             "site_url": "https://swiftsiqi.com/",
