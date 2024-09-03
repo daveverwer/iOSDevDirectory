@@ -191,8 +191,8 @@
           {
             "title": "Alejandro Martinez's Blog",
             "author": "Alejandro Martinez",
-            "site_url": "https://alejandromp.com",
-            "feed_url": "https://alejandromp.com/blog/feed.xml",
+            "site_url": "https://alejandromp.com/development",
+            "feed_url": "https://alejandromp.com/development/feed.rss",
             "twitter_url": "https://twitter.com/alexito4"
           },
           {
