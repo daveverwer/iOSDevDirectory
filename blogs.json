@@ -191,7 +191,7 @@
           {
             "title": "Alejandro Martinez's Blog",
             "author": "Alejandro Martinez",
-            "site_url": "https://alejandromp.com/development",
+            "site_url": "https://alejandromp.com/development/",
             "feed_url": "https://alejandromp.com/development/feed.rss",
             "twitter_url": "https://twitter.com/alexito4"
           },
@@ -3480,7 +3480,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/categories/swift/feed.xml",
+            "feed_url": "https://otavio.cc/categories/swift/feed.xml/",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
@@ -7560,7 +7560,7 @@
           {
             "title": "DoorDash Engineering Blog",
             "author": "DoorDash Engineering Team",
-            "site_url": "https://doordash.engineering/category/mobile/",
+            "site_url": "https://careers.doordash.com/blog/?category=Mobile",
             "feed_url": "https://doordash.engineering/category/mobile/feed/",
             "twitter_url": "https://twitter.com/doordasheng"
           },
