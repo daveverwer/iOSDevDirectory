@@ -5051,6 +5051,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Swift Anytime",
+            "author": "Mayank Gupta & Etisha Garg",
+            "site_url": "https://www.swiftanytime.com/blog",
+            "feed_url": "https://www.swiftanytime.com/blog.rss",
+            "twitter_url": "https://x.com/swiftanytime"
           }
         ]
       },
