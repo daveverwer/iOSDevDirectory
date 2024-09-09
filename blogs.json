@@ -2087,8 +2087,8 @@
           {
             "title": "Indie Spark",
             "author": "Sasmito Adibowo",
-            "site_url": "https://indiespark.top/tag/ios/",
-            "feed_url": "https://indiespark.top/tag/ios/feed/"
+            "site_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi"
           },
           {
             "title": "Indie Stack",
@@ -3480,7 +3480,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/feed",
+            "feed_url": "https://otavio.cc/feed/",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
@@ -5287,8 +5287,8 @@
           {
             "title": "Indie Spark",
             "author": "Sasmito Adibowo",
-            "site_url": "https://indiespark.top/tag/app-store/",
-            "feed_url": "https://indiespark.top/tag/app-store/feed/",
+            "site_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/cutecoder"
           },
           {
