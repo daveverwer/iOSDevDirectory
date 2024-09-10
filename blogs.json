@@ -4326,6 +4326,13 @@
             "twitter_url": "https://twitter.com/theillbo"
           },
           {
+            "title": "Swift Anytime",
+            "author": "Mayank Gupta & Etisha Garg",
+            "site_url": "https://www.swiftanytime.com/blog",
+            "feed_url": "https://www.swiftanytime.com/blog.rss",
+            "twitter_url": "https://x.com/swiftanytime"
+          },
+          {
             "title": "Swift by Sundell",
             "author": "John Sundell",
             "site_url": "https://www.swiftbysundell.com/",
@@ -5045,13 +5052,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Swift Anytime",
-            "author": "Mayank Gupta & Etisha Garg",
-            "site_url": "https://www.swiftanytime.com/blog",
-            "feed_url": "https://www.swiftanytime.com/blog.rss",
-            "twitter_url": "https://x.com/swiftanytime"
           }
         ]
       },
@@ -6430,6 +6430,13 @@
             "twitter_url": "https://twitter.com/designcodeio"
           },
           {
+            "title": "Etisha Garg on YouTube",
+            "author": "Etisha Garg",
+            "site_url": "https://www.youtube.com/c/etishagarg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNliY-e1-7VNtuWgrSib1UQ",
+            "twitter_url": "https://x.com/etishaagarg"
+          },
+          {
             "title": "FastBike",
             "author": "Tiago Martinho & Lewis Black",
             "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
@@ -6735,13 +6742,6 @@
             "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
             "twitter_url": "https://twitter.com/alfianlosari"
-          },
-          {
-            "title": "Etisha Garg on YouTube",
-            "author": "Etisha Garg",
-            "site_url": "https://www.youtube.com/c/etishagarg",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNliY-e1-7VNtuWgrSib1UQ",
-            "twitter_url": "https://x.com/etishaagarg"
           }
         ]
       },
