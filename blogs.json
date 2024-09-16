@@ -7566,6 +7566,12 @@
             "twitter_url": "https://twitter.com/doordasheng"
           },
           {
+            "title": "Fullstacktuts Blog",
+            "author": "Gwinyai Nyatsoka",
+            "site_url": "https://fullstacktuts.com/blog",
+            "feed_url": "https://www.fullstacktuts.com/blog.rss"
+          },
+          {
             "title": "Hassan Mostafa on Youtube",
             "author": "Hassan Mostafa",
             "site_url": "https://www.youtube.com/channel/UCG1exD_QUnnOxS8NRmEfvPg",
@@ -7616,12 +7622,6 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },
-          {
-            "title": "Fullstacktuts Blog",
-            "author": "Gwinyai Nyatsoka",
-            "site_url": "https://fullstacktuts.com/blog",
-            "feed_url": "https://www.fullstacktuts.com/blog.rss"
           }
         ]
       }
