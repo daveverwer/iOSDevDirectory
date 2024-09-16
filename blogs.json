@@ -7616,6 +7616,12 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
+          },
+          {
+            "title": "Fullstacktuts Blog",
+            "author": "Gwinyai Nyatsoka",
+            "site_url": "https://fullstacktuts.com/blog",
+            "feed_url": "https://www.fullstacktuts.com/blog.rss"
           }
         ]
       }
