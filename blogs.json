@@ -860,6 +860,13 @@
             "twitter_url": "https://twitter.com/wilshipley"
           },
           {
+            "title": "Captain SwiftUI",
+            "author": "Danny Bolella",
+            "site_url": "https://captainswiftui.substack.com",
+            "feed_url": "https://captainswiftui.substack.com/feed",
+            "twitter_url": "https://twitter.com/dbolella"
+          },
+          {
             "title": "Carlos Santos’ Blog",
             "author": "Carlos Santos",
             "site_url": "https://crsantos.info",
