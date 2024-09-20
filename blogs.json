@@ -860,6 +860,13 @@
             "twitter_url": "https://twitter.com/wilshipley"
           },
           {
+            "title": "Captain SwiftUI",
+            "author": "Danny Bolella",
+            "site_url": "https://captainswiftui.substack.com",
+            "feed_url": "https://captainswiftui.substack.com/feed",
+            "twitter_url": "https://twitter.com/dbolella"
+          },
+          {
             "title": "Carlos Santos’ Blog",
             "author": "Carlos Santos",
             "site_url": "https://crsantos.info",
@@ -5370,7 +5377,7 @@
           {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
-            "site_url": "https://bignerdranch.com/blog/category/ios/",
+            "site_url": "https://bignerdranch.com/blog/category/ios",
             "feed_url": "https://bignerdranch.com/blog/category/ios/feed/",
             "twitter_url": "https://twitter.com/bignerdranch"
           },
@@ -6067,7 +6074,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "https://www.mtjc.fm/",
+            "site_url": "https://morethanjustcode.com",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -7557,6 +7564,12 @@
             "site_url": "https://careers.doordash.com/blog/?category=Mobile",
             "feed_url": "https://doordash.engineering/category/mobile/feed/",
             "twitter_url": "https://twitter.com/doordasheng"
+          },
+          {
+            "title": "Fullstacktuts Blog",
+            "author": "Gwinyai Nyatsoka",
+            "site_url": "https://www.fullstacktuts.com/blog",
+            "feed_url": "https://www.fullstacktuts.com/blog.rss"
           },
           {
             "title": "Hassan Mostafa on Youtube",
