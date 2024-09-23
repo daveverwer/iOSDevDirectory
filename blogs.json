@@ -5794,6 +5794,13 @@
             "twitter_url": "https://twitter.com/quicktypeio"
           },
           {
+            "title": "Requestly Blog",
+            "author": "Requestly Team",
+            "site_url": "https://requestly.com/blog/category/mobile-development/ios-development/",
+            "feed_url": "https://requestly.com/blog/category/mobile-development/ios-development/feed/",
+            "twitter_url": "https://twitter.com/requestlyIO"
+          },
+          {
             "title": "Reveal Blog",
             "author": "Reveal Team",
             "site_url": "https://revealapp.com",
