@@ -7249,8 +7249,8 @@
           {
             "title": "CFE Apps",
             "author": "Sergio Becerril",
-            "site_url": "https://cfeapps.com",
-            "feed_url": "https://cfeapps.com/feed/",
+            "site_url": "https://cfeapps.com/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://cfeapps.com/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/CFEApps"
           },
           {
