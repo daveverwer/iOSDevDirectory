@@ -94,6 +94,13 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
+            "title": "Andrea Stevanato on Medium",
+            "author": "Andrea Stevanato",
+            "site_url": "https://medium.com/@andr3a88",
+            "feed_url": "https://medium.com/feed/@andr3a88",
+            "twitter_url": "https://twitter.com/andrea_steva"
+          },
+          {
             "title": "A Swift Misadventure",
             "author": "Claudio Cannino",
             "site_url": "https://medium.com/a-swift-misadventure",
