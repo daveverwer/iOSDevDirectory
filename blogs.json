@@ -94,13 +94,6 @@
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
-            "title": "Andrea Stevanato on Medium",
-            "author": "Andrea Stevanato",
-            "site_url": "https://medium.com/@andr3a88",
-            "feed_url": "https://medium.com/feed/@andr3a88",
-            "twitter_url": "https://twitter.com/andrea_steva"
-          },
-          {
             "title": "A Swift Misadventure",
             "author": "Claudio Cannino",
             "site_url": "https://medium.com/a-swift-misadventure",
@@ -372,6 +365,13 @@
             "site_url": "https://aantonioni.me/",
             "feed_url": "https://aantonioni.me/rss/",
             "twitter_url": "https://twitter.com/andrea_anto97"
+          },
+          {
+            "title": "Andrea Stevanato on Medium",
+            "author": "Andrea Stevanato",
+            "site_url": "https://medium.com/@andr3a88",
+            "feed_url": "https://medium.com/feed/@andr3a88",
+            "twitter_url": "https://twitter.com/andrea_steva"
           },
           {
             "title": "Andreas Kurtz’s Blog",
