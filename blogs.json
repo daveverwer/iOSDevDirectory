@@ -5340,6 +5340,13 @@
             "feed_url": "https://code.allaboutapps.at/categories/ios/index.xml"
           },
           {
+            "title": "Appcircle Blog",
+            "author": "Appcircle",
+            "site_url": "https://appcircle.io/blog",
+            "feed_url": "https://appcircle.io/blog",
+            "twitter_url": "https://twitter.com/appcircleio"
+          },
+          {
             "title": "Applaud Studio",
             "author": "Max Rudberg and Simon Ljungberg",
             "site_url": "https://blog.applaudstud.io/",
