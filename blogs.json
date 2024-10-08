@@ -1640,6 +1640,13 @@
             "twitter_url": "https://twitter.com/ennioma"
           },
           {
+            "title": "Eric's Space",
+            "author": "Tuan Hoang",
+            "site_url": "https://ericsspace.com/",
+            "feed_url": "https://ericsspace.com/rss.xml",
+            "twitter_url": "https://twitter.com/hoangatuan5"
+          },
+          {
             "title": "Erica Sadun’s Blog",
             "author": "Erica Sadun",
             "site_url": "https://ericasadun.com/",
@@ -5059,13 +5066,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Eric's Space",
-            "author": "Tuan Hoang",
-            "site_url": "https://ericsspace.com/",
-            "feed_url": "https://ericsspace.com/rss.xml",
-            "twitter_url": "https://twitter.com/hoangatuan5"
           }
         ]
       },
