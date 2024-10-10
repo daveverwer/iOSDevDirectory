@@ -2204,6 +2204,14 @@
             "twitter_url": "https://twitter.com/jacobs_handle"
           },
           {
+            "title": "Jaim Zuber's blog",
+            "author": "Jaim Zuber",
+            "site_url": "http://jaimzuber.com/",
+            "feed_url": "http://jaimzuber.com/feed.xml",
+            "mastodon_url": "https://mspsocial.net/@jaimzuber",
+            "github_url": "https://github.com/sharpfive"
+          },
+          {
             "title": "James Dempsey’s Blog",
             "author": "James Dempsey",
             "site_url": "https://jamesdempsey.net",
