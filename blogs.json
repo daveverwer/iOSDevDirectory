@@ -367,6 +367,13 @@
             "twitter_url": "https://twitter.com/andrea_anto97"
           },
           {
+            "title": "Andrea Stevanato on Medium",
+            "author": "Andrea Stevanato",
+            "site_url": "https://medium.com/@andr3a88",
+            "feed_url": "https://medium.com/feed/@andr3a88",
+            "twitter_url": "https://twitter.com/andrea_steva"
+          },
+          {
             "title": "Andreas Kurtz’s Blog",
             "author": "Andreas Kurtz",
             "site_url": "https://andreas-kurtz.de/post/",
@@ -1631,6 +1638,13 @@
             "site_url": "http://ww25.ennioma.com/?subid1=20230326-0115-088a-91c0-7a3cb6d6c010",
             "feed_url": "http://ww25.ennioma.com/rss?subid1=20230326-0115-13aa-9897-4d4d5ba7f4c5",
             "twitter_url": "https://twitter.com/ennioma"
+          },
+          {
+            "title": "Eric's Space",
+            "author": "Tuan Hoang",
+            "site_url": "https://ericsspace.com/",
+            "feed_url": "https://ericsspace.com/rss.xml",
+            "twitter_url": "https://twitter.com/hoangatuan5"
           },
           {
             "title": "Erica Sadun’s Blog",
@@ -3337,7 +3351,7 @@
           {
             "title": "Noah Gilmore’s Blog",
             "author": "Noah Gilmore",
-            "site_url": "https://noahgilmore.com/blog/tags/ios/",
+            "site_url": "https://noahgilmore.com/blog/tags/ios",
             "feed_url": "https://noahgilmore.com/blog/ios.xml",
             "twitter_url": "https://twitter.com/noahsark769"
           },
@@ -5802,6 +5816,13 @@
             "twitter_url": "https://twitter.com/quicktypeio"
           },
           {
+            "title": "Requestly Blog",
+            "author": "Requestly Team",
+            "site_url": "https://requestly.com/blog/category/mobile-development/ios-development/",
+            "feed_url": "https://requestly.com/blog/category/mobile-development/ios-development/feed/",
+            "twitter_url": "https://twitter.com/requestlyIO"
+          },
+          {
             "title": "Reveal Blog",
             "author": "Reveal Team",
             "site_url": "https://revealapp.com",
@@ -7246,13 +7267,6 @@
             "site_url": "https://oscarmoreno.com/blog/",
             "feed_url": "https://oscarmoreno.com/blog/index.xml",
             "twitter_url": "https://twitter.com/oscarmorenodev"
-          },
-          {
-            "title": "CFE Apps",
-            "author": "Sergio Becerril",
-            "site_url": "https://cfeapps.com",
-            "feed_url": "https://cfeapps.com/feed/",
-            "twitter_url": "https://twitter.com/CFEApps"
           },
           {
             "title": "desappstre",
