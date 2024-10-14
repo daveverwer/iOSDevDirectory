@@ -3246,6 +3246,13 @@
             "twitter_url": "https://twitter.com/musakkcn"
           },
           {
+            "title": "MutatingFunc",
+            "author": "James Froggatt",
+            "site_url": "https://mutatingfunc.github.io",
+            "feed_url": "https://mutatingfunc.github.io/index.xml",
+            "mastodon_url": "https://mastodon.social/@SalvagedTechnic"
+          },
+          {
             "title": "myeyesareblind's Blog",
             "author": "Max",
             "site_url": "http://myeyesareblind.com/",
