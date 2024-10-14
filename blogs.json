@@ -2220,8 +2220,8 @@
           {
             "title": "Jaim Zuber's blog",
             "author": "Jaim Zuber",
-            "site_url": "http://jaimzuber.com/",
-            "feed_url": "http://jaimzuber.com/feed.xml",
+            "site_url": "https://jaimzuber.com/",
+            "feed_url": "https://jaimzuber.com/feed.xml",
             "mastodon_url": "https://mspsocial.net/@jaimzuber",
             "github_url": "https://github.com/sharpfive"
           },
