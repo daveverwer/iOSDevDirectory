@@ -5680,9 +5680,9 @@
           {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
-            "site_url": "https://pspdfkit.com/blog/",
-            "feed_url": "https://pspdfkit.com/blog/feed.atom",
-            "twitter_url": "https://twitter.com/pspdfkit"
+            "site_url": "https://www.nutrient.io/blog/",
+            "feed_url": "https://www.nutrient.io/blog/feed.atom",
+            "twitter_url": "https://twitter.com/nutrientdocs"
           },
           {
             "title": "Instabug Blog",
@@ -6282,13 +6282,6 @@
             "site_url": "https://ios-goodies.com/",
             "feed_url": "https://ios-goodies.com/rss",
             "twitter_url": "https://twitter.com/iOSGoodies"
-          },
-          {
-            "title": "iOS Stack Weekly",
-            "author": "Jimmy Sanghani",
-            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
-            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
-            "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
             "title": "Mobile Automation Newsletter",
@@ -7586,13 +7579,6 @@
             "author": "Anas Almomany",
             "site_url": "https://www.youtube.com/channel/UCpAsEjCAo8yrz2x8puX6LjA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpAsEjCAo8yrz2x8puX6LjA"
-          },
-          {
-            "title": "DoorDash Engineering Blog",
-            "author": "DoorDash Engineering Team",
-            "site_url": "https://careers.doordash.com/blog/?category=Mobile",
-            "feed_url": "https://doordash.engineering/category/mobile/feed/",
-            "twitter_url": "https://twitter.com/doordasheng"
           },
           {
             "title": "Fullstacktuts Blog",
