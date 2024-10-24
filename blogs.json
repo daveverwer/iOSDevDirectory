@@ -5680,8 +5680,8 @@
           {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
-            "site_url": "https://pspdfkit.com/blog/",
-            "feed_url": "https://pspdfkit.com/blog/feed.atom",
+            "site_url": "https://www.nutrient.io/blog/",
+            "feed_url": "https://www.nutrient.io/sdk",
             "twitter_url": "https://twitter.com/pspdfkit"
           },
           {
@@ -6286,8 +6286,8 @@
           {
             "title": "iOS Stack Weekly",
             "author": "Jimmy Sanghani",
-            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly",
-            "feed_url": "https://blog.canopas.com/feed/tagged/canopas-ios-weekly",
+            "site_url": "https://canopas.com/blog",
+            "feed_url": "https://canopas.com/blog",
             "twitter_url": "https://twitter.com/canopassoftware"
           },
           {
@@ -7590,7 +7590,7 @@
           {
             "title": "DoorDash Engineering Blog",
             "author": "DoorDash Engineering Team",
-            "site_url": "https://careers.doordash.com/blog/?category=Mobile",
+            "site_url": "https://careersatdoordash.com/blog/?category=Mobile",
             "feed_url": "https://doordash.engineering/category/mobile/feed/",
             "twitter_url": "https://twitter.com/doordasheng"
           },
