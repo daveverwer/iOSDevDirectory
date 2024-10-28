@@ -432,8 +432,8 @@
           {
             "title": "Andy Matuschak’s Blog",
             "author": "Andy Matuschak",
-            "site_url": "https://blog.andymatuschak.org/",
-            "feed_url": "https://blog.andymatuschak.org/rss",
+            "site_url": "http://blog.andymatuschak.org/",
+            "feed_url": "http://blog.andymatuschak.org/rss",
             "twitter_url": "https://twitter.com/andy_matuschak"
           },
           {
