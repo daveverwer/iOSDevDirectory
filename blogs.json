@@ -4236,6 +4236,13 @@
             "twitter_url": "https://twitter.com/stephencelis"
           },
           {
+            "title": "Stephen Dixon's Blog",
+            "author": "Stephen Dixon",
+            "site_url": "https://www.stphndxn.com/",
+            "feed_url": "https://www.stphndxn.com/rss/",
+            "twitter_url": "https://x.com/stphndxn"
+          },
+          {
             "title": "StepUp Development",
             "author": "Manuel Kunz and Nicolas Spinner",
             "site_url": "https://medium.com/stepup-development",
