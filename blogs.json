@@ -4798,8 +4798,7 @@
             "title": "Tuist's blog",
             "author": "Tuist",
             "site_url": "https://tuist.dev/",
-            "feed_url": "https://tuist.dev/rss.xml",
-            "twitter_url": "https://twitter.com/tuistio",
+            "feed_url": "https://tuist.dev/blog/rss.xml",
             "mastodon_url": "https://fosstodon.org/@tuist"
           },
           {
