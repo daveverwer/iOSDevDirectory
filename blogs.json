@@ -5355,6 +5355,12 @@
         "description": "If a blog is published by a company rather than an individual (or group of individuals), but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
           {
+            "title": "Software Engineering Corner",
+            "author": "Zühlke engineers",
+            "site_url": "https://software-engineering-corner.zuehlke.com/tag/ios",
+            "feed_url": "https://software-engineering-corner.zuehlke.com/rss.xml"
+          },
+          {
             "title": "all about apps",
             "author": "all about apps Team",
             "site_url": "https://code.allaboutapps.at/categories/ios/",
