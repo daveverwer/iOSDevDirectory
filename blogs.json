@@ -1112,8 +1112,8 @@
           {
             "title": "Collin Donnell’s Blog",
             "author": "Collin Donnell",
-            "site_url": "https://collindonnell.com/",
-            "feed_url": "https://collindonnell.com/feed/",
+            "site_url": "https://collin.blog/",
+            "feed_url": "https://collin.blog/feed/",
             "twitter_url": "https://twitter.com/collindonnell",
             "mastodon_url": "https://ruby.social/@collin"
           },
