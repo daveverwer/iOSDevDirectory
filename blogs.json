@@ -3163,6 +3163,14 @@
             "twitter_url": "https://twitter.com/MobileA11y"
           },
           {
+            "title": "Mobile Dev Diary",
+            "author": "Maciej Gomółka",
+            "site_url": "https://www.mobiledevdiary.com",
+            "feed_url": "https://www.mobiledevdiary.com/index.xml",
+            "twitter_url": "https://x.com/gomolka_maciej",
+            "mastodon_url": "https://mastodon.social/@gomolka"
+          },
+          {
             "title": "Mobile System Design",
             "author": "Tjeerd in ’t Veen",
             "site_url": "https://www.mobilesystemdesign.com/",
