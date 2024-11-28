@@ -2997,6 +2997,13 @@
             "twitter_url": "https://twitter.com/mxcl"
           },
           {
+            "title": "Max Humber's #swift Posts",
+            "author": "Max Humber",
+            "site_url": "https://maxhumber.com/swift",
+            "feed_url": "https://maxhumber.com/feed/swift.xml",
+            "twitter_url": "https://twitter.com/maxhumber"
+          },
+          {
             "title": "Max Kalik on Medium",
             "author": "Max Kalik",
             "site_url": "https://medium.com/@maxkalik",
