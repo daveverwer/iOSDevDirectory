@@ -2226,13 +2226,6 @@
             "twitter_url": "https://twitter.com/jamesdempsey"
           },
           {
-            "title": "Jameson Quave’s Blog",
-            "author": "Jameson Quave",
-            "site_url": "https://jamesonquave.com/blog/",
-            "feed_url": "https://jamesonquave.com/blog/feed/",
-            "twitter_url": "https://twitter.com/jquave"
-          },
-          {
             "title": "Jared Sinclair’s Blog",
             "author": "Jared Sinclair",
             "site_url": "https://jaredsinclair.com/",
@@ -4943,13 +4936,6 @@
             "site_url": "https://medium.com/@vojto",
             "feed_url": "https://medium.com/feed/@vojto",
             "twitter_url": "https://twitter.com/_vojto"
-          },
-          {
-            "title": "Wan Ahmad Lutfi's blog",
-            "author": "Wan Ahmad Lutfi",
-            "site_url": "https://wanlutfi.dev/blog/",
-            "feed_url": "https://wanlutfi.dev/blog/feed/",
-            "twitter_url": "https://twitter.com/wlufi"
           },
           {
             "title": "Warren Moore on Medium",
