@@ -6290,6 +6290,12 @@
             "twitter_url": "https://twitter.com/testableapple"
           },
           {
+            "title": "Pixel Pushers",
+            "author": "Daniel Hour",
+            "site_url": "https://pixelpusher.club",
+            "feed_url": "http://pixelpusher.club/feed"
+          },
+          {
             "title": "Swift Developments",
             "author": "Andy Bargh",
             "site_url": "https://andybargh.com/swiftdevelopments/",
