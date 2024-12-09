@@ -1141,7 +1141,7 @@
             "title": "Copious Notes",
             "author": "Mark Townsend",
             "site_url": "https://markltownsend.com/",
-            "feed_url": "https://markltownsend.com/feed.xml",
+            "feed_url": "https://markltownsend.com/rss.xml",
             "mastodon_url": "https://iosdev.space/@markltownsend"
           },
           {
