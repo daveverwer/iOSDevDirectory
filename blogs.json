@@ -1140,8 +1140,8 @@
           {
             "title": "Copious Notes",
             "author": "Mark Townsend",
-            "site_url": "https://www.markltownsend.com",
-            "feed_url": "https://www.markltownsend.com/feed.xml",
+            "site_url": "https://markltownsend.com/",
+            "feed_url": "https://markltownsend.com/rss.xml",
             "mastodon_url": "https://iosdev.space/@markltownsend"
           },
           {
@@ -6292,8 +6292,8 @@
           {
             "title": "Pixel Pushers",
             "author": "Daniel Hour",
-            "site_url": "https://pixelpusher.club",
-            "feed_url": "http://pixelpusher.club/feed"
+            "site_url": "https://www.pixelpusher.club/",
+            "feed_url": "https://pixelpusher.club/feed"
           },
           {
             "title": "Swift Developments",
