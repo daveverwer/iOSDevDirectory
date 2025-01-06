@@ -2602,10 +2602,10 @@
             "twitter_url": "https://twitter.com/zhcet4"
           },
           {
-            "title": "Learning Swift",
+            "title": "BrightDigit - Developer Tutorials",
             "author": "Leo Dion",
-            "site_url": "https://learningswift.brightdigit.com",
-            "feed_url": "https://learningswift.brightdigit.com/feed/",
+            "site_url": "https://brightdigit.com/tutorials",
+            "feed_url": "https://brightdigit.com/tutorials.rss",
             "twitter_url": "https://twitter.com/leogdion"
           },
           {
@@ -5440,8 +5440,8 @@
           {
             "title": "BrightDigit",
             "author": "BrightDigit Team",
-            "site_url": "https://brightdigit.com/blog/",
-            "feed_url": "https://brightdigit.com/blog/feed/",
+            "site_url": "https://brightdigit.com/articles/",
+            "feed_url": "https://brightdigit.com/articles.rss",
             "twitter_url": "https://twitter.com/brightdigit"
           },
           {
