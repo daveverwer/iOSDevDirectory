@@ -804,6 +804,13 @@
             "feed_url": "https://briancoyner.github.io/feed.rss"
           },
           {
+            "title": "BrightDigit - Developer Tutorials",
+            "author": "Leo Dion",
+            "site_url": "https://brightdigit.com/tutorials",
+            "feed_url": "https://brightdigit.com/tutorials.rss",
+            "twitter_url": "https://twitter.com/leogdion"
+          },
+          {
             "title": "Bryan Irace’s Blog",
             "author": "Bryan Irace",
             "site_url": "https://irace.me/",
@@ -2600,13 +2607,6 @@
             "site_url": "https://larztech.com/",
             "feed_url": "https://larztech.com/feed.rss",
             "twitter_url": "https://twitter.com/zhcet4"
-          },
-          {
-            "title": "BrightDigit - Developer Tutorials",
-            "author": "Leo Dion",
-            "site_url": "https://brightdigit.com/tutorials",
-            "feed_url": "https://brightdigit.com/tutorials.rss",
-            "twitter_url": "https://twitter.com/leogdion"
           },
           {
             "title": "Lemona Tech Blog",
