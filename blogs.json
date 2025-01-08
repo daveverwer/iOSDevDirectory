@@ -5355,6 +5355,13 @@
             "feed_url": "https://code.allaboutapps.at/categories/ios/index.xml"
           },
           {
+            "title": "Apparent Software dev blog",
+            "author": "Apparent Software team",
+            "site_url": "https://blog.apparentsoft.com/category/programming",
+            "feed_url": "https://blog.apparentsoft.com/category/programming/feed",
+            "twitter_url": "https://twitter.com/apparentsoft"
+          },
+          {
             "title": "Applaud Studio",
             "author": "Max Rudberg and Simon Ljungberg",
             "site_url": "https://blog.applaudstud.io/",
