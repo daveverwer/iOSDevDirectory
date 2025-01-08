@@ -5074,6 +5074,13 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
+          },
+          {
+            "title": "Amin Benarieb’s Blog",
+            "author": "Amin Benarieb",
+            "site_url": "https://amin.benarieb.com/",
+            "feed_url": "https://amin.benarieb.com/index.xml",
+            "twitter_url": "https://twitter.com/amin_benarieb"
           }
         ]
       },
