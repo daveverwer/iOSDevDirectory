@@ -479,6 +479,13 @@
             "twitter_url": "https://twitter.com/drewmccormack"
           },
           {
+            "title": "Apparent Software dev blog",
+            "author": "Apparent Software team",
+            "site_url": "https://blog.apparentsoft.com/category/programming",
+            "feed_url": "https://blog.apparentsoft.com/category/programming/feed",
+            "twitter_url": "https://twitter.com/apparentsoft"
+          },
+          {
             "title": "AppForce1 blog",
             "author": "Jeroen Leenarts - AppForce1",
             "site_url": "https://appforce1.net/blog/",
