@@ -5803,6 +5803,13 @@
             "twitter_url": "https://twitter.com/penbookapp"
           },
           {
+            "title": "Tart Virtualization Blog",
+            "author": "Cirrus Labs",
+            "site_url": "https://tart.run/blog/",
+            "feed_url": "https://tart.run/feed_rss_created.xml",
+            "twitter_url": "https://twitter.com/cirrus_labs"
+          },
+          {
             "title": "QuickBird Studios Blog",
             "author": "QuickBird Studios Team",
             "site_url": "https://quickbirdstudios.com/blog/",
