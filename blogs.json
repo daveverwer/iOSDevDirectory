@@ -813,7 +813,7 @@
           {
             "title": "BrightDigit - Developer Tutorials",
             "author": "Leo Dion",
-            "site_url": "https://brightdigit.com/tutorials",
+            "site_url": "https://brightdigit.com/tutorials/",
             "feed_url": "https://brightdigit.com/tutorials.rss",
             "twitter_url": "https://twitter.com/leogdion"
           },
@@ -5364,8 +5364,8 @@
           {
             "title": "Apparent Software dev blog",
             "author": "Apparent Software team",
-            "site_url": "https://blog.apparentsoft.com/category/programming",
-            "feed_url": "https://blog.apparentsoft.com/category/programming/feed",
+            "site_url": "https://blog.apparentsoft.com/category/programming/",
+            "feed_url": "https://blog.apparentsoft.com/category/programming/feed/",
             "twitter_url": "https://twitter.com/apparentsoft"
           },
           {
@@ -5731,13 +5731,6 @@
             "author": "Monstarlab",
             "site_url": "https://engineering.monstar-lab.com/en/",
             "feed_url": "https://engineering.monstar-lab.com/rss/feed_en.xml"
-          },
-          {
-            "title": "Moove it Blog",
-            "author": "Moove it Team",
-            "site_url": "https://blog.moove-it.com",
-            "feed_url": "https://blog.moove-it.com/feed/",
-            "twitter_url": "https://twitter.com/moove_it"
           },
           {
             "title": "Motiv Engineering Blog",
