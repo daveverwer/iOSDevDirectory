@@ -2142,6 +2142,13 @@
             "twitter_url": "https://twitter.com/0xflorian"
           },
           {
+            "title": "iOS Coffee Break Newsletter",
+            "author": "Tiago Henriques",
+            "site_url": "https://www.ioscoffeebreak.com/",
+            "feed_url": "https://www.ioscoffeebreak.com/rss.xml",
+            "twitter_url": "https://twitter.com/tiagodhenriques"
+          },
+          {
             "title": "iOS Creator",
             "author": "Arthur Knopper",
             "site_url": "https://www.ioscreator.com/",
@@ -4686,7 +4693,7 @@
             "title": "Tiago Henriques' Blog",
             "author": "Tiago Henriques",
             "site_url": "https://tiagohenriques.vercel.app/",
-            "feed_url": "https://tiagohenriques.vercel.app/rss/feed.json",
+            "feed_url": "https://tiagohenriques.vercel.app/rss/rss.xml",
             "twitter_url": "https://twitter.com/tiagodhenriques"
           },
           {
