@@ -87,13 +87,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "Rice Cakes Media",
-            "author": "Michael Lee",
-            "site_url": "https://ricecakesmedia.substack.com/",
-            "feed_url": "https://ricecakesmedia.substack.com/feed",
-            "twitter_url": "https://twitter.com/mikelikesdesign"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -3856,6 +3849,13 @@
             "feed_url": "https://rhonabwy.com/feed/",
             "mastodon_url": "https://mastodon.social/@heckj",
             "twitter_url": "https://twitter.com/heckj"
+          },
+          {
+            "title": "Rice Cakes Media",
+            "author": "Michael Lee",
+            "site_url": "https://ricecakesmedia.substack.com/",
+            "feed_url": "https://ricecakesmedia.substack.com/feed",
+            "twitter_url": "https://twitter.com/mikelikesdesign"
           },
           {
             "title": "Richard Jones' Blog",
