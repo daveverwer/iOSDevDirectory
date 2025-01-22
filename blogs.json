@@ -5031,7 +5031,7 @@
             "title": "XReality.Zone's Blog EN",
             "author": "思琦(@SwiftSIQI)",
             "site_url": "https://xreality.zone/en/",
-            "feed_url": "https://xreality.zone/feed.xml",
+            "feed_url": "https://xreality.zone/en/rss.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
           },
           {
@@ -6371,7 +6371,7 @@
             "title": "XR World Weekly",
             "author": "思琦(@SwiftSIQI)",
             "site_url": "https://xreality.zone/en/newsletter/",
-            "feed_url": "https://xreality.zone/feed.xml",
+            "feed_url": "https://xreality.zone/en/rss.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
           }
         ]
@@ -6990,7 +6990,7 @@
             "title": "XReality.Zone 中文版",
             "author": "XR 基地(@XRealityZone)",
             "site_url": "https://xreality.zone/zh/",
-            "feed_url": "https://xreality.zone/feed.xml",
+            "feed_url": "https://xreality.zone/zh/rss.xml",
             "twitter_url": "https://twitter.com/XRealityZone"
           },
           {
