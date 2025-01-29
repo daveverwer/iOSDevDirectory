@@ -38,6 +38,11 @@
             "site_url": "https://developer.apple.com/news/releases/",
             "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
           },
+                {
+            "title": "color2code",
+            "author": "Qais",
+            "site_url": "https://color2code.com",
+          },
           {
             "title": "Developer Site Updates",
             "author": "Apple",
