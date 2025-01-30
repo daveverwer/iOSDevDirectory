@@ -5830,13 +5830,6 @@
             "feed_url": "https://quickbirdstudios.com/blog/feed/"
           },
           {
-            "title": "Quicktype Blog",
-            "author": "Quicktype Team",
-            "site_url": "https://blog.quicktype.io/",
-            "feed_url": "https://blog.quicktype.io/rss/",
-            "twitter_url": "https://twitter.com/quicktypeio"
-          },
-          {
             "title": "Requestly Blog",
             "author": "Requestly Team",
             "site_url": "https://requestly.com/blog/category/mobile-development/ios-development/",
