@@ -4123,6 +4123,12 @@
             "twitter_url": "https://twitter.com/wheelies"
           },
           {
+            "title": "Siarhei Razanau’s blog",
+            "author": "Siarhei Razanau",
+            "site_url": "https://medium.com/@razanau",
+            "feed_url": "https://medium.com/feed/@razanau"
+          },
+          {
             "title": "SICPERS",
             "author": "Graham Lee",
             "site_url": "https://www.sicpers.info/",
@@ -5102,12 +5108,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "Siarhei Razanau’s blog",
-            "author": "Siarhei Razanau",
-            "site_url": "https://medium.com/@razanau",
-            "feed_url": "https://medium.com/feed/@razanau"
           }
         ]
       },
