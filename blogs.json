@@ -502,6 +502,13 @@
             "twitter_url": "https://twitter.com/derekleerock"
           },
           {
+            "title": "Artem Loenko on Medium",
+            "author": "Artem Loenko",
+            "site_url": "https://dive.medium.com/",
+            "feed_url": "https://medium.com/feed/@dive",
+            "twitter_url": "https://twitter.com/justsitandgrin"
+          },
+          {
             "title": "Artem Novichkov’s Blog",
             "author": "Artem Novichkov",
             "site_url": "https://www.artemnovichkov.com/",
@@ -1168,6 +1175,12 @@
             "mastodon_url": "https://mastodon.social/@danielsaidi"
           },
           {
+            "title": "Daniel Tartaglia on Medium",
+            "author": "Daniel Tartaglia",
+            "site_url": "https://danielt1263.medium.com/",
+            "feed_url": "https://medium.com/feed/@danielt1263"
+          },
+          {
             "title": "Daniel Tavares’s Blog",
             "author": "Daniel Tavares",
             "site_url": "https://dev.to/vibrazy",
@@ -1187,12 +1200,6 @@
             "site_url": "https://www.danielemargutti.com/",
             "feed_url": "https://www.danielemargutti.com/atom.xml",
             "twitter_url": "https://twitter.com/danielemargutti"
-          },
-          {
-            "title": "Daniel Tartaglia on Medium",
-            "author": "Daniel Tartaglia",
-            "site_url": "https://danielt1263.medium.com/",
-            "feed_url": "https://medium.com/feed/@danielt1263"
           },
           {
             "title": "Danijela Vrzan's Blog",
@@ -2325,13 +2332,6 @@
             "site_url": "http://jury.me/blog/",
             "feed_url": "http://jury.me/blog?format=rss",
             "twitter_url": "https://twitter.com/jury"
-          },
-          {
-            "title": "Artem Loenko on Medium",
-            "author": "Artem Loenko",
-            "site_url": "https://dive.medium.com/",
-            "feed_url": "https://medium.com/feed/@dive",
-            "twitter_url": "https://twitter.com/justsitandgrin"
           },
           {
             "title": "Kaira Diagne’s Blog",
