@@ -5832,13 +5832,6 @@
             "twitter_url": "https://twitter.com/compileswift"
           },
           {
-            "title": "Constant Variables",
-            "author": "Tim Bornholdt and Robert Bentley",
-            "site_url": "http://survey-smiles.com",
-            "feed_url": "https://constantvariables.libsyn.com/rss",
-            "twitter_url": "https://twitter.com/cv_podcast"
-          },
-          {
             "title": "Contravariance",
             "author": "Bas Broek and Benedikt Terhechte",
             "site_url": "https://contravariance.rocks/",
