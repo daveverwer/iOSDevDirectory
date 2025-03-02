@@ -5534,13 +5534,6 @@
             "twitter_url": "https://twitter.com/martiancraft"
           },
           {
-            "title": "mobile.dev Blog",
-            "author": "mobile.dev Engineering team",
-            "site_url": "https://blog.mobile.dev/",
-            "feed_url": "https://blog.mobile.dev/feed",
-            "twitter_url": "https://twitter.com/mobile__dev"
-          },
-          {
             "title": "Monstarlab Engineering Blog",
             "author": "Monstarlab",
             "site_url": "https://engineering.monstar-lab.com/en/",
@@ -7429,13 +7422,13 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },{
-              "title": "Noam Efergan's Blog",
-              "author": "Noam Efergan",
-              "site_url": "https://NoWham.dev",
-              "feed_url": "https://nowham.dev/rss.xml"
+          },
+          {
+            "title": "Noam Efergan's Blog",
+            "author": "Noam Efergan",
+            "site_url": "https://NoWham.dev",
+            "feed_url": "https://nowham.dev/rss.xml"
           }
-          
         ]
       }
     ]
