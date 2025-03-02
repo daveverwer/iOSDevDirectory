@@ -7429,7 +7429,13 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
+          },{
+              "title": "Noam Efergan's Blog",
+              "author": "Noam Efergan",
+              "site_url": "https://NoWham.dev",
+              "feed_url": "https://nowham.dev/rss.xml"
           }
+          
         ]
       }
     ]
