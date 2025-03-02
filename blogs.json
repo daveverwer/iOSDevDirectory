@@ -5534,13 +5534,6 @@
             "twitter_url": "https://twitter.com/martiancraft"
           },
           {
-            "title": "mobile.dev Blog",
-            "author": "mobile.dev Engineering team",
-            "site_url": "http://maestro.dev",
-            "feed_url": "http://maestro.dev/feed",
-            "twitter_url": "https://twitter.com/mobile__dev"
-          },
-          {
             "title": "Monstarlab Engineering Blog",
             "author": "Monstarlab",
             "site_url": "https://engineering.monstar-lab.com/en/",
