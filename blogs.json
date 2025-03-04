@@ -7406,6 +7406,12 @@
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHYazzPlhbliWo5ifPm3YQ"
           },
           {
+            "title": "Noam Efergan's Blog",
+            "author": "Noam Efergan",
+            "site_url": "https://NoWham.dev",
+            "feed_url": "https://nowham.dev/rss.xml"
+          },
+          {
             "title": "Swift Cairo",
             "author": "Abdo & Attia & El-Nagger",
             "site_url": "https://www.youtube.com/c/SwiftCairo",
@@ -7430,12 +7436,6 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },
-          {
-            "title": "Noam Efergan's Blog",
-            "author": "Noam Efergan",
-            "site_url": "https://NoWham.dev",
-            "feed_url": "https://nowham.dev/rss.xml"
           }
         ]
       }
