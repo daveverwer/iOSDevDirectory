@@ -80,13 +80,6 @@
         "slug": "development",
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
-           {
-            "title": "İbrahim Çetin on Medium",
-            "author": "İbrahim Çetin",
-            "site_url": "https://medium.com/@cetinibrahim",
-            "feed_url": "https://medium.com/feed/@cetinibrahim",
-            "twitter_url": "https://twitter.com/iibrahimcetinn"
-          },
           {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
@@ -2080,6 +2073,13 @@
             "site_url": "https://ivanthinking.net/tags/ios-development/",
             "feed_url": "https://ivanthinking.net/tags/ios-development/index.xml",
             "twitter_url": "https://twitter.com/ivantse"
+          },
+          {
+            "title": "İbrahim Çetin on Medium",
+            "author": "İbrahim Çetin",
+            "site_url": "https://medium.com/@cetinibrahim",
+            "feed_url": "https://medium.com/feed/@cetinibrahim",
+            "twitter_url": "https://twitter.com/iibrahimcetinn"
           },
           {
             "title": "Jack Morris's Blog",
