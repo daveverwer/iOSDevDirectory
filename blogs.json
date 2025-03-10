@@ -2637,8 +2637,8 @@
           {
             "title": "manu.show",
             "author": "Manu Herrera",
-            "site_url": "https://www.manu.show/",
-            "feed_url": "https://www.manu.show/feed.xml",
+            "site_url": "https://manu.show/",
+            "feed_url": "https://manu.show/feed.xml",
             "twitter_url": "https://twitter.com/manu__show"
           },
           {
@@ -3723,7 +3723,7 @@
           {
             "title": "ritesh.hh",
             "author": "Ritesh Gupta",
-            "site_url": "https://riteshhh.com/",
+            "site_url": "https://domains.atom.com/lpd/name/riteshhh.com",
             "feed_url": "https://riteshhh.com/rss.xml",
             "twitter_url": "https://twitter.com/_riteshhh"
           },
