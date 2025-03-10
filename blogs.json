@@ -2637,8 +2637,8 @@
           {
             "title": "manu.show",
             "author": "Manu Herrera",
-            "site_url": "https://www.manu.show/",
-            "feed_url": "https://www.manu.show/feed.xml",
+            "site_url": "https://manu.show/",
+            "feed_url": "https://manu.show/feed.xml",
             "twitter_url": "https://twitter.com/manu__show"
           },
           {
@@ -3719,13 +3719,6 @@
             "site_url": "https://rileytestut.com/blog/",
             "feed_url": "https://rileytestut.com/feed.xml",
             "twitter_url": "https://twitter.com/rileytestut"
-          },
-          {
-            "title": "ritesh.hh",
-            "author": "Ritesh Gupta",
-            "site_url": "https://riteshhh.com/",
-            "feed_url": "https://riteshhh.com/rss.xml",
-            "twitter_url": "https://twitter.com/_riteshhh"
           },
           {
             "title": "Rizwan's blog",
