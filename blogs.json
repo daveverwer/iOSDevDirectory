@@ -4367,7 +4367,7 @@
             "title": "swifting.io",
             "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
             "site_url": "https://swifting.io/",
-            "feed_url": "https://swifting.io/feed.xml",
+            "feed_url": "https://swifting.io/",
             "twitter_url": "https://twitter.com/swiftingio"
           },
           {
@@ -4555,8 +4555,8 @@
           {
             "title": "Tiago Henriques' Blog",
             "author": "Tiago Henriques",
-            "site_url": "https://tiagohenriques.dev/",
-            "feed_url": "https://tiagohenriques.dev/rss/rss.xml",
+            "site_url": "https://www.tiagohenriques.dev/",
+            "feed_url": "https://www.tiagohenriques.dev/rss/rss.xml",
             "twitter_url": "https://twitter.com/tiagodhenriques"
           },
           {
