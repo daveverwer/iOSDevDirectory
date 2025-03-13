@@ -4364,13 +4364,6 @@
             "feed_url": "https://medium.com/feed/@iriziya"
           },
           {
-            "title": "swifting.io",
-            "author": "Michał Wojtysiak, Bartłomiej Woronin and Maciej Piotrowski",
-            "site_url": "https://swifting.io/",
-            "feed_url": "https://swifting.io/feed.xml",
-            "twitter_url": "https://twitter.com/swiftingio"
-          },
-          {
             "title": "Swiftjective-C",
             "author": "Jordan Morgan",
             "site_url": "https://www.swiftjectivec.com/",
@@ -4555,8 +4548,8 @@
           {
             "title": "Tiago Henriques' Blog",
             "author": "Tiago Henriques",
-            "site_url": "https://tiagohenriques.dev/",
-            "feed_url": "https://tiagohenriques.dev/rss/rss.xml",
+            "site_url": "https://www.tiagohenriques.dev/",
+            "feed_url": "https://www.tiagohenriques.dev/rss/rss.xml",
             "twitter_url": "https://twitter.com/tiagodhenriques"
           },
           {
