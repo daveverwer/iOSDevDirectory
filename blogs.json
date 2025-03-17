@@ -392,8 +392,8 @@
           {
             "title": "Andy Iakovlev's Blog",
             "author": "Andrei (Andy) Iakovlev",
-            "site_url": "https://qstrnd.github.io/",
-            "feed_url": "https://qstrnd.github.io/feed.xml",
+            "site_url": "http://qstrnd.com/",
+            "feed_url": "http://qstrnd.com/feed.xml",
             "mastodon_url": "https://mastodon.social/@qstrnd"
           },
           {
