@@ -5098,6 +5098,13 @@
             "site_url": "https://www.useronboard.com",
             "feed_url": "http://www.useronboard.com/rss/",
             "twitter_url": "https://twitter.com/samuelhulick"
+          },
+          {
+            "title": "Wilson Muñoz’s Blog",
+            "author": "Wilson Muñoz",
+            "site_url": "https://www.wilsonmunoz.net/blog",
+            "feed_url": "https://www.wilsonmunoz.net/feed.xml",
+            "twitter_url": "https://x.com/yosoywil"
           }
         ]
       },
