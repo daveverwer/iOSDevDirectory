@@ -81,20 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "alexpaul.dev",
-            "author": "Alex Paul",
-            "site_url": "https://alexpaul.dev/",
-            "feed_url": "https://alexpaul.dev/feed/",
-            "twitter_url": "https://twitter.com/alexpaul",
-            "mastodon_url": "https://mastodon.social/@alexpauldev"
-          },
-          {
-            "title": "IKEH on Medium",
-            "author": "IKEH",
-            "site_url": "https://medium.com/@ikeh1024",
-            "feed_url": "https://medium.com/feed/@ikeh1024"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -278,6 +264,14 @@
             "site_url": "https://alexiscreuzot.medium.com/",
             "feed_url": "https://medium.com/feed/@alexiscreuzot",
             "twitter_url": "https://twitter.com/alexiscreuzot"
+          },
+          {
+            "title": "alexpaul.dev",
+            "author": "Alex Paul",
+            "site_url": "https://alexpaul.dev/",
+            "feed_url": "https://alexpaul.dev/feed/",
+            "twitter_url": "https://twitter.com/alexpaul",
+            "mastodon_url": "https://mastodon.social/@alexpauldev"
           },
           {
             "title": "Alia's artefacts",
@@ -1973,6 +1967,12 @@
             "site_url": "https://ijoshsmith.com",
             "feed_url": "https://ijoshsmith.com/feed/",
             "twitter_url": "https://twitter.com/bach4life"
+          },
+          {
+            "title": "IKEH on Medium",
+            "author": "IKEH",
+            "site_url": "https://medium.com/@ikeh1024",
+            "feed_url": "https://medium.com/feed/@ikeh1024"
           },
           {
             "title": "Ilian Konchev on Medium",
