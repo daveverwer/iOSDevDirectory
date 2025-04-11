@@ -1365,6 +1365,14 @@
             "twitter_url": "https://twitter.com/NachoMan"
           },
           {
+            "title": "DevFright",
+            "author": "Matthew Newill",
+            "site_url": "https://www.devfright.com",
+            "feed_url": "https://www.devfright.com/feed",
+            "twitter_url": "https://x.com/MatthewN",
+            "mastodon_url": "https://mastodon.social/@matthewjn"
+          },
+          {
             "title": "Device Blogs",
             "author": "Peter Livesey",
             "site_url": "https://medium.com/@peterlivesey",
