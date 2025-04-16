@@ -5763,6 +5763,14 @@
             "twitter_url": "https://twitter.com/cirrus_labs"
           },
           {
+            "title": "The Grizzly Labs' Blog",
+            "author": "The Grizzly Labs",
+            "site_url": "https://blog.thegrizzlylabs.com/",
+            "feed_url": "https://blog.thegrizzlylabs.com/rss.xml",
+            "twitter_url": "https://x.com/thegrizzlylabs",
+            "mastodon_url": "https://mastodon.social/@thegrizzlylabs"
+          },
+          {
             "title": "thoughtbot: iOS posts",
             "author": "thoughtbot Team",
             "site_url": "https://thoughtbot.com/blog/tags/ios",
