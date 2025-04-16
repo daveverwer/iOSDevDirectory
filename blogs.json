@@ -5762,7 +5762,7 @@
             "feed_url": "https://tart.run/feed_rss_created.xml",
             "twitter_url": "https://twitter.com/cirrus_labs"
           },
-           {
+          {
             "title": "The Grizzly Labs' Blog",
             "author": "The Grizzly Labs",
             "site_url": "https://blog.thegrizzlylabs.com/",
@@ -7458,10 +7458,11 @@
             "author": "Aya Baghdadi",
             "site_url": "https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7554uvArdSxL4tlws7Wf8Q"
-          },
+          }
          
         ]
       }
     ]
   }
 ]
+
