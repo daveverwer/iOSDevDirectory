@@ -5496,6 +5496,14 @@
             "twitter_url": "https://twitter.com/goodnotesapp"
           },
           {
+            "title": "The Grizzly Labs' Blog",
+            "author": "The Grizzly Labs",
+            "site_url": "https://blog.thegrizzlylabs.com/",
+            "feed_url": "https://blog.thegrizzlylabs.com/rss.xml",
+            "twitter_url": "https://x.com/thegrizzlylabs",
+            "mastodon_url": "https://mastodon.social/@thegrizzlylabs"
+          },
+          {
             "title": "gSkinner Blog",
             "author": "gSkinner",
             "site_url": "https://blog.gskinner.com/",
@@ -5768,14 +5776,6 @@
             "site_url": "https://tart.run/blog/",
             "feed_url": "https://tart.run/feed_rss_created.xml",
             "twitter_url": "https://twitter.com/cirrus_labs"
-          },
-          {
-            "title": "The Grizzly Labs' Blog",
-            "author": "The Grizzly Labs",
-            "site_url": "https://blog.thegrizzlylabs.com/",
-            "feed_url": "https://blog.thegrizzlylabs.com/rss.xml",
-            "twitter_url": "https://x.com/thegrizzlylabs",
-            "mastodon_url": "https://mastodon.social/@thegrizzlylabs"
           },
           {
             "title": "thoughtbot: iOS posts",
