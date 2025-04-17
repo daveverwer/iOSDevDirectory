@@ -4041,6 +4041,13 @@
             "feed_url": "https://smashswift.com/feed/"
           },
           {
+            "title": "Snopia",
+            "author": "Benjamin Pisano",
+            "site_url": "https://snopia.net",
+            "feed_url": "https://snopia.net/en/feed.xml",
+            "mastodon_url": "https://mastodon.social/@bpisano"
+          },
+          {
             "title": "Software Development Notes",
             "author": "Eric Callanan",
             "site_url": "https://swdevnotes.com/swift/",
