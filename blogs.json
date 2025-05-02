@@ -713,12 +713,6 @@
             "microblog_url": "https://micro.blog/danielpunkass"
           },
           {
-            "title": "Bootstragram",
-            "author": "Mick Floc’hlay",
-            "site_url": "https://bootstragram.com/tag/ios/",
-            "feed_url": "https://bootstragram.com/feed/by_tag/ios.xml"
-          },
-          {
             "title": "Brad Root’s Blog",
             "author": "Brad Root",
             "site_url": "https://amiantos.net/tags/programming/",
@@ -2934,6 +2928,13 @@
             "site_url": "https://michele.io/",
             "feed_url": "https://michele.io/index.xml",
             "twitter_url": "https://twitter.com/micheletitolo"
+          },
+          {
+            "title": "Mick Floc’hlay’s Blog",
+            "author": "Mick Floc’hlay",
+            "site_url": "https://mickf.net/tech/tag/ios/",
+            "feed_url": "https://mickf.net/tech/feed/by_tag/ios.xml",
+            "microblog_url": "https://micro.blog/dirtyhenry"
           },
           {
             "title": "Miguel Quinones’ Blog",
