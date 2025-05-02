@@ -5992,6 +5992,13 @@
             "feed_url": "https://swiftbysundell.com/podcast/feed.rss"
           },
           {
+            "title": "Swift Nuggets",
+            "author": "Radu Dan",
+            "site_url": "https://radude89.com/",
+            "twitter_url": "https://x.com/radude89",
+            "feed_url": "https://anchor.fm/s/101d2ff94/podcast/rss"
+          },
+          {
             "title": "Swift over Coffee",
             "author": "Paul Hudson and Sean Allen",
             "site_url": "https://creators.spotify.com/pod/profile/swiftovercoffee/",
@@ -6537,6 +6544,13 @@
             "author": "The Bay Area Swift Community",
             "site_url": "https://www.youtube.com/channel/UC18tEI7YdUtg4bL9yxv1Xjg",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC18tEI7YdUtg4bL9yxv1Xjg"
+          },
+          {
+            "title": "Swift Nuggets with Radu Dan",
+            "author": "Radu Dan",
+            "site_url": "https://www.youtube.com/channel/UCz102jbhMDGROzNGzT_xFxw",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz102jbhMDGROzNGzT_xFxw",
+            "twitter_url": "https://x.com/radude89"
           },
           {
             "title": "Swift Package Indexing Live Streams",
