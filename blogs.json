@@ -2932,8 +2932,8 @@
           {
             "title": "Mick Floc’hlay’s Blog",
             "author": "Mick Floc’hlay",
-            "site_url": "https://mickf.net/tech/tag/ios/",
-            "feed_url": "https://mickf.net/tech/feed/by_tag/ios.xml",
+            "site_url": "https://www.mickf.net/tech/tag/ios/",
+            "feed_url": "https://www.mickf.net/tech/feed/by_tag/ios.xml",
             "microblog_url": "https://micro.blog/dirtyhenry"
           },
           {
@@ -5292,7 +5292,7 @@
           {
             "title": "The ASOS Tech Blog",
             "author": "ASOS",
-            "site_url": "https://medium.com/asos-techblog/tagged/ios",
+            "site_url": "https://medium.com/tag/ios/latest",
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
