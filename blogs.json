@@ -116,6 +116,13 @@
             "twitter_url": "https://twitter.com/b3ll"
           },
           {
+            "title": "Adam Wareing's Blog",
+            "author": "Adam Wareing",
+            "site_url": "https://blog.aniseedapps.com/",
+            "feed_url": "https://blog.aniseedapps.com/rss",
+            "twitter_url": "https://x.com/layoutGuides"
+          },
+          {
             "title": "Adam Wulf's Blog",
             "author": "Adam Wulf",
             "site_url": "https://adamwulf.me/",
