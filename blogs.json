@@ -1060,6 +1060,13 @@
             "mastodon_url": "https://ruby.social/@collin"
           },
           {
+            "title": "ComponentsKit's blog",
+            "author": "ComponentsKit",
+            "site_url": "https://componentskit.io/",
+            "feed_url": "https://componentskit.io/blog/rss.xml",
+            "twitter_url": "https://x.com/componentskitio"
+          },
+          {
             "title": "Conrad Stoll’s Blog",
             "author": "Conrad Stoll",
             "site_url": "http://conradstoll.com/",
