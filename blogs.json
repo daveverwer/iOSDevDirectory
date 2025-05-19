@@ -5310,13 +5310,6 @@
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
-            "title": "Big Nerd Ranch",
-            "author": "Big Nerd Ranch Team",
-            "site_url": "https://bignerdranch.com/blog/category/ios",
-            "feed_url": "https://bignerdranch.com/blog/category/ios/feed/",
-            "twitter_url": "https://twitter.com/bignerdranch"
-          },
-          {
             "title": "Bitrise Blog",
             "author": "Bitrise",
             "site_url": "https://bitrise.io/blog",
