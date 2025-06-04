@@ -5786,6 +5786,13 @@
             "twitter_url": "https://twitter.com/cirrus_labs"
           },
           {
+            "title": "ThinkPractice Swift Posts",
+            "author": "Tim De Jong",
+            "site_url": "https://www.thinkpractice.nl/tags/swift/",
+            "feed_url": "https://www.thinkpractice.nl/tags/swift/index.xml",
+            "mastodon_url": "https://mastodon.social/@tjadejong"
+          },
+          {
             "title": "thoughtbot: iOS posts",
             "author": "thoughtbot Team",
             "site_url": "https://thoughtbot.com/blog/tags/ios",
