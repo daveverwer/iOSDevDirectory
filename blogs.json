@@ -3961,12 +3961,12 @@
             "twitter_url": "https://twitter.com/seb_osinski"
           },
           {
-              "title": "Seb Vidal's Blog",
-              "author": "Seb Vidal",
-              "site_url": "https://sebvidal.com",
-              "feed_url": "https://sebvidal.com/rss.xml",
-              "twitter_url": "https://twitter.com/sebjvidal",
-              "mastodon_url": "https://mastodon.social/@sebjvidal"
+            "title": "Seb Vidal's Blog",
+            "author": "Seb Vidal",
+            "site_url": "https://sebvidal.com",
+            "feed_url": "https://sebvidal.com/rss.xml",
+            "twitter_url": "https://twitter.com/sebjvidal",
+            "mastodon_url": "https://mastodon.social/@sebjvidal"
           },
           {
             "title": "Serhii Kharauzov on Medium",
