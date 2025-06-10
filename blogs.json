@@ -3954,19 +3954,19 @@
             "twitter_url": "https://twitter.com/ScottSmithDev"
           },
           {
-            "title": "Sebastian Osiński’s Blog",
-            "author": "Sebastian Osiński",
-            "site_url": "https://osinski.dev",
-            "feed_url": "https://osinski.dev/index.xml",
-            "twitter_url": "https://twitter.com/seb_osinski"
-          },
-          {
             "title": "Seb Vidal's Blog",
             "author": "Seb Vidal",
             "site_url": "https://sebvidal.com",
             "feed_url": "https://sebvidal.com/rss.xml",
             "twitter_url": "https://twitter.com/sebjvidal",
             "mastodon_url": "https://mastodon.social/@sebjvidal"
+          },
+          {
+            "title": "Sebastian Osiński’s Blog",
+            "author": "Sebastian Osiński",
+            "site_url": "https://osinski.dev",
+            "feed_url": "https://osinski.dev/index.xml",
+            "twitter_url": "https://twitter.com/seb_osinski"
           },
           {
             "title": "Serhii Kharauzov on Medium",
