@@ -84,7 +84,7 @@
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://journal.gaelfoppolo.com",
-            "feed_url": "https://journal.gaelfoppolo.comfeed.xml",
+            "feed_url": "https://journal.gaelfoppolo.com/feed.xml",
             "twitter_url": "https://twitter.com/gaelugio"
           },
           {
