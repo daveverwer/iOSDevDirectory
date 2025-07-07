@@ -4182,8 +4182,8 @@
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
             "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/index.xml/",
-            "twitter_url": "https://twitter.com/stuarticus"
+            "feed_url": "https://stuartbreckenridge.net/feed/json",
+            "mastodon_url": "https://indieweb.social/@stuarticus"
           },
           {
             "title": "Stuart Hall’s Blog",
