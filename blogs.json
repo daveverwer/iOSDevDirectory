@@ -3758,6 +3758,12 @@
             "twitter_url": "https://twitter.com/rekerrsive"
           },
           {
+            "title": "Rob Whitaker's blog",
+            "author": "Rob Whitaker",
+            "site_url": "https://rwapp.co.uk/",
+            "feed_url": "https://rwapp.co.uk/feed.rss"
+          },
+          {
             "title": "Rod Schmidt: Thoughts on Software Development",
             "author": "Rod Schmidt",
             "site_url": "https://rodschmidt.com/",
