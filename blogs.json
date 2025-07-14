@@ -2420,7 +2420,7 @@
           {
             "title": "Kin + Carta Create Medium (iOS)",
             "author": "Kin + Carta Create Engineers",
-            "site_url": "https://medium.com/kinandcartacreated/tagged/ios",
+            "site_url": "https://medium.com/kinandcartacreated/all?topic=ios",
             "feed_url": "https://medium.com/feed/kinandcartacreated/tagged/ios"
           },
           {
@@ -4105,7 +4105,7 @@
           {
             "title": "Source Diving",
             "author": "Cookpad",
-            "site_url": "https://sourcediving.com/tagged/ios",
+            "site_url": "https://sourcediving.com/all?topic=ios",
             "feed_url": "https://sourcediving.com/feed/tagged/ios",
             "twitter_url": "https://twitter.com/cookpad_dev"
           },
@@ -5650,7 +5650,7 @@
           {
             "title": "Over Engineering blog",
             "author": "Over iOS Engineering team",
-            "site_url": "https://medium.com/over-engineering/tagged/ios",
+            "site_url": "https://medium.com/over-engineering/all?topic=ios",
             "feed_url": "https://medium.com/feed/over-engineering/tagged/ios",
             "twitter_url": "https://twitter.com/EngineeringOver"
           },
@@ -5698,7 +5698,7 @@
           {
             "title": "Rosberry Blog",
             "author": "Rosberry Team",
-            "site_url": "https://medium.com/rosberryapps/tagged/ios",
+            "site_url": "https://medium.com/rosberryapps/all?topic=ios",
             "feed_url": "https://medium.com/feed/rosberryapps/tagged/ios",
             "twitter_url": "https://twitter.com/RosberryApps"
           },
