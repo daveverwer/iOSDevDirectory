@@ -3382,7 +3382,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/feed/",
+            "feed_url": "https://otavio.cc/posts_feed",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
