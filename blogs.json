@@ -433,6 +433,13 @@
             "twitter_url": "https://twitter.com/antranapp"
           },
           {
+            "title": "Anton’s Blog",
+            "author": "Anton Gubarenko",
+            "site_url": "https://antongubarenko.substack.com/",
+            "feed_url": "https://antongubarenko.substack.com/feed",
+            "twitter_url": "https://x.com/AntonGubarenko"
+          },
+          {
             "title": "Antitypical",
             "author": "Rob Rix",
             "site_url": "https://antitypical.com/",
@@ -4587,6 +4594,12 @@
             "site_url": "https://dimillian.medium.com/",
             "feed_url": "https://medium.com/feed/@dimillian",
             "twitter_url": "https://twitter.com/Dimillian"
+          },
+          {
+            "title": "Those Who Swift",
+            "author": "Justas Markus, Anton Gubarenko",
+            "site_url": "https://thosewhoswift.substack.com/",
+            "feed_url": "https://thosewhoswift.substack.com/feed"
           },
           {
             "title": "Tiago Henriques' Blog",
