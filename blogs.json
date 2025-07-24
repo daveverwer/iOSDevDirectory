@@ -3835,13 +3835,6 @@
             "twitter_url": "https://twitter.com/karpov"
           },
           {
-            "title": "Rudrank's Blog",
-            "author": "Rudrank Riyam",
-            "site_url": "https://www.rudrank.com/",
-            "feed_url": "https://www.rudrank.com/rss/",
-            "twitter_url": "https://twitter.com/rudrankriyam"
-          },
-          {
             "title": "Rui Miguel's Blog",
             "author": "Rui Miguel",
             "site_url": "https://medium.com/@rygen",
@@ -5415,7 +5408,7 @@
           {
             "title": "The Craft",
             "author": "Faire",
-            "site_url": "https://craft.faire.com/tagged/engineering",
+            "site_url": "https://craft.faire.com/all?topic=engineering",
             "feed_url": "https://medium.com/feed/faire-the-craft/tagged/engineering"
           },
           {
