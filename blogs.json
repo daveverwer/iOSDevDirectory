@@ -433,18 +433,18 @@
             "twitter_url": "https://twitter.com/antranapp"
           },
           {
-            "title": "Anton’s Blog",
-            "author": "Anton Gubarenko",
-            "site_url": "https://antongubarenko.substack.com/",
-            "feed_url": "https://antongubarenko.substack.com/feed",
-            "twitter_url": "https://x.com/AntonGubarenko"
-          },
-          {
             "title": "Antitypical",
             "author": "Rob Rix",
             "site_url": "https://antitypical.com/",
             "feed_url": "https://antitypical.com/feed.xml",
             "twitter_url": "https://twitter.com/rob_rix"
+          },
+          {
+            "title": "Anton’s Blog",
+            "author": "Anton Gubarenko",
+            "site_url": "https://antongubarenko.substack.com/",
+            "feed_url": "https://antongubarenko.substack.com/feed",
+            "twitter_url": "https://x.com/AntonGubarenko"
           },
           {
             "title": "AnySuggestion",
