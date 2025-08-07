@@ -2602,8 +2602,8 @@
           {
             "title": "Lux Mentis",
             "author": "Adrian Ross",
-            "site_url": "https://luxmentis.org",
-            "feed_url": "https://luxmentis.org/rss/",
+            "site_url": "https://luxmentis.org/blog/",
+            "feed_url": "https://luxmentis.org/atom.xml",
             "twitter_url": "https://twitter.com/adrianross"
           },
           {
