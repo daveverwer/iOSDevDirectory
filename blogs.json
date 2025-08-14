@@ -3864,6 +3864,13 @@
             "mastodon_url": "https://indieweb.social/@ryantoken"
           },
           {
+            "title": "Sagar Unagar’s Blog",
+            "author": "Sagar Unagar",
+            "site_url": "https://www.sagarunagar.com/blog/tags/all/",
+            "feed_url": "https://www.sagarunagar.com/rss.xml",
+            "twitter_url": "https://x.com/sagarunagar_"
+          },
+          {
             "title": "Sakun Labs blog",
             "author": "Raheel Ahmad",
             "site_url": "https://sakunlabs.com/blog/",
