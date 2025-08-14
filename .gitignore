@@ -6,3 +6,7 @@
 
 new_blogs.json
 .idea
+
+# Claude Code
+.claude/
+CLAUDE.md
