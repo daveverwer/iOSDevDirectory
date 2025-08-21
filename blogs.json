@@ -4589,6 +4589,13 @@
             "mastodon_url": "https://mastodon.world/@thomashanning"
           },
           {
+            "title": "Thomas Kalhøj Clemensen's Blog",
+            "author": "Thomas Kalhøj Clemensen",
+            "site_url": "https://dev.kalhoej.com",
+            "feed_url": "https://dev.kalhoej.com/feed.rss",
+            "mastodon_url": "https://mastodon.social/@ThomasCle"
+          },
+          {
             "title": "Thomas Ricouard on Medium",
             "author": "Thomas Ricouard",
             "site_url": "https://dimillian.medium.com/",
