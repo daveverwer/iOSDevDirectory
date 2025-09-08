@@ -7393,20 +7393,6 @@
     "title": "German Language",
     "categories": [
       {
-        "title": "Entwickler-Blogs",
-        "slug": "development",
-        "description": "Ganz gleich ob es um Swift oder Objective-C geht, sich um App-Architektur oder UI-Programmierung handelt. Solange es sich mit der Entwicklung für Apple-Plattformen befasst, ist es hier gut aufgehoben.",
-        "sites": [
-          {
-            "title": "Ralf Ebert's Blog",
-            "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.de/blog/",
-            "feed_url": "https://swiftui-garden.com/index.rss",
-            "twitter_url": "https://twitter.com/RalfEbert"
-          }
-        ]
-      },
-      {
         "title": "Programmier- oder Design-Podcasts",
         "slug": "podcasts",
         "description": "Podcasts zu Entwicklung auf Apple-Plattformen, ganz gleich ob sie Code, Design oder Geschäftliches innerhalb des Ökosystems behandeln.",
