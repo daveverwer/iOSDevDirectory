@@ -5194,7 +5194,7 @@
             "title": "Appfigures Blog",
             "author": "Appfigures Team",
             "site_url": "https://appfigures.com/resources",
-            "feed_url": "https://appfigures.com/resources",
+            "feed_url": "https://appfigures.com/resources/rss",
             "twitter_url": "https://twitter.com/appfigures"
           },
           {
@@ -5202,7 +5202,8 @@
             "author": "Appfigures Team",
             "site_url": "https://appfigures.com/resources",
             "feed_url": "https://appfigures.com/resources/rss/",
-            "twitter_url": "https://twitter.com/appfigures"
+            "twitter_url": "https://twitter.com/appfigures",
+            "mastodon_url": "https://mastodon.social/@appfigures"
           },
           {
             "title": "ASO Blog",
