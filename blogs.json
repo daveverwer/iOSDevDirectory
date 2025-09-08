@@ -3652,13 +3652,6 @@
             "twitter_url": "https://twitter.com/rajkwatra"
           },
           {
-            "title": "SwiftUI Garden",
-            "author": "Ralf Ebert",
-            "site_url": "https://swiftui-garden.com/",
-            "feed_url": "https://swiftui-garden.com/index.rss",
-            "twitter_url": "https://twitter.com/RalfEbert"
-          },
-          {
             "title": "Ram Shandilya's Blog",
             "author": "Ramsundar Shandilya",
             "site_url": "https://www.ramshandilya.com/",
@@ -4454,6 +4447,13 @@
             "feed_url": "https://swiftology.io/feed.rss",
             "twitter_url": "https://twitter.com/AlexOzun",
             "mastodon_url": "https://mastodon.social/@alexozun"
+          },
+          {
+            "title": "SwiftUI Garden",
+            "author": "Ralf Ebert",
+            "site_url": "https://swiftui-garden.com/",
+            "feed_url": "https://swiftui-garden.com/index.rss",
+            "twitter_url": "https://twitter.com/RalfEbert"
           },
           {
             "title": "The SwiftUI Lab",
