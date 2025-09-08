@@ -3652,10 +3652,10 @@
             "twitter_url": "https://twitter.com/rajkwatra"
           },
           {
-            "title": "Ralf Ebert's Blog",
+            "title": "SwiftUI Garden",
             "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.com/blog/",
-            "feed_url": "https://www.ralfebert.com/blog/index.rss",
+            "site_url": "https://swiftui-garden.com/",
+            "feed_url": "https://swiftui-garden.com/index.rss",
             "twitter_url": "https://twitter.com/RalfEbert"
           },
           {
@@ -5200,8 +5200,8 @@
           {
             "title": "Appfigures Blog",
             "author": "Appfigures Team",
-            "site_url": "https://blog.appfigures.com/",
-            "feed_url": "https://blog.appfigures.com/feed/",
+            "site_url": "https://appfigures.com/resources",
+            "feed_url": "https://appfigures.com/resources/rss",
             "twitter_url": "https://twitter.com/appfigures"
           },
           {
@@ -5209,7 +5209,8 @@
             "author": "Appfigures Team",
             "site_url": "https://appfigures.com/resources",
             "feed_url": "https://appfigures.com/resources/rss/",
-            "twitter_url": "https://twitter.com/appfigures"
+            "twitter_url": "https://twitter.com/appfigures",
+            "mastodon_url": "https://mastodon.social/@appfigures"
           },
           {
             "title": "ASO Blog",
@@ -7399,20 +7400,6 @@
     "language": "de",
     "title": "German Language",
     "categories": [
-      {
-        "title": "Entwickler-Blogs",
-        "slug": "development",
-        "description": "Ganz gleich ob es um Swift oder Objective-C geht, sich um App-Architektur oder UI-Programmierung handelt. Solange es sich mit der Entwicklung für Apple-Plattformen befasst, ist es hier gut aufgehoben.",
-        "sites": [
-          {
-            "title": "Ralf Ebert's Blog",
-            "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.de/blog/",
-            "feed_url": "https://www.ralfebert.de/blog/index.rss",
-            "twitter_url": "https://twitter.com/RalfEbert"
-          }
-        ]
-      },
       {
         "title": "Programmier- oder Design-Podcasts",
         "slug": "podcasts",
