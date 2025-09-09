@@ -2437,6 +2437,13 @@
             "feed_url": "https://medium.com/feed/kinandcartacreated/tagged/ios"
           },
           {
+            "title": "Klaas Pieter Annema’s Blog",
+            "author": "Klaas Pieter Annema",
+            "site_url": "https://annema.me/",
+            "feed_url": "https://annema.me/feed.xml",
+            "mastodon_url": "https://mastodon.design/@kp"
+          },
+          {
             "title": "ko9",
             "author": "Nick Randall",
             "site_url": "https://ko9.org/",
@@ -3651,13 +3658,6 @@
             "twitter_url": "https://twitter.com/rajkwatra"
           },
           {
-            "title": "Ralf Ebert's Blog",
-            "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.com/blog/",
-            "feed_url": "https://www.ralfebert.com/blog/index.rss",
-            "twitter_url": "https://twitter.com/RalfEbert"
-          },
-          {
             "title": "Ram Shandilya's Blog",
             "author": "Ramsundar Shandilya",
             "site_url": "https://www.ramshandilya.com/",
@@ -3991,7 +3991,7 @@
             "author": "Shankar Madeshvaran",
             "site_url": "https://shankarmadeshvaran.medium.com/",
             "feed_url": "https://medium.com/feed/@shankarmadeshvaran",
-            "twitter_url": "https://twitter.com/Shankar__am"
+            "twitter_url": "https://twitter.com/devinmaking"
           },
           {
             "title": "The Shape of Everything",
@@ -4453,6 +4453,13 @@
             "feed_url": "https://swiftology.io/feed.rss",
             "twitter_url": "https://twitter.com/AlexOzun",
             "mastodon_url": "https://mastodon.social/@alexozun"
+          },
+          {
+            "title": "SwiftUI Garden",
+            "author": "Ralf Ebert",
+            "site_url": "https://swiftui-garden.com/",
+            "feed_url": "https://swiftui-garden.com/index.rss",
+            "twitter_url": "https://twitter.com/RalfEbert"
           },
           {
             "title": "The SwiftUI Lab",
@@ -5199,8 +5206,8 @@
           {
             "title": "Appfigures Blog",
             "author": "Appfigures Team",
-            "site_url": "https://blog.appfigures.com/",
-            "feed_url": "https://blog.appfigures.com/feed/",
+            "site_url": "https://appfigures.com/resources",
+            "feed_url": "https://appfigures.com/resources/rss",
             "twitter_url": "https://twitter.com/appfigures"
           },
           {
@@ -5208,7 +5215,8 @@
             "author": "Appfigures Team",
             "site_url": "https://appfigures.com/resources",
             "feed_url": "https://appfigures.com/resources/rss/",
-            "twitter_url": "https://twitter.com/appfigures"
+            "twitter_url": "https://twitter.com/appfigures",
+            "mastodon_url": "https://mastodon.social/@appfigures"
           },
           {
             "title": "ASO Blog",
@@ -7398,20 +7406,6 @@
     "language": "de",
     "title": "German Language",
     "categories": [
-      {
-        "title": "Entwickler-Blogs",
-        "slug": "development",
-        "description": "Ganz gleich ob es um Swift oder Objective-C geht, sich um App-Architektur oder UI-Programmierung handelt. Solange es sich mit der Entwicklung für Apple-Plattformen befasst, ist es hier gut aufgehoben.",
-        "sites": [
-          {
-            "title": "Ralf Ebert's Blog",
-            "author": "Ralf Ebert",
-            "site_url": "https://www.ralfebert.de/blog/",
-            "feed_url": "https://www.ralfebert.de/blog/index.rss",
-            "twitter_url": "https://twitter.com/RalfEbert"
-          }
-        ]
-      },
       {
         "title": "Programmier- oder Design-Podcasts",
         "slug": "podcasts",
