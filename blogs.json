@@ -81,12 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "Pieces of My Soul",
-            "author": "WeZZard",
-            "site_url": "https://wezzard.com/",
-            "feed_url": "feed://wezzard.com/rss.xml"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://journal.gaelfoppolo.com",
@@ -3545,13 +3539,6 @@
             "twitter_url": "https://twitter.com/steipete"
           },
           {
-            "title": "Petermolnar.dev",
-            "author": "Peter Molnar",
-            "site_url": "https://petermolnar.dev",
-            "feed_url": "https://petermolnar.dev/sitemap.rss",
-            "twitter_url": "https://twitter.com/petermolnar_hu"
-          },
-          {
             "title": "Peter's Path",
             "author": "Peter",
             "site_url": "https://peterspath.net/categories/development/",
@@ -3560,11 +3547,24 @@
             "mastodon_url": "https://mastodon.social/@peterspath"
           },
           {
+            "title": "Petermolnar.dev",
+            "author": "Peter Molnar",
+            "site_url": "https://petermolnar.dev",
+            "feed_url": "https://petermolnar.dev/sitemap.rss",
+            "twitter_url": "https://twitter.com/petermolnar_hu"
+          },
+          {
             "title": "Phil Yates’ Blog",
             "author": "Phil Yates",
             "site_url": "https://pyartez.github.io",
             "feed_url": "https://pyartez.github.io/feed.xml",
             "twitter_url": "https://twitter.com/pyates"
+          },
+          {
+            "title": "Pieces of My Soul",
+            "author": "WeZZard",
+            "site_url": "https://wezzard.com/",
+            "feed_url": "feed://wezzard.com/rss.xml"
           },
           {
             "title": "Pierre Felgines’s Blog",
