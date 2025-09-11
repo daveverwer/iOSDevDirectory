@@ -3048,6 +3048,12 @@
             "twitter_url": "https://twitter.com/lazarevzubov"
           },
           {
+            "title": "Nikita Rodionov on Medium",
+            "author": "Nikita Rodionov",
+            "site_url": "https://medium.com/@proudofziggy",
+            "feed_url": "https://medium.com/feed/@proudofziggy"
+          },
+          {
             "title": "Nikolay Fiantsev on Medium",
             "author": "Nikolay Fiantsev",
             "site_url": "https://bigmotor.medium.com/",
@@ -4157,6 +4163,12 @@
             "site_url": "https://tgomareli.medium.com",
             "feed_url": "https://tgomareli.medium.com/feed",
             "twitter_url": "https://twitter.com/tornikegomareli"
+          },
+          {
+            "title": "Swifting on Medium",
+            "author": "iRiziya",
+            "site_url": "https://medium.com/@iriziya",
+            "feed_url": "https://medium.com/feed/@iriziya"
           },
           {
             "title": "Swiftjective-C",
