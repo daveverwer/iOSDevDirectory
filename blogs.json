@@ -6803,8 +6803,8 @@
           {
             "title": "bang’s blog",
             "author": "bang",
-            "site_url": "http://blog.cnbang.net/",
-            "feed_url": "http://blog.cnbang.net/feed/",
+            "site_url": "http://blog.cnbang.net/cgi-sys/suspendedpage.cgi",
+            "feed_url": "http://blog.cnbang.net/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/bang590",
             "weibo_url": "http://weibo.com/bang"
           },
