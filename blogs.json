@@ -6801,14 +6801,6 @@
         "description": "来自中国的优秀 iOS 开发博客，内容包含不仅限于 Objective-C、Swift、架构、UI、网络等方向。",
         "sites": [
           {
-            "title": "bang’s blog",
-            "author": "bang",
-            "site_url": "http://blog.cnbang.net/cgi-sys/suspendedpage.cgi",
-            "feed_url": "http://blog.cnbang.net/cgi-sys/suspendedpage.cgi",
-            "twitter_url": "https://twitter.com/bang590",
-            "weibo_url": "http://weibo.com/bang"
-          },
-          {
             "title": "Casa Taloyum’s blog",
             "author": "Tian Wei Yu(Casa Taloyum)",
             "site_url": "https://casatwy.com/",
