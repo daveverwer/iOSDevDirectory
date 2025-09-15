@@ -5212,10 +5212,10 @@
             "twitter_url": "https://twitter.com/flightdotschool"
           },
           {
-            "title": "Flutter Medium",
+            "title": "Flutter Blog",
             "author": "Flutter Team",
             "site_url": "https://blog.flutter.dev/",
-            "feed_url": "https://medium.com/feed/flutter",
+            "feed_url": "https://blog.flutter.dev/feed",
             "twitter_url": "https://twitter.com/flutterdev"
           },
           {
