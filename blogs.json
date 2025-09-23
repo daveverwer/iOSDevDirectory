@@ -4766,6 +4766,14 @@
             "twitter_url": "https://twitter.com/bryanjclark"
           },
           {
+            "title": "Explore SwiftUI",
+            "author": "Typ0genius",
+            "site_url": "https://exploreswiftui.com/",
+            "feed_url": "https://exploreswiftui.com/feed",
+            "twitter_url": "https://x.com/Typ0genius",
+            "mastodon_url": "https://mastodon.social/@Typ0genius"
+          },
+          {
             "title": "Learn UI Design",
             "author": "Erik D. Kennedy",
             "site_url": "https://www.learnui.design/blog/",
@@ -4891,14 +4899,6 @@
             "site_url": "https://www.wilsonmunoz.net/blog/",
             "feed_url": "https://www.wilsonmunoz.net/feed.xml",
             "twitter_url": "https://x.com/yosoywil"
-          },
-          {
-            "title": "Explore SwiftUI",
-            "author": "Typ0genius",
-            "site_url": "https://exploreswiftui.com/",
-            "feed_url": "https://exploreswiftui.com/feed",
-            "twitter_url": "https://x.com/Typ0genius",
-            "mastodon_url": "https://mastodon.social/@Typ0genius"
           }
         ]
       },
