@@ -2728,6 +2728,13 @@
             "twitter_url": "https://twitter.com/maxkalik"
           },
           {
+            "title": "Max Seelemann",
+            "author": "Max Seelemann",
+            "site_url": "https://macguru.dev/",
+            "feed_url": "https://macguru.dev/rss/",
+            "mastodon_url": "https://objc.social/@macguru17"
+          },
+          {
             "title": "Maxim Smirnov on Medium",
             "author": "Maxim Smirnov",
             "site_url": "https://medium.com/@atimca",
