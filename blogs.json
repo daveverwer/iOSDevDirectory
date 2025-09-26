@@ -5069,6 +5069,13 @@
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
+            "title": "Bitrig Blog",
+            "author": "Bitrig Team",
+            "site_url": "https://www.bitrig.app/blog",
+            "feed_url": "https://www.bitrig.app/api/rss",
+            "twitter_url": "https://twitter.com/bitrigapp"
+          },
+          {
             "title": "Bitrise Blog",
             "author": "Bitrise",
             "site_url": "https://bitrise.io/blog",
@@ -5599,13 +5606,6 @@
             "site_url": "https://blog.xmartlabs.com/category/ios-development/",
             "feed_url": "https://blog.xmartlabs.com/feed.xml",
             "twitter_url": "https://twitter.com/xmartlabs"
-          },
-          {
-            "title": "Bitrig Blog",
-            "author": "Bitrig Team",
-            "site_url": "https://www.bitrig.app/blog",
-            "feed_url": "https://www.bitrig.app/api/rss",
-            "twitter_url": "https://twitter.com/bitrigapp"
           }
         ]
       },
