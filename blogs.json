@@ -2397,6 +2397,13 @@
             "twitter_url": "https://twitter.com/kylesethgray"
           },
           {
+            "title": "LDomaradzki.com Blog",
+            "author": "Łukasz Domaradzki",
+            "site_url": "https://ldomaradzki.com",
+            "feed_url": "https://ldomaradzki.com/atom.xml",
+            "twitter_url": "https://twitter.com/ldomaradzki"
+          },
+          {
             "title": "Leonardo Diaz's Blog",
             "author": "Leonardo Diaz",
             "site_url": "https://leonardodiaz.medium.com",
@@ -4737,13 +4744,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "twitter_url": "https://twitter.com/zoejessica"
-          },
-          {
-            "title": "LDomaradzki.com Blog",
-            "author": "Łukasz Domaradzki",
-            "site_url": "https://ldomaradzki.com",
-            "feed_url": "https://ldomaradzki.com/atom.xml",
-            "twitter_url": "https://twitter.com/ldomaradzki"
           }
         ]
       },
