@@ -81,6 +81,14 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
+            "title": "Livsy Code",
+            "author": "Artem Mirzabekian",
+            "site_url": "https://livsycode.com/",
+            "feed_url": "https://livsycode.com/feed/",
+            "twitter_url": "https://x.com/livsycode",
+            "github_url": "https://github.com/Livsy90"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://journal.gaelfoppolo.com",
