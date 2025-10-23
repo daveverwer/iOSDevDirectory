@@ -2484,8 +2484,8 @@
           {
             "title": "Lumley IO",
             "author": "William Lumley",
-            "site_url": "http://lumley.io/blogs/",
-            "feed_url": "http://lumley.io/blogs/index.xml",
+            "site_url": "https://lumley.io/blogs/",
+            "feed_url": "https://lumley.io/blogs/index.xml",
             "mastodon_url": "https://mastodon.social/@wlumley"
           },
           {
