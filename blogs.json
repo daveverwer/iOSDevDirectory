@@ -2482,6 +2482,13 @@
             "twitter_url": "https://twitter.com/lukesmithapps"
           },
           {
+            "title": "Lumley IO",
+            "author": "William Lumley",
+            "site_url": "https://lumley.io/blogs/",
+            "feed_url": "https://lumley.io/blogs/index.xml",
+            "mastodon_url": "https://mastodon.social/@wlumley"
+          },
+          {
             "title": "Lunar Skydiving",
             "author": "Drew Olbrich",
             "site_url": "https://www.lunarskydiving.com/blog/",
