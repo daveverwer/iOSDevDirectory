@@ -5009,6 +5009,14 @@
             "twitter_url": "https://twitter.com/Vini__leal"
           },
           {
+            "title": "Wesley de Groot's Blog",
+            "author": "Wesley de Groot",
+            "site_url": "https://wesleydegroot.nl",
+            "feed_url": "https://wesleydegroot.nl/rss.xml",
+            "mastodon_url": "https://mastodon.social/@0xWDG",
+            "github_url": "https://github.com/0xWDG"
+          },
+          {
             "title": "Yvz Digital Lab",
             "author": "Yves Jannic",
             "site_url": "https://yvz.fr",
