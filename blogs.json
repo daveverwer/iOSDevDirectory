@@ -2364,8 +2364,8 @@
           {
             "title": "Krzysztof Zabłocki’s Blog",
             "author": "Krzysztof Zabłocki",
-            "site_url": "https://www.merowing.info/",
-            "feed_url": "https://www.merowing.info/rss/",
+            "site_url": "https://merowing.info/",
+            "feed_url": "https://merowing.info/rss/",
             "twitter_url": "https://twitter.com/merowing_"
           },
           {
@@ -5101,7 +5101,7 @@
           {
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
-            "site_url": "https://www.bitrig.app/blog",
+            "site_url": "https://www.bitrig.com/blog",
             "feed_url": "https://www.bitrig.app/api/rss",
             "twitter_url": "https://twitter.com/bitrigapp"
           },
