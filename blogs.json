@@ -5102,7 +5102,7 @@
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
             "site_url": "https://www.bitrig.com/blog",
-            "feed_url": "https://www.bitrig.app/api/rss",
+            "feed_url": "https://www.bitrig.com/api/rss",
             "twitter_url": "https://twitter.com/bitrigapp"
           },
           {
