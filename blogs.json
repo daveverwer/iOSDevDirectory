@@ -4843,7 +4843,7 @@
             "title": "Max Rudberg’s Blog",
             "author": "Max Rudberg",
             "site_url": "https://blog.maxrudberg.com/",
-            "feed_url": "https://blog.maxrudberg.com/rss",
+            "feed_url": "https://blog.maxrudberg.com/rss/",
             "twitter_url": "https://twitter.com/maxrudberg"
           },
           {
@@ -5648,7 +5648,7 @@
             "title": "AppForce1 Podcast",
             "author": "Jeroen Leenarts",
             "site_url": "https://appforce1.net/podcast/",
-            "feed_url": "https://feeds.buzzsprout.com/1414396.rss",
+            "feed_url": "https://rss.buzzsprout.com/1414396.rss",
             "twitter_url": "https://twitter.com/appforce1"
           },
           {
@@ -5765,7 +5765,7 @@
             "title": "Race Condition",
             "author": "Josh Adams",
             "site_url": "https://racecondition.software",
-            "feed_url": "https://feeds.buzzsprout.com/2077882.rss",
+            "feed_url": "https://rss.buzzsprout.com/2077882.rss",
             "twitter_url": "https://twitter.com/vermont42"
           },
           {
