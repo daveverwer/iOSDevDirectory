@@ -1771,6 +1771,12 @@
             "feed_url": "https://gdcl.co.uk/posts/feed/"
           },
           {
+            "title": "Gio Scalzo's Blog",
+            "author": "Gio Scalzo",
+            "site_url": "https://gioscalzo.com/blog/",
+            "feed_url": "https://gioscalzo.com/blog/index.xml"
+          },
+          {
             "title": "Glenn Gonda's Blog",
             "author": "Glenn Gonda",
             "site_url": "https://www.glenngonda.com/blog",
