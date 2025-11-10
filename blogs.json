@@ -958,7 +958,7 @@
             "title": "Cocoacasts",
             "author": "Bart Jacobs",
             "site_url": "https://cocoacasts.com/blog",
-            "feed_url": "https://cocoacasts.com/feed",
+            "feed_url": "https://cocoacasts.com/feed.rss",
             "twitter_url": "https://twitter.com/_bartjacobs"
           },
           {
