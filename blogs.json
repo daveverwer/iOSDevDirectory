@@ -1004,6 +1004,13 @@
             "twitter_url": "https://twitter.com/macgreg"
           },
           {
+            "title": "coderox",
+            "author": "Roxana Nagy",
+            "site_url": "https://roxana-nagy.com",
+            "feed_url": "https://roxana-nagy.com/rss/",
+            "twitter_url": "https://x.com/coderox2713"
+          },
+          {
             "title": "Coding with Jeff",
             "author": "Jeff Merola",
             "site_url": "https://www.codingwithjeff.org",
@@ -3680,13 +3687,6 @@
             "site_url": "https://medium.com/@marmelroy",
             "feed_url": "https://medium.com/feed/@marmelroy",
             "twitter_url": "https://twitter.com/marmelroy"
-          },
-          {
-            "title": "coderox",
-            "author": "Roxana Nagy",
-            "site_url": "https://roxana-nagy.com",
-            "feed_url": "https://roxana-nagy.com/rss/",
-            "twitter_url": "https://x.com/coderox2713"
           },
           {
             "title": "Rubén Méndez on Medium",
