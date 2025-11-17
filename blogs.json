@@ -1681,6 +1681,13 @@
             "twitter_url": "https://twitter.com/soulchildpls"
           },
           {
+            "title": "Frames Development Blog",
+            "author": "Vincent Tantardini",
+            "site_url": "https://withframes.com/",
+            "feed_url": "https://withframes.com/changelog/rss/index.rss",
+            "twitter_url": "https://twitter.com/withframes"
+          },
+          {
             "title": "Francesco Marisaldi on Medium",
             "author": "Francesco Marisaldi",
             "site_url": "https://medium.com/@fraancessco",
