@@ -1389,6 +1389,14 @@
             "mastodon_url": "https://mastodon.social/@dimsumthinking"
           },
           {
+            "title": "Dimi Chakarov's Blog",
+            "author": "Dimi Chakarov",
+            "site_url": "https://dchakarov.com",
+            "feed_url": "https://dchakarov.com/feed.xml",
+            "twitter_url": "https://twitter.com/gimly",
+            "mastodon_url": "https://fosstodon.org/@gimly"
+          },
+          {
             "title": "Dino Bozic on Medium",
             "author": "Dino Bozic",
             "site_url": "https://dino-bozic.medium.com/",
