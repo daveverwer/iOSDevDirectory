@@ -3830,6 +3830,13 @@
             "twitter_url": "https://twitter.com/seb_osinski"
           },
           {
+            "title": "Sebastian Roehl’s Blog",
+            "author": "Sebastian Roehl",
+            "site_url": "https://sebastianroehl.substack.com/",
+            "feed_url": "https://sebastianroehl.substack.com/feed",
+            "twitter_url": "https://x.com/sebastianroehl"
+          },
+          {
             "title": "Serhii Kharauzov on Medium",
             "author": "Serhii Kharauzov",
             "site_url": "https://medium.com/@sergkharauzov",
