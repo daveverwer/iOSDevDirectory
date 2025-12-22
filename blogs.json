@@ -4782,6 +4782,13 @@
             "feed_url": "https://medium.com/feed/@gaetan.zanella"
           },
           {
+            "title": "ZhgChgLi’s Blog",
+            "author": "ZhgChg Li",
+            "site_url": "https://zhgchg.li/",
+            "feed_url": "https://zhgchg.li/english-ios.xml",
+            "twitter_url": "https://twitter.com/zhgchgli"
+          },
+          {
             "title": "Zoë Smith’s blog",
             "author": "Zoë Smith",
             "site_url": "https://www.zoesmith.io/",
@@ -7074,13 +7081,6 @@
             "site_url": "https://huangshihting.works/blog/",
             "feed_url": "https://huangshihting.works/blog/rss/",
             "twitter_url": "https://twitter.com/KoromikoNeo"
-          },
-          {
-            "title": "ZhgChgLi on Medium",
-            "author": "ZhongCheng Li",
-            "site_url": "https://medium.com/@zhgchgli",
-            "feed_url": "https://medium.com/feed/@zhgchgli",
-            "twitter_url": "https://twitter.com/zhgchgli"
           }
         ]
       }
