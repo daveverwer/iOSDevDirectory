@@ -426,6 +426,12 @@
             "twitter_url": "https://x.com/AntonGubarenko"
           },
           {
+            "title": "CodingWithKonsta Blog",
+            "author": "Konstantinos Nikoloutsos",
+            "site_url": "https://codingwithkonsta.substack.com/",
+            "feed_url": "https://codingwithkonsta.substack.com/feed"
+          },
+          {
             "title": "AnySuggestion",
             "author": "Oleg Dreyman",
             "site_url": "https://medium.com/anysuggestion",
