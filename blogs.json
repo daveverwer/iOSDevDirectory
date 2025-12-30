@@ -426,12 +426,6 @@
             "twitter_url": "https://x.com/AntonGubarenko"
           },
           {
-            "title": "CodingWithKonsta Blog",
-            "author": "Konstantinos Nikoloutsos",
-            "site_url": "https://codingwithkonsta.substack.com/",
-            "feed_url": "https://codingwithkonsta.substack.com/feed"
-          },
-          {
             "title": "AnySuggestion",
             "author": "Oleg Dreyman",
             "site_url": "https://medium.com/anysuggestion",
@@ -1028,6 +1022,12 @@
             "site_url": "https://codingwithvera.com",
             "feed_url": "https://codingwithvera.com/rss/",
             "twitter_url": "https://twitter.com/CodingWithVera"
+          },
+          {
+            "title": "CodingWithKonsta Blog",
+            "author": "Konstantinos Nikoloutsos",
+            "site_url": "https://codingwithkonsta.substack.com/",
+            "feed_url": "https://codingwithkonsta.substack.com/feed"
           },
           {
             "title": "Coffee. Code. Tech. and more",
