@@ -2001,7 +2001,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog",
+            "site_url": "https://iosapptemplates.com/blog/",
             "feed_url": "https://iosapptemplates.com/blog/feed",
             "twitter_url": "https://twitter.com/0xflorian"
           },
@@ -4938,8 +4938,8 @@
           {
             "title": "Sebastiaan de With’s Blog",
             "author": "Sebastiaan de With",
-            "site_url": "http://dewith.com",
-            "feed_url": "http://dewith.com/feed/",
+            "site_url": "http://dewith.com/cgi-sys/suspendedpage.cgi",
+            "feed_url": "http://dewith.com/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/sdw"
           },
           {
