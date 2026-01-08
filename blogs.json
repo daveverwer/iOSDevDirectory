@@ -2001,7 +2001,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog",
+            "site_url": "https://iosapptemplates.com/blog/",
             "feed_url": "https://iosapptemplates.com/blog/feed",
             "twitter_url": "https://twitter.com/0xflorian"
           },
@@ -4934,13 +4934,6 @@
             "site_url": "https://www.scotthurff.com/posts/",
             "feed_url": "https://www.scotthurff.com/posts/rss/",
             "twitter_url": "https://twitter.com/scotthurff"
-          },
-          {
-            "title": "Sebastiaan de With’s Blog",
-            "author": "Sebastiaan de With",
-            "site_url": "http://dewith.com",
-            "feed_url": "http://dewith.com/feed/",
-            "twitter_url": "https://twitter.com/sdw"
           },
           {
             "title": "Swifty Lion",
