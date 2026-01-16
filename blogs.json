@@ -641,6 +641,12 @@
             "feed_url": "https://www.beckyhansmeyer.com/category/general/feed/",
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
+           {
+            "title": "Swiftdifferently",
+            "author": "Omar Elsayed",
+            "site_url": "https://www.swiftdifferently.com",
+            "feed_url": "https://www.swiftdifferently.com/feed.xml"
+          },
           {
             "title": "Ben Dodson’s Weblog",
             "author": "Ben Dodson",
