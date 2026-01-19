@@ -641,7 +641,7 @@
             "feed_url": "https://www.beckyhansmeyer.com/category/general/feed/",
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
-           {
+          {
             "title": "Swiftdifferently",
             "author": "Omar Elsayed",
             "site_url": "https://www.swiftdifferently.com",
@@ -5487,7 +5487,7 @@
             "title": "Penbook Dev Log",
             "author": "User Camp",
             "site_url": "https://penbook.app/blog/",
-            "feed_url": "https://penbook.app/blog/feed",
+            "feed_url": "https://penbook.app/blog/feed/",
             "twitter_url": "https://twitter.com/penbookapp"
           },
           {
