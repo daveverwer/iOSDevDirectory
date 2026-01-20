@@ -642,12 +642,6 @@
             "twitter_url": "https://twitter.com/bhansmeyer"
           },
           {
-            "title": "Swiftdifferently",
-            "author": "Omar Elsayed",
-            "site_url": "https://www.swiftdifferently.com",
-            "feed_url": "https://www.swiftdifferently.com/feed.xml"
-          },
-          {
             "title": "Ben Dodson’s Weblog",
             "author": "Ben Dodson",
             "site_url": "https://bendodson.com/weblog/",
@@ -4225,6 +4219,12 @@
             "author": "Thongchai Kolyutsakul",
             "site_url": "https://medium.com/swiftblade",
             "feed_url": "https://medium.com/feed/swiftblade"
+          },
+          {
+            "title": "Swiftdifferently",
+            "author": "Omar Elsayed",
+            "site_url": "https://www.swiftdifferently.com",
+            "feed_url": "https://www.swiftdifferently.com/feed.xml"
           },
           {
             "title": "SwiftDigest",
