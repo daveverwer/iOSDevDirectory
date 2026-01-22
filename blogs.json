@@ -5487,7 +5487,7 @@
             "title": "Penbook Dev Log",
             "author": "User Camp",
             "site_url": "https://penbook.app/blog/",
-            "feed_url": "https://penbook.app/blog/feed/",
+            "feed_url": "https://penbook.app/blog/rss/",
             "twitter_url": "https://twitter.com/penbookapp"
           },
           {
