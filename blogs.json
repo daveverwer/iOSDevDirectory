@@ -1098,6 +1098,12 @@
             "feed_url": "https://alisoftware.github.io/feed.xml",
             "twitter_url": "https://twitter.com/aligatr"
           },
+           {
+            "title": "Cube Free Coder",
+            "author": "David Bireta",
+            "site_url": "https://cubefreecoder.com/categories/code/",
+            "feed_url": "https://cubefreecoder.com/categories/code/index.xml"
+          },
           {
             "title": "cutting.io",
             "author": "Dan Cutting",
