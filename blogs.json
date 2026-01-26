@@ -4157,13 +4157,6 @@
             "twitter_url": "https://twitter.com/tiborbodecs"
           },
           {
-            "title": "Swift in Depth",
-            "author": "Tjeerd in ’t Veen",
-            "site_url": "https://swiftindepth.com/",
-            "feed_url": "https://swiftindepth.com/feed.xml",
-            "twitter_url": "https://twitter.com/tjeerdintveen"
-          },
-          {
             "title": "Swift on server",
             "author": "Joannis Orlandos and Tibor Bödecs",
             "site_url": "https://swiftonserver.com/",
@@ -5147,8 +5140,8 @@
           {
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
-            "site_url": "https://www.bitrig.com/blog",
-            "feed_url": "https://www.bitrig.com/api/rss",
+            "site_url": "https://bitrig.com/blog",
+            "feed_url": "https://bitrig.com/api/rss",
             "twitter_url": "https://twitter.com/bitrigapp"
           },
           {
