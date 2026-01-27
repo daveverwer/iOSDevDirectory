@@ -3416,9 +3416,7 @@
             "title": "Peter's Path",
             "author": "Peter",
             "site_url": "https://peterspath.net/categories/development/",
-            "feed_url": "https://peterspath.net/categories/development/rss.xml",
-            "twitter_url": "https://x.com/peterspath_net",
-            "mastodon_url": "https://mastodon.social/@peterspath"
+            "feed_url": "https://peterspath.net/categories/development/rss.xml"
           },
           {
             "title": "Petermolnar.dev",
