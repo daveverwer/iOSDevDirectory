@@ -2313,7 +2313,14 @@
             "twitter_url": "https://twitter.com/jury"
           },
           {
-            "title": "Kamil Pyć’s Blog",
+            "title": "Kamil Buczel's Blog",
+            "author": "Kamil Buczel",
+            "site_url": "https://buczel.com/blog/",
+            "feed_url": "https://buczel.com/rss.xml",
+            "twitter_url": "https://x.com/kamil_buczel"
+          },
+          {
+            "title": "Kamil Pyć's Blog",
             "author": "Kamil Pyć",
             "site_url": "https://pyckamil.github.io",
             "feed_url": "https://pyckamil.github.io/feed.xml",
