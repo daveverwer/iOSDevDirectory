@@ -1527,8 +1527,8 @@
           {
             "title": "elkraneo",
             "author": "Cristian Díaz",
-            "site_url": "https://www.elkraneo.com/",
-            "feed_url": "https://www.elkraneo.com/rss/",
+            "site_url": "https://elkraneo.com/",
+            "feed_url": "https://elkraneo.com/rss/",
             "mastodon_url": "http://mastodon.social/@elkraneo",
             "twitter_url": "https://twitter.com/elkraneo"
           },
@@ -2269,13 +2269,6 @@
             "site_url": "https://www.jonathant.com",
             "feed_url": "https://feed.jonathant.com/",
             "twitter_url": "https://twitter.com/jonathant"
-          },
-          {
-            "title": "Joseph Duffy's Blog",
-            "author": "Joseph Duffy",
-            "site_url": "https://josephduffy.co.uk/posts",
-            "feed_url": "https://josephduffy.co.uk/atom.xml",
-            "twitter_url": "http://twitter.com/Joe_Duffy"
           },
           {
             "title": "Josh Holtz's Blog",
@@ -4998,8 +4991,8 @@
           {
             "title": "ASO Blog",
             "author": "I WANT AN ELEPHANT",
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
-            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/",
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog",
+            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed",
             "twitter_url": "https://twitter.com/IWA_ELEPHANT"
           },
           {
