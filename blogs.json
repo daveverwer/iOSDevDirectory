@@ -1527,8 +1527,8 @@
           {
             "title": "elkraneo",
             "author": "Cristian Díaz",
-            "site_url": "https://www.elkraneo.com/",
-            "feed_url": "https://www.elkraneo.com/rss/",
+            "site_url": "https://elkraneo.com/",
+            "feed_url": "https://elkraneo.com/rss/",
             "mastodon_url": "http://mastodon.social/@elkraneo",
             "twitter_url": "https://twitter.com/elkraneo"
           },
@@ -4998,8 +4998,8 @@
           {
             "title": "ASO Blog",
             "author": "I WANT AN ELEPHANT",
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
-            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/",
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog",
+            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed",
             "twitter_url": "https://twitter.com/IWA_ELEPHANT"
           },
           {
