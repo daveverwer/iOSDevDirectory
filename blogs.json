@@ -4660,6 +4660,14 @@
             "twitter_url": "https://twitter.com/_vojto"
           },
           {
+            "title": "Vova Ignatov's Blog",
+            "author": "Vova Ignatov",
+            "site_url": "https://ignatovv.me",
+            "feed_url": "https://ignatovv.me/rss.xml",
+            "twitter_url": "https://twitter.com/ignatov__vova",
+            "github_url": "https://github.com/ignatovv"
+          },
+          {
             "title": "Warren Moore on Medium",
             "author": "Warren Moore",
             "site_url": "https://medium.com/@warrenm",
