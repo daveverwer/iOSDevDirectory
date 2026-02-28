@@ -4668,12 +4668,6 @@
             "github_url": "https://github.com/ignatovv"
           },
           {
-            "title": "Very Curious Engineer",
-            "author": "Babs",
-            "site_url": "https://verycuriousengineer.substack.com",
-            "feed_url": "https://verycuriousengineer.substack.com/feed"
-          },
-          {
             "title": "Warren Moore on Medium",
             "author": "Warren Moore",
             "site_url": "https://medium.com/@warrenm",
@@ -5673,6 +5667,12 @@
             "site_url": "https://tworingsoft.com/blog/",
             "feed_url": "https://tworingsoft.com/feed.xml",
             "twitter_url": "https://twitter.com/tworingsoft"
+          },
+          {
+            "title": "Very Curious Engineer",
+            "author": "Babs",
+            "site_url": "https://verycuriousengineer.substack.com",
+            "feed_url": "https://verycuriousengineer.substack.com/feed"
           },
           {
             "title": "The Waldo Blog",
