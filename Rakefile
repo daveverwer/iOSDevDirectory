@@ -44,6 +44,17 @@ namespace :validate do
 
     File.write('new_blogs.json', JSON.pretty_generate(data))
   end
+
+  desc 'Check for dead, parked, or broken sites and feeds'
+  task :sites do
+    require_relative 'lib/site_checker'
+
+    issues, total = SiteChecker.check('blogs.json')
+    html = SiteChecker.render_html(issues, total)
+
+    File.write('site_health_report.html', html)
+    puts "Report written to site_health_report.html (#{issues.size} issues found across #{total} sites)"
+  end
 end
 
 namespace :sort do
