@@ -1,10 +1,8 @@
 #!/bin/bash
+set -e
 
-diff --brief blogs.json new_blogs.json >/dev/null
-CONTAINS_CHANGES=$?
-
-if [ $CONTAINS_CHANGES -eq 1 ]; then
-    echo "changes=true" >> $GITHUB_OUTPUT
+if diff -q blogs.json new_blogs.json > /dev/null 2>&1; then
+    echo "changes=false" >> "$GITHUB_OUTPUT"
 else
-    echo "changes=false" >> $GITHUB_OUTPUT
+    echo "changes=true" >> "$GITHUB_OUTPUT"
 fi
