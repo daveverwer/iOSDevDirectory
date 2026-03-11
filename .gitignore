@@ -1,10 +1,13 @@
+# Temporary files
+new_blogs.json
+
 # macOS
 .DS_Store
 
 # Nova
 .nova
 
-new_blogs.json
+# JetBrains
 .idea
 
 # Claude Code
