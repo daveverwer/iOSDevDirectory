@@ -1247,8 +1247,8 @@
             "author": "Dave Verwer",
             "site_url": "https://daveverwer.com/",
             "feed_url": "https://daveverwer.com/feed.xml",
-            "twitter_url": "https://twitter.com/daveverwer",
-            "mastodon_url": "https://mastodon.social/@daveverwer"
+            "mastodon_url": "https://mastodon.social/@daveverwer",
+            "bluesky_url": "https://bsky.app/profile/daveverwer.com"
           },
           {
             "title": "David Cordero’s Blog",
@@ -5976,8 +5976,8 @@
             "author": "Dave Verwer",
             "site_url": "https://iosdevweekly.com/",
             "feed_url": "https://iosdevweekly.com/issues.rss",
-            "twitter_url": "https://twitter.com/iosdevweekly",
-            "mastodon_url": "https://iosdev.space/@iosdevweekly"
+            "mastodon_url": "https://iosdev.space/@iosdevweekly",
+            "bluesky_url": "https://bsky.app/profile/iosdevweekly.com"
           },
           {
             "title": "iOS Development Tips and Tricks",
