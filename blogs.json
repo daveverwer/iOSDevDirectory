@@ -1247,8 +1247,10 @@
             "author": "Dave Verwer",
             "site_url": "https://daveverwer.com/",
             "feed_url": "https://daveverwer.com/feed.xml",
+            "github_url": "https://github.com/daveverwer",
             "mastodon_url": "https://mastodon.social/@daveverwer",
-            "bluesky_url": "https://bsky.app/profile/daveverwer.com"
+            "bluesky_url": "https://bsky.app/profile/daveverwer.com",
+            "linkedin_url": "https://www.linkedin.com/in/daveverwer/"
           },
           {
             "title": "David Cordero’s Blog",
