@@ -57,11 +57,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  faraday
-  json
-  json-schema
-  rake
-  rubocop
+  faraday (~> 2.0)
+  json (~> 2.0)
+  json-schema (~> 6.0)
+  rake (~> 13.0)
+  rubocop (~> 1.0)
 
 BUNDLED WITH
   4.0.8
