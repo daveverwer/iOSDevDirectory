@@ -81,12 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "appleboy",
-            "author": "Asser Osama",
-            "site_url": "https://appleboy.tech",
-            "feed_url": "https://appleboy.tech/feed.xml"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://journal.gaelfoppolo.com",
@@ -451,6 +445,12 @@
             "site_url": "https://appforce1.net/blog/",
             "feed_url": "https://appforce1.net/blog/rss.php",
             "twitter_url": "https://twitter.com/appforce1"
+          },
+          {
+            "title": "appleboy",
+            "author": "Asser Osama",
+            "site_url": "https://appleboy.tech",
+            "feed_url": "https://appleboy.tech/feed.xml"
           },
           {
             "title": "AppMakers.Dev",
