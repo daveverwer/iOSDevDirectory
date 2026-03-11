@@ -15,9 +15,7 @@ jobs:
         with:
           bundler-cache: true
       - name: Re-sort Blogs
-        uses: mathiasvr/command-output@v2.0.0
-        with:
-          run: bundle exec rake sort:blogs
+        run: bundle exec rake sort:blogs
       - name: Check for Changes
         run: bash .github/check_for_changes.sh
         id: check
