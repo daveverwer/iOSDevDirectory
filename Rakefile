@@ -21,22 +21,22 @@ namespace :validate do
             response = Faraday.head(site[field])
 
             if response.status.between?(300, 399)
-              new_uri = URI(response.headers['location'])
+              new_uri = URI.parse(response.headers['location'])
 
               # There are lots of incorrect redirects for YouTube channels.
               next if new_uri.host == 'consent.youtube.com'
 
               unless new_uri.is_a?(URI::HTTP) || new_uri.is_a?(URI::HTTPS)
                 path = new_uri.path
-                new_uri = URI(site[field])
+                new_uri = URI.parse(site[field])
                 new_uri.path = path
               end
 
               puts "HTTP #{response.status} for #{site['title']}", site[field], new_uri, "\n"
               site[field] = new_uri.to_s
             end
-          rescue Faraday::Error
-            # Ignore connection errors and 404s
+          rescue Faraday::Error, URI::InvalidURIError
+            # Ignore connection errors, 404s, and malformed redirect URIs
           end
         end
       end
