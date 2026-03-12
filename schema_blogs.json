@@ -31,7 +31,7 @@
               "type": "array",
               "items": {
                 "type": "object",
-                "required": ["title", "author", "site_url", "feed_url"],
+                "required": ["title", "author", "site_url"],
                 "additionalProperties": false,
                 "properties": {
                   "title": {
