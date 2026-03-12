@@ -45,6 +45,17 @@ namespace :validate do
     File.write('new_blogs.json', JSON.pretty_generate(data))
   end
 
+  desc 'Check for dead X/Twitter profiles'
+  task :x_urls do
+    require_relative 'lib/x_profile_checker'
+
+    issues, total = XProfileChecker.check('blogs.json')
+
+    File.write('x_profile_report.txt', XProfileChecker.render_text(issues, total))
+    File.write('x_profile_report.html', XProfileChecker.render_html(issues, total))
+    puts "Reports written to x_profile_report.{txt,html} (#{issues.size} issues found across #{total} profiles)"
+  end
+
   desc 'Check for dead, parked, or broken sites and feeds'
   task :sites do
     require_relative 'lib/site_checker'

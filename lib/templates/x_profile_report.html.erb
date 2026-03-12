@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>X/Twitter Profile Report</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+           max-width: 960px; margin: 0 auto; padding: 2rem 1rem; background: #f8f9fa; color: #212529; }
+    h1 { margin-bottom: 0.25rem; }
+    .subtitle { color: #6c757d; margin-bottom: 1.5rem; }
+    .issue { background: #fff; border: 1px solid #dee2e6; border-radius: 0.5rem; padding: 0.75rem 1rem;
+             margin-bottom: 0.5rem; }
+    .issue-title { font-weight: 600; }
+    .issue-author { color: #6c757d; }
+    .issue-url { font-family: "SF Mono", SFMono-Regular, Menlo, monospace; font-size: 0.85rem;
+                 word-break: break-all; }
+    .issue-url a { color: #0d6efd; text-decoration: none; }
+    .issue-url a:hover { text-decoration: underline; }
+    .issue-detail { color: #dc3545; font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <h1>X/Twitter Profile Report</h1>
+  <p class="subtitle"><%= h.(timestamp) %> &mdash; <%= total_checked %> profiles checked, <%= sorted.size %> issues found</p>
+
+<% sorted.each do |issue| -%>
+  <div class="issue">
+    <div><span class="issue-title"><%= h.(issue.title) %></span> <span class="issue-author">by <%= h.(issue.author) %></span></div>
+    <div class="issue-url"><a href="<%= h.(issue.url) %>" target="_blank"><%= h.(issue.url) %></a></div>
+    <div class="issue-detail"><%= h.(issue.detail) %></div>
+  </div>
+<% end -%>
+</body>
+</html>
