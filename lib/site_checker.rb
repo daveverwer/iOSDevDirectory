@@ -5,33 +5,11 @@ require 'json'
 require 'parallel'
 
 module SiteChecker
-  PARKING_PATTERNS = [
-    /this domain is for sale/i,
-    /buy this domain/i,
-    /domain is parked/i,
-    /this page is parked/i,
-    /domain parking/i,
-    /parked by/i,
-    /this website is for sale/i,
-    /is available for purchase/i,
-    /sedoparking/i,
-    /domainlapse/i,
-    /hugedomains/i,
-    /godaddy\.com\/forsale/i,
-    /afternic\.com/i,
-    /parkingcrew/i,
-    /above\.com/i,
-    /bodis\.com/i,
-    /\bdan\.com\/buy-domain\b/i,
-  ].freeze
-
   SECTIONS = {
     dead: { heading: 'Dead Sites', desc: 'Connection refused, DNS failure, 404/410', color: '#dc3545' },
     timeout: { heading: 'Timeout', desc: 'No response within 15 seconds', color: '#fd7e14' },
     ssl_error: { heading: 'SSL Errors', desc: 'Invalid or expired certificates', color: '#e83e8c' },
     server_error: { heading: 'Server Errors', desc: 'HTTP 5xx responses', color: '#6f42c1' },
-    parked: { heading: 'Parked / Spam Domains', desc: 'Domain parking pages detected', color: '#d63384' },
-    feed_broken: { heading: 'Broken Feeds', desc: 'Wrong content type returned', color: '#0dcaf0' },
   }.freeze
 
   Issue = Struct.new(:title, :author, :language, :category, :field, :url, :kind, :detail, keyword_init: true)
@@ -118,18 +96,6 @@ module SiteChecker
       [issue.call(:dead, "HTTP #{response.status}")]
     elsif response.status >= 500
       [issue.call(:server_error, "HTTP #{response.status}")]
-    elsif response.status == 200 && field == 'site_url'
-      body = response.body.to_s.empty? ? conn.get(url).body.to_s : response.body.to_s
-      body = body[0, 51_200].encode('UTF-8', invalid: :replace, undef: :replace, replace: '')
-      match = PARKING_PATTERNS.find { |p| body.match?(p) }
-      match ? [issue.call(:parked, "matched: #{match.source}")] : []
-    elsif response.status == 200 && field == 'feed_url'
-      content_type = response.headers['content-type'].to_s.downcase
-      if content_type.match?(/xml|rss|atom|json|text\/plain/)
-        []
-      else
-        [issue.call(:feed_broken, "content-type: #{content_type}")]
-      end
     else
       []
     end

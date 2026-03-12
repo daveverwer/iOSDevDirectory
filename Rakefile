@@ -56,7 +56,7 @@ namespace :validate do
     puts "Reports written to x_profile_report.{txt,html} (#{issues.size} issues found across #{total} profiles)"
   end
 
-  desc 'Check for dead, parked, or broken sites and feeds'
+  desc 'Check for dead or broken sites and feeds'
   task :sites do
     require_relative 'lib/site_checker'
 
