@@ -63,15 +63,15 @@
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/packages.rss",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex",
-            "x_url": "https://x.com/SwiftPackages"
+            "bluesky_url": "https://bsky.app/profile/swiftpackageindex.mas.to.ap.brid.gy"
           },
           {
-            "title": "Swift Package Index – Recent Releases",
+            "title": "Swift Package Index - Recent Releases",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/releases.rss",
             "mastodon_url": "https://mas.to/@SwiftPackageUpdates",
-            "x_url": "https://x.com/SwiftPkgUpdates"
+            "bluesky_url": "https://bsky.app/profile/swiftpackageupdates.mas.to.ap.brid.gy"
           }
         ]
       },
@@ -4174,7 +4174,7 @@
             "site_url": "https://swiftpackageindex.com/blog",
             "feed_url": "https://swiftpackageindex.com/blog/feed.xml",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex",
-            "x_url": "https://x.com/SwiftPackages"
+            "bluesky_url": "https://bsky.app/profile/swiftpackageindex.mas.to.ap.brid.gy"
           },
           {
             "title": "Swift Rocks",
@@ -5881,7 +5881,7 @@
             "site_url": "https://swiftpackageindexing.transistor.fm",
             "feed_url": "https://feeds.transistor.fm/swift-package-indexing",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex",
-            "x_url": "https://x.com/SwiftPackages"
+            "bluesky_url": "https://bsky.app/profile/swiftpackageindex.mas.to.ap.brid.gy"
           },
           {
             "title": "The Swift Teacher Podcast",
@@ -6423,12 +6423,12 @@
             "x_url": "https://x.com/radude89"
           },
           {
-            "title": "Swift Package Indexing Live Streams",
+            "title": "Swift Package Indexing Podcast on YouTube",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://www.youtube.com/channel/UCeJvtSFr3cnnNhYwRlLZoSw",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeJvtSFr3cnnNhYwRlLZoSw",
             "mastodon_url": "https://mas.to/@SwiftPackageIndex",
-            "x_url": "https://x.com/SwiftPackages"
+            "bluesky_url": "https://bsky.app/profile/swiftpackageindex.mas.to.ap.brid.gy"
           },
           {
             "title": "Swift Reality XR on YouTube",
