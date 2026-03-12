@@ -105,6 +105,8 @@ module SiteChecker
   def check_url(conn, entry, field, method: :head)
     site = entry[:site]
     url = site[field]
+    return [] unless url
+
     issue = ->(kind, detail) do
       Issue.new(title: site['title'], author: site['author'], language: entry[:language],
                 category: entry[:category], field: field, url: url, kind: kind, detail: detail)
