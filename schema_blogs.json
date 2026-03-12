@@ -72,7 +72,7 @@
                     "type": "string",
                     "format": "uri"
                   },
-                  "twitter_url": {
+                  "x_url": {
                     "type": "string",
                     "format": "uri"
                   },
