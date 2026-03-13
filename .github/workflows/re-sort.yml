@@ -19,7 +19,7 @@ jobs:
         with:
           bundler-cache: true
       - name: Re-sort Blogs
-        run: bundle exec rake sort:blogs
+        run: OUTPUT=new_blogs.json bundle exec rake sort:blogs
       - name: Check for Changes
         run: bash .github/check_for_changes.sh
         id: check

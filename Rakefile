@@ -44,7 +44,7 @@ namespace :healthcheck do
       end
     end
 
-    File.write('new_blogs.json', JSON.pretty_generate(data))
+    File.write(ENV.fetch('OUTPUT', 'blogs.json'), JSON.pretty_generate(data))
   end
 
   desc 'Check for dead X/Twitter profiles'
@@ -82,6 +82,6 @@ namespace :sort do
       end
     end
 
-    File.write('new_blogs.json', JSON.pretty_generate(data))
+    File.write(ENV.fetch('OUTPUT', 'blogs.json'), JSON.pretty_generate(data))
   end
 end
