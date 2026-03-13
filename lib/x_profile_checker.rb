@@ -51,9 +51,7 @@ module XProfileChecker
     url = site['x_url']
     response = conn.get('https://publish.twitter.com/oembed', { url: url })
 
-    if response.status == 404 || response.status == 403
-      Issue.new(title: site['title'], author: site['author'], url: url, detail: "HTTP #{response.status}")
-    elsif response.status >= 400
+    if response.status >= 400
       Issue.new(title: site['title'], author: site['author'], url: url, detail: "HTTP #{response.status}")
     end
   rescue Faraday::ConnectionFailed => e
