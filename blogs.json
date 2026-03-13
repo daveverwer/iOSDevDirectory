@@ -58,20 +58,20 @@
         "description": "Information about new or updated Swift packages from the Swift Package Index.",
         "sites": [
           {
-            "title": "Swift Package Index - Recently Added",
-            "author": "Dave Verwer and Sven A. Schmidt",
-            "site_url": "https://swiftpackageindex.com",
-            "feed_url": "https://swiftpackageindex.com/packages.rss",
-            "mastodon_url": "https://mas.to/@SwiftPackageIndex",
-            "bluesky_url": "https://bsky.app/profile/swiftpackageindex.mas.to.ap.brid.gy"
-          },
-          {
             "title": "Swift Package Index - Recent Releases",
             "author": "Dave Verwer and Sven A. Schmidt",
             "site_url": "https://swiftpackageindex.com",
             "feed_url": "https://swiftpackageindex.com/releases.rss",
             "mastodon_url": "https://mas.to/@SwiftPackageUpdates",
             "bluesky_url": "https://bsky.app/profile/swiftpackageupdates.mas.to.ap.brid.gy"
+          },
+          {
+            "title": "Swift Package Index - Recently Added",
+            "author": "Dave Verwer and Sven A. Schmidt",
+            "site_url": "https://swiftpackageindex.com",
+            "feed_url": "https://swiftpackageindex.com/packages.rss",
+            "mastodon_url": "https://mas.to/@SwiftPackageIndex",
+            "bluesky_url": "https://bsky.app/profile/swiftpackageindex.mas.to.ap.brid.gy"
           }
         ]
       },
@@ -884,6 +884,15 @@
             "site_url": "https://chris-mash.medium.com/",
             "feed_url": "https://medium.com/feed/@chris-mash",
             "x_url": "https://x.com/cjmash"
+          },
+          {
+            "title": "Chris Parker’s Blog",
+            "author": "Chris Parker",
+            "site_url": "https://www.playswithfire.com/",
+            "threads_url": "https://www.threads.com/@playswithfire",
+            "bluesky_url": "https://bsky.app/profile/playswithfire.com/",
+            "mastodon_url": "https://mastodon.social/@ctp",
+            "linkedin_url": "https://www.linkedin.com/in/chrisparker5/"
           },
           {
             "title": "Chris Saez Medium",
@@ -3072,15 +3081,6 @@
             "x_url": "https://x.com/nonstrict_hq"
           },
           {
-            "title": "Chris Parker’s Blog",
-            "author": "Chris Parker",
-            "site_url": "https://www.playswithfire.com/",
-            "threads_url": "https://www.threads.com/@playswithfire",
-            "bluesky_url": "https://bsky.app/profile/playswithfire.com/",
-            "mastodon_url": "https://mastodon.social/@ctp",
-            "linkedin_url": "https://www.linkedin.com/in/chrisparker5/"
-          },
-          {
             "title": "NSBlog",
             "author": "Mike Ash",
             "site_url": "https://www.mikeash.com/pyblog/",
@@ -5047,6 +5047,13 @@
             "x_url": "https://x.com/chimehq"
           },
           {
+            "title": "Chris Marshall on Medium",
+            "author": "Chris Marshall",
+            "site_url": "https://chrismarshallny.medium.com/",
+            "feed_url": "https://medium.com/feed/@chrismarshallny",
+            "x_url": "https://x.com/ChrisMarshallNY"
+          },
+          {
             "title": "Code as Craft from Etsy",
             "author": "Etsy Engineering Team",
             "site_url": "https://www.etsy.com/codeascraft",
@@ -5418,13 +5425,6 @@
             "site_url": "https://blog.supertop.co/",
             "feed_url": "https://blog.supertop.co/rss",
             "x_url": "https://x.com/supertopsquid"
-          },
-          {
-            "title": "Chris Marshall on Medium",
-            "author": "Chris Marshall",
-            "site_url": "https://chrismarshallny.medium.com/",
-            "feed_url": "https://medium.com/feed/@chrismarshallny",
-            "x_url": "https://x.com/ChrisMarshallNY"
           },
           {
             "title": "Tact engineering blog",
