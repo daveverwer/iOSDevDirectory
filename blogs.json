@@ -3072,6 +3072,15 @@
             "x_url": "https://x.com/nonstrict_hq"
           },
           {
+            "title": "Chris Parker’s Blog",
+            "author": "Chris Parker",
+            "site_url": "https://www.playswithfire.com/",
+            "threads_url": "https://www.threads.com/@playswithfire",
+            "bluesky_url": "https://bsky.app/profile/playswithfire.com/",
+            "mastodon_url": "https://mastodon.social/@ctp",
+            "linkedin_url": "https://www.linkedin.com/in/chrisparker5/"
+          },
+          {
             "title": "NSBlog",
             "author": "Mike Ash",
             "site_url": "https://www.mikeash.com/pyblog/",
