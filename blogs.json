@@ -3436,7 +3436,10 @@
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
             "feed_url": "http://feeds.feedburner.com/qualitycoding",
-            "mastodon_url": "https://iosdev.space/@qcoding"
+            "bluesky_url": "https://bsky.app/profile/qualitycoding.org",
+            "mastodon_url": "https://iosdev.space/@qcoding",
+            "github_url": "https://github.com/jonreid",
+            "linkedin_url": "https://www.linkedin.com/in/jonreid/"
           },
           {
             "title": "Race Condition",
@@ -6068,9 +6071,12 @@
           {
             "title": "Quality Coding on YouTube",
             "author": "Jon Reid",
-            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "site_url": "https://www.youtube.com/@QualityCoding",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC69XtVGLRydpG7o1nkdQs8Q",
-            "x_url": "https://x.com/qcoding"
+            "bluesky_url": "https://bsky.app/profile/qualitycoding.org",
+            "mastodon_url": "https://iosdev.space/@qcoding",
+            "github_url": "https://github.com/jonreid",
+            "linkedin_url": "https://www.linkedin.com/in/jonreid/"
           },
           {
             "title": "Richard Topchii on YouTube",
@@ -6277,7 +6283,10 @@
             "author": "Jon Reid",
             "site_url": "https://www.twitch.tv/qcoding",
             "feed_url": "https://twitchrss.appspot.com/vod/qcoding",
-            "mastodon_url": "https://iosdev.space/@qcoding"
+            "bluesky_url": "https://bsky.app/profile/qualitycoding.org",
+            "mastodon_url": "https://iosdev.space/@qcoding",
+            "github_url": "https://github.com/jonreid",
+            "linkedin_url": "https://www.linkedin.com/in/jonreid/"
           },
           {
             "title": "subdigital on Twitch",
