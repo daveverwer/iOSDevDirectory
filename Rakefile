@@ -9,7 +9,9 @@ namespace :validate do
   task :json do
     JSON::Validator.validate!('schema_blogs.json', 'blogs.json')
   end
+end
 
+namespace :healthcheck do
   desc "Look for redirects in the site or feed URLs"
   task :redirects do
     file = File.read('blogs.json')

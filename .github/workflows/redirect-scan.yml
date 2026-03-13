@@ -21,7 +21,7 @@ jobs:
       - name: Validate URLs
         id: mutate
         run: |
-          OUTPUT=$(bundle exec rake validate:redirects)
+          OUTPUT=$(bundle exec rake healthcheck:redirects)
           echo "stdout<<EOF" >> "$GITHUB_OUTPUT"
           echo "$OUTPUT" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
