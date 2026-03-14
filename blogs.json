@@ -4700,7 +4700,7 @@
             "author": "Tim Mitra",
             "site_url": "https://www.it-guy.com/wp-new/blog/",
             "feed_url": "https://www.it-guy.com/wp-new/feed/",
-            "twitter_url": "https://twitter.com/timmitra",
+            "bluesky_url": "https://bsky.app/profile/timmitra.bsky.social",
             "mastodon_url": "https://mastodon.social/@timmitra"
           },
           {
@@ -6082,8 +6082,7 @@
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "https://www.morethanjustcode.com",
-            "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
-            "twitter_url": "https://twitter.com/mtjc_podcast"
+            "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/"
           },
           {
             "title": "Race Condition",
@@ -6188,6 +6187,11 @@
             "site_url": "https://curatedios.substack.com",
             "feed_url": "https://curatedios.substack.com/feed",
             "twitter_url": "https://twitter.com/artjomsvorona"
+          },
+          {
+            "title": "diff visionOS",
+            "author": "Tim Mitra",
+            "site_url": "https://it-guy-technologies.kit.com"
           },
           {
             "title": "Fatbobman's Swift Weekly",
@@ -6720,7 +6724,8 @@
             "author": "Tim Mitra",
             "site_url": "https://www.youtube.com/timmitra",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfyMBCEYh0CjsiKuFlJh3A",
-            "twitter_url": "https://twitter.com/timmitra"
+            "bluesky_url": "https://bsky.app/profile/timmitra.bsky.social",
+            "mastodon_url": "https://mastodon.social/@timmitra"
           },
           {
             "title": "Tom Baranowicz",
