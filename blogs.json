@@ -6766,7 +6766,9 @@
             "author": "Ethan Huang",
             "site_url": "https://ethanhuang13.plus",
             "feed_url": "https://ethanhuang13.plus/rss/",
-            "x_url": "https://x.com/ethanhuang13"
+            "threads_url": "https://www.threads.net/@ethanhuang13",
+            "x_url": "https://x.com/ethanhuang13",
+            "github_url": "https://github.com/ethanhuang13"
           }
         ]
       }
