@@ -4682,6 +4682,12 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
+          },
+          {
+            "title": "idiots with iOS",
+            "author": "Mrugesh Tank, Pulkit Vora",
+            "site_url": "https://idiotswithios.com",
+            "feed_url": "https://idiotswithios.com/feed/"
           }
         ]
       },
