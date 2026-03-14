@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Site Health Check Report</title>
+  <style>
+    html { scroll-behavior: smooth; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+           max-width: 960px; margin: 0 auto; padding: 2rem 1rem; background: #f8f9fa; color: #212529; }
+    h1 { margin-bottom: 0.25rem; }
+    .subtitle { color: #6c757d; margin-bottom: 1.5rem; }
+    .summary { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-bottom: 2rem; }
+    .badge { padding: 0.4rem 0.75rem; border-radius: 0.5rem; color: #fff; font-weight: 600; font-size: 0.9rem;
+             text-decoration: none; }
+    section { margin-bottom: 2rem; }
+    h2 { font-size: 1.25rem; margin-bottom: 0.25rem; }
+    h2 .count { font-weight: 400; color: #6c757d; }
+    .section-desc { color: #6c757d; font-size: 0.85rem; margin-bottom: 0.75rem; }
+    .issue { background: #fff; border: 1px solid #dee2e6; border-radius: 0.5rem; padding: 0.75rem 1rem;
+             margin-bottom: 0.5rem; }
+    .issue-title { font-weight: 600; }
+    .issue-author { color: #6c757d; }
+    .issue-url { font-family: "SF Mono", SFMono-Regular, Menlo, monospace; font-size: 0.85rem;
+                 word-break: break-all; }
+    .issue-url a { color: #0d6efd; text-decoration: none; }
+    .issue-url a:hover { text-decoration: underline; }
+    .issue-detail { color: #dc3545; font-size: 0.85rem; }
+    .issue-meta { color: #6c757d; font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <h1>Site Health Check Report</h1>
+  <p class="subtitle"><%= h.(timestamp) %> &mdash; <%= total_checked %> sites checked, <%= issues.size %> issues found</p>
+
+  <div class="summary">
+<% sections.each do |kind, info| -%>
+<% next unless grouped[kind]&.any? -%>
+    <a href="#<%= kind %>" class="badge" style="background:<%= info[:color] %>"><%= h.(info[:heading]) %>: <%= grouped[kind].size %></a>
+<% end -%>
+  </div>
+
+<% sections.each do |kind, info| -%>
+<% next unless grouped[kind]&.any? -%>
+  <section id="<%= kind %>">
+    <h2 style="color:<%= info[:color] %>"><%= h.(info[:heading]) %> <span class="count">(<%= grouped[kind].size %>)</span></h2>
+    <p class="section-desc"><%= h.(info[:desc]) %></p>
+<% grouped[kind].each do |issue| -%>
+    <div class="issue">
+      <div><span class="issue-title"><%= h.(issue.title) %></span> <span class="issue-author">by <%= h.(issue.author) %></span></div>
+      <div class="issue-url"><%= h.(issue.field) %>: <a href="<%= h.(issue.url) %>" target="_blank"><%= h.(issue.url) %></a></div>
+      <div class="issue-detail"><%= h.(issue.detail) %></div>
+      <div class="issue-meta"><%= h.(issue.language) %> / <%= h.(issue.category) %></div>
+    </div>
+<% end -%>
+  </section>
+<% end -%>
+</body>
+</html>
