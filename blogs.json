@@ -4689,6 +4689,16 @@
             "author": "Mrugesh Tank, Pulkit Vora",
             "site_url": "https://idiotswithios.com",
             "feed_url": "https://idiotswithios.com/feed/"
+          },
+          {
+            "title": "Khan Winter's Blog",
+            "author": "Khan Winter",
+            "site_url": "https://khanwinter.com",
+            "feed_url": "https://khanwinter.com/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/khanwinter.com",
+            "x_url": "https://x.com/thecoolwinter",
+            "github_url": "https://github.com/thecoolwinter",
+            "linkedin_url": "https://www.linkedin.com/in/thecoolwinter"
           }
         ]
       },
