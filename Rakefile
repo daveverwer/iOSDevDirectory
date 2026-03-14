@@ -9,7 +9,9 @@ namespace :validate do
   task :json do
     JSON::Validator.validate!('schema_blogs.json', 'blogs.json')
   end
+end
 
+namespace :healthcheck do
   desc "Look for redirects in the site or feed URLs"
   task :redirects do
     file = File.read('blogs.json')
@@ -21,28 +23,50 @@ namespace :validate do
             response = Faraday.head(site[field])
 
             if response.status.between?(300, 399)
-              new_uri = URI(response.headers['location'])
+              new_uri = URI.parse(response.headers['location'])
 
               # There are lots of incorrect redirects for YouTube channels.
               next if new_uri.host == 'consent.youtube.com'
 
               unless new_uri.is_a?(URI::HTTP) || new_uri.is_a?(URI::HTTPS)
                 path = new_uri.path
-                new_uri = URI(site[field])
+                new_uri = URI.parse(site[field])
                 new_uri.path = path
               end
 
               puts "HTTP #{response.status} for #{site['title']}", site[field], new_uri, "\n"
               site[field] = new_uri.to_s
             end
-          rescue Faraday::Error
-            # Ignore connection errors and 404s
+          rescue Faraday::Error, URI::InvalidURIError
+            # Ignore connection errors, 404s, and malformed redirect URIs
           end
         end
       end
     end
 
-    File.write('new_blogs.json', JSON.pretty_generate(data))
+    File.write(ENV.fetch('OUTPUT', 'blogs.json'), JSON.pretty_generate(data))
+  end
+
+  desc 'Check for dead X/Twitter profiles'
+  task :x_urls do
+    require_relative 'lib/x_profile_checker'
+
+    issues, total = XProfileChecker.check('blogs.json')
+
+    File.write('x_profile_report.txt', XProfileChecker.render_text(issues, total))
+    File.write('x_profile_report.html', XProfileChecker.render_html(issues, total))
+    puts "Reports written to x_profile_report.{txt,html} (#{issues.size} issues found across #{total} profiles)"
+  end
+
+  desc 'Check for dead or broken sites and feeds'
+  task :sites do
+    require_relative 'lib/site_checker'
+
+    issues, total = SiteChecker.check('blogs.json')
+    html = SiteChecker.render_html(issues, total)
+
+    File.write('site_health_report.html', html)
+    puts "Report written to site_health_report.html (#{issues.size} issues found across #{total} sites)"
   end
 end
 
@@ -58,6 +82,6 @@ namespace :sort do
       end
     end
 
-    File.write('new_blogs.json', JSON.pretty_generate(data))
+    File.write(ENV.fetch('OUTPUT', 'blogs.json'), JSON.pretty_generate(data))
   end
 end

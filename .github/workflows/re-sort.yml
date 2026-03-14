@@ -5,19 +5,21 @@ on:
   schedule:
     - cron: "0 7 * * 2,3,5" # At 7:00am on Tuesday, Wednesday, and Friday
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   sort:
     name: Re-sort Blogs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
       - name: Re-sort Blogs
-        uses: mathiasvr/command-output@v2.0.0
-        with:
-          run: bundle exec rake sort:blogs
+        run: OUTPUT=new_blogs.json bundle exec rake sort:blogs
       - name: Check for Changes
         run: bash .github/check_for_changes.sh
         id: check
@@ -26,7 +28,7 @@ jobs:
         run: mv new_blogs.json blogs.json
       - name: Create Pull Request
         if: steps.check.outputs.changes == 'true'
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v8
         with:
           add-paths: |
             blogs.json

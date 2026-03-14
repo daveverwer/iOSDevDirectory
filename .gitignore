@@ -1,8 +1,18 @@
+# Temporary files
+new_blogs.json
+site_health_report.html
+x_profile_report.txt
+x_profile_report.html
+
 # macOS
 .DS_Store
 
 # Nova
 .nova
 
-new_blogs.json
+# JetBrains
 .idea
+
+# Claude Code
+.claude/
+CLAUDE.md
