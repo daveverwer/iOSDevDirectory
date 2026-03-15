@@ -2813,8 +2813,8 @@
             "microblog_url": "https://micro.blog/dirtyhenry"
           },
           {
-            "title": "Miguel Quinones’ Blog",
-            "author": "Miguel Quinones",
+            "title": "miqu.me",
+            "author": "Miguel Angel Quiñones",
             "site_url": "https://miqu.me",
             "feed_url": "https://miqu.me/atom.xml",
             "x_url": "https://x.com/miguelquinon"
@@ -2880,13 +2880,6 @@
             "site_url": "https://laurentbrusa.hashnode.dev",
             "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
             "mastodon_url": "https://iosdev.space/@multitudes"
-          },
-          {
-            "title": "miqu.me",
-            "author": "Miguel Angel Quiñones",
-            "site_url": "https://miqu.me",
-            "feed_url": "https://miqu.me/atom.xml",
-            "x_url": "https://x.com/miguelquinon"
           },
           {
             "title": "mobidevtalk, Learning through case study",
@@ -3983,13 +3976,6 @@
             "mastodon_url": "https://aus.social/@stuart"
           },
           {
-            "title": "Super Easy Apps",
-            "author": "Paul Solt",
-            "site_url": "https://blog.supereasyapps.com/",
-            "feed_url": "https://blog.supereasyapps.com/rss/",
-            "x_url": "https://x.com/paulsolt"
-          },
-          {
             "title": "Supersonicbyte",
             "author": "Mirza Ucanbarlic",
             "site_url": "https://supersonicbyte.com",
@@ -5047,13 +5033,6 @@
             "x_url": "https://x.com/chimehq"
           },
           {
-            "title": "Chris Marshall on Medium",
-            "author": "Chris Marshall",
-            "site_url": "https://chrismarshallny.medium.com/",
-            "feed_url": "https://medium.com/feed/@chrismarshallny",
-            "x_url": "https://x.com/ChrisMarshallNY"
-          },
-          {
             "title": "Code as Craft from Etsy",
             "author": "Etsy Engineering Team",
             "site_url": "https://www.etsy.com/codeascraft",
@@ -5414,7 +5393,7 @@
           },
           {
             "title": "Super Easy Apps",
-            "author": "Super Easy Apps Team",
+            "author": "Paul Solt",
             "site_url": "https://blog.supereasyapps.com/",
             "feed_url": "https://blog.supereasyapps.com/rss/",
             "x_url": "https://x.com/supereasyapps"
@@ -6405,13 +6384,6 @@
             "x_url": "https://x.com/eupmrt"
           },
           {
-            "title": "Eyüp Mert on Medium",
-            "author": "Eyüp Mert",
-            "site_url": "https://eupmrt.medium.com/",
-            "feed_url": "https://medium.com/feed/@eupmrt",
-            "x_url": "https://x.com/eupmrt"
-          },
-          {
             "title": "Gokhan Topcu on Medium",
             "author": "Gokhan Topcu",
             "site_url": "https://medium.com/@ifndefgt",
@@ -6423,13 +6395,6 @@
             "author": "Hüseyin Bagana",
             "site_url": "https://medium.com/@huseyinbagana",
             "feed_url": "https://medium.com/feed/@huseyinbagana"
-          },
-          {
-            "title": "Mehmet Kerem Keskin on Medium",
-            "author": "Mehmet Kerem Keskin",
-            "site_url": "https://medium.com/@mkeremkeskin",
-            "feed_url": "https://medium.com/feed/@mkeremkeskin",
-            "x_url": "https://x.com/mkeremkeskin"
           },
           {
             "title": "Mehmet Kerem Keskin on Medium",
