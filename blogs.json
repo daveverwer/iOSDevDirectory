@@ -1701,7 +1701,7 @@
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=developer",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=developer",
-            "mastodon_url": "https://mastodon.cloud/@ortwingentz",
+            "mastodon_url": "https://mastodon.social/@ortwingentz",
             "x_url": "https://x.com/ortwingentz"
           },
           {
@@ -3429,7 +3429,10 @@
             "author": "Jon Reid",
             "site_url": "https://qualitycoding.org/",
             "feed_url": "http://feeds.feedburner.com/qualitycoding",
-            "mastodon_url": "https://iosdev.space/@qcoding"
+            "bluesky_url": "https://bsky.app/profile/qualitycoding.org",
+            "mastodon_url": "https://iosdev.space/@qcoding",
+            "github_url": "https://github.com/jonreid",
+            "linkedin_url": "https://www.linkedin.com/in/jonreid/"
           },
           {
             "title": "Race Condition",
@@ -4321,6 +4324,7 @@
             "author": "Tim Mitra",
             "site_url": "https://www.it-guy.com/wp-new/blog/",
             "feed_url": "https://www.it-guy.com/wp-new/feed/",
+            "bluesky_url": "https://bsky.app/profile/timmitra.bsky.social",
             "mastodon_url": "https://mastodon.social/@timmitra"
           },
           {
@@ -4665,6 +4669,22 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
+          },
+          {
+            "title": "idiots with iOS",
+            "author": "Mrugesh Tank, Pulkit Vora",
+            "site_url": "https://idiotswithios.com",
+            "feed_url": "https://idiotswithios.com/feed/"
+          },
+          {
+            "title": "Khan Winter's Blog",
+            "author": "Khan Winter",
+            "site_url": "https://khanwinter.com",
+            "feed_url": "https://khanwinter.com/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/khanwinter.com",
+            "x_url": "https://x.com/thecoolwinter",
+            "github_url": "https://github.com/thecoolwinter",
+            "linkedin_url": "https://www.linkedin.com/in/thecoolwinter"
           }
         ]
       },
@@ -4851,7 +4871,7 @@
             "author": "Ortwin Gentz",
             "site_url": "https://www.futuretap.com/blog?tag=app-marketing",
             "feed_url": "https://www.futuretap.com/category/blog/feed?tag=app-marketing",
-            "mastodon_url": "https://mastodon.cloud/@ortwingentz",
+            "mastodon_url": "https://mastodon.social/@ortwingentz",
             "x_url": "https://x.com/ortwingentz"
           },
           {
@@ -5582,8 +5602,7 @@
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "https://morethanjustcode.com",
-            "feed_url": "https://feeds.acast.com/public/shows/646bd59620e0700011d52174",
-            "x_url": "https://x.com/mtjc_podcast"
+            "feed_url": "https://feeds.acast.com/public/shows/646bd59620e0700011d52174"
           },
           {
             "title": "Race Condition",
@@ -5673,6 +5692,11 @@
             "site_url": "https://curatedios.substack.com",
             "feed_url": "https://curatedios.substack.com/feed",
             "x_url": "https://x.com/artjomsvorona"
+          },
+          {
+            "title": "diff visionOS",
+            "author": "Tim Mitra",
+            "site_url": "https://it-guy-technologies.kit.com"
           },
           {
             "title": "Fatbobman's Swift Weekly",
@@ -6047,9 +6071,12 @@
           {
             "title": "Quality Coding on YouTube",
             "author": "Jon Reid",
-            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "site_url": "https://www.youtube.com/@QualityCoding",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC69XtVGLRydpG7o1nkdQs8Q",
-            "x_url": "https://x.com/qcoding"
+            "bluesky_url": "https://bsky.app/profile/qualitycoding.org",
+            "mastodon_url": "https://iosdev.space/@qcoding",
+            "github_url": "https://github.com/jonreid",
+            "linkedin_url": "https://www.linkedin.com/in/jonreid/"
           },
           {
             "title": "Richard Topchii on YouTube",
@@ -6156,7 +6183,8 @@
             "title": "Tim Mitra (MTJC) on Youtube",
             "author": "Tim Mitra",
             "site_url": "https://www.youtube.com/timmitra",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpfyMBCEYh0CjsiKuFlJh3A"
+            "bluesky_url": "https://bsky.app/profile/timmitra.bsky.social",
+            "mastodon_url": "https://mastodon.social/@timmitra"
           },
           {
             "title": "Tom Baranowicz",
@@ -6256,7 +6284,10 @@
             "author": "Jon Reid",
             "site_url": "https://www.twitch.tv/qcoding",
             "feed_url": "https://twitchrss.appspot.com/vod/qcoding",
-            "mastodon_url": "https://iosdev.space/@qcoding"
+            "bluesky_url": "https://bsky.app/profile/qualitycoding.org",
+            "mastodon_url": "https://iosdev.space/@qcoding",
+            "github_url": "https://github.com/jonreid",
+            "linkedin_url": "https://www.linkedin.com/in/jonreid/"
           },
           {
             "title": "subdigital on Twitch",
@@ -6704,6 +6735,15 @@
             "site_url": "https://huangshihting.works/blog/",
             "feed_url": "https://huangshihting.works/blog/rss/",
             "x_url": "https://x.com/KoromikoNeo"
+          },
+          {
+            "title": "13+",
+            "author": "Ethan Huang",
+            "site_url": "https://ethanhuang13.plus",
+            "feed_url": "https://ethanhuang13.plus/rss/",
+            "threads_url": "https://www.threads.net/@ethanhuang13",
+            "x_url": "https://x.com/ethanhuang13",
+            "github_url": "https://github.com/ethanhuang13"
           }
         ]
       }
