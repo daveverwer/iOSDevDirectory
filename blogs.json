@@ -2678,7 +2678,10 @@
             "author": "Matt Massicotte",
             "site_url": "https://www.massicotte.org/",
             "feed_url": "https://www.massicotte.org/atom.xml",
-            "x_url": "https://x.com/mattie"
+            "bluesky_url": "https://bsky.app/profile/massicotte.org",
+            "mastodon_url": "https://mastodon.social/@mattiem",
+            "github_url": "https://github.com/mattmassicotte",
+            "linkedin_url": "https://www.linkedin.com/in/mattmassicotte/"
           },
           {
             "title": "Matt Reagan's Blog",
