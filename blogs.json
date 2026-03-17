@@ -2039,6 +2039,13 @@
             "feed_url": "https://newcombe.io/tag/ios/feed/",
             "x_url": "https://x.com/jacknewc"
           },
+          { 
+            "title": "It's Just Text Files, People",
+            "author": "Jacob Van Order",
+            "site_url": "https://jacobvanorder.github.io",
+            "feed_url": "https://jacobvanorder.github.io/feed.xml",
+            "mastodon_url": "https://mastodon.social/@jacobvo"
+          },
           {
             "title": "Jacob Zivan Design",
             "author": "Jacob Zivan Rakidzich",
