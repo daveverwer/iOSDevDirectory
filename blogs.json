@@ -2060,6 +2060,15 @@
             "github_url": "https://github.com/sharpfive"
           },
           {
+            "title": "Jakub Milcarz's blog",
+            "author": "Jakub Milcarz",
+            "site_url": "https://medium.com/@kubamilcarz",
+            "feed_url": "https://medium.com/feed/@kubamilcarz",
+            "threads_url": "https://www.threads.com/@kuba.milcarz",
+            "github_url": "https://github.com/kubamilcarz",
+            "linkedin_url": "https://www.linkedin.com/in/kubamilcarz/"
+          },
+          {
             "title": "James Dempsey’s Blog",
             "author": "James Dempsey",
             "site_url": "https://jamesdempsey.net",
