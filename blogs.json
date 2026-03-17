@@ -1903,6 +1903,12 @@
             "x_url": "https://x.com/IanKay"
           },
           {
+            "title": "idiots with iOS",
+            "author": "Mrugesh Tank, Pulkit Vora",
+            "site_url": "https://idiotswithios.com",
+            "feed_url": "https://idiotswithios.com/feed/"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "https://ignorethecode.net/blog/",
@@ -2314,6 +2320,16 @@
             "author": "Kent Humphries",
             "site_url": "https://kenthumphries.github.io",
             "feed_url": "https://kenthumphries.github.io/feed.xml"
+          },
+          {
+            "title": "Khan Winter's Blog",
+            "author": "Khan Winter",
+            "site_url": "https://khanwinter.com",
+            "feed_url": "https://khanwinter.com/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/khanwinter.com",
+            "x_url": "https://x.com/thecoolwinter",
+            "github_url": "https://github.com/thecoolwinter",
+            "linkedin_url": "https://www.linkedin.com/in/thecoolwinter"
           },
           {
             "title": "Khawer Khaliq’s Blog",
@@ -2816,13 +2832,6 @@
             "microblog_url": "https://micro.blog/dirtyhenry"
           },
           {
-            "title": "miqu.me",
-            "author": "Miguel Angel Quiñones",
-            "site_url": "https://miqu.me",
-            "feed_url": "https://miqu.me/atom.xml",
-            "x_url": "https://x.com/miguelquinon"
-          },
-          {
             "title": "Mihaela MJ's Blog",
             "author": "Mihaela MJ",
             "site_url": "https://aleahim.com",
@@ -2883,6 +2892,13 @@
             "site_url": "https://laurentbrusa.hashnode.dev",
             "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
             "mastodon_url": "https://iosdev.space/@multitudes"
+          },
+          {
+            "title": "miqu.me",
+            "author": "Miguel Angel Quiñones",
+            "site_url": "https://miqu.me",
+            "feed_url": "https://miqu.me/atom.xml",
+            "x_url": "https://x.com/miguelquinon"
           },
           {
             "title": "mobidevtalk, Learning through case study",
@@ -4672,22 +4688,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
-          },
-          {
-            "title": "idiots with iOS",
-            "author": "Mrugesh Tank, Pulkit Vora",
-            "site_url": "https://idiotswithios.com",
-            "feed_url": "https://idiotswithios.com/feed/"
-          },
-          {
-            "title": "Khan Winter's Blog",
-            "author": "Khan Winter",
-            "site_url": "https://khanwinter.com",
-            "feed_url": "https://khanwinter.com/feed.rss",
-            "bluesky_url": "https://bsky.app/profile/khanwinter.com",
-            "x_url": "https://x.com/thecoolwinter",
-            "github_url": "https://github.com/thecoolwinter",
-            "linkedin_url": "https://www.linkedin.com/in/thecoolwinter"
           }
         ]
       },
@@ -6726,6 +6726,15 @@
         "description": "來自台灣的Swift、Objective-C開發者，我們討論架構、語法、應用、與任何跟iOS開發相關的主題",
         "sites": [
           {
+            "title": "13+",
+            "author": "Ethan Huang",
+            "site_url": "https://ethanhuang13.plus",
+            "feed_url": "https://ethanhuang13.plus/rss/",
+            "threads_url": "https://www.threads.net/@ethanhuang13",
+            "x_url": "https://x.com/ethanhuang13",
+            "github_url": "https://github.com/ethanhuang13"
+          },
+          {
             "title": "13’s Blog",
             "author": "Ethan Huang",
             "site_url": "https://13h.tw",
@@ -6738,15 +6747,6 @@
             "site_url": "https://huangshihting.works/blog/",
             "feed_url": "https://huangshihting.works/blog/rss/",
             "x_url": "https://x.com/KoromikoNeo"
-          },
-          {
-            "title": "13+",
-            "author": "Ethan Huang",
-            "site_url": "https://ethanhuang13.plus",
-            "feed_url": "https://ethanhuang13.plus/rss/",
-            "threads_url": "https://www.threads.net/@ethanhuang13",
-            "x_url": "https://x.com/ethanhuang13",
-            "github_url": "https://github.com/ethanhuang13"
           }
         ]
       }
