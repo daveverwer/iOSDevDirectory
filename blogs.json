@@ -2019,6 +2019,15 @@
             "mastodon_url": "https://mastodon.social/@jacobvo"
           },
           {
+            "title": "Ivan Magda's Blog",
+            "author": "Ivan Magda",
+            "site_url": "https://ivanmagda.dev",
+            "feed_url": "https://ivanmagda.dev/rss.xml",
+            "x_url": "https://x.com/magda_ivan",
+            "github_url": "https://github.com/ivan-magda",
+            "linkedin_url": "https://www.linkedin.com/in/ivanmagda"
+          },
+          {
             "title": "Ivan: Thinking",
             "author": "Ivan Tse",
             "site_url": "https://ivanthinking.net/tags/ios-development/",
