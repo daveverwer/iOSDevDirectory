@@ -4731,6 +4731,17 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
+          },
+          {
+            "title": "Thorsten Stark's Blog",
+            "author": "Thorsten Stark",
+            "site_url": "https://thorsten-stark.de/",
+            "feed_url": "https://thorsten-stark.de/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/thostark.bsky.social",
+            "mastodon_url": "https://iosdev.space/@Tho_stark",
+            "threads_url": "https://www.threads.com/@tcylox",
+            "github_url": "https://github.com/thorstenstark",
+            "linkedin_url": "https://www.linkedin.com/in/thorsten-stark-857a4436"
           }
         ]
       },
