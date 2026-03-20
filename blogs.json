@@ -1903,6 +1903,12 @@
             "x_url": "https://x.com/IanKay"
           },
           {
+            "title": "idiots with iOS",
+            "author": "Mrugesh Tank, Pulkit Vora",
+            "site_url": "https://idiotswithios.com",
+            "feed_url": "https://idiotswithios.com/feed/"
+          },
+          {
             "title": "ignore the code",
             "author": "Lukas Mathis",
             "site_url": "https://ignorethecode.net/blog/",
@@ -2006,6 +2012,22 @@
             "x_url": "https://x.com/stevemykytyn"
           },
           {
+            "title": "It's Just Text Files, People",
+            "author": "Jacob Van Order",
+            "site_url": "https://jacobvanorder.github.io",
+            "feed_url": "https://jacobvanorder.github.io/feed.xml",
+            "mastodon_url": "https://mastodon.social/@jacobvo"
+          },
+          {
+            "title": "Ivan Magda's Blog",
+            "author": "Ivan Magda",
+            "site_url": "https://ivanmagda.dev",
+            "feed_url": "https://ivanmagda.dev/rss.xml",
+            "x_url": "https://x.com/magda_ivan",
+            "github_url": "https://github.com/ivan-magda",
+            "linkedin_url": "https://www.linkedin.com/in/ivanmagda"
+          },
+          {
             "title": "Ivan: Thinking",
             "author": "Ivan Tse",
             "site_url": "https://ivanthinking.net/tags/ios-development/",
@@ -2052,6 +2074,15 @@
             "feed_url": "https://jaimzuber.com/feed.xml",
             "mastodon_url": "https://mspsocial.net/@jaimzuber",
             "github_url": "https://github.com/sharpfive"
+          },
+          {
+            "title": "Jakub Milcarz's blog",
+            "author": "Jakub Milcarz",
+            "site_url": "https://medium.com/@kubamilcarz",
+            "feed_url": "https://medium.com/feed/@kubamilcarz",
+            "threads_url": "https://www.threads.com/@kuba.milcarz",
+            "github_url": "https://github.com/kubamilcarz",
+            "linkedin_url": "https://www.linkedin.com/in/kubamilcarz/"
           },
           {
             "title": "James Dempsey’s Blog",
@@ -2263,6 +2294,17 @@
             "x_url": "https://x.com/jury"
           },
           {
+            "title": "Nikita Vasilev's Blog",
+            "author": "Nikita Vasilev",
+            "site_url": "https://nsvasilev.com/",
+            "feed_url": "https://nsvasilev.com/rss.xml",
+            "x_url": "https://x.com/ns_vasilev",
+            "github_url": "https://github.com/ns-vasilev",
+            "linkedin_url": "https://www.linkedin.com/in/n-vasilev/",
+            "mastodon_url": "https://mastodon.social/@nsvasilev",
+            "bluesky_url": "https://bsky.app/profile/nsvasilev.bsky.social"
+          },
+          {
             "title": "Kamil Buczel's Blog",
             "author": "Kamil Buczel",
             "site_url": "https://buczel.com/blog/",
@@ -2314,6 +2356,16 @@
             "author": "Kent Humphries",
             "site_url": "https://kenthumphries.github.io",
             "feed_url": "https://kenthumphries.github.io/feed.xml"
+          },
+          {
+            "title": "Khan Winter's Blog",
+            "author": "Khan Winter",
+            "site_url": "https://khanwinter.com",
+            "feed_url": "https://khanwinter.com/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/khanwinter.com",
+            "x_url": "https://x.com/thecoolwinter",
+            "github_url": "https://github.com/thecoolwinter",
+            "linkedin_url": "https://www.linkedin.com/in/thecoolwinter"
           },
           {
             "title": "Khawer Khaliq’s Blog",
@@ -2390,6 +2442,13 @@
             "site_url": "https://ldomaradzki.com",
             "feed_url": "https://ldomaradzki.com/atom.xml",
             "x_url": "https://x.com/ldomaradzki"
+          },
+          {
+            "title": "Lebedev on iOS & Swift",
+            "author": "Yury Lebedev",
+            "site_url": "https://quasaryy.medium.com",
+            "feed_url": "https://quasaryy.medium.com/feed",
+            "linkedin_url": "https://www.linkedin.com/in/yury-lebedev-159507286/"
           },
           {
             "title": "Leonardo Diaz's Blog",
@@ -2678,7 +2737,10 @@
             "author": "Matt Massicotte",
             "site_url": "https://www.massicotte.org/",
             "feed_url": "https://www.massicotte.org/atom.xml",
-            "x_url": "https://x.com/mattie"
+            "bluesky_url": "https://bsky.app/profile/massicotte.org",
+            "mastodon_url": "https://mastodon.social/@mattiem",
+            "github_url": "https://github.com/mattmassicotte",
+            "linkedin_url": "https://www.linkedin.com/in/mattmassicotte/"
           },
           {
             "title": "Matt Reagan's Blog",
@@ -2813,13 +2875,6 @@
             "microblog_url": "https://micro.blog/dirtyhenry"
           },
           {
-            "title": "miqu.me",
-            "author": "Miguel Angel Quiñones",
-            "site_url": "https://miqu.me",
-            "feed_url": "https://miqu.me/atom.xml",
-            "x_url": "https://x.com/miguelquinon"
-          },
-          {
             "title": "Mihaela MJ's Blog",
             "author": "Mihaela MJ",
             "site_url": "https://aleahim.com",
@@ -2880,6 +2935,13 @@
             "site_url": "https://laurentbrusa.hashnode.dev",
             "feed_url": "https://laurentbrusa.hashnode.dev/rss.xml",
             "mastodon_url": "https://iosdev.space/@multitudes"
+          },
+          {
+            "title": "miqu.me",
+            "author": "Miguel Angel Quiñones",
+            "site_url": "https://miqu.me",
+            "feed_url": "https://miqu.me/atom.xml",
+            "x_url": "https://x.com/miguelquinon"
           },
           {
             "title": "mobidevtalk, Learning through case study",
@@ -4669,22 +4731,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
-          },
-          {
-            "title": "idiots with iOS",
-            "author": "Mrugesh Tank, Pulkit Vora",
-            "site_url": "https://idiotswithios.com",
-            "feed_url": "https://idiotswithios.com/feed/"
-          },
-          {
-            "title": "Khan Winter's Blog",
-            "author": "Khan Winter",
-            "site_url": "https://khanwinter.com",
-            "feed_url": "https://khanwinter.com/feed.rss",
-            "bluesky_url": "https://bsky.app/profile/khanwinter.com",
-            "x_url": "https://x.com/thecoolwinter",
-            "github_url": "https://github.com/thecoolwinter",
-            "linkedin_url": "https://www.linkedin.com/in/thecoolwinter"
           }
         ]
       },
@@ -6723,6 +6769,15 @@
         "description": "來自台灣的Swift、Objective-C開發者，我們討論架構、語法、應用、與任何跟iOS開發相關的主題",
         "sites": [
           {
+            "title": "13+",
+            "author": "Ethan Huang",
+            "site_url": "https://ethanhuang13.plus",
+            "feed_url": "https://ethanhuang13.plus/rss/",
+            "threads_url": "https://www.threads.net/@ethanhuang13",
+            "x_url": "https://x.com/ethanhuang13",
+            "github_url": "https://github.com/ethanhuang13"
+          },
+          {
             "title": "13’s Blog",
             "author": "Ethan Huang",
             "site_url": "https://13h.tw",
@@ -6735,15 +6790,6 @@
             "site_url": "https://huangshihting.works/blog/",
             "feed_url": "https://huangshihting.works/blog/rss/",
             "x_url": "https://x.com/KoromikoNeo"
-          },
-          {
-            "title": "13+",
-            "author": "Ethan Huang",
-            "site_url": "https://ethanhuang13.plus",
-            "feed_url": "https://ethanhuang13.plus/rss/",
-            "threads_url": "https://www.threads.net/@ethanhuang13",
-            "x_url": "https://x.com/ethanhuang13",
-            "github_url": "https://github.com/ethanhuang13"
           }
         ]
       }
