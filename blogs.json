@@ -346,6 +346,13 @@
             "x_url": "https://x.com/vixentael"
           },
           {
+            "title": "Andre Vini Dev's Blog",
+            "author": "Andre Nogueira",
+            "site_url": "https://andrevini.dev/blog",
+            "feed_url": "https://andrevini.dev/feed.xml",
+            "x_url": "https://x.com/andrenogvini"
+          },
+          {
             "title": "Andrea Stevanato on Medium",
             "author": "Andrea Stevanato",
             "site_url": "https://medium.com/@andr3a88",
