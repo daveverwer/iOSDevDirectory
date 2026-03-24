@@ -2301,17 +2301,6 @@
             "x_url": "https://x.com/jury"
           },
           {
-            "title": "Nikita Vasilev's Blog",
-            "author": "Nikita Vasilev",
-            "site_url": "https://www.nsvasilev.com/",
-            "feed_url": "https://www.nsvasilev.com/rss.xml",
-            "x_url": "https://x.com/ns_vasilev",
-            "github_url": "https://github.com/ns-vasilev",
-            "linkedin_url": "https://www.linkedin.com/in/n-vasilev/",
-            "mastodon_url": "https://mastodon.social/@nsvasilev",
-            "bluesky_url": "https://bsky.app/profile/nsvasilev.bsky.social"
-          },
-          {
             "title": "Kamil Buczel's Blog",
             "author": "Kamil Buczel",
             "site_url": "https://buczel.com/blog/",
@@ -3105,6 +3094,17 @@
             "author": "Nikita Rodionov",
             "site_url": "https://medium.com/@proudofziggy",
             "feed_url": "https://medium.com/feed/@proudofziggy"
+          },
+          {
+            "title": "Nikita Vasilev's Blog",
+            "author": "Nikita Vasilev",
+            "site_url": "https://www.nsvasilev.com/",
+            "feed_url": "https://www.nsvasilev.com/rss.xml",
+            "x_url": "https://x.com/ns_vasilev",
+            "github_url": "https://github.com/ns-vasilev",
+            "linkedin_url": "https://www.linkedin.com/in/n-vasilev/",
+            "mastodon_url": "https://mastodon.social/@nsvasilev",
+            "bluesky_url": "https://bsky.app/profile/nsvasilev.bsky.social"
           },
           {
             "title": "Nikolay Fiantsev on Medium",
@@ -4347,6 +4347,17 @@
             "x_url": "https://x.com/Dimillian"
           },
           {
+            "title": "Thorsten Stark's Blog",
+            "author": "Thorsten Stark",
+            "site_url": "https://thorsten-stark.de/",
+            "feed_url": "https://thorsten-stark.de/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/thostark.bsky.social",
+            "mastodon_url": "https://iosdev.space/@Tho_stark",
+            "threads_url": "https://www.threads.com/@tcylox",
+            "github_url": "https://github.com/thorstenstark",
+            "linkedin_url": "https://www.linkedin.com/in/thorsten-stark-857a4436"
+          },
+          {
             "title": "Those Who Swift",
             "author": "Justas Markus, Anton Gubarenko",
             "site_url": "https://thosewhoswift.substack.com/",
@@ -4738,17 +4749,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
-          },
-          {
-            "title": "Thorsten Stark's Blog",
-            "author": "Thorsten Stark",
-            "site_url": "https://thorsten-stark.de/",
-            "feed_url": "https://thorsten-stark.de/feed.rss",
-            "bluesky_url": "https://bsky.app/profile/thostark.bsky.social",
-            "mastodon_url": "https://iosdev.space/@Tho_stark",
-            "threads_url": "https://www.threads.com/@tcylox",
-            "github_url": "https://github.com/thorstenstark",
-            "linkedin_url": "https://www.linkedin.com/in/thorsten-stark-857a4436"
           }
         ]
       },
