@@ -6647,7 +6647,9 @@
             "author": "Vincent Tourraine",
             "site_url": "https://www.vtourraine.net/blog/tags/dev",
             "feed_url": "https://www.vtourraine.net/blog/feed.xml",
-            "x_url": "https://x.com/vtourraine"
+            "mastodon_url": "https://techhub.social/@vtourraine",
+            "github_url": "https://www.github.com/vtourraine",
+            "linkedin_url": "https://fr.linkedin.com/pub/vincent-tourraine/18/b97/419"
           },
           {
             "title": "Blog de Walid SASSI",
