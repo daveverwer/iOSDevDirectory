@@ -1214,7 +1214,10 @@
             "site_url": "https://darrylbayliss.net",
             "feed_url": "https://www.darrylbayliss.net/feeds/ios.xml",
             "mastodon_url": "https://mastodon.social/@darryl_bayliss",
-            "x_url": "https://x.com/darryl_bayliss"
+            "x_url": "https://x.com/darryl_bayliss",
+            "bluesky_url": "https://bsky.app/profile/darrylbayliss.bsky.social",
+            "github_url": "https://github.com/DarrylBayliss",
+            "linkedin_url": "https://www.linkedin.com/in/darrylbayliss/"
           },
           {
             "title": "Dasdom Dev Blog",
