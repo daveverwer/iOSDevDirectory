@@ -83,8 +83,8 @@
           {
             "title": "Drowsy Days Blog",
             "author": "Michael Gruenthal",
-            "site_url": "https://drowsydays.com/Drowsy-Days-blog",
-            "feed_url": "https://drowsydays.com/Drowsy-Days-blog/rss.xml",
+            "site_url": "https://www.drowsydays.com/Drowsy-Days-blog",
+            "feed_url": "https://www.drowsydays.com/Drowsy-Days-blog/rss.xml",
             "linkedin_url": "https://www.linkedin.com/in/michael-gruenthal-24a58aba/"
           },
           {
@@ -1676,7 +1676,7 @@
             "title": "FlineDev",
             "author": "Cihat Gündüz",
             "site_url": "https://fline.dev/",
-            "feed_url": "https://fline.dev/rss/",
+            "feed_url": "https://fline.dev/feed.xml",
             "mastodon_url": "https://iosdev.space/@Jeehut",
             "x_url": "https://x.com/Jeehut"
           },
@@ -3671,8 +3671,8 @@
           {
             "title": "Roland Leth’s Blog",
             "author": "Roland Leth",
-            "site_url": "https://rolandleth.com",
-            "feed_url": "https://rolandleth.com/feed",
+            "site_url": "https://www.rolandleth.com/",
+            "feed_url": "https://www.rolandleth.com/feed",
             "x_url": "https://x.com/rolandleth"
           },
           {
