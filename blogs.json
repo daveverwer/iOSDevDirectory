@@ -81,13 +81,6 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
-            "title": "Drowsy Days Blog",
-            "author": "Michael Gruenthal",
-            "site_url": "https://www.drowsydays.com/Drowsy-Days-blog",
-            "feed_url": "https://www.drowsydays.com/Drowsy-Days-blog/rss.xml",
-            "linkedin_url": "https://www.linkedin.com/in/michael-gruenthal-24a58aba/"
-          },
-          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://journal.gaelfoppolo.com",
@@ -1485,6 +1478,13 @@
             "site_url": "https://drewmccormack.medium.com/",
             "feed_url": "https://medium.com/feed/@drewmccormack",
             "x_url": "https://x.com/drewmccormack"
+          },
+          {
+            "title": "Drowsy Days Blog",
+            "author": "Michael Gruenthal",
+            "site_url": "https://www.drowsydays.com/Drowsy-Days-blog",
+            "feed_url": "https://www.drowsydays.com/Drowsy-Days-blog/rss.xml",
+            "linkedin_url": "https://www.linkedin.com/in/michael-gruenthal-24a58aba/"
           },
           {
             "title": "Dušan Tadić’s Blog",
