@@ -1482,7 +1482,7 @@
           {
             "title": "Drowsy Days Blog",
             "author": "Michael Gruenthal",
-            "site_url": "https://www.drowsydays.com/Drowsy-Days-blog",
+            "site_url": "https://www.drowsydays.com/Drowsy-Days-blog/",
             "feed_url": "https://www.drowsydays.com/Drowsy-Days-blog/rss.xml",
             "linkedin_url": "https://www.linkedin.com/in/michael-gruenthal-24a58aba/"
           },
@@ -4033,7 +4033,7 @@
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
             "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/rss/",
+            "feed_url": "https://stuartbreckenridge.net/rss.xml",
             "mastodon_url": "https://indieweb.social/@stuarticus"
           },
           {
