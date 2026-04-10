@@ -1851,6 +1851,16 @@
             "x_url": "https://x.com/Harshil"
           },
           {
+            "title": "HavenApps Blog",
+            "author": "HavenApps",
+            "site_url": "https://havenapps.net/",
+            "feed_url": "https://havenapps.net/tags/development/atom.xml",
+            "x_url": "https://x.com/havenapps",
+            "mastodon_url": "https://mastodon.social/@havenapps",
+            "bluesky_url": "https://bsky.app/profile/havenapps.net",
+            "github_url": "https://github.com/Haven-Apps",
+          },
+          {
             "title": "Hesham Abd-Elmegid’s Blog",
             "author": "Hesham Abd-Elmegid",
             "site_url": "https://hesh.am",
