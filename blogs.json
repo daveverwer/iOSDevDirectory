@@ -6918,7 +6918,7 @@
             "author": "Nicolo Stanciu, Holger Krupp & Cihat Gündüz",
             "site_url": "https://appstore-tagebuch.de",
             "mastodon_url": "https://iosdev.space/@AppTagebuch@podcasts.social",
-            "feed_url": "https://appstore-tagebuch.de/feed/",
+            "feed_url": "https://appstore-tagebuch.de/podcast.xml",
             "x_url": "https://x.com/AppTagebuch"
           }
         ]
