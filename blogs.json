@@ -5196,6 +5196,11 @@
             "x_url": "https://x.com/emergetools"
           },
           {
+            "title": "Eternal Blog",
+            "author": "Eternal Team",
+            "site_url": "https://www.eternal.com/blogs/"
+          },
+          {
             "title": "Eternal Storms Software Blog",
             "author": "Matthias Gansrigler",
             "site_url": "https://blog.eternalstorms.at",
@@ -5579,11 +5584,6 @@
             "site_url": "https://www.waldo.com/blog",
             "feed_url": "https://www.waldo.com/blog/rss.xml",
             "x_url": "https://x.com/UseWaldo"
-          },
-          {
-            "title": "Eternal Blog",
-            "author": "Eternal Team",
-            "site_url": "https://www.eternal.com/blogs/"
           }
         ]
       },
