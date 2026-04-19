@@ -6545,11 +6545,34 @@
             "x_url": "https://x.com/NS_Istanbul"
           },
           {
+            "title": "Uğur Kılıç Blog",
+            "author": "Uğur Kılıç",
+            "site_url": "https://urklc.github.io",
+            "feed_url": "https://urklc.github.io/feed.xml",
+            "x_url": "https://x.com/urklc_",
+            "github_url": "https://github.com/urklc"
+          },
+          {
             "title": "Varol Aksoy on HashNode",
             "author": "Varol Aksoy",
             "site_url": "https://varol.hashnode.dev",
             "feed_url": "https://varol.hashnode.dev/rss.xml",
             "x_url": "https://x.com/aksoy"
+          }
+        ]
+      },
+      {
+        "title": "YouTube Kanalları",
+        "slug": "youtube",
+        "description": "Apple platform geliştirme ile ilgili çeşitli konuları kapsayan YouTube kanalları.",
+        "sites": [
+          {
+            "title": "Uğur Kılıç",
+            "author": "Uğur Kılıç",
+            "site_url": "https://www.youtube.com/channel/UCIiOaW6cJYkIF2ZdBpAAYUg",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIiOaW6cJYkIF2ZdBpAAYUg",
+            "x_url": "https://x.com/urklc_",
+            "github_url": "https://github.com/urklc"
           }
         ]
       }
