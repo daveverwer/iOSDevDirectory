@@ -2882,10 +2882,14 @@
           },
           {
             "title": "Mihaela MJ's Blog",
-            "author": "Mihaela MJ",
+            "author": "Mihaela Mihaljević Jakić",
             "site_url": "https://aleahim.com",
             "feed_url": "https://aleahim.com/rss.xml",
-            "x_url": "https://x.com/civeljahim"
+            "x_url": "https://x.com/diyamantina",
+            "bluesky_url": "https://bsky.app/profile/dijamantina.bsky.social",
+            "mastodon_url": "https://mastodon.social/@ameahim",
+            "github_url": "https://github.com/mihaelamj",
+            "linkedin_url": "https://www.linkedin.com/in/mihaelamj/"
           },
           {
             "title": "Mike Mikina’s Blog",
