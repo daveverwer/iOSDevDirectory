@@ -100,12 +100,6 @@
             "feed_url": "https://skyaaron.com/posts/index.xml"
           },
           {
-            "title": "Detlev Voss' Blog",
-            "author": "Detlev Voss",
-            "site_url": "https://apps.advoss.de/en/blog.html",
-            "feed_url": "https://apps.advoss.de/en/blog/feed.xml"
-          },
-          {
             "title": "ackermann.io",
             "author": "Ryan Ackermann",
             "site_url": "https://ackermann.io",
@@ -1352,6 +1346,12 @@
             "site_url": "https://rderik.com",
             "feed_url": "https://rderik.com/feed.xml",
             "x_url": "https://x.com/rderik"
+          },
+          {
+            "title": "Detlev Voss' Blog",
+            "author": "Detlev Voss",
+            "site_url": "https://apps.advoss.de/en/blog.html",
+            "feed_url": "https://apps.advoss.de/en/blog/feed.xml"
           },
           {
             "title": "Deurell Labs Blog",
